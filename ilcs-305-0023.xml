@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-23"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-23"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-23"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-23/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-23/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-23/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-23/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_23">
+          <num>305 ILCS 23/</num>
+          <heading>Illinois Broadband Adoption Fund Act</heading>
+          <section eId="sec_305-23-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Illinois Broadband Adoption Fund Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-23-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act: "Broadband Internet" means lines or wireless channels that terminate at an end-user location and enable the end-user to receive a minimum service level of 25 megabits per second download speed and 3 megabits per second upload speed. "Covered agencies" means those social service agencies receiving State or federal funds to assist persons eligible under the Illinois Broadband Adoption Program. "Department" means the Department of Human Services. "Fund" refers to the Illinois Broadband Adoption Fund. "Provider" means a provider of broadband Internet in this State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-23-10">
+            <num>10</num>
+            <heading>Illinois Broadband Adoption Program</heading>
+            <content>
+              <p>The Illinois Broadband Adoption Program is established for the purpose of expanding availability of broadband Internet connectivity throughout the State by: (1) providing financial assistance to State residents to whom broadband Internet service is available, but who may require assistance to adopt or maintain service due to economic hardship; (2) promoting the adoption of home broadband Internet service by State residents; and (3) supporting digital skills training for State residents.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-23-15">
+            <num>15</num>
+            <heading>Illinois Broadband Adoption Fund</heading>
+            <subsection eId="sec_305-23-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Illinois Broadband Adoption Fund is established as a special fund within the State treasury for the purpose of providing financial assistance under this Act. The Department shall administer the fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-23-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The fund consists of:</p>
+              </content>
+              <paragraph eId="sec_305-23-15__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>money received through the federal American Rescue Plan and other vehicles designed to address and relieve economic hardship for State households;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-15__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>money appropriated by the General Assembly;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-15__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>money transferred to the fund under the Treasurer as Custodian of Funds Act; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-15__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>donations, gifts, and money received from any other source, including transfers from other funds or accounts.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-23-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Treasurer shall invest the money in the fund not currently needed to meet the obligations of the fund in the same manner as other public funds may be invested.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-23-20">
+            <num>20</num>
+            <heading>Application for financial assistance</heading>
+            <subsection eId="sec_305-23-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department may determine qualifications for broadband Internet provider participation and enter into an agreement with each provider under which the provider agrees to accept vouchers distributed by the Department under this Act as a form of payment for the provider's broadband Internet service.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In coordination with the covered agencies, the Department shall send information regarding the availability of financial assistance under this Act to each eligible family or person receiving the public assistance in Section</p>
+              </content>
+              <paragraph eId="sec_305-23-20__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and contact information of each provider who has entered into an agreement with the Department as described in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>whose broadband Internet service is available in their area; and</p>
+              </content>
+              <paragraph eId="sec_305-23-20__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>instructions for applying to the Department for financial assistance under this Section.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An individual who receives information under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>may apply for financial assistance under this Section in the manner specified by the Department. Upon receipt of an application, the Department shall determine:</p>
+              </content>
+              <paragraph eId="sec_305-23-20__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the applicant's eligibility for financial assistance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-20__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of financial assistance for which the applicant is eligible; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-20__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>whether the applicant is eligible for a single payment or a recurring payment of financial assistance, based on the Department's assessment of the applicant's need.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>An applicant for financial assistance under this Act is automatically eligible for financial assistance under this Act if:</p>
+              </content>
+              <paragraph eId="sec_305-23-20__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the applicant is receiving, or the applicant's household includes, an individual who is receiving benefits under: (A) the Temporary Assistance for Needy Families (TANF) program; (B) the federal Supplemental Nutrition Assistance Program (SNAP); or (C) the Medicaid program; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-20__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the applicant's household includes a child who is eligible for free or reduced-price lunch.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the Department determines under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>that an individual is eligible for financial assistance, or that the individual is eligible for financial assistance under subsection</p>
+              </content>
+              <paragraph eId="sec_305-23-20__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>fees charged by a broadband Internet provider for installation, activation, equipment purchase, Wi-Fi extenders, or other one-time expenses of providing broadband Internet service to the individual;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-20__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>monthly subscription fees charged by a broadband Internet provider for the provision of broadband Internet service to the individual household, including modem, router, or other service or equipment charges; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-23-20__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>overdue amounts owed to provider, including administrative fees and penalties. A voucher or similar designation of eligibility may be provided by the Department in printed or electronic form.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A provider that receives a voucher under this Section from an individual household who subscribes to the provider's broadband Internet service shall deduct the amount of the voucher from the amount owed by the subscriber for the provider's provision of broadband Internet service to the individual household on a monthly basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-23-20__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the fund does not receive an ongoing appropriation from the General Assembly, the Department shall provide a 90-day notice to participating households and broadband Internet providers that financial support will be discontinued.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-23-100">
+            <num>100</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 102-648, eff. 8-27-21; text omitted.) (305 ILCS 23/105)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-23-105">
+            <num>105</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 102-648, eff. 8-27-21; text omitted.) (305 ILCS 23/999)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-23-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-648, eff. 8-27-21.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

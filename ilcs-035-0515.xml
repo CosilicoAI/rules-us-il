@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-515"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-515"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-515"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-515/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-515/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-515/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-515/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_515">
+          <num>35 ILCS 515/</num>
+          <heading>Mobile Home Local Services Tax Act</heading>
+          <section eId="sec_35-515-1">
+            <num>1</num>
+            <heading>(a)  As used in this Act, "manufactured home" means a factory-assembled, completely integrated structure designed for permanent habitation, with a permanent chassis, and so constructed as to permit its transport, on wheels temporarily or permanently attached to its frame, and is a movable or portable unit that is (i) 8 body feet or more in width, (ii) 40 body feet or more in length, and (iii) 320 or more square feet, constructed to be towed on its own chassis (comprised of frame and wheels) from the place of its construction to the location, or subsequent locations, at which it is connected to utilities for year-round occupancy for use as a permanent habitation, and designed and situated so as to permit its occupancy as a dwelling place for one or more persons, and specifically includes a "manufactured home" as defined in subdivision (53) of Section 9-102 of the Uniform Commercial Code</heading>
+            <subsection eId="sec_35-515-1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Mobile homes and manufactured homes that</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-515-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>are located outside of mobile home parks and (ii) are taxed under this Act on the effective date of this amendatory Act of the 96th General Assembly must continue to be taxed under this Act and shall not be assessed and taxed as real property until the home is sold, transferred, or relocated to a different parcel of land outside of a mobile home park.  If a mobile home or manufactured home described in this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-515-1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>is sold, transferred, or relocated to a different parcel of land outside of a mobile home park, then the home must be assessed and taxed as real property whether or not the mobile home or manufactured home is affixed to a permanent foundation as defined in Section 5-5 of the Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act and whether or not the mobile home or manufactured home is real property as defined in Section 5-35 of the Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act.  Mobile homes and manufactured homes that are located outside of mobile home parks and assessed and taxed as real property on the effective date of this amendatory Act of the 96th General Assembly must continue to be assessed and taxed as real property whether or not the mobile homes and manufactured homes are affixed to a permanent foundation as defined in Section 5-5 of the Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act or installed on permanent foundations and whether or not the mobile homes and manufactured homes are real property as defined in Section 5-35 of the Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act.  If a mobile or manufactured home that is located outside of a mobile home park is relocated to a mobile home park, the home must be taxed according to the Mobile Home Local Services Tax Act.  The owner of a mobile home or manufactured home that is located outside of a mobile home park may file a request with the county that the home be assessed and taxed as real property.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-515-1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Mobile homes and manufactured homes that are located in mobile home parks must be taxed according to this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-749, eff. 7-16-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-2">
+            <num>2</num>
+            <heading>As used in this Act, the phrase "mobile home park" has the meaning
+ascribed to it by Section 2</heading>
+            <content>
+              <p>5 of "An Act to provide for, license and
+regulate mobile homes and mobile home parks and to repeal an Act named
+herein", approved September 8, 1971, as amended.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 78-375 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-3">
+            <num>3</num>
+            <heading>Mobile homes in addition to such taxes as provided in the "Use Tax Act"
+shall be subject to the following privilege tax only, and to no ad
+valorem tax</heading>
+            <content>
+              <p>Except as provided in Section 7 and in those cases where the owner notifies the local assessing authority, by sworn affidavit, that the mobile home is uninhabited and will no longer be used for human habitation, the owner of each 
+mobile home shall pay to the county treasurer of the county in which such
+mobile home is located an annual tax to be
+computed at the rate shown in the table below: TAX YEAR FOLLOWING MODEL YEAR          TAX PER SQUARE FOOT OF MOBILE HOME model year and 1st and 2nd year following:                               15¢ 3rd, 4th and 5th years following model year:                                 13.5¢ 6th, 7th and 8th years following model year:                                   12¢ 9th, 10th and 11th years following model year:                                 10.5¢ 12th, 13th and 14th years following model year:                                    9¢ 15th year following model year and subsequent years:                        7.5¢ For purposes of this Act, the square-footage shall be based upon the
+ outside dimensions of the mobile home excluding the length of the tongue
+and hitch.  The owner of a mobile home on January 1 of any year shall be
+liable for the tax of that year,
+except that the owner of a mobile home on July 1, 1976, shall be liable
+for the tax for the period of
+July 1, 1976, to December 31, 1976.
+This is not a limitation on any home rule county.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-606, eff. 8-16-05.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-4">
+            <num>4</num>
+            <heading>The owner of each inhabited mobile home or manufactured home located in this State, but not located inside of a mobile home park, on the
+effective date of this amendatory Act of the 96th General Assembly shall, within 30 days after such date, record with the Office of the Recorder in the county where the mobile home or manufactured home is located a mobile home
+registration form containing the information hereinafter specified, subject to the county's recording fees</heading>
+            <content>
+              <p>Mobile home
+park operators shall forward a copy of the mobile home registration form
+provided in Section 12 of "An Act to provide for, license and regulate mobile
+homes and mobile home parks and to repeal an Act named herein", approved
+September 8, 1971, as amended, to the township assessor, if any, or to
+Supervisor of Assessments or county assessor if there is no township assessor,
+or to the county assessor in those counties in which a county assessor is
+elected pursuant to Section 3-45 of the Property Tax Code, within 5 days of the entry of a mobile home into such
+park. The owner of a mobile home or manufactured home not located in a mobile home park, other than a mobile home or manufactured home with respect to which the requirements of Section 5-30 of the Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act and the requirements of Section 3-116.1 or Section 3-116.2 of the Illinois Vehicle Code, as applicable, have been satisfied unless with respect to the same manufactured home there has been recorded an affidavit of severance pursuant to Section 5-50 of the Conveyance and Encumbrance of Manufactured Homes as Real Property and Severance Act, shall,
+within 30 days after initial placement of such mobile home or manufactured home in any county and
+within 30 days after movement of such mobile home or manufactured home to a new location, record with the Office of the Recorder in the county where the mobile home or manufactured home is located a mobile home registration showing the name and address of the
+owner and every occupant of the mobile home or manufactured home, the location of the mobile home or manufactured home,
+the year of manufacture, and the square feet of floor space contained in such
+mobile home or manufactured home together with the date that the mobile home or manufactured home became inhabited, was
+initially installed and set up in the county, or was moved to a new location. Such
+registration shall also include the license number of such mobile home or manufactured home and of
+the towing vehicle, if there be any, and the State issuing such licenses, subject to the county's recording fees. In the case of a mobile home or manufactured home not located in a mobile home park, the
+registration shall be signed by the owner or occupant of the mobile home or manufactured home. Failure to record the registration shall not prevent the home from being assessed and taxed as real property. It is
+the duty of each township assessor, if any, and each Supervisor of Assessments
+or county assessor if there is no township assessor, or the county assessor in
+those counties in which a county assessor is elected pursuant to Section 3-45
+of the Property Tax Code, to require timely
+filing of a properly completed registration for each mobile home or manufactured home located in a mobile home park in his
+or her township or county, as the case may be. Any person furnishing misinformation
+for purposes of registration or failing to record a required registration is
+guilty of a Class A misdemeanor. This Section applies only when the tax
+permitted by Section 3 has been imposed on mobile homes and manufactured homes located inside mobile home parks.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-749, eff. 7-16-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-5">
+            <num>5</num>
+            <heading>The township assessor, county assessor or supervisor of assessments,
+within 7 days after filing of a registration, shall deliver such
+registration to the county clerk</heading>
+            <content>
+              <p>(Source: P.A. 78-375 .) (35 ILCS 515/6) (from Ch. 120, par. 1206)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 78-375 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-6">
+            <num>6</num>
+            <heading>Computation, certification, and distribution of tax</heading>
+            <content>
+              <p>Except as
+otherwise provided in this Section, within 60 days of
+receipt of each registration form, the county clerk or, in counties in
+which a county assessor is elected pursuant to Section 3-45 of the Property
+Tax Code, the county assessor shall compute
+the tax due, as provided in Section 3, and certify the tax to the county
+treasurer who shall mail the tax bill to the owner of such mobile home at the
+time he receives the certification or on the annual billing date, whichever
+occurs later. If the registration form is accompanied by a receipt for
+privilege taxes paid in Illinois for the current tax year, no further privilege
+tax shall be imposed for the remainder of the current tax year.  If the mobile
+home is initially harbored after the annual liability date, as provided in
+Section 3 of this Act, the county clerk or county assessor shall reduce such
+tax 1/12 for each month that has passed since such annual liability date.  A
+mobile home harbored after the first day of such month shall be considered
+to have been harbored for the entire month for the purposes of this
+Section.  Thereafter, for taxable years prior to taxable year 2003,
+except for the year 1976, the county clerk or county
+assessor shall compute such tax as of the first day of June of each year
+and certify the tax to the county treasurer.
+For taxable year 2003 and thereafter, the county clerk or county assessor
+shall compute the tax as of the first day of March of each year and certify the
+tax to the county treasurer.
+Such tax shall be due and
+payable to the county treasurer within 60 days after the treasurer mails
+the tax bill to the address of record.  The first tax bill mailed for taxable
+year 2003 shall include the following notice: "The manner in which delinquent
+taxes on mobile homes are collected has been changed by the enactment of the
+Mobile Home Local Services Tax Enforcement Act.  Failure to pay this tax can
+result in a penalty of $25 per month."  The county treasurer shall distribute
+such taxes to the local taxing districts within the boundaries
+of which such mobile homes are located, in the same proportion as the
+property taxes collectible for each such taxing district in the prior year. In order to effect the change of the annual billing date and the date of
+liability, provided for by this amendatory Act of 1975, the county clerk
+shall compute such  tax as of July 1, 1976, for the 1/2 year period from
+July 1, 1976, through December 31, 1976, at 1/2 the amount of the annual
+tax.  The tax for such period shall be certified, billed, collected and
+distributed in the same manner as is provided in this Section
+as taxes for a full year, and shall be subject to a proportionate reduction
+if the mobile home is initially harbored after July 1, 1976 and before January
+1, 1977.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-7">
+            <num>7</num>
+            <heading>The local services tax for owners of mobile homes who (a) are
+actually residing in such mobile homes, (b) hold title to such mobile
+home as provided in the Illinois Vehicle Code, and (c) are 65 years of age or older or are persons with disabilities within the meaning of Section 3</heading>
+            <subsection eId="sec_35-515-7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>I actually reside in the mobile home ....</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-515-7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>I hold title to the mobile home as provided in the Illinois
+Vehicle Code ....</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-515-7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>I reached the age of 65 on or before either January 1 (or July
+1) of the year in which this statement is filed.  My date of birth is: ...</p>
+              </content>
+              <paragraph eId="sec_35-515-7__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Persons with Disabilities</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-515-7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>I actually reside in the mobile home...</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-515-7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>I hold title to the mobile home as provided in the Illinois
+Vehicle Code ....</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-515-7__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>I became a person with a total disability on ... and have remained a person with a disability until
+the date of this application.  My Social Security, Veterans, Railroad or
+Civil Service Total Disability Claim Number is ...  The undersigned
+declares under the penalty of perjury that the above statements are true
+and correct. Dated (insert date). ........................... Signature of owner ........................... (Address) ........................... (City)  (State)  (Zip) Approved by: ............................. (Assessor) This application shall be accompanied by a copy of the applicant's
+most recent application filed with the Illinois Department on Aging
+under the Senior Citizens and Persons with Disabilities Property Tax Relief Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-463, eff. 8-16-13; 99-143, eff. 7-27-15.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-8">
+            <num>8</num>
+            <heading>Failure to pay tax; lien</heading>
+            <subsection eId="sec_35-515-8__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>unless the county treasurer files  with the county
+recorder of the county in which the mobile home is located a notice of
+lien within one year of such tax due date or (ii) if the county
+treasurer
+applies for judgment and order of sale for delinquent taxes on mobile homes
+pursuant to the provisions of the Mobile Home Local Services Tax Enforcement
+Act and the taxes are sold.  From the time of the
+filing, the amount set forth in the certificate also constitutes a lien
+upon all property of the taxpayer then owned by him or thereafter
+acquired by him in the period before the expiration of the lien. Such
+liens have the same force, effect and priority as a judgment lien and
+continue for 10 years from the date of the recording unless sooner
+released or otherwise discharged.  The county treasurer may, at any
+time, release all or any portion of the property subject to any lien
+provided for in this Act or subordinate the lien to other liens if he
+determines that the taxes are sufficiently secured by a lien or other
+property of the taxpayer or that the release or subordination of the
+lien will not endanger or jeopardize the collection of the taxes. If the owner of a mobile home upon which the tax has not been paid does
+not make payment within 6 months after a lien has been filed, civil action
+may be instituted by the collector for the amount of the tax, plus interest,
+penalties and costs.  If sale of the property is ordered, the court may
+direct the sale to be made in cash or on such terms as it may deem in the
+best interests of all parties.  The court may direct that such sale be held
+by the sheriff or in open court.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-9">
+            <num>9</num>
+            <heading>Additional charge for delinquent taxes; penalty for fraud</heading>
+            <subsection eId="sec_35-515-9__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>$100 or (ii) 50% of the original tax imposed. In all counties, if such failure to pay such tax
+is the result of fraud, there shall be added to the tax as a penalty an
+amount equal to 50% of the deficiency.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 101-454, eff. 8-23-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-10">
+            <num>10</num>
+            <heading>Mobile home dealers shall within 10 days after any retail
+sale and delivery of a mobile home, notify the county clerk of the
+county in which the point of delivery is located of the sale, the name
+of the purchaser, year of manufacture, the point at which delivery to the
+purchaser was made,
+and the serial number and exterior measurements of the mobile home</heading>
+            <content>
+              <p>(Source: P.A. 81-1137.) (35 ILCS 515/10.1) (from Ch. 120, par. 1210.1) Sec. 10.1. Notice to assessor of ownership change. An operator of a mobile home park licensed under the provisions
+of the Mobile Home Park Act and any land owner on which an inhabited mobile
+home is located shall notify the township assessor, if any, or the
+Supervisor
+of Assessments or county assessor if there is no township assessor, or
+the county assessor in those counties in which a county assessor is elected
+pursuant to Section 3-45 of the Property Tax Code, when a change in ownership
+occurs in a mobile home located in such a park or on such land.  Such
+notification shall include the same information for the new owner
+as that contained in the registration form required of mobile home park
+operators and mobile home owners by Section 4 of this Act. (Source: P.A. 92-807, eff. 1-1-03.) (35 ILCS 515/11) (from Ch. 120, par. 1211)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 81-1137.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-11">
+            <num>11</num>
+            <heading>Before any mobile home subject to the tax imposed by this
+Act may be moved, the transporting company must obtain a permit from the
+county treasurer certifying that the tax on the mobile home has been
+paid for the current tax period and all previous tax periods for which taxes
+remain due</heading>
+            <subsection eId="sec_35-515-11__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>any person or entity who moves a mobile
+home
+or causes it to be moved pursuant to a court order, nor does this
+Section apply to any person or municipality that moves a mobile home under the
+Abandoned Mobile Home Act or (ii) a mobile home park owner that moves an abandoned mobile home for its disposal as scrap or otherwise without further use as a mobile home.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-358, eff. 7-29-05.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-12">
+            <num>12</num>
+            <heading>It shall be a Class B misdemeanor to fail to submit
+information required under this Act or to knowingly submit any false
+information under this Act</heading>
+            <content>
+              <p>(Source: P.A. 79-1184.) (35 ILCS 515/13) (from Ch. 120, par. 1213)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 79-1184.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-13">
+            <num>13</num>
+            <heading>If any provision of this Act or the application thereof
+to any person or circumstance is held invalid, such invalidity does not affect
+other provisions or applications of this Act which can be given effect without the
+invalid application or provision, and to this end the provisions of this Act
+are declared to be severable</heading>
+            <content>
+              <p>(Source: P.A. 79-1184.) (35 ILCS 515/14) (from Ch. 120, par. 1214)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 79-1184.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-515-14">
+            <num>14</num>
+            <heading>This Act shall be known and may be cited as the "Mobile Home
+Local Services Tax Act"</heading>
+            <content>
+              <p>(Source: P.A. 79-1184.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706. Co</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 79-1184.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

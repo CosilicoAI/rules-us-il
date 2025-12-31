@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-605"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-605"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-605"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-605/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-605/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-605/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-605/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_605">
+          <num>35 ILCS 605/</num>
+          <heading>Illinois Central Railroad Tax Act</heading>
+          <section eId="sec_35-605-18">
+            <num>18</num>
+            <heading>In consideration of the grants, privileges and franchises herein
+conferred upon said company for the purposes aforesaid, the said company
+shall, on the first Mondays of December and June in each year, pay to the
+Department of Revenue of the State of Illinois five per centum on the gross
+or total proceeds, receipts or income derived from said road and branches,
+for the six months then next preceding</heading>
+            <content>
+              <p>The first payment of such
+percentage on the main trunk of said road to commence four years from the
+date of said deed of trust, and on the branches, six years from the date
+aforesaid, unless said road and branches are sooner completed, then from
+the date of completion. And for the purpose of ascertaining the proceeds,
+receipts or income aforesaid, an accurate account shall be kept by said
+company, a copy whereof shall be furnished to the Governor of the State of
+Illinois and to the Department of Revenue; the truth of which account shall
+be verified by the affidavits of the treasurer and secretary of such
+company. And for the purpose of verifying and ascertaining the accuracy of
+such account, full power is hereby vested in the Governor of the State of
+Illinois, the Director of the Department of Revenue, or any other person by
+law appointed, to examine the books and papers of said corporation, and to
+examine, under oath, the officers, agents and employees of said company,
+and other persons. And if any person, so examined by the Governor or other
+authority, shall knowingly and wilfully swear falsely, or if the other
+officers making such affidavits shall knowingly and wilfully swear falsely,
+every such person shall be subject to the pains and penalties of perjury.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 76-117.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-605-22">
+            <num>22</num>
+            <heading>The lands selected under the act of congress entitled "An Act
+granting the right of way, and making a grant of land to the states of
+Illinois, Mississippi and Alabama, in aid of the construction of a railroad
+from Chicago to Mobile", passed September 20, 1850, and authorized by this
+Act to be conveyed shall be exempt from all taxation under the laws of this
+state, until sold and conveyed by the Illinois Central Railroad Company or
+the trustees designated in this Act</heading>
+            <content>
+              <p>The stock, property and assets
+belonging to the company shall be listed by the president, secretary or
+other officer, with the Department of Revenue, and an annual tax for state
+purposes shall be assessed, upon all the property and assets of every name,
+kind and description belonging to that company. Whenever the taxes levied
+for state purposes shall exceed 3/4 of 1% per year, such excess shall be
+deducted from the gross proceeds or income required to be paid by the
+company to the state, and the company is hereby exempted from all taxation
+of every kind, except as herein provided for. The revenue arising from such
+taxation, and the 5% of gross or total proceeds, receipts or income
+aforesaid, shall be paid to the Department of Revenue and covered into the
+general revenue fund in the state treasury and applied to the payment of
+interest-paying state indebtedness until the extinction thereof. In case
+the 5% provided to be paid into the state treasury and the state taxes to
+be paid by the corporation do not amount to 7% of the gross or total
+proceeds, receipts or income, however, then the company shall pay the
+difference, so as to make the whole amount paid equal, at least, to 7% of
+the gross receipts of the company.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 76-117.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

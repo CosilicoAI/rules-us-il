@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-517"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-517"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-517"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-517/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-517/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-517/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-517/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_517">
+          <num>35 ILCS 517/</num>
+          <heading>Manufactured Home Installation Act</heading>
+          <section eId="sec_35-517-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Manufactured
+Home
+Installation Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-3">
+            <num>3</num>
+            <heading>Legislative intent</heading>
+            <content>
+              <p>The General Assembly finds that: Manufactured homes provide the only affordable home ownership resource for many citizens in Illinois. Manufactured home parks play an essential role in meeting the affordable housing needs of Illinois communities. Manufactured home parks provide an unsubsidized affordable housing option that meets the needs of society's  most vulnerable citizens: low-income and moderate-income socio-economic groups, including senior citizens and others that are less capable economically but still require safe and affordable housing. Manufactured home parks are licensed, regulated, or inspected by government agencies to ensure that State, county, and municipal rules and regulations are enforced. Manufactured home park owners pay for and provide their tenants with a substantial number of services that homeowners outside a manufactured  home park obtain through taxpayer funded government sources and subsidies. Manufactured home parks have a lease requirement that sets standards of behavior and responsibility through the enforcement of rules and regulations, and compliance with these requirements can significantly diminish local government police costs.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-517-5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>8 body feet or more in width, (ii) 40 body feet or more in length, and (iii) 320 or more square feet, constructed to be towed on its own chassis (comprised of frame and wheels)
+from the place of its
+construction to the location, or subsequent locations, at which it is installed and set up according to the manufacturer's instructions and connected to utilities for year-round occupancy
+for use as a permanent habitation, and designed and situated so as to
+permit its
+occupancy as a dwelling place for one or more persons. The term shall include units containing parts that may be folded, collapsed, or telescoped when being towed and that may be expected to provide additional cubic capacity, and that are designed to be joined into one integral unit capable of being separated again into the components for repeated towing.  The term excludes campers and recreational vehicles.  Mobile homes and manufactured homes in mobile home parks must be assessed and taxed as chattel. Mobile homes and manufactured homes outside of mobile home parks must be assessed and taxed as real property. The words "mobile home" and "manufactured home" are  synonymous for the purposes of this Act. The construction of mobile type dwellings known as "manufactured homes" is regulated by the U.S. Department of Housing and Urban Development. All mobile type homes constructed after June 15, 1976, are manufactured homes and must comply with the National Manufactured Home and Construction Safety Standards; State and units of local government are preempted from imposing any additional construction requirements. The installation of these homes must comply with the Manufactured Home Quality Assurance Act and the Manufactured Home Installation Code (77 Ill. Adm. Code 870). The location of these
+homes is subject to local zoning and covenant codes. Section 25 of the Manufactured Home Quality Assurance Act requires licensed manufactured home installers to obtain from the Department of Health a Manufactured Hom</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-10">
+            <num>10</num>
+            <heading>Installation requirements; classification as real property</heading>
+            <subsection eId="sec_35-517-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-517-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Mobile homes and manufactured homes that</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-517-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>are located outside of mobile home parks and (ii) are taxed under the Mobile Home Local Services Tax Act on the effective date of this Act must continue to be taxed under the Mobile Home Local Services Tax Act and shall not be classified, assessed, and taxed as real property until the home is sold or transferred or until the home is relocated to a different parcel of land outside of a mobile home park.  If a mobile home described in this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-517-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>is sold, transferred, or relocated to a different parcel of land outside of a mobile home park, then the home shall be classified, assessed, and taxed as real property.  Mobile homes and manufactured homes that are classified, assessed, and taxed as real property on the effective date of this Act shall continue to be classified, assessed, and taxed as real property.  The owner of a mobile home or manufactured home that is located outside of a mobile home park may file a request with the Department of Revenue that the home be classified, assessed, and taxed as real property.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-517-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Mobile homes and manufactured homes that are located in mobile home parks must be taxed according to the Mobile Home Local Services Tax Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-805">
+            <num>805</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/810)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-810">
+            <num>810</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/815)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-815">
+            <num>815</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/900)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-900">
+            <num>900</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/903)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-903">
+            <num>903</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/905)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-905">
+            <num>905</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/910)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-910">
+            <num>910</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/915)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-915">
+            <num>915</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/920)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-920">
+            <num>920</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1477, eff. 1-1-11; text omitted.) (35 ILCS 517/999)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-517-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect January 1, 2011.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1477, eff. 1-1-11.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

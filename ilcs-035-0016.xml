@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-16"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-16"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-16"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-16/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-16/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-16/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-16/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_16">
+          <num>35 ILCS 16/</num>
+          <heading>Film Production Services Tax Credit Act of 2008</heading>
+          <section eId="sec_35-16-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Film
+Production Services Tax Credit Act of 2008.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-5">
+            <num>5</num>
+            <heading>Purpose</heading>
+            <content>
+              <p>The General Assembly finds that the Illinois economy is highly vulnerable to other states and nations that have major financial incentive programs targeted to the motion picture industry. Because of the incentive programs of these competitor locations, Illinois must move aggressively with new business development investment tools so that Illinois is more competitive in site location decision-making for film productions. In an increasingly global economy, Illinois' long-term development will benefit from rational, strategic use of State resources in support of film production development and growth. It is the purpose of this Act to preserve and expand the existing human infrastructure for the motion picture industry in Illinois. It shall be the policy of this State to promote and encourage the training and hiring of Illinois residents who represent the diversity of the Illinois population through the creation and implementation of training, education, and recruitment programs organized in cooperation with Illinois colleges and universities, labor organizations, and the motion picture industry.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-16-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for productions commencing before May 1, 2006, a film, video, or television production that has been certified by the Department in which the aggregate Illinois labor expenditures included in the cost of the production, in the period that ends 12 months after the time principal filming or taping of the production began, exceed $100,000 for productions of 30 minutes or longer, or $50,000 for productions of less than 30 minutes; and (ii) for productions commencing on or after May 1, 2006, a film, video, or television production that has been certified by the Department in which the Illinois production spending included in the cost of production in the period that ends 12 months after the time principal filming or taping of the production began exceeds $100,000 for productions of 30 minutes or longer or exceeds $50,000 for productions of less than 30 minutes. "Accredited production" does not include a production that:</p>
+              </content>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>is news, current events, or public programming, or a program that includes weather or market reports;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is a talk show produced for local or regional markets;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>(blank);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>is a sports event or activity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>is a gala presentation or awards show;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>is a finished production that solicits funds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>is a production produced by a film production company if records, as required by 18 U.S.C. 2257, are to be maintained by that film production company with respect to any performer portrayed in that single media or multimedia program; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>is a production produced primarily for industrial, corporate, or institutional purposes. "Accredited animated production" means an accredited production in which movement and characters' performances are created using a frame-by-frame technique and a significant number of major characters are animated. Motion capture by itself is not an animation technique. "Accredited production certificate" means a certificate issued by the Department certifying that the production is an accredited production that meets the guidelines of this Act. "Applicant" means a taxpayer that is a film production company that is operating or has operated an accredited production located within the State of Illinois and that</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>owns the copyright in the accredited production throughout the Illinois production period or (ii) has contracted directly with the owner of the copyright in the accredited production or a person acting on behalf of the owner to provide services for the production, where the owner of the copyright is not an eligible production corporation. "Below-the-line spending" means salary, wages, fees, and fringe benefits paid for services performed by a person in a position that is off camera and who provides technical services during the physical production of a film. "Below-the-line spending" does not include salary, wages, fees, or fringe benefits paid to a person who is a producer, executive producer, co-producer, director, screenwriter, lead cast, supporting cast, or day player, or who performs other services that are customarily considered above-the-line services in the film and television industry. "Credit" means:</p>
+              </content>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for an accredited production approved by the Department on or before January 1, 2005 and commencing before May 1, 2006, the amount equal to 25% of the Illinois labor expenditure approved by the Department. The applicant is deemed to have paid, on its balance due day for the year, an amount equal to 25% of its qualified Illinois labor expenditure for the tax year. For Illinois labor expenditures generated by the employment of residents of geographic areas of high poverty or high unemployment, as determined by the Department, in an accredited production commencing before May 1, 2006 and approved by the Department after January 1, 2005, the applicant shall receive an enhanced credit of 10% in addition to the 25% credit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for an accredited production commencing on or after May 1, 2006 and before January 1, 2009, the amount equal to:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>20% of the Illinois production spending for the taxable year; plus (ii) 15% of the Illinois labor expenditures generated by the employment of residents of geographic areas of high poverty or high unemployment, as determined by the Department;</p>
+              </content>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for an accredited production commencing on or after January 1, 2009 and before July 1, 2025, the amount equal to:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>30% of the Illinois production spending for the taxable year; plus (ii) 15% of the Illinois labor expenditures generated by the employment of residents of geographic areas of high poverty or high unemployment, as determined by the Department; and</p>
+              </content>
+              <paragraph eId="sec_35-16-10__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>for an accredited production commencing on or after July 1, 2025, the amount equal to:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>35% of the Illinois production spending for the use of tangible personal property or the expenses to acquire services from vendors in Illinois and for Illinois labor expenditures generated by the employment of Illinois residents; plus (ii) 30% of the wages paid to nonresidents for services performed on an accredited production, subject to the limitations in Section 10; plus (iii) 15% of the Illinois labor expenditures generated by the employment of residents of geographic areas of high poverty or high unemployment, as determined by the Department; plus (iv) 5% of the Illinois labor expenditures generated by the employment of Illinois residents for services performed for an accredited production in one or more Illinois counties outside of Cook, DuPage, Kane, Lake, McHenry, and Will Counties; plus</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-10__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>5% of the Illinois production spending for television series relocating to Illinois from another jurisdiction. To qualify under this subparagraph</p>
+              </content>
+              <paragraph eId="sec_35-16-10__subsec_v__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for unrelated parties, the value established through comparable transactions between unrelated parties for substantially similar goods and services considering the geographic market and other pertinent variables as specified by the Department by rule; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_v__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for related parties, the value established through the related party's historical dealings with unrelated parties or established by comparable transactions between other unrelated parties for substantially similar goods and services considering the geographic market and other pertinent variables as specified by the Department by rule. "Illinois labor expenditure" means salary or wages paid to employees of the applicant for services on the accredited production, subject to the following limitations:</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_v__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The expenditure must be reasonable in the circumstances.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_v__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The expenditure must be included in the federal income tax basis of the property.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_v__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The expenditure must be incurred by the applicant for services on or after January 1, 2004.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_v__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The expenditure must be incurred for the production stages of the accredited production, from the final script stage to the end of the post-production stage.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-10__subsec_v__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>The expenditure is limited to the first $25,000 of wages paid or incurred to each employee of a production commencing before May 1, 2006 and the first $100,000 of wages paid or incurred to each employee of a production commencing on or after May 1, 2006 and prior to July 1, 2022. For productions commencing on or after July 1, 2022, the expenditure is limited t</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-595, eff. 6-26-24; 104-6, eff. 6-16-25; 104-453, eff. 12-12-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-15">
+            <num>15</num>
+            <heading>Powers of the Department</heading>
+            <subsection eId="sec_35-16-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Adopt rules deemed necessary and appropriate for the administration of
+the tax credit program; establish forms for applications, notifications,
+contracts, or any other agreements; and accept applications at any time during
+the year.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Assist applicants pursuant to the provisions of this Act
+to promote, foster, and
+support film production and its related job creation or retention within the
+State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Gather information and conduct inquiries, in the manner and by the
+methods as it deems desirable, including any information required for the Department to comply with Section 45 and, without limitation, gathering
+information with respect to applicants for the purpose of making any
+designations or certifications necessary or desirable or to gather information
+to assist the Department with any recommendation or guidance in the furtherance
+of the purposes of this Act, including, but not limited to, information as to
+whether the applicant participated in training, education, and recruitment
+programs that are organized in cooperation with Illinois colleges and
+universities, labor organizations, and the motion picture industry, and are
+designed to promote and encourage the training and hiring of Illinois residents
+who represent the diversity of the Illinois population.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide for sufficient personnel to permit administration, staffing,
+operation, and related support required to adequately discharge its duties and
+responsibilities described in this Act from funds as may be appropriated by the
+General Assembly for the administration of this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-15__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Require applicants, upon written request, to issue any necessary
+authorization to the appropriate federal, state, or local authority for the
+release of information concerning a project being considered under the
+provisions of this Act, with the information requested to include, but not be
+limited to, financial reports, returns, or records relating to the
+applicant or the accredited production.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-15__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Require that an applicant must at all times keep proper books of record
+and account in accordance with generally accepted accounting principles
+consistently applied, with the books, records, or papers related to the
+accredited production in the custody or control of the taxpayer open for
+reasonable
+Department inspection and audits, and including, without limitation, the making
+of copies of the books, records, or papers, and the inspection or appraisal of
+any of the
+assets of the applicant or the accredited production.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-15__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Take whatever actions are necessary or appropriate to protect the
+State's interest in the event of bankruptcy, default, foreclosure, or
+noncompliance with the terms and conditions of financial assistance or
+participation required under this Act, including the power to sell, dispose,
+lease, or rent, upon terms and conditions determined by the Director to be
+appropriate, real or personal property that the Department may receive as a
+result of these actions.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-20">
+            <num>20</num>
+            <heading>Tax credit awards</heading>
+            <content>
+              <p>Subject to the conditions set forth in this Act, an applicant is entitled to a credit as approved by the Department under Section 40 of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-25">
+            <num>25</num>
+            <heading>Application for certification of accredited production</heading>
+            <content>
+              <p>Any applicant proposing a film or television production located or
+planned to be located in Illinois may request an accredited production
+certificate
+by formal application to the Department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-30">
+            <num>30</num>
+            <heading>Review of application for accredited production certificate</heading>
+            <subsection eId="sec_35-16-30__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In
+determining whether to issue an accredited production certificate,
+the Department must determine that a preponderance of the following conditions
+exist:</p>
+              </content>
+              <paragraph eId="sec_35-16-30__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The applicant's production intends to make the expenditure in the State required for certification.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-30__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The applicant's production is economically sound and will benefit the people of the State of Illinois by increasing opportunities for employment and strengthen the economy of Illinois.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-30__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The applicant has filed a diversity plan with the Department outlining specific goals</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-30__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for hiring minority persons and women, as defined in the Business Enterprise for Minorities, Women, and Persons with Disabilities Act, and (ii) for using vendors receiving certification under the Business Enterprise for Minorities, Women, and Persons with Disabilities Act; the Department has approved the plan as meeting the requirements established by the Department; and the Department has verified that the applicant has met or made good-faith efforts in achieving those goals. The Department must adopt any rules that are necessary to ensure compliance with the provisions of this item</p>
+              </content>
+              <paragraph eId="sec_35-16-30__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>and that are necessary to require that the applicant's plan reflects the diversity of this State.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-30__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The applicant's production application indicates whether the applicant intends to participate in training, education, and recruitment programs that are organized in cooperation with Illinois colleges and universities, labor organizations, and the motion picture industry and are designed to promote and encourage the training and hiring of Illinois residents who represent the diversity of the Illinois population.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-30__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>That, if not for the credit, the applicant's production would not occur in Illinois, which may be demonstrated by any means including, but not limited to, evidence that the applicant has multi-state or international location options and could reasonably and efficiently locate outside of the State, or demonstration that at least one other state or nation is being considered for the production, or evidence that the receipt of the credit is a major factor in the applicant's decision and that without the credit the applicant likely would not create or retain jobs in Illinois, or demonstration that receiving the credit is essential to the applicant's decision to create or retain new jobs in the State.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-30__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Awarding the credit will result in an overall positive impact to the State, as determined by the Department using the best available data.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-30__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If any of the provisions in this Section conflict with any existing
+collective
+bargaining agreements, the terms and conditions of those collective bargaining
+agreements shall control.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-391, eff. 8-25-17.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-35">
+            <num>35</num>
+            <heading>Issuance of Tax Credit Certificate</heading>
+            <subsection eId="sec_35-16-35__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In order to qualify for a tax credit under this Act, an applicant must
+file an application, on forms prescribed by the Department, providing
+information necessary to calculate the tax credit, and any additional
+information as required by the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-35__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon satisfactory review of the application, the Department shall issue a
+Tax Credit Certificate stating the amount of the tax credit to which the
+applicant is entitled.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-40">
+            <num>40</num>
+            <heading>Amount and duration of the credit</heading>
+            <content>
+              <p>The amount of the credit awarded under this Act is based on the amount of the Illinois labor expenditure and Illinois production spending approved by the Department for the production as set forth under Section 10. The duration of the credit may not exceed one taxable year.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-42">
+            <num>42</num>
+            <heading>Sunset of credits</heading>
+            <content>
+              <p>The application of credits awarded pursuant to this Act shall be limited by a reasonable and appropriate sunset date. A taxpayer shall not be awarded any new credits pursuant to this Act for tax years beginning on or after January 1, 2039.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-453, eff. 12-12-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-43">
+            <num>43</num>
+            <heading>Training programs for skills in critical demand</heading>
+            <content>
+              <p>To accomplish the purposes of this Act, the Department may use the training programs provided for Illinois under Section 605-800 of the Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-44">
+            <num>44</num>
+            <heading>Accredited animated productions</heading>
+            <content>
+              <p>Each applicant requesting credits for an accredited animated production commencing on or after July 1, 2010 may make an application to the Department in each taxable year beginning with the taxable year in which the production commences and ending with the taxable year in which production is complete, provided that no credit may be claimed under this Section for a taxable year ending prior to December 31, 2012.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-796, eff. 7-13-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-45">
+            <num>45</num>
+            <heading>Evaluation of tax credit program; reports to the General Assembly</heading>
+            <subsection eId="sec_35-16-45__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department shall evaluate the tax credit program. The evaluation must include an assessment of the effectiveness of the program in creating and retaining new jobs in Illinois and of the revenue impact of the program, and may include a review of the practices and experiences of other states or nations with similar programs. Upon completion of this evaluation, the Department shall determine the overall success of the program, and may make a recommendation to extend, modify, or not extend the program based on this evaluation.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-45__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At the end of each fiscal quarter, the Department must submit to the General Assembly a report that includes, without limitation, the following information:</p>
+              </content>
+              <paragraph eId="sec_35-16-45__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the economic impact of the tax credit program, including the number of jobs created and retained, including whether the job positions are entry level, management, talent-related, vendor-related, or production-related;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-45__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of film production spending brought to Illinois, including the amount of spending and type of Illinois vendors hired in connection with an accredited production; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-45__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an overall picture of whether the human infrastructure of the motion picture industry in Illinois reflects the geographical, racial and ethnic, gender, and income-level diversity of the State of Illinois.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-45__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At the end of each fiscal year, the Department must
+     submit to the General Assembly a report that includes the following information:</p>
+              </content>
+              <paragraph eId="sec_35-16-45__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an identification of each vendor that provided goods or services that were included in an accredited production's Illinois production spending, provided that the accredited production's Illinois production spending attributable  to that vendor exceeds, in the aggregate, $10,000 or 10% of the accredited production's Illinois production spending, whichever is less;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-45__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount paid to each identified vendor by the accredited production;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-45__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>for each identified vendor, a statement as to whether the vendor is a minority-owned business or a women-owned business, as defined under Section 2 of the Business Enterprise for Minorities, Women, and Persons with Disabilities Act, based on the best efforts of an accredited production; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-45__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a description of any steps taken by the Department to encourage accredited productions to use vendors who are a minority-owned business or a women-owned business.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-391, eff. 8-25-17; 100-603, eff. 7-13-18; 101-81, eff. 7-12-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-46">
+            <num>46</num>
+            <heading>Illinois Production Workforce Development Fund</heading>
+            <subsection eId="sec_35-16-46__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Illinois Production Workforce Development Fund is created as a special fund in the State Treasury. Beginning July 1, 2023, amounts paid to the Department of Commerce and Economic Opportunity pursuant to Section 213 of the Illinois Income Tax Act shall be deposited into the Fund. The Fund shall be used exclusively to provide grants to community-based organizations, labor organizations, private and public universities, community colleges, and other organizations and institutions that may be deemed appropriate by the Department to administer workforce training programs that support efforts to recruit, hire, promote, retain, develop, and train a diverse and inclusive workforce in the film industry.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-46__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Pursuant to Section 213 of the Illinois Income Tax Act, taxpayers who have been awarded a tax credit under this Act shall pay to the Department of Commerce and Economic Opportunity, after determination of the tax credit amount but prior to the issuance of a tax credit certificate, a fee equal to 2.5% of the credit amount awarded to the taxpayer under the Film Production Services Tax Credit Act of 2008 that is attributable to wages paid to nonresidents, as described in Section 10 of the Film Production Services Tax Credit Act of 2008, and an additional fee equal to 0.25% of the amount generated by subtracting the credit amount awarded to the taxpayer under the Film Production Services Tax Credit Act of 2008 that is attributable to wages paid to nonresidents from the total credit amount awarded to the taxpayer under that Act. All fees collected under this subsection shall be deposited into the Illinois Production Workforce Development Fund. No tax credit certificate shall be issued by the Department of Commerce and Economic Opportunity until the total fees owed according to this subsection have been received by the Department of Commerce and Economic Opportunity.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-46__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>At the request of the Department, the State Comptroller and the State Treasurer may advance amounts to the Fund on an annual basis not to exceed $1,000,000 in any fiscal year. The fund from which the moneys are advanced shall be reimbursed in the same fiscal year for any such advance payments as described in this Section. The method of reimbursement shall be set forth in rules.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-46__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Of the appropriated funds in a given fiscal year, 50% of the appropriated funds shall be reserved for organizations that meet one of the following criteria. The organization is:</p>
+              </content>
+              <paragraph eId="sec_35-16-46__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a minority-owned business, as defined by the Business Enterprise for Minorities, Women, and Persons with Disabilities Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-46__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>located in an underserved area, as defined by the Economic Development for a Growing Economy Tax Credit Act; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-46__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>on an annual basis, training a cohort of program participants where at least 50% of the program participants are either a minority person, as defined by the Business Enterprise for Minorities, Women, and Persons with Disabilities Act, or reside in an underserved area, as defined by the Economic Development for a Growing Economy Tax Credit Act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-16-46__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Illinois Production Workforce Development Fund shall be administered by the Department. The Department may adopt rules necessary to administer the provisions of this Section.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-46__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other law to the contrary, the Illinois Production Workforce Development Fund is not subject to sweeps, administrative charge-backs, or any other fiscal or budgetary maneuver that would in any way transfer any amounts from the Illinois Production Workforce Development Fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-16-46__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>By June 30 of each fiscal year, the Department must submit to the General Assembly a report that includes the following information:</p>
+              </content>
+              <paragraph eId="sec_35-16-46__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an identification of the organizations and institutions that received funding to administer workforce training programs during the fiscal year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-46__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the number of total persons trained and the number of persons trained per workforce training program in the fiscal year; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-16-46__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>in the aggregate, per organization, the number of persons identified as a minority person or that reside in an underserved area that received training in the fiscal year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-700, eff. 4-19-22; 103-595, eff. 6-26-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-50">
+            <num>50</num>
+            <heading>Program terms and conditions</heading>
+            <content>
+              <p>Except for information that will be included, in an aggregated manner, within the annual report required under Section 45 of this Act, any documentary materials or data made available or received by
+any agent or employee of the
+Department are confidential and are not public records to the extent that the
+materials or data consist of commercial or financial information
+regarding the operation of the production of the applicant for or
+recipient of any tax credit under this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-603, eff. 7-13-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-90">
+            <num>90</num>
+            <heading>Continuation of prior law</heading>
+            <content>
+              <p>This Act replaces and is intended to be a continuation of the Film
+Production Services Tax Credit Act, which was repealed on January 1, 2008.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-95">
+            <num>95</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 95-720, eff. 5-27-08. Repealed by P.A. 95-1006, eff. 12-15-08.) (35 ILCS 16/905)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08. Repealed by P.A. 95-1006, eff. 12-15-08.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-905">
+            <num>905</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 95-720, eff. 5-27-08; text omitted .) (35 ILCS 16/999)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08; text omitted .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-16-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-720, eff. 5-27-08 .</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

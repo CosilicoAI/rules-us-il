@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-31"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-31"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-31/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-31/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-31/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-31/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_31">
+          <num>35 ILCS 31/</num>
+          <heading>Historic Preservation Tax Credit Act</heading>
+          <section eId="sec_35-31-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Historic Preservation Tax Credit Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-629, eff. 1-1-19 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-31-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act, unless the context clearly indicates otherwise: "Director" means the Director of Natural Resources or his or her designee. "Division" means the State Historic Preservation Office within the Department of Natural Resources. "Placed in service" means the date when the property is placed in a condition or state of readiness and availability for a specifically assigned function as defined under Section 47 of the federal Internal Revenue Code and federal Treasury Regulation Sections 1.46 and 1.48. "Qualified expenditures" means all the costs and expenses defined as qualified rehabilitation expenditures under Section 47 of the federal Internal Revenue Code that were incurred in connection with a qualified rehabilitation plan. "Qualified historic structure" means any structure that is located in Illinois and is defined as a certified historic structure under Section 47(c)(3) of the federal Internal Revenue Code. "Qualified rehabilitation plan" means a project that is approved by the Department of Natural Resources and the National Park Service as being consistent with the United States Secretary of the Interior's Standards for Rehabilitation. "Qualified taxpayer" means the owner of the structure or any other person or entity that may qualify for the federal rehabilitation credit allowed by Section 47 of the federal Internal Revenue Code. "Recapture event" means any of the following events occurring during the recapture period: (1) failure to place in service the rehabilitated portions of the qualified historic structure, or failure to maintain the rehabilitated portions of the qualified historic structure in service after they are placed in service; provided that a recapture event under this paragraph (1) shall not include a removal from service for a reasonable period of time to conduct maintenance and repairs that are reasonably necessary to protect the health and safety of the public or to protect the structural integrity of the qualified historic structure or a neighboring structure; (2) demolition or other alteration of the qualified historic structure in a manner that is inconsistent with the qualified rehabilitation plan or the Secretary of the Interior's Standards for Rehabilitation; (3) disposition of the rehabilitated qualified historic structure in whole or a proportional disposition of a partnership interest therein, except as otherwise permitted by this Section; or (4) use of the qualified historic structure in a manner that is inconsistent with the qualified rehabilitation plan or that is otherwise inconsistent with the provisions and intent of this Section. A recapture event occurring in one taxable year shall be deemed continuing to subsequent taxable years unless and until corrected. The following dispositions of a qualified historic structure shall not be deemed to be a recapture event for purposes of this Section: (1) a transfer by reason of death; (2) a transfer between spouses incident to divorce; (3) a sale by and leaseback to an entity that, when the rehabilitated portions of the qualified historic structure are placed in service, will be a lessee of the qualified historic structure, but only for so long as the entity continues to be a lessee; and (4) a mere change in the form of conducting the trade or business by the owner (or, if applicable, the lessee) of the qualified historic structure, so long as the property interest in such qualified historic structure is retained in such trade or business and the owner or lessee retains a substantial interest in such trade or business. "Recapture period" means the 5-year period beginning on the date that the qualified historic structure or rehabilitated portions of the qualified historic structure are placed in service.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-741, eff. 5-6-22; 103-154, eff. 6-30-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-31-10">
+            <num>10</num>
+            <heading>Allowable credit</heading>
+            <subsection eId="sec_35-31-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>To the extent authorized by this Act, for taxable years beginning on or after January 1, 2019 and ending on or before December 31, 2028, there shall be allowed a tax credit to the  qualified taxpayer against the tax imposed by subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 201 of the Illinois Income Tax Act in an aggregate amount equal to 25% of qualified expenditures, but not to exceed $3,000,000, incurred undertaking a qualified rehabilitation plan, provided that the total amount of such expenditures must</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>equal $5,000 or more and (ii) exceed the adjusted basis of the structure on the first day the qualified rehabilitation plan commenced.  If the qualified rehabilitation plan spans multiple years, the aggregate credit for the entire project shall be allowed in the last taxable year.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To obtain a tax credit certificate pursuant to this Section, the qualified taxpayer must apply with the Division.  The Division shall determine the amount of eligible rehabilitation expenditures within 45 days after receipt of a complete application.  The taxpayer must provide to the Division a third-party cost certification conducted by a certified public accountant verifying</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the qualified and non-qualified rehabilitation expenses and (ii) that the qualified expenditures exceed the adjusted basis of the structure on the first day the qualified rehabilitation plan commenced.  The accountant shall provide appropriate review and testing of invoices.  The Division is authorized, but not required, to accept this third-party cost certification to determine the amount of qualified expenditures.  The Division and the National Park Service shall determine whether the rehabilitation is consistent with the Standards of the Secretary of the United States Department of the Interior.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the amount of any tax credit awarded under this Act exceeds the qualified taxpayer's income tax liability for the year in which the qualified rehabilitation plan was placed in service, the excess amount may be carried forward for deduction from the taxpayer's income tax liability in the next succeeding year or years until the total amount of the credit has been used, except that a credit may not be carried forward for deduction after the tenth taxable year after the taxable year in which the qualified rehabilitation plan was placed in service. Upon completion of the project and approval of the complete application, the Division shall issue a single certificate in the amount of the
+eligible credits equal to 25% of the qualified expenditures incurred during the eligible taxable years, not to exceed the lesser of the allocated amount or $3,000,000 per single qualified rehabilitation plan. Prior to the issuance of the tax credit certificate, the qualified taxpayer must provide to the Division verification that the rehabilitated structure is a qualified historic structure. At the time the certificate is issued, an issuance fee up to the maximum amount of 2% of the amount of the credits issued by the certificate may be collected from the qualified taxpayer to administer the Act. If collected, this issuance fee shall be directed to the Division Historic Property Administrative Fund or other such fund as appropriate for use of the Division in the administration of the Historic Preservation Tax Credit Program. The taxpayer must attach the certificate or legal documentation of her or his proportional share of the certificate to the tax
+return on which the credits are to be claimed.  The tax credit under this Section may not reduce the taxpayer's liability to less than zero.  If the amount of the credit exceeds the tax liability for the year, the excess credit may be carried forward and applied to the tax liability of the 10 taxable years following the first excess credit</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the taxpayer is</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a corporation having an election in effect under Subchapter S of the federal Internal Revenue Code, (ii) a partnership, or (iii) a limited liability company, the credit provided under this Act may be claimed by the shareholders of the corporation, the partners of the partnership, or the members of the limited liability company in the same manner as those shareholders, partners, or members account for their proportionate shares of the income or losses of the corporation, partnership, or limited liability company, or as provided in the bylaws or other executed agreement of the corporation, partnership, or limited liability company. Credits granted to a partnership, a limited liability company taxed as a partnership, or other multiple owners of property shall be passed through to the partners, members, or owners respectively on a pro rata basis or pursuant to an executed agreement among the partners, members, or owners documenting any alternate distribution method.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If a recapture event occurs during the recapture period with respect to a qualified historic structure, then for any taxable year in which the credits are allowed as specified in this Act, the tax under the applicable Section of this Act shall be increased by applying the recapture percentage set forth below to the tax decrease resulting from the application of credits allowed under this Act to the taxable year in question. For the purposes of this subsection, the recapture percentage shall be determined as follows:</p>
+              </content>
+              <paragraph eId="sec_35-31-10__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the recapture event occurs within the first year after commencement of the recapture period, then the recapture percentage is 100%;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-10__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the recapture event occurs within the second year after commencement of the recapture period, then the recapture percentage is 80%;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-10__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the recapture event occurs within the third year after commencement of the recapture period, then the recapture percentage is 60%;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-10__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the recapture event occurs within the fourth year after commencement of the recapture period, then the recapture percentage is 40%; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-10__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the recapture event occurs within the fifth year after commencement of the recapture period, then the recapture percentage is 20%. In the case of any recapture event, the carryforwards under this Act shall be adjusted by reason of such event.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-31-10__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Division may adopt rules to implement this Section in addition to the rules expressly authorized herein.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-741, eff. 5-6-22; 103-9, eff. 6-7-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-31-20">
+            <num>20</num>
+            <heading>Limitations, reporting, and monitoring</heading>
+            <subsection eId="sec_35-31-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In each calendar year beginning on or after January 1, 2019 and ending on or before December 31, 2023, the Division is authorized to allocate $15,000,000 in tax credits in addition to any unallocated, returned, or rescinded allocations from previous years, pursuant to qualified rehabilitation plans. In each calendar year beginning on or after January 1, 2024 and ending on or before December 31, 2028, the Division is authorized to allocate $25,000,000 in tax credits in addition to any unallocated, returned, or rescinded allocations from previous years, pursuant to qualified rehabilitation plans. The Division shall not allocate or award more than $3,000,000 in tax credits with regard to a single qualified rehabilitation plan. In allocating tax credits under this Act, the Division must prioritize applications that meet one or more of the following:</p>
+              </content>
+              <paragraph eId="sec_35-31-20__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the structure is located in a county that borders a State with a historic income-producing property rehabilitation credit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the structure was previously owned by a federal, state, or local governmental entity for no less than 6 months;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the structure is located in a census tract that has a median family income at or below the State median family income; data from the most recent 5-year estimate from the American Community Survey (ACS), published by the U.S. Census Bureau, shall be used to determine eligibility;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the qualified rehabilitation plan includes in the development partnership a Community Development Entity or a low-profit (B Corporation) or not-for-profit organization, as defined by Section 501</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the Internal Revenue Code; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the structure is located in an area declared under an Emergency Declaration or Major Disaster Declaration under the federal Robert T. Stafford Disaster Relief and Emergency Assistance Act. The declaration must be no older than 3 years at the time of application.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The annual aggregate authorization of $15,000,000 set forth in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall be allocated by the Division,  in such proportion as determined by the Director twice in each calendar year that the program is in effect, provided that the amount initially allocated by the Division for the first calendar year application period shall not exceed 65% of the total amount available for allocation. Any unallocated amount remaining as of the end of the second application period of a given calendar year shall be rolled over and added to the total authorized amount for the next available calendar year.  The qualified rehabilitation plan must meet a readiness test, as defined by the Division, in order for the application to qualify.  In any given application period, applications that qualify under this Act will be prioritized as set forth in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and placed in a queue based on the date and time the application is received. Applicants whose applications qualify but do not receive an allocation must reapply to be considered in subsequent application periods.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subject to appropriation to the Division, moneys in the Historic Property Administrative Fund shall be used, on a biennial basis, beginning at the end of the second fiscal year after the effective date of this Act, to hire a qualified third party to prepare a biennial report to assess the overall impact of this Act from the qualified rehabilitation plans under this Act completed in that year and in previous years.  Baseline data of the metrics in the report shall be collected at the initiation of a qualified rehabilitation plan.  The overall economic impact shall include at least:</p>
+              </content>
+              <paragraph eId="sec_35-31-20__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the number of applications, project locations, and proposed use of qualified historic structures;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of credits awarded and the number and location of projects receiving credit allocations;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the status of ongoing projects and projected qualifying expenditures for ongoing projects;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>for completed projects, the total amount of qualifying rehabilitation expenditures and non-qualifying expenditures, the number of housing units created and the number of housing units that qualify as affordable, and the total square footage rehabilitated and developed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>direct, indirect, and induced economic impacts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>temporary, permanent, and construction jobs created; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>sales, income, and property tax generation before construction, during construction, and after completion. The report to the General Assembly shall be filed with the Clerk of the House of Representatives and the Secretary of the Senate in electronic form only, in the manner that the Clerk and the Secretary shall direct.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any time prior to issuance of a tax credit certificate, the Director of the Division, the State Historic Preservation Officer, or staff of the Division may, upon reasonable notice of not less than 3 business days, conduct a site visit to the project to inspect and evaluate the project.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any time prior to the issuance of a tax credit certificate, the Director may, upon reasonable notice of not less than 30 calendar days, request a status report from the Applicant consisting of information and updates relevant to the status of the project. Status reports shall not be requested more than twice yearly.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>In order to demonstrate sufficient evidence of reviewable progress within 12 months after the date the Applicant received notification of allocation from the Division, the Director may require the Applicant to provide all of the following:</p>
+              </content>
+              <paragraph eId="sec_35-31-20__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a viable financial plan which demonstrates by way of an executed agreement that all financing has been secured for the project; such financing shall include, but not be limited to, equity investment as demonstrated by letters of commitment from the owner of the property, investment partners, and equity investors;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(blank); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-31-20__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>all historic approvals, including all federal and State rehabilitation documents required by the Division. The Director shall review the submitted evidence and may request additional documentation from the Applicant if necessary. The Applicant will have 30 calendar days to provide the information requested, otherwise the allocation may be rescinded at the discretion of the Director.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-31-20__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>In order to demonstrate sufficient evidence of reviewable progress within 24 months after the date the application received notification of approval from the Division, the Director may require the Applicant to provide detailed evidence that the Applicant has secured and closed on financing for the complete scope of rehabilitation for the project. To demonstrate evidence that the Applicant has secured and closed on financing, the Applicant will need to provide signed and processed loan agreements, bank financing documents or other legal and contractual evidence to demonstrate that adequate financing is available to complete the project. The Director shall review the submitted evidence and may request additional documentation from the Applicant if necessary. The Applicant will have 30 calendar days to provide the information requested, otherwise the allocation may be rescinded at the discretion of the Director. If the Applicant fails to document reviewable progress within 24 months of approval, the Director may notify the Applicant that the allocation is rescinded. However, should financing and construction be imminent, the Director may elect to grant the Applicant no more than 5 months to close on financing and commence construction. If the Applicant fails to meet these conditions in the required timeframe, the Director shall notify the Applicant that the allocation is rescinded. Any such rescinded allocation shall be added to the aggregate amount of credits available for allocation for the year in which the forfeiture occurred. The amount of the qualified expenditures identified in the qualified taxpayer's certification of completion and reflected on the Historic Preservation Tax Credit certificate issued by the Director is subject to inspection, examination, and audit by the Department of Revenue. The</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-741, eff. 5-6-22; 103-9, eff. 6-7-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-31-25">
+            <num>25</num>
+            <heading>Powers</heading>
+            <content>
+              <p>The Division may adopt rules for the administration of this Act. The Division may enter into an intergovernmental agreement with the Department of Commerce and Economic Opportunity, the Department of Revenue, or both, for the administration of this Act. Such intergovernmental agreement may allow for the distribution of all or a portion of the issuance fee imposed under Section 10 to the Department of Commerce and Economic Opportunity or the Department of Revenue, as applicable.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-741, eff. 5-6-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-31-900">
+            <num>900</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 100-629, eff. 1-1-19; text omitted.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Spri</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-629, eff. 1-1-19; text omitted.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-110"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-110"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-110"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-110/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-110/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-110/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-110/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_110">
+          <num>35 ILCS 110/</num>
+          <heading>Service Use Tax Act</heading>
+          <section eId="sec_35-110-1">
+            <num>1</num>
+            <heading>This Act shall be known and may be cited as the "Service Use Tax
+Act", and the tax imposed by this Act may be referred to as the "Service
+Use Tax"</heading>
+            <content>
+              <p>(Source: Laws 1961, p. 1757.) (35 ILCS 110/1.05) Sec. 1.05. Legislative intent; leases. It is the intent of the General Assembly in enacting this amendatory Act of the 103rd General Assembly to apply the tax imposed under this Act, except as otherwise provided in this Act, to the privilege of using tangible personal property, other than motor vehicles, watercraft, aircraft, and semitrailers, as defined in Section 1-187 of the Illinois Vehicle Code, that are required to be registered with an agency of this State, transferred by lease, as an incident of a purchase of service, for leases in effect, entered into, or renewed on or after January 1, 2025. (Source: P.A. 103-592, eff. 1-1-25 .) (35 ILCS 110/2) (from Ch. 120, par. 439.32)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-2">
+            <num>2</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-110-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>which is sold in the regular course of business or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>which the person incorporating such ingredient or constituent therein has undertaken at the time of such purchase to cause to be transported in interstate commerce to destinations outside the State of Illinois. "Lease" means a transfer of the possession or control of, the right to possess or control, or a license to use, but not title to, tangible personal property for a fixed or indeterminate term for consideration, regardless of the name by which the transaction is called. "Lease" does not include a lease entered into merely as a security agreement that does not involve a transfer of possession from the lessor to the lessee. On and after January 1, 2025, the term "sale", when used in this Act with respect to tangible personal property, includes a lease. "Purchased from a serviceman" means the acquisition of the ownership of, the title to, the possession or control of, the right to possess or control, or a license to use, tangible personal property through a sale of service. "Purchaser" means any person who, through a sale of service, acquires the ownership of, the title to, the possession or control of, the right to possess or control, or a license to use, any tangible personal property. "Cost price" means the consideration paid by the serviceman for a purchase, including, on and after January 1, 2025, a lease, valued in money, whether paid in money or otherwise, including cash, credits and services, and shall be determined without any deduction on account of the supplier's cost of the property sold or on account of any other expense incurred by the supplier. When a serviceman contracts out part or all of the services required in his sale of service, it shall be presumed that the cost price to the serviceman of the property transferred to him or her by his or her subcontractor is equal to 50% of the subcontractor's charges to the serviceman in the absence of proof of the consideration paid by the subcontractor for the purchase of such property. "Selling price" mea</p>
+              </content>
+              <paragraph eId="sec_35-110-2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a retail sale of tangible personal property taxable under the Retailers' Occupation Tax Act or under the Use Tax Act.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a sale of tangible personal property for the purpose of resale made in compliance with Section 2c of the Retailers' Occupation Tax Act.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>except as hereinafter provided, a sale or transfer of tangible personal property as an incident to the rendering of service for or by any governmental body, or for or by any corporation, society, association, foundation or institution organized and operated exclusively for charitable, religious or educational purposes or any not-for-profit corporation, society, association, foundation, institution or organization which has no compensated officers or employees and which is organized and operated primarily for the recreation of persons 55 years of age or older. A limited liability company may qualify for the exemption under this paragraph only if the limited liability company is organized and operated exclusively for educational purposes.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>(blank). (4a) a sale or transfer of tangible personal property as an incident to the rendering of service for owners or lessors, lessees, or shippers of tangible personal property which is utilized by interstate carriers for hire for use as rolling stock moving in interstate commerce so long as so used by interstate carriers for hire, and equipment operated by a telecommunications provider, licensed as a common carrier by the Federal Communications Commission, which is permanently installed in or affixed to aircraft moving in interstate commerce. (4a-5) on and after July 1, 2003 and through June 30, 2004, a sale or transfer of a motor vehicle of the second division with a gross vehicle weight in excess of 8,000 pounds as an incident to the rendering of service if that motor vehicle is subject to the commercial distribution fee imposed under Section 3-815.1 of the Illinois Vehicle Code. Beginning on July 1, 2004 and through June 30, 2005, the use in this State of motor vehicles of the second division:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-110-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>with a gross vehicle weight rating in excess of 8,000 pounds; (ii) that are subject to the commercial distribution fee imposed under Section 3-815.1 of the Illinois Vehicle Code; and (iii) that are primarily used for commercial purposes. Through June 30, 2005, this exemption applies to repair and replacement parts added after the initial purchase of such a motor vehicle if that motor vehicle is used in a manner that would qualify for the rolling stock exemption otherwise provided for in this Act. For purposes of this paragraph, "used for commercial purposes" means the transportation of persons or property in furtherance of any commercial or industrial enterprise whether for-hire or not.</p>
+              </content>
+              <paragraph eId="sec_35-110-2__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a sale or transfer of machinery and equipment used primarily in the process of the manufacturing or assembling, either in an existing, an expanded or a new manufacturing facility, of tangible personal property for wholesale or retail sale or lease, whether such sale or lease is made directly by the manufacturer or by some other person, whether the materials used in the process are owned by the manufacturer or some other person, or whether such sale or lease is made apart from or as an incident to the seller's engaging in a service occupation and the applicable tax is a Service Use Tax or Service Occupation Tax, rather than Use Tax or Retailers' Occupation Tax. The exemption provided by this paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>includes production related tangible personal property, as defined in Section 3-50 of the Use Tax Act, purchased on or after July 1, 2019. The exemption provided by this paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>does not include machinery and equipment used in</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-110-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the generation of electricity for wholesale or retail sale; (ii) the generation or treatment of natural or artificial gas for wholesale or retail sale that is delivered to customers through pipes, pipelines, or mains; or (iii) the treatment of water for wholesale or retail sale that is delivered to customers thr</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25; 104-6, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-2a">
+            <num>2a</num>
+            <heading>"Pollution control facilities" means any system, method,
+construction, device or appliance appurtenant thereto used in this State
+acquired as an incident to the purchase of a service from a serviceman for
+the primary purpose of eliminating, preventing, or reducing air and water
+pollution as the term "air pollution" or "water pollution" is defined in
+the "Environmental Protection Act", enacted by the 76th General Assembly,
+or for the primary purpose of treating, pretreating, modifying or disposing
+of any potential solid, liquid or gaseous pollutant which if released
+without such treatment, pretreatment, modification or disposal might be
+harmful, detrimental or offensive to human, plant or animal life, or to
+property</heading>
+            <content>
+              <p>Until July 1, 2003, the purchase, employment or transfer of such tangible
+personal property
+as pollution control facilities is not a purchase, use or sale of service
+or of tangible personal property within the meaning of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-24, eff. 6-20-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-2b">
+            <num>2b</num>
+            <heading>"Low sulfur dioxide emission coal fueled devices" means any device
+sold or used or intended for the purpose of burning, combusting or converting
+locally available coal in a manner which eliminates or significantly reduces
+the need for additional sulfur dioxide abatement that would otherwise be
+required under State or Federal air emission standards</heading>
+            <content>
+              <p>Such device includes all machinery, equipment, structures and all related apparatus of
+a coal gasification facility, including coal feeding equipment, designed
+to convert locally available coal into a low sulfur gaseous fuel and to
+manage all waste and byproduct streams. The purchase, employment and transfer of such tangible personal property
+as low sulfur dioxide emission coal fueled devices is not a purchase, use
+or sale of tangible personal property. This amendatory Act of 1981 is not intended to nor does it make any change
+in the meaning of any provision in this Section but is intended to remove
+possible ambiguities, thereby confirming the existing meaning of this Section
+in effect prior to the effective date of this amendatory Act of 1981.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-672.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-2d">
+            <num>2d</num>
+            <heading>Marketplace facilitators and marketplace servicemen</heading>
+            <subsection eId="sec_35-110-2d__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Definitions. For purposes of this Section: "Affiliate" means a person that, with respect to another person:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>has a direct or indirect ownership interest of more than 5% in the other person; or (ii) is related to the other person because a third person, or group of third persons who are affiliated with each other as defined in this subsection, holds a direct or indirect ownership interest of more than 5% in the related person. "Marketplace" means a physical or electronic place, forum, platform, application, or other method by which a marketplace serviceman makes or offers to make sales of service. "Marketplace facilitator" means a person who, pursuant to an agreement with an unrelated third-party marketplace serviceman, directly or indirectly through one or more affiliates facilitates sales of service by that unrelated third-party marketplace serviceman through:</p>
+              </content>
+              <paragraph eId="sec_35-110-2d__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>listing or advertising for sale by the marketplace serviceman in a marketplace, sales of service that are subject to tax under this Act; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>either directly or indirectly, through agreements or arrangements with third parties, collecting payment from the customer and transmitting that payment to the marketplace serviceman regardless of whether the marketplace facilitator receives compensation or other consideration in exchange for its services. "Marketplace serviceman" means a person that makes or offers to make a sale of service through a marketplace operated by an unrelated third-party marketplace facilitator.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Beginning January 1, 2020 and through December 31, 2025, a marketplace facilitator who meets either of the following thresholds is considered the serviceman for each sale of service made through its marketplace:</p>
+              </content>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the cumulative gross receipts from sales of service to purchasers in Illinois by the marketplace facilitator and by marketplace servicemen selling through the marketplace are $100,000 or more; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the marketplace facilitator and marketplace servicemen selling through the marketplace cumulatively enter into 200 or more separate transactions for the sale of service to purchasers in Illinois. A marketplace facilitator shall determine on a quarterly basis, ending on the last day of March, June, September, and December, whether the marketplace facilitator meets the threshold of either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>for the preceding 12-month period. If the marketplace facilitator meets the threshold of either paragraph</p>
+              </content>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for a 12-month period, it is considered a serviceman maintaining a place of business in this State and is required to collect and remit the tax imposed under this Act and file returns for one year. At the end of that one-year period, the marketplace facilitator shall determine whether the marketplace facilitator met the threshold of either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>during the preceding 12-month period. If the marketplace facilitator met the threshold in either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the preceding 12-month period, it is considered a serviceman maintaining a place of business in this State and is required to collect and remit the tax imposed under this Act and file returns for the subsequent year. If, at the end of a one-year period, a marketplace facilitator that was required to collect and remit the tax imposed under this Act determines that it did not meet the threshold in either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>during the preceding 12-month period, the marketplace facilitator shall subsequently determine on a quarterly basis, ending on the last day of March, June, September, and December, whether it meets the threshold of either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the preceding 12-month period. (b-5) Beginning on January 1, 2026, a marketplace facilitator whose cumulative gross receipts from sales of service to purchasers in Illinois by the marketplace facilitator and by marketplace servicemen selling through the marketplace are $100,000 or more is engaged in the business of making sales of service in Illinois for purposes of this Act for each sale of service made through the marketplace. A marketplace facilitator shall determine on a quarterly basis, ending on the last day of March, June, September, and December, whether the marketplace facilitator meets the threshold in this subsection (b-5) for the preceding 12-month period. If the marketplace facilitator meets the threshold for a 12-month period, the marketplace facilitator is considered a serviceman maintaining a place of business in this State and is required to collect and remit the tax imposed under this Act and file returns for one year. At the end of the one-year period, the marketplace facilitator shall determine whether the marketplace facilitator met the threshold during the preceding 12-month period. If the marketplace facilitator met the threshold for the preceding 12-month period, the marketplace facilitator is considered a serviceman maintaining a place of business in this State and is required to collect and remit the tax imposed under this Act and file returns for the subsequent year. If at the end of a one-year period a marketplace facilitator that was required to collect and remit the tax imposed under this Act determines that the marketplace facilitator did not meet the threshold during the preceding 12-month period, the marketplace facilitator shall subsequently determine on a quarterly basis, ending on the last day of March, June, September, and December, whether it meets the threshold for the preceding 12-month period.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A marketplace facilitator considered to be the serviceman pursuant to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>or, beginning January 1, 2026, subsection (b-5) of this Section is considered the serviceman for each sale of service made through its marketplace and is liable for collecting and remitting the tax under this Act on all such sales. The marketplace facilitator has all the rights and duties, and is required to comply with the same requirements and procedures, as all other servicemen maintaining a place of business in this State who are registered or who are required to be registered to collect and remit the tax imposed by this Act with respect to such sales.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A marketplace facilitator shall:</p>
+              </content>
+              <paragraph eId="sec_35-110-2d__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>certify to each marketplace serviceman that the marketplace facilitator assumes the rights and duties of a serviceman under this Act with respect to sales of service made by the marketplace serviceman through the marketplace; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-110-2d__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>collect taxes imposed by this Act as required by Section 3-40 of this Act for sales of service made through the marketplace.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>A marketplace serviceman shall retain books and records for all sales of service made through a marketplace in accordance with the requirements of Section 11.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>A marketplace serviceman shall furnish to the marketplace facilitator information that is necessary for the marketplace facilitator to correctly collect and remit taxes for a sale of service. Such information includes the cost price of any item transferred incident to a sale of service under this Act when the cost price of an item exceeds 50% of the entire billing to the service customer of a sale of service made through the marketplace. The information may include a certification that an item transferred incident to a sale of service under this Act is taxable, not taxable, exempt from taxation, or taxable at a specified rate. A marketplace serviceman shall be held harmless for liability for the tax imposed under this Act when a marketplace facilitator fails to correctly collect and remit tax after having been provided with information by a marketplace serviceman to correctly collect and remit taxes imposed under this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-2d__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If the marketplace facilitator demonstrates to the satisfaction of the Department that its failure to correctly collect and remit tax on a sale of service resulted from the marketplace facilitator's good faith reliance on incorrect or insufficient information provided by a marketplace serviceman, it shall be relieved of liability for</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-3">
+            <num>3</num>
+            <heading>Tax imposed</heading>
+            <content>
+              <p>A tax is imposed upon the privilege of using in this State real or tangible personal property acquired, which, on and after January 1, 2025, includes tangible personal property acquired through a lease, as an incident to the purchase of a service from a serviceman, including computer software, and including photographs, negatives, and positives that are the product of photoprocessing, but not including products of photoprocessing produced for use in motion pictures for public commercial exhibition. Beginning January 1, 2001, prepaid telephone calling arrangements shall be considered tangible personal property subject to the tax imposed under this Act regardless of the form in which those arrangements may be embodied, transmitted, or fixed by any method now known or hereafter developed. Purchases of (1) electricity delivered to customers by wire; (2) natural or artificial gas that is delivered to customers through pipes, pipelines, or mains; and (3) water that is delivered to customers through pipes, pipelines, or mains are not subject to tax under this Act. The provisions of this amendatory Act of the 98th General Assembly are declaratory of existing law as to the meaning and scope of this Act. The imposition of the tax under this Act on leases applies to leases of tangible personal property in effect, entered into, or renewed on or after January 1, 2025. In the case of leases, except as otherwise provided in this Act, the serviceman who is a lessor, in collecting the tax, may collect for each tax return period only the tax applicable to that part of the selling price actually received during such tax return period.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-3a">
+            <num>3a</num>
+            <heading>The tax imposed by this Act may be stated as a distinct item
+separate and apart from the selling price of the service, and shall be so
+stated when requested by the buyer</heading>
+            <content>
+              <p>(Source: Laws 1961, p. 1757.) (35 ILCS 110/3c) (from Ch. 120, par. 439.33c)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-3c">
+            <num>3c</num>
+            <heading>For purposes of this Act, a corporation, limited liability
+company, society, association, foundation or institution organized and operated
+exclusively for educational purposes shall include:  all tax-supported public
+schools; private schools which offer systematic instruction in useful branches
+of learning by methods common to public schools and which compare favorably in
+their scope and intensity with the course of study presented in tax-supported
+schools; vocational or technical schools or institutes organized and operated
+exclusively to provide a course of study of not less than 6 weeks duration and
+designed to prepare individuals to follow a trade or to pursue a manual,
+technical, mechanical, industrial, business or commercial occupation</heading>
+            <content>
+              <p>However, a corporation, limited liability company, society, association,
+foundation or institution organized and operated for the purpose of offering
+professional, trade or business seminars of short duration, self-improvement or
+personality development courses, courses which are avocational or recreational
+in nature, courses pursued entirely by open circuit television or radio,
+correspondence courses, or courses which do not provide specialized training
+with a specific vocational or technical field shall not be considered to be
+organized and operated exclusively for educational purposes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-480.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-3d">
+            <num>3d</num>
+            <heading>(1) Except as provided in paragraph (2) of this Section, the
+selling price of each item of tangible personal property transferred
+incident to a sale of service may be stated as a distinct item by the
+serviceman to the service customer and the tax imposed by this Act shall
+when collected be stated as a distinct item separate and apart from the
+selling price of the tangible personal property</heading>
+            <content>
+              <p>If the selling price of
+each item of tangible personal property transferred incidental to a sale of
+service is not stated as a separate item on the serviceman's billing to the
+service customer, then the tax imposed by this Act shall be based on 50% of
+the serviceman's entire billing to the service customer. (2) When a serviceman contracts to design, develop and produce special
+order machinery or equipment, the tax imposed by this Act shall be based on
+the serviceman's cost price of the tangible personal property transferred
+incident to the completion of the contract.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-4">
+            <num>4</num>
+            <heading>Evidence that property was sold by any person for delivery to a
+person residing or engaged in business in this State shall be prima facie
+evidence that such property was sold for use in this State</heading>
+            <content>
+              <p>(Source: Laws 1961, p. 1757.) (35 ILCS 110/5) (from Ch. 120, par. 439.35)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-5">
+            <num>5</num>
+            <heading>Every serviceman maintaining a place of business in this State
+and making sales of service involving the incidental transfer of property
+for use in this State (whether those sales are made within or
+without this State) shall, when collecting the tax as provided in Section
+3-40 of this Act from the purchaser, give to the purchaser (if
+demanded by the purchaser) a receipt for the tax in the
+manner and form prescribed by the Department</heading>
+            <content>
+              <p>The receipt
+shall be sufficient to relieve the purchaser from further liability for the
+tax to which the receipt may refer. Each serviceman
+shall list with the Department the names and addresses of all of his
+or her agents operating in this State and the location of any and all
+of his or her distribution or sales houses, offices, or other
+places of business in this State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-1475.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-6">
+            <num>6</num>
+            <heading>A serviceman maintaining a place of business in this State, if
+required to register under the Retailers' Occupation Tax Act, or under
+the Use Tax Act, or under the Service Occupation Tax Act, need not
+obtain an additional Certificate of Registration under this Act, but shall
+be deemed to be sufficiently registered by virtue of his being registered
+under the Retailers' Occupation Tax Act, or under the Use Tax Act, or under
+the Service Occupation Tax Act</heading>
+            <content>
+              <p>Every serviceman maintaining a place of
+business in this State, if not required to register under the Retailers'
+Occupation Tax Act, or under the Use Tax Act, or under the Service
+Occupation Tax Act, shall apply to the Department (upon a form prescribed
+and furnished by the Department) for a Certificate of Registration under
+this Act. In completing such application, the applicant shall furnish such
+information as the Department may reasonably require. Upon approval of an
+application for Certificate of Registration, the Department shall issue,
+without charge, a Certificate of Registration to the applicant. Such
+Certificate of Registration shall be displayed at the address which the
+applicant states in his application to be the principal place of business
+or location from which he will act as a serviceman in this State. If the
+applicant will act as a serviceman in this State from other places of
+business or locations, he shall list the addresses of such additional
+places of business or locations in his application for Certificate of
+Registration, and the Department shall issue a Sub-Certificate of
+Registration to the applicant for each such additional place of business or
+location. Each Sub-Certificate of Registration shall be conspicuously
+displayed at the place for which it is issued. Such Sub-Certificate of
+Registration shall bear the same registration number as that appearing upon
+the Certificate of Registration to which such Sub-Certificates relate.
+Where a serviceman operates more than one place of business which is
+subject to registration under this Section and such businesses are
+substantially different in character or are engaged in under different
+trade names or are engaged in under other substantially dissimilar
+circumstances (so that it is more practicable, from an accounting, auditing
+or bookkeeping standpoint, for such businesses to be separately
+registered), the Department may require or permit such person to apply for
+and obtain a separate Certificate of Registration for each such business or
+for any of such businesses instead of registering such person, as to all
+such businesses, under a single Certificate of Registration supplemented by
+related Sub-Certificates of Registration. No Certificate of Registration
+shall be issued to any person who is in default to the State of Illinois
+for moneys due hereunder.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-7">
+            <num>7</num>
+            <heading>The Department may, in its discretion, upon application, authorize
+the collection of the tax herein imposed by any serviceman not maintaining
+a place of business within this State, who, to the satisfaction of the
+Department, furnishes adequate security to insure collection and payment of
+the tax</heading>
+            <content>
+              <p>Such serviceman shall be issued, without charge, a permit to
+collect such tax. When so authorized, it shall be the duty of such
+serviceman to collect the tax upon all tangible personal property sold to
+his knowledge for use within this State, in the same manner and subject to
+the same requirements, including the furnishing of a receipt to the
+purchaser (if demanded by the purchaser), as a serviceman maintaining a
+place of business within this State. The receipt given to the purchaser
+shall be sufficient to relieve him from further liability for the tax to
+which such receipt may refer. Such permit may be revoked by the Department
+as provided herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-7a">
+            <num>7a</num>
+            <heading>It is unlawful for any serviceman to advertise or hold out or
+state to the public or to any service customer, purchaser, consumer or
+user, directly or indirectly, that the tax imposed by this Act or any part
+thereof will be assumed or absolved by the serviceman or that it will not
+be added to the selling price of the property transferred as an incident to
+a sale of service, or if added that it or any part thereof will be refunded
+other than when the serviceman refunds the selling price and tax because of
+the merchandise being returned to the serviceman or other than when the
+serviceman credits or refunds the tax to the service customer to support a
+claim filed with the Department under the Service Occupation
+Tax Act or under this Act</heading>
+            <content>
+              <p>Any person violating any of the provisions of
+this Section within the State shall be guilty of a Class A misdemeanor.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-8">
+            <num>8</num>
+            <heading>Any
+serviceman required to collect the tax imposed by this Act
+shall be liable to the Department for the tax, whether or not the tax has been
+collected by the serviceman, except when the serviceman is relieved of the duty
+of remitting the tax to the Department by virtue of having paid a tax imposed
+by the Service Occupation Tax Act upon his or her sale of service involving the
+incidental transfer by him or her of the same property</heading>
+            <content>
+              <p>To the extent that a
+serviceman required to collect the tax imposed by this Act has actually
+collected that tax, the tax is held in trust for the benefit of the
+Department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-203, eff. 7-20-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-9">
+            <num>9</num>
+            <heading>Each serviceman required or authorized to collect the tax herein imposed shall pay to the Department the amount of such tax (except as otherwise provided) at the time when he is required to file his return for the period during which such tax was collected, less a discount of 2</heading>
+            <subsection eId="sec_35-110-9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 49 U.S.C. 47133. The discount allowed under this Section is allowed only for returns that are filed in the manner required by this Act. The Department may disallow the discount for servicemen whose certificate of registration is revoked at the time the return is filed, but only if the Department's decision to revoke the certificate of registration has become final. A serviceman need not remit that part of any tax collected by him to the extent that he is required to pay and does pay the tax imposed by the Service Occupation Tax Act with respect to his sale of service involving the incidental transfer by him of the same property. Except as provided hereinafter in this Section, on or before the twentieth day of each calendar month, such serviceman shall file a return for the preceding calendar month in accordance with reasonable Rules and Regulations to be promulgated by the Department. Such return shall be filed on a form prescribed by the Department and shall contain such information as the Department may reasonably require. The return shall include the gross receipts which were received during the preceding calendar month or quarter on the following items upon which tax would have been due but for the 0% rate imposed under Public Act 102-700:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-9__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>food for human consumption that is to be consumed off the premises where it is sold (other than alcoholic beverages, food consisting of or infused with adult use cannabis, soft drinks, and food that has been prepared for immediate consumption); and (ii) food prepared for immediate consumption and transferred incident to a sale of service subject to this Act or the Service Occupation Tax Act by an entity licensed under the Hospital Licensing Act, the Nursing Home Care Act, the Assisted Living and Shared Housing Act, the ID/DD Community Care Act, the MC/DD Act, the Specialized Mental Health Rehabilitation Act of 2013, or the Child Care Act of 1969, or an entity that holds a permit issued pursuant to the Life Care Facilities Act. The return shall also include the amount of tax that would have been due on the items listed in the previous sentence but for the 0% rate imposed under Public Act 102-700. In the case of leases, except as otherwise provided in this Act, the lessor, in collecting the tax, may collect for each tax return period only the tax applicable to that part of the selling price actually received during such tax return period. On and after January 1, 2018, with respect to servicemen whose annual gross receipts average $20,000 or more, all returns required to be filed pursuant to this Act shall be filed electronically. Servicemen who demonstrate that they do not have access to the Internet or demonstrate hardship in filing electronically may petition the Department to waive the electronic filing requirement. The Department may require returns to be filed on a quarterly basis. If so required, a return for each calendar quarter shall be filed on or before the twentieth day of the calendar month following the end of such calendar quarter. The taxpayer shall also file a return with the Department for each of the first two months of each calendar quarter, on or before the twentieth day of the following calendar month, stating: 1. The name of the seller; 2. The a</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 2505-210 of the Department of Revenue Law shall make all payments required by rules of the Department by electronic funds transfer. Before August 1 of each year beginning in 1993, the Department shall notify all taxpayers required to make payments by electronic funds transfer. All taxpayers required to make payments by electronic funds transfer shall make those payments for a minimum of one year beginning on October 1. Any taxpayer not required to make payments by electronic funds transfer may make payments by electronic funds transfer with the permission of the Department. All taxpayers require</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-363, eff. 7-28-23; 103-592, Article 75, Section 75-10, eff. 1-1-25; 103-592, Article 110, Section 110-10, eff. 6-7-24; 104-6, Article 5, Section 5-15, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-9">
+            <num>9</num>
+            <heading>Each serviceman required or authorized to collect the tax herein imposed shall pay to the Department the amount of such tax (except as otherwise provided) at the time when he is required to file his return for the period during which such tax was collected, less a discount of 2</heading>
+            <subsection eId="sec_35-110-9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 49 U.S.C. 47133. The discount allowed under this Section is allowed only for returns that are filed in the manner required by this Act. The Department may disallow the discount for servicemen whose certificate of registration is revoked at the time the return is filed, but only if the Department's decision to revoke the certificate of registration has become final. A serviceman need not remit that part of any tax collected by him to the extent that he is required to pay and does pay the tax imposed by the Service Occupation Tax Act with respect to his sale of service involving the incidental transfer by him of the same property. Except as provided hereinafter in this Section, on or before the twentieth day of each calendar month, such serviceman shall file a return for the preceding calendar month in accordance with reasonable Rules and Regulations to be promulgated by the Department. Such return shall be filed on a form prescribed by the Department and shall contain such information as the Department may reasonably require. The return shall include the gross receipts which were received during the preceding calendar month or quarter on the following items upon which tax would have been due but for the 0% rate imposed under Public Act 102-700:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-9__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>food for human consumption that is to be consumed off the premises where it is sold (other than alcoholic beverages, food consisting of or infused with adult use cannabis, soft drinks, and food that has been prepared for immediate consumption); and (ii) food prepared for immediate consumption and transferred incident to a sale of service subject to this Act or the Service Occupation Tax Act by an entity licensed under the Hospital Licensing Act, the Nursing Home Care Act, the Assisted Living and Shared Housing Act, the ID/DD Community Care Act, the MC/DD Act, the Specialized Mental Health Rehabilitation Act of 2013, or the Child Care Act of 1969, or an entity that holds a permit issued pursuant to the Life Care Facilities Act. The return shall also include the amount of tax that would have been due on the items listed in the previous sentence but for the 0% rate imposed under Public Act 102-700. In the case of leases, except as otherwise provided in this Act, the lessor, in collecting the tax, may collect for each tax return period only the tax applicable to that part of the selling price actually received during such tax return period. On and after January 1, 2018, with respect to servicemen whose annual gross receipts average $20,000 or more, all returns required to be filed pursuant to this Act shall be filed electronically. Servicemen who demonstrate that they do not have access to the Internet or demonstrate hardship in filing electronically may petition the Department to waive the electronic filing requirement. The Department may require returns to be filed on a quarterly basis. If so required, a return for each calendar quarter shall be filed on or before the twentieth day of the calendar month following the end of such calendar quarter. The taxpayer shall also file a return with the Department for each of the first two months of each calendar quarter, on or before the twentieth day of the following calendar month, stating: 1. The name of the seller; 2. The a</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 2505-210 of the Department of Revenue Law shall make all payments required by rules of the Department by electronic funds transfer. Before August 1 of each year beginning in 1993, the Department shall notify all taxpayers required to make payments by electronic funds transfer. All taxpayers required to make payments by electronic funds transfer shall make those payments for a minimum of one year beginning on October 1. Any taxpayer not required to make payments by electronic funds transfer may make payments by electronic funds transfer with the permission of the Department. All taxpayers require</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-363, eff. 7-28-23; 103-592, Article 75, Section 75-10, eff. 1-1-25; 103-592, Article 110, Section 110-10, eff. 6-7-24; 104-6, Article 35, Section 35-25, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-9">
+            <num>9</num>
+            <heading>Each serviceman required or authorized to collect the tax herein imposed shall pay to the Department the amount of such tax (except as otherwise provided) at the time when he is required to file his return for the period during which such tax was collected, less a discount of 2</heading>
+            <subsection eId="sec_35-110-9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 49 U.S.C. 47133. The discount allowed under this Section is allowed only for returns that are filed in the manner required by this Act. The Department may disallow the discount for servicemen whose certificate of registration is revoked at the time the return is filed, but only if the Department's decision to revoke the certificate of registration has become final. A serviceman need not remit that part of any tax collected by him to the extent that he is required to pay and does pay the tax imposed by the Service Occupation Tax Act with respect to his sale of service involving the incidental transfer by him of the same property. Except as provided hereinafter in this Section, on or before the twentieth day of each calendar month, such serviceman shall file a return for the preceding calendar month in accordance with reasonable Rules and Regulations to be promulgated by the Department. Such return shall be filed on a form prescribed by the Department and shall contain such information as the Department may reasonably require. The return shall include the gross receipts which were received during the preceding calendar month or quarter on the following items upon which tax would have been due but for the 0% rate imposed under Public Act 102-700:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-9__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>food for human consumption that is to be consumed off the premises where it is sold (other than alcoholic beverages, food consisting of or infused with adult use cannabis, soft drinks, and food that has been prepared for immediate consumption); and (ii) food prepared for immediate consumption and transferred incident to a sale of service subject to this Act or the Service Occupation Tax Act by an entity licensed under the Hospital Licensing Act, the Nursing Home Care Act, the Assisted Living and Shared Housing Act, the ID/DD Community Care Act, the MC/DD Act, the Specialized Mental Health Rehabilitation Act of 2013, or the Child Care Act of 1969, or an entity that holds a permit issued pursuant to the Life Care Facilities Act. The return shall also include the amount of tax that would have been due on the items listed in the previous sentence but for the 0% rate imposed under Public Act 102-700. In the case of leases, except as otherwise provided in this Act, the lessor, in collecting the tax, may collect for each tax return period only the tax applicable to that part of the selling price actually received during such tax return period. On and after January 1, 2018, with respect to servicemen whose annual gross receipts average $20,000 or more, all returns required to be filed pursuant to this Act shall be filed electronically. Servicemen who demonstrate that they do not have access to the Internet or demonstrate hardship in filing electronically may petition the Department to waive the electronic filing requirement. The Department may require returns to be filed on a quarterly basis. If so required, a return for each calendar quarter shall be filed on or before the twentieth day of the calendar month following the end of such calendar quarter. The taxpayer shall also file a return with the Department for each of the first two months of each calendar quarter, on or before the twentieth day of the following calendar month, stating: 1. The name of the seller; 2. The a</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-110-9__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 2505-210 of the Department of Revenue Law shall make all payments required by rules of the Department by electronic funds transfer. Before August 1 of each year beginning in 1993, the Department shall notify all taxpayers required to make payments by electronic funds transfer. All taxpayers required to make payments by electronic funds transfer shall make those payments for a minimum of one year beginning on October 1. Any taxpayer not required to make payments by electronic funds transfer may make payments by electronic funds transfer with the permission of the Department. All taxpayers require</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-363, eff. 7-28-23; 103-592, Article 75, Section 75-10, eff. 1-1-25; 103-592, Article 110, Section 110-10, eff. 6-7-24; 104-417, eff. 8-15-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-10">
+            <num>10</num>
+            <heading>Where property is acquired as an incident to the purchase of a
+service from a serviceman for use in this State by a purchaser who did not
+pay the tax herein imposed to the serviceman, and who does not file returns
+with the Department as a serviceman under Section 9 of this Act, such
+purchaser (by the last day of the month following the calendar month in
+which such purchaser makes any payment upon the selling price of such
+property) shall, except as hereinafter provided in this Section, file a
+return with the Department and pay the tax upon that portion of the selling
+price so paid by the purchaser during the preceding calendar month</heading>
+            <content>
+              <p>Such
+return shall be filed on a form prescribed by the Department and shall
+contain such information as the Department may reasonably require. When a purchaser pays a tax herein imposed directly to the Department,
+the Department (upon request therefor from such purchaser) shall issue an
+appropriate receipt to such purchaser showing that he has paid such tax to
+the Department. Such receipt shall be sufficient to relieve the purchaser
+from further liability from the tax to which such receipt may refer. A user who is liable to pay Service Use Tax directly to the Department
+only occasionally and not on a frequently recurring basis, and who is not
+required to file returns within the Department as a serviceman under
+Section 9 of this Act, or as a serviceman under the "Service
+Occupation Tax Act", or as a retailer or user under the "Use Tax Act",
+or as a retailer under the "Retailers' Occupation Tax Act", need not
+register with the Department. However, if such a user has a frequently
+recurring direct Service Use Tax liability to pay to the Department, such
+user shall be required to register with the Department on forms prescribed
+by the Department and to obtain and display a certificate of registration
+from the Department. In that event, all of the provisions of Section 9 of
+this Act concerning the filing of regular monthly, quarterly or annual tax
+returns and all of the provisions of Section 2a of the "Retailers'
+Occupation Tax Act" concerning the requirements for registrants to post
+bond or other security with the Department, as the provisions of such
+sections now exist or may hereafter be amended, shall apply to such users
+to the same extent as if such provisions were included herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-10a">
+            <num>10a</num>
+            <heading>Notwithstanding any other provision to the contrary, any person
+who is required to file a bond pursuant to any provision of this Act and
+who has continuously complied with all provisions of this Act for 24 or
+more consecutive months, shall no longer be required to comply with the
+bonding provisions of this Act so long as such person continues his compliance
+with the provisions of this Act</heading>
+            <content>
+              <p>(Source: P.A. 84-1408.) (35 ILCS 110/11) (from Ch. 120, par. 439.41)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-1408.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-11">
+            <num>11</num>
+            <heading>Every serviceman required or authorized to collect taxes hereunder
+and every user who is subject to the tax imposed by this Act shall keep
+such records, receipts, invoices and other pertinent books, documents,
+memoranda and papers as the Department shall require, in such form as the
+Department shall require</heading>
+            <content>
+              <p>The Department may adopt rules that establish
+requirements, including record forms and formats, for records required to be
+kept and maintained by taxpayers. For purposes of this Section, "records" means
+all data maintained by the taxpayer, including data on paper, microfilm,
+microfiche or any type of machine-sensible data compilation. For the purpose of
+administering and enforcing the provisions hereof, the Department, or any
+officer or employee of the Department designated, in writing, by the Director
+thereof, may hold investigations and hearings concerning any matters covered
+herein and not otherwise delegated to the Illinois Independent Tax Tribunal and may examine any relevant books, papers, records, documents or
+memoranda of any serviceman or any taxable purchaser for use hereunder, and may
+require the attendance of such person or any officer or employee of such
+person, or of any person having knowledge of the facts, and may take testimony
+and require proof for its information. Any person who fails to keep books and records or fails to produce books and records for examination, as required by this Section and the rules adopted by the Department, is liable to pay to the Department, for deposit into the Tax Compliance and Administration Fund, a penalty of $1,000 for the first failure to keep books and records or produce books and records for examination and a penalty of $3,000 for each subsequent failure to keep books and records or produce books and records for examination as required by this Section and the rules adopted by the Department. The penalties imposed under this Section shall not apply if the taxpayer shows that he or she acted with ordinary business care and prudence. The Department may adopt rules to administer the penalties under this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-12">
+            <num>12</num>
+            <heading>Applicability of Retailers' Occupation Tax Act and Uniform Penalty and Interest Act</heading>
+            <content>
+              <p>All of the provisions of Sections 1d, 1e, 1f, 1i, 1j, 1j.1, 1k, 1m, 1n, 1o, 2-6, 2-12, 2-29, 2-54, 2a, 2b, 2c, 3 (except as to the disposition by the Department of the money collected under this Act), 4 (except that the time limitation provisions shall run from the date when gross receipts are received), 5 (except that the time limitation provisions on the issuance of notices of tax liability shall run from the date when the tax is due rather than from the date when gross receipts are received and except that in the case of a failure to file a return required by this Act, no notice of tax liability shall be issued on and after July 1 and January 1 covering tax due with that return during any month or period more than 6 years before that July 1 or January 1, respectively), 5a, 5b, 5c, 5d, 5e, 5f, 5g, 5j, 5k, 5l, 5m, 5n, 6d, 7, 8, 9, 10, 11 and 12 of the Retailers' Occupation Tax Act which are not inconsistent with this Act, and Section 3-7 of the Uniform Penalty and Interest Act, shall apply, as far as practicable, to the subject matter of this Act to the same extent as if such provisions were included herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-700, eff. 4-19-22; 103-9, eff. 6-7-23; 103-595, eff. 6-26-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-13">
+            <num>13</num>
+            <heading>Any non-resident of this State who accepts the privilege extended
+by the laws of this State to non-residents of acting as a serviceman
+maintaining a place of business in this State within the meaning of Section
+2 of this Act, and any resident of this State who incurs tax
+accountability under this Act as a serviceman and who subsequently removes
+from this State or conceals his whereabouts, and any person (resident or
+non-resident) who incurs tax liability under this Act as a user in this
+State and who removes from this State or conceals his whereabouts, shall be
+deemed thereby to appoint the Secretary of State of Illinois his agent for
+the service of process or notice in any judicial or administrative
+proceeding under this Act</heading>
+            <content>
+              <p>Such process or notice shall be served by the
+Department on the Secretary of State by leaving, at the office of the
+Secretary of State at least 15 days before the return day of such process
+or notice, a true and certified copy thereof, and by sending to the
+taxpayer by registered or certified mail, postage prepaid, a like and true
+certified copy, with an endorsement thereon of the service upon said
+Secretary of State, addressed to such taxpayer at his last known address. Service of process or notice in the manner provided for in this Section,
+under the circumstances specified in this Section, shall be of the same
+force and validity as if served upon the taxpayer personally within this
+State. Proof of such service upon the taxpayer in this State through the
+Secretary of State as his agent and by mailing to the last known address of
+the taxpayer may be made in such judicial or administrative proceeding by
+the affidavit of the Director of Revenue, or by his duly authorized
+representative who made such service, with a copy of the process or notice
+that was so served attached to such affidavit.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-14">
+            <num>14</num>
+            <heading>Whenever any serviceman not maintaining a place of business in
+this State, to whom a permit to collect the tax hereby imposed has been
+issued pursuant to Section 7 hereof, fails to comply with any of the
+provisions hereof or any orders, Rules or Regulations of the Department
+prescribed and adopted hereunder, or when the Department considers the
+security furnished by such serviceman to be inadequate or considers that
+the tax can be collected more effectively from persons using such property
+in this State, the Department may, upon notice and hearing as herein
+provided, by order revoke the permit issued to such serviceman</heading>
+            <content>
+              <p>No order
+authorized by this Section shall be made until the serviceman is given an
+opportunity to be heard and to show cause why such order shall not be made,
+and he shall be given at least 7 days' notice of the time, place and
+purpose of such hearing. The Department shall have the power in its
+discretion to issue a new permit pursuant to Section 7 hereof after such
+revocation.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-15">
+            <num>15</num>
+            <heading>When the amount due is under $300, any person subject to
+the provisions hereof who fails to file a
+return, or who violates any other provision of Section 9 or Section 10 hereof,
+or who fails to keep books and records as required herein, or who files a
+fraudulent return, or who wilfully violates any Rule or Regulation of the
+Department for the administration and enforcement of the provisions hereof,
+or any officer or agent of a corporation, or manager, member, or agent of a
+limited liability company, subject hereto who signs a fraudulent return filed
+on behalf of such corporation or limited liability company, or any accountant
+or other agent who knowingly enters false information on the return of any
+taxpayer under this Act, or any person who violates any of the provisions
+of Sections 3 and 5 hereof, or any purchaser who obtains a registration
+number or resale number from the Department through misrepresentation, or
+who represents to a seller that such purchaser has a registration number or
+a resale number from the Department when he knows that he does not, or who
+uses his registration number or resale number to make a seller believe that
+he is buying tangible personal property for resale when such purchaser in
+fact knows that this is not the case, is guilty of a Class 4 felony</heading>
+            <content>
+              <p>Any person who violates any provision of Section 6 hereof, or who
+engages in the business of making sales of service after his Certificate of
+Registration under this Act has been revoked in accordance with Section 12
+of this Act, is guilty of a Class 4 felony. Each day any such person
+is engaged in business in violation of Section 6, or after his Certificate of
+Registration under this Act has been revoked, constitutes a separate offense. When the amount due is under $300, any person who accepts money that
+is due to the Department under this Act from a taxpayer for the purpose of
+acting as the taxpayer's agent to make the payment to the Department, but who
+fails to remit such payment to the Department when due is guilty of a Class 4
+felony. Any such person who purports to make such payment by issuing or
+delivering a check or other order upon a real or fictitious depository for the
+payment of money, knowing that it will not be paid by the depository, shall be
+guilty of a deceptive practice in violation of Section 17-1 of the Criminal
+Code of 2012. When the amount due is $300 or more, any person subject to the
+provisions hereof who fails to file a return, or who violates any other
+provision of Section 9 or Section 10 hereof, or who fails to keep books and
+records as required herein or who files a fraudulent return, or who
+willfully violates any rule or regulation of the Department for the
+administration and enforcement of the provisions hereof, or any officer or
+agent of a corporation, or manager, member, or agent of a limited liability
+company, subject hereto who signs a fraudulent return filed on behalf of such
+corporation or limited liability company, or any accountant or other agent who
+knowingly enters false information on the return of any taxpayer under this
+Act, or any person who violates any of the provisions of Sections 3 and 5
+hereof, or any purchaser who obtains a registration number or resale number
+from the Department through misrepresentation, or who represents to a
+seller that such purchaser has a registration number or a resale number
+from the Department when he knows that he does not, or who uses his
+registration number or resale number to make a seller believe that he is buying tangible personal property for resale when such purchaser in
+fact knows that this is not the case, is guilty of a Class 3 felony. When the amount due is $300 or more, any person who accepts money that is
+due to the Department under this Act from a taxpayer for the purpose of
+acting as the taxpayer's agent to make the payment to the Department, but
+who fails to remit such payment to the Department when due is guilty of a
+Class 3 felony.  Any such person who purports to make such payment by
+issuing or delivering a check or other order upon a real or fictitious
+depository for the payment of money, knowing that it will not be paid by
+the depository, shall be guilty of a deceptive practice  in violation of
+Section 17-1 of the Criminal Code of 2012. Any serviceman who collects or attempts to collect Service Use Tax
+measured by receipts or selling prices which such serviceman knows are not
+subject to Service Use Tax, or any serviceman who knowingly over-collects
+or attempts to over-collect Service Use Tax in a transaction which is
+subject to the tax that is imposed by this Act, shall be guilty of a
+Class 4 felony for each offense. This paragraph does not apply to an amount
+collected by the serviceman as Service Use Tax on receipts or selling prices
+which are subject to tax under this Act as long as such collection is made
+in compliance with the tax collection brackets prescribed by the Department
+in its Rules and Regulations. Any taxpayer or agent of a taxpayer who with the intent to defraud
+purports to make a payment due to the Department by issuing or delivering a
+check or other order upon a real or fictitious depository for the payment
+of money, knowing that it will not be paid by the depository, shall be
+guilty of a deceptive practice in violation of Section 17-1 of the Criminal
+Code of 2012. Any person who knowingly sells, purchases, installs, transfers, possesses, uses, or accesses any automated sales suppression device, zapper, or phantom-ware in this State is guilty of a Class 3 felony. For the purposes of this Section: "Automated sales suppression device" or "zapper" means a software program that falsifies the electronic records of an electronic cash register or other point-of-sale system, including, but not limited to, transaction data and transaction reports.  The term includes the software program, any device that carries the software program, or an Internet link to the software program. "Phantom-ware" means a hidden programming option embedded in the operating system of an electronic cash register or hardwired into an electronic cash register that can be used to create a second set of records or that can eliminate or manipulate transaction records in an electronic cash register. "Electronic cash register" means a device that keeps a register or supporting documents through the use of an electronic device or computer system designed to record transaction data for the purpose of computing, compiling, or processing retail sales transaction data in any manner. "Transaction data" includes: items purchased by a customer; the price of each item; a taxability determination for each item; a segregated tax amount for each taxed item; the amount of cash or credit tendered; the net amount returned to the customer in change; the date and time of the purchase; the name, address, and identification number of the vendor; and the receipt or invoice number of the transaction. "Transaction report" means a report that documents, without limitation, the sales, taxes, or fees collected, media totals, and discount voids at an electronic cash register and that is printed on a cash register tape at the end of a day or shift, or a report that documents every action at an electronic cash register and is stored electronically. A prosecution for any act in violation of this Section may be commenced
+at any time within 3 years of the commission of that Act. This Section does not apply if the violation in a particular case also
+constitutes a criminal violation of the Retailers' Occupation Tax Act, the
+Use Tax Act or the Service Occupation Tax Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1150, eff. 1-25-13; 98-352, eff. 1-1-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-16">
+            <num>16</num>
+            <heading>The tax herein imposed shall be in addition to all other
+occupation or privilege taxes imposed by the State of Illinois or by any
+municipal corporation or political subdivision thereof</heading>
+            <content>
+              <p>(Source: Laws 1961, p. 1757.) (35 ILCS 110/17) (from Ch. 120, par. 439.47)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-17">
+            <num>17</num>
+            <heading>If it shall appear that an amount of tax or penalty or interest has
+been paid in error hereunder to the Department by a purchaser, as distinguished
+from the serviceman, whether such amount be paid through a mistake of fact
+or an error of law, such purchaser may file a claim for credit or refund
+with the Department</heading>
+            <content>
+              <p>If it shall appear that an amount of tax or penalty or
+interest has been paid in error to the Department hereunder by a serviceman
+who is required or authorized to collect and remit the Service Use Tax,
+whether such amount be paid through a mistake of fact or an error of law,
+such serviceman may file a claim for credit or refund with the Department,
+provided that no credit shall be allowed or refund made for any amount paid
+by any such serviceman unless it shall appear that he bore the burden of
+such amount and did not shift the burden thereof to anyone else (as in the
+case of a duplicated tax payment which the serviceman made to the
+Department and did not collect from anyone else), or unless it shall appear
+that he or his legal representative has unconditionally repaid such amount
+to his vendee (1) who bore the burden thereof and has not shifted such
+burden directly or indirectly in any manner whatsoever; (2) who, if he has
+shifted such burden, has repaid unconditionally such amount to his own
+vendee, and (3) who is not entitled to receive any reimbursement therefor
+from any other source than from his vendor, nor to be relieved of such
+burden in any other manner whatsoever. If it shall appear that an amount of
+tax has been paid in error hereunder by the purchaser to a serviceman, who
+retained such tax as reimbursement for his tax liability on the same sale
+of service under the Service Occupation Tax Act, and who paid such tax
+as required by the Service Occupation Tax Act, whether such amount be
+paid through a mistake of fact or an error of law, the procedure for
+recovering such tax shall be that prescribed in Sections 17, 18, 19 and 20
+of the Service Occupation Tax Act. Any credit or refund that is allowed under this Section shall bear interest
+at the rate and in the manner specified in the Uniform Penalty and Interest
+Act. Any claim filed hereunder shall be filed upon a form prescribed and
+furnished by the Department. The claim shall be signed by the claimant (or
+by the claimant's legal representative if the claimant shall have died or
+become a person under legal disability), or by a duly
+authorized agent of the claimant or his or her legal representative. A claim for credit or refund shall be considered to have been filed with
+the Department on the date upon which it is received by the Department.
+Upon receipt of any claim for credit or refund filed under this Act, any
+officer or employee of the Department, authorized in writing by the
+Director of Revenue to acknowledge receipt of such claims on behalf of the
+Department, shall execute on behalf of the Department, and shall deliver or
+mail to the claimant or his duly authorized agent, a written receipt,
+acknowledging that the claim has been filed with the Department, describing
+the claim in sufficient detail to identify it and stating the date upon
+which the claim was received by the Department. Such written receipt shall
+be prima facie evidence that the Department received the claim described in
+such receipt and shall be prima facie evidence of the date when such claim
+was received by the Department. In the absence of such a written receipt,
+the records of the Department as to when the claim was received by the
+Department, or as to whether or not the claim was received at all by the
+Department, shall be deemed to be prima facie correct upon these questions
+in the event of any dispute between the claimant (or his or her legal
+representative) and the Department concerning these questions. In case the Department determines that the claimant is entitled to a
+refund, such refund shall be made only from the Aviation Fuel Sales Tax Refund Fund or from such appropriation as may be
+available for that purpose, as appropriate. If it appears unlikely that the amount available
+ would permit everyone having a claim allowed during the period
+covered by such appropriation or from the Aviation Fuel Sales Tax Refund Fund, as appropriate, to elect to receive a cash refund, the
+Department, by rule or regulation, shall provide for the payment of refunds in
+hardship cases and shall define what types of cases qualify as hardship cases.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 101-10, eff. 6-5-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-18">
+            <num>18</num>
+            <heading>As soon as practicable after a claim for credit or refund is filed, the
+Department shall examine the same and determine the amount of credit or
+refund to which the claimant or the claimant's legal representative, in the
+event that the claimant shall have died or become a person under legal
+disability, is entitled
+and shall, by its Notice of Tentative Determination of Claim, notify the
+claimant or his legal representative of such determination, which
+determination shall be prima facie correct</heading>
+            <content>
+              <p>Proof of such determination by
+the Department may be made at any hearing before the Department or the Illinois Independent Tax Tribunal, as applicable, or in any
+legal proceeding by a reproduced copy of the Department's record relating
+thereto, in the name of the Department under the certificate of the
+Director of Revenue.  Such reproduced copy shall, without further proof, be
+admitted into evidence before the Department or in any legal proceeding and
+shall be prima facie proof of the correctness of the Department's
+determination, as shown therein. If such claimant, or the legal
+representative of a deceased claimant or a claimant
+who is a person under legal disability, shall, within 60 days
+after the Department's Notice of Tentative Determination of Claim, file a
+protest thereto and request a hearing thereon, the Department shall give
+notice to such claimant, or the legal representative of a deceased claimant
+or claimant who is a person under legal disability,
+of the time and place fixed for such hearing, and
+shall hold a hearing in conformity with the provisions of this Act, and
+pursuant thereto shall issue its Final Determination of the amount, if any,
+found to be due as a result of such hearing, to such claimant, or the legal
+representative of a deceased or incompetent claimant. If a protest to the Department's Notice of Tentative Determination of
+Claim is not filed within 60 days and a request for a hearing
+thereon is
+not made as provided herein, the Notice shall thereupon become and
+operate as a Final Determination; and, if the Department's Notice of
+Tentative Determination upon becoming a Final Determination, indicates no
+amount due to the claimant, or, upon issuance of a credit or refund for the
+amount, if any, found by the Department to be due, the claim in all its
+aspects shall be closed and no longer open to protest, hearing, judicial
+review, or by any other proceeding or action whatever, either before the
+Department or in any court of this State. Claims for credit or refund
+hereunder must be filed with and initially determined by the Department,
+the remedy herein provided being exclusive; and no court shall have
+jurisdiction to determine the merits of any claim except upon review as
+provided in this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-19">
+            <num>19</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 79-1365.  Repealed by P.A. 90-562, eff. 12-16-97.) (35 ILCS 110/20) (from Ch. 120, par. 439.50)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 79-1365.  Repealed by P.A. 90-562, eff. 12-16-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-20">
+            <num>20</num>
+            <heading>If it is determined that the Department should issue a credit or refund hereunder, the Department may first apply the amount thereof against any amount of tax or penalty or interest due hereunder, or under the Service Occupation Tax Act, the Retailers' Occupation Tax Act, the Use Tax Act, or any local occupation or use tax administered by the Department, from the person entitled to such credit or refund</heading>
+            <content>
+              <p>For this purpose, if proceedings are pending to determine whether or not any tax or penalty or interest is due hereunder, or under the Service Occupation Tax Act, the Retailers' Occupation Tax Act, the Use Tax Act, or any local occupation or use tax administered by the Department, from such person, the Department may withhold issuance of the credit or refund pending the final disposition of such proceedings and may apply such credit or refund against any amount found to be due to the Department as a result of such proceedings. The balance, if any, of the credit or refund shall be issued to the person entitled thereto. Any credit memorandum issued hereunder may be used by the authorized holder thereof to pay any tax or penalty or interest due or to become due under this Act, or under the Service Occupation Tax Act, the Retailers' Occupation Tax Act, the Use Tax Act, or any local occupation or use tax administered by the Department, from such holder. Subject to reasonable rules of the Department, a credit memorandum issued hereunder may be assigned by the holder thereof to any other person for use in paying tax or penalty or interest which may be due or become due under this Act, or under the Service Occupation Tax Act, the Retailers' Occupation Tax Act, the Use Tax Act, or any local occupation or use tax administered by the Department, from the assignee. In any case which there has been an erroneous refund of tax payable under this Act, a notice of tax liability may be issued at any time within 3 years from the making of that refund, or within 5 years from the making of that refund if it appears that any part of the refund was induced by fraud or the misrepresentation of a material fact. The amount of any proposed assessment set forth in the notice shall be limited to the amount of the erroneous refund.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-20a">
+            <num>20a</num>
+            <heading>The Illinois Administrative Procedure Act is hereby expressly
+adopted and shall apply to all administrative rules and procedures of the
+Department of Revenue under this Act, except that (1) paragraph (b) of Section
+5-10 of the Illinois Administrative Procedure Act does not apply to final
+orders, decisions and opinions of the Department, (2) subparagraph (a)2 of
+Section 5-10 of the Illinois Administrative Procedure Act does not apply to
+forms established by the Department for use under this Act, and (3) the
+provisions of Section 10-45 of the Illinois Administrative Procedure Act
+regarding proposals for decision are excluded and not applicable to the
+Department under this Act to the extent Section 10-45 applies to hearings not otherwise delegated to the Illinois Independent Tax Tribunal</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) (35 ILCS 110/21) (from Ch. 120, par. 439.51)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-110-21">
+            <num>21</num>
+            <heading>If any clause, sentence, Section, provision or part of this
+Act or the application thereof to any person or circumstance shall be
+adjudged to be unconstitutional, the remainder of this Act or its
+application to persons or circumstances other than those to which it is
+held invalid, shall not be affected thereby</heading>
+            <content>
+              <p>In particular, if any
+provision which exempts or has the effect of exempting some class of
+users or some kind of use from the tax imposed by this Act should be
+held to constitute or to result in an invalid classification or to be
+unconstitutional for some other reason, such provision shall be deemed
+to be severable, with the remainder of this Act without said provision
+being held constitutional.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1961, p. 1757.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

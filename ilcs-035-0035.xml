@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-35"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-35"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-35"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-35/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-35/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-35/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-35/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_35">
+          <num>35 ILCS 35/</num>
+          <heading>State Tax Preparer Oversight Act</heading>
+          <section eId="sec_35-35-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the State Tax Preparer Oversight Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-641, eff. 1-1-17 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-35-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act: "Department" means the Department of Revenue. "Income tax return preparer" has the meaning ascribed to that term in Section
+1501 of the Illinois Income Tax Act. "PTIN" means a Preparer Tax Identification Number, as defined in Internal Revenue Service Notice 2011-6.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-641, eff. 1-1-17 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-35-10">
+            <num>10</num>
+            <heading>Powers and duties of the Department</heading>
+            <subsection eId="sec_35-35-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For taxable years beginning on or after January 1, 2017, the Department shall, by rule, require any income tax return preparer, as defined in Section
+1501 of the Illinois Income Tax Act, to include his or her PTIN on any tax return prepared by the income tax return preparer and filed under the Illinois Income Tax Act or any claim for refund of tax imposed by the Illinois Income Tax Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department shall develop and by rule implement a program using the PTIN as an oversight mechanism to assess returns, to identify high error rates, patterns of suspected fraud, and unsubstantiated basis for tax positions by income tax return preparers.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department shall, by rule, establish formal and regular communication protocols with the Commissioner of the Internal Revenue Service to share and exchange PTIN information on income tax return preparers who are suspected of fraud, disciplined, or barred from filing tax returns with the Department or the Internal Revenue Service. The Department may, by rule, establish additional communication protocols with other states to exchange similar enforcement or discipline information.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-641, eff. 1-1-17 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-35-15">
+            <num>15</num>
+            <heading>Enforcement</heading>
+            <subsection eId="sec_35-35-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department may investigate the actions of any income tax return preparer doing business in the State and may bar or suspend an income tax return preparer from filing returns with the Department for good cause.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to any other penalty provided by law, any individual or person violating this Act by failing to provide his or her PTIN shall pay a civil penalty to the Department in the amount of $50 per offense, but not to exceed $25,000 per calendar year; however, no such penalty shall be imposed if it is shown that the failure is due to reasonable cause and not due to willful neglect, as determined by the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department shall, before taking any disciplinary action against an income tax return preparer under this Section, hold a hearing in accordance with this Act.  The Department shall,
+at least 30 days before the date set for the hearing,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-15__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>notify the accused in writing of the charges made and the time and place for the hearing on the charges, (ii) direct him or her to file a written answer to the charges with the Department under oath within 20 days after the service on him or her of the notice, and (iii) inform the accused that, if he or she fails to answer, disciplinary action shall be taken against him or her, as the Department may consider proper.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>At the time and place fixed in the notice, the Department shall proceed to hear the charges and the parties or their counsel shall be accorded ample opportunity to present any pertinent statements, testimony, evidence, and arguments. The Department may continue the hearing from time to time.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-15__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In case the person, after receiving the notice, fails to file an answer, he or she may be subject to the disciplinary action set forth in the notice. The written notice may be served by registered or certified mail to the person's address of record.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-15__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>All final administrative decisions of the Department under this Section shall be subject to judicial review pursuant to the provisions of the Administrative Review Law. The term "administrative decision" is defined as in Section 3-101 of the Code of Civil Procedure. Proceedings for judicial review shall be commenced in the Circuit Court of the county in which the party applying for review resides; provided, that if such party is not a resident of this State, the venue shall be in Sangamon or Cook County.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-35-15__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The Department shall not be required to certify any record to the court or file any answer in court or otherwise appear in any court in a judicial review proceeding, unless and until the Department has received from the plaintiff payment of the costs of furnishing and certifying the record, which costs shall be established by the Department. Exhibits shall be certified without cost. Failure on the part of the plaintiff to file such receipt in court shall be grounds for dismissal of the action.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-641, eff. 1-1-17 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-35-20">
+            <num>20</num>
+            <heading>Rules</heading>
+            <content>
+              <p>The Department shall adopt rules consistent with the provisions of this Act for the administration and enforcement of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-641, eff. 1-1-17 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-35-85">
+            <num>85</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 99-641, eff. 1-1-17; text omitted.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Sprin</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-641, eff. 1-1-17; text omitted.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

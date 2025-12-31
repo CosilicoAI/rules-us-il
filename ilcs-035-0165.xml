@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-165"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-165"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-165"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-165/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-165/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-165/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-165/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_165">
+          <num>35 ILCS 165/</num>
+          <heading>Governmental Tax Reform Validation Act</heading>
+          <section eId="sec_35-165-5">
+            <num>5</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Governmental Tax Reform Validation Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-10">
+            <num>10</num>
+            <heading>Re-enactment; findings; purpose; validation</heading>
+            <subsection eId="sec_35-165-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The General Assembly finds and declares that:</p>
+              </content>
+              <paragraph eId="sec_35-165-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The amendatory provisions of this Act were first enacted by Public Act 85-1135 and all related to taxation. (A) Article I of Public Act 85-1135, effective July 28, 1988, contained provisions stating legislative intent. (B) Article II of Public Act 85-1135, effective January 1, 1990, contained provisions amending or creating Sections 8-11-1, 8-11-1.1, 8-11-1.2, 8-11-1.3, 8-11-1.4, 8-11-5, 8-11-6, 8-11-6a, 8-11-16, and 11-74.4-8a of the Illinois Municipal Code; Sections 24a-1, 24a-2, 24a-3, 24a-4, and 25.05 of "An Act to revise the law in relation to counties"; Section 4 of the Water Commission Act of 1985; Section 5.01 of the Local Mass Transit District Act; Sections 4.01, 4.03, 4.04, and 4.09 of the Regional Transportation Authority Act; Sections 3, 9, and 10b of the Use Tax Act; Sections 2, 3, 3d, 7a, 9, 10, 10b, and 15 of the Service Use Tax Act;  Sections 2, 3, 9, 13, 15, and 20.1 of the Service Occupation Tax Act; Sections 2, 3, 5k, and 6d of the Retailers' Occupation Tax Act; and Sections 5.240, 5.241, 6z-16, and 6z-17 of the State Finance Act. Article II of Public Act 85-1135, effective January 1, 1990, also contained provisions repealing Sections 25.05a, 25.05-2, 25.05-2a, 25.05-3, 25.05-3a, 25.05-10, 25.05-10a, and 25.05-10.1 of "An Act to revise the law in relation to counties" and Sections 10 and 14 of the Service Occupation Tax Act. (C) Article III of Public Act 85-1135, effective September 1, 1988, contained provisions further amending Sections 3 and 9 of the Use Tax Act; Sections 2, 3, and 9 of the Service Use Tax Act; Sections 2, 3, and 9 of the Service Occupation Tax Act; and Sections 2 and 3 of the Retailers' Occupation Tax Act; and amending Section 2 of the State Revenue Sharing Act. (D) Article IV of Public Act 85-1135, effective July 28, 1988, contained provisions amending Section 6z-9 of the State Finance Act and creating Section .01 of the State Revenue Sharing Act. (E) Article V of Public Act 85-1135, effective July 28, 1988, contained provisio</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-165-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Public Act 85-1135 also contained provisions relating to State bonds and creating the Water Pollution Control Revolving Fund loan program.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-165-10__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>On August 26, 1998, the Cook County Circuit Court entered an order in the case of Oak Park Arms Associates v. Whitley (No. 92 L 51045), in which it found that Public Act 85-1135 violates the single subject clause of the Illinois Constitution (Article IV, Section 8</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-165-10__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The tax provisions of Public Act 85-1135 affect many areas of vital concern to the people of this State.  The disruption of the tax reform contained in those provisions could constitute a grave threat to the continued health, safety, and welfare of the people of this State.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-165-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>It is the purpose of this Act to prevent or minimize any problems
+relating to taxation that may result from challenges to the constitutional
+validity of Public Act 85-1135, by</p>
+              </content>
+              <paragraph eId="sec_35-165-10__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>re-enacting provisions
+from Public Act 85-1135 and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-165-10__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>validating all actions taken in reliance on
+those provisions from Public Act 85-1135.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-165-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Because Public Act 86-962, effective January 1, 1990, renumbered
+Sections
+24a-1, 24a-2, 24a-3, 24a-4, and 25.05 of the Counties Code, this Act contains
+those provisions as renumbered under Sections 5-1006, 5-1007, 5-1008, 5-1009,
+and 5-1024 of the Counties Code.  Because Public Act 86-1475, effective January
+10, 1991, resectioned Section 3 of the Use Tax Act, Section 3 of the Service
+Use Tax Act, Section 3 of the Service Occupation Tax Act, and Section 2 of the
+Retailers' Occupation Tax Act, this Act contains those provisions as
+resectioned under Sections 3, 3-5, 3-10, 3-15, 3-20, 3-25, 3-30, 3-35, 3-40,
+3-45, 3-50, 3-55, 3-60, 3-65, 3-70,
+3-75, and 3-80 of the Use Tax Act; Sections 3, 3-5, 3-10, 3-15, 3-20, 3-25,
+3-30, 3-35, 3-40, 3-45, 3-50, 3-55, 3-60, and 3-65 of the Service Use Tax Act;
+Sections 3, 3-5, 3-10, 3-15, 3-20, 3-25, 3-30, 3-35, 3-40, 3-45, and 3-50 of
+the Service Occupation Tax Act; and Sections 2, 2-5, 2-10, 2-15, 2-20, 2-25,
+2-30, 2-35, 2-40, 2-45, 2-50, 2-55, 2-60, 2-65 of the Retailers' Occupation
+Tax Act.  Because Public Act 85-1440, effective February 1, 1989, renumbered
+Section 6z-16 of the State Finance Act and Section .01 of the State Revenue
+Sharing Act, this Act contains those provisions as renumbered under Section
+6z-18 of the State Finance Act and Section 0.1 of the State Revenue Sharing
+Act.  Sections 10b of the Use Tax Act, 10b of the Service Use Tax Act,
+20.1 of the Service Occupation Tax Act, and
+6d of the Retailers' Occupation Tax Act have been omitted from this Act
+because they were repealed by Public Act 87-1258, effective January 7, 1993.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-165-10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This Act re-enacts
+Section 1 of Article I of Public Act 85-1135; Sections 8-11-1, 8-11-1.1,
+8-11-1.2, 8-11-1.3, 8-11-1.4, 8-11-5, 8-11-6, 8-11-6a, 8-11-16, and 11-74.4-8a
+of the Illinois Municipal Code; Sections 5-1006, 5-1007, 5-1008, 5-1009, and
+5-1024 of the Counties Code; Section 4 of the Water Commission Act of 1985;
+Section 5.01 of the Local Mass Transit District Act; Sections 4.01, 4.03, 4.04,
+and 4.09 of the Regional Transportation Authority Act; Sections 3, 3-5, 3-10,
+3-15, 3-20, 3-25, 3-30, 3-35, 3-40, 3-45, 3-50, 3-55, 3-60, 3-65,
+3-70, 3-75, 3-80, 9, and 10b of the Use Tax Act; Sections 2, 3, 3-5, 3-10,
+3-15, 3-20, 3-25, 3-30, 3-35, 3-40, 3-45, 3-50, 3-55, 3-60, 3-65, 3d, 7a, 9,
+10, 10b, and 15 of the Service Use Tax Act;  Sections 2, 3, 3-5, 3-10, 3-15,
+3-20, 3-25, 3-30, 3-35, 3-40, 3-45, 3-50, 9, 13, 15, and 20.1 of the Service
+Occupation Tax Act; Sections 2, 2-5, 2-10, 2-15, 2-20, 2-25, 2-30, 2-35, 2-40,
+2-45, 2-50, 2-55, 2-60, 2-65, 3, 5k, and 6d of the Retailers' Occupation Tax
+Act; Sections 5.240, 5.241, 6z-9, 6z-17, and 6z-18 of the State Finance Act;
+Sections 0.1 and 2 of the State Revenue Sharing Act; and Sections 1 and 2 of
+Article V of Public Act 85-1135 as they have been amended.  It also re-repeals
+Sections 25.05a, 25.05-2, 25.05-2a, 25.05-3, 25.05-3a, 25.05-10, 25.05-10a, and
+25.05-10.1 of "An Act to revise the law in relation to counties" and Sections
+10 and 14 of the Service Occupation Tax Act.
+This re-enactment and re-repeal is intended to remove any questions as to the
+validity or content of those Sections; it is not intended to supersede any
+other Public Act that amends the text of a Section as set forth in this Act.
+The re-enacted material in this Act is shown as existing text (i.e., without
+underscoring) because, as of the time this Act was prepared, the order
+declaring P.A. 85-1135 invalid has been vacated.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-165-10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In Sections 100 and 900 of this Act, references to "this amendatory
+Act of 1988" mean Public Act 85-1135, as re-enacted by this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-165-10__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The re-enactment or re-repeal of Sections of Public Act 85-1135 by
+this Act is not intended, and shall not be construed, to imply that Public Act
+85-1135 is invalid or to limit or impair any legal argument</p>
+              </content>
+              <paragraph eId="sec_35-165-10__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>upholding the
+validity of Public Act 85-1135 or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-165-10__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>concerning whether the provisions of
+Public Act 85-1135 were substantially re-enacted by other Public Acts.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-165-10__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>All otherwise lawful actions taken in reasonable reliance on or pursuant
+to the Sections re-enacted by this Act, as set forth in Public Act 85-1135 or
+subsequently amended, by any officer, employee, agency, or unit of State or
+local government or by any other person or entity, are hereby validated. With respect to actions taken in relation to matters arising under the
+Sections re-enacted by this Act, as set forth in Public Act 85-1135 or
+subsequently amended, a person is rebuttably presumed to have acted in
+reasonable reliance on and pursuant to the provisions of Public Act 85-1135,
+as thos</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-100">
+            <num>100</num>
+            <heading>Section 1 of Article 1 of Public Act 85-1135 (which is
+incorrectly shown as Section 12 in the Laws of Illinois) is re-enacted as
+follows: (P</heading>
+            <content>
+              <p>A. 85-1135, Art. I, Sec. 1)</p>
+            </content>
+          </section>
+          <section eId="sec_35-165-1">
+            <num>1</num>
+            <heading>It is the intent of the 85th General Assembly that: (a) the abolition of the authority of municipalities and counties to
+impose occupation and use taxes, and the corresponding concurrent increase
+of the state rate of such taxes with a corresponding distribution to such
+municipalities and counties pursuant to this amendatory Act of 1988, shall
+remain in full force and effect on a permanent basis; (b) there shall be no reduction or redistribution as to proportional
+amount of such corresponding distribution received by such municipalities
+and counties except as expressly provided in this amendatory Act of 1988; (c) there shall be no reduction of the rate or base of such taxes
+except as expressly provided in this amendatory Act of 1988; (d) there shall be no limitation on the use of monies received by such
+municipalities and counties except as expressly provided in this amendatory
+Act of 1988; (e) the distribution of occupation tax revenues to municipalities and
+counties shall remain on the basis of point of sale; (f) tax revenues collected pursuant to the State use tax Acts on
+interstate transactions involving transfer of tangible personal property
+shall be distributed in accordance with the formula established by this
+amendatory Act of 1988 for State use taxes; and (g) repeal of the statutory authority of municipalities and counties to
+impose local retailers' occupation taxes, use taxes, and service occupation
+taxes shall not be so construed as to impair the provisions of any
+development, redevelopment, annexation, preannexation or other lawful
+agreement which describes or refers to receipts from any of such taxes,
+but, rather, any such description or reference to such taxes shall be given
+effect as if reference were made in such agreement to the replacement
+revenue for such abolished taxes received from the Local Government Tax
+Fund, County and Mass Transit Tax Fund or Local Government
+Distributive Fund, as the case may be</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99.) (35 ILCS 165/105)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-105">
+            <num>105</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/110)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-110">
+            <num>110</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/115)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-115">
+            <num>115</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/120)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-120">
+            <num>120</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/125)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-125">
+            <num>125</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/130)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-130">
+            <num>130</num>
+            <heading>Sections 10 and 14 of the "Service Occupation Tax Act",
+approved July 10, 1961, as amended, are re-repealed</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99.) (35 ILCS 165/135)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-135">
+            <num>135</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/140)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-140">
+            <num>140</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/145)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-145">
+            <num>145</num>
+            <heading>Sections 25</heading>
+            <content>
+              <p>05a, 25.05-2, 25.05-2a, 25.05-3, 25.05-3a, 25.05-10,
+25.05-10a and 25.05-10.1 of "An Act to revise the law in relation to counties",
+approved March 31, 1874, as amended, are re-repealed.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-150">
+            <num>150</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/155)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-155">
+            <num>155</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/160)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-160">
+            <num>160</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/165)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-165">
+            <num>165</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99; text omitted.) (35 ILCS 165/900)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-900">
+            <num>900</num>
+            <heading>Sections 1 and 2 of Article V of Public Act 85-1135 are
+re-enacted as follows: (P</heading>
+            <content>
+              <p>A. 85-1135, Art. V, Sec. 1)</p>
+            </content>
+          </section>
+          <section eId="sec_35-165-1">
+            <num>1</num>
+            <heading>This amendatory Act of 1988 shall not affect any right,
+remedy or liability, whether civil or criminal, which existed prior to the
+effective date hereof</heading>
+            <content>
+              <p>(P.A. 85-1135, Art. V, Sec. 2)</p>
+            </content>
+          </section>
+          <section eId="sec_35-165-2">
+            <num>2</num>
+            <heading>A home rule municipality may enact ordinances imposing taxes
+pursuant to Sections 8-11-1, 8-11-5 and 8-11-6 of the Illinois Municipal
+Code after January 1, 1990, if such ordinances do not take effect prior to
+September 1, 1990</heading>
+            <content>
+              <p>(Source: P.A. 91-51, eff. 6-30-99.) (35 ILCS 165/999)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-165-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-51, eff. 6-30-99.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

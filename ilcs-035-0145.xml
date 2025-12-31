@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-145"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-145"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-145"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-145/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-145/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-145/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-145/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_145">
+          <num>35 ILCS 145/</num>
+          <heading>Hotel Operators' Occupation Tax Act</heading>
+          <section eId="sec_35-145-1">
+            <num>1</num>
+            <heading>This Act may be cited as the Hotel Operators' Occupation Tax Act</heading>
+            <content>
+              <p>The tax herein imposed shall be in addition to all
+other occupation or privilege taxes imposed by the State of Illinois or by
+any municipal corporation or political subdivision thereof.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-1475.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-2">
+            <num>2</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-145-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>obtains the right or authority to grant control of, access to, or occupancy of a hotel room in this State to a guest of the hotel or (ii) facilitates the booking of a hotel room located in this State. A person who obtains those rights or authorities is not considered a re-renter of a hotel room if the person operates under a shared hotel brand with the operator.</p>
+              </content>
+              <paragraph eId="sec_35-145-2__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>"Hosting platform" or "platform" means a person who provides an online application, software, website, or system through which a short-term rental located in this State is advertised or held out to the public as available to rent for occupancy. For purposes of this definition, "short-term rental" means an owner-occupied, tenant-occupied, or non-owner-occupied dwelling, including, but not limited to, an apartment, house, cottage, or condominium, located in this State, where:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-145-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>at least one room in the dwelling is rented to an occupant for a period of less than 30 consecutive days; and (ii) all accommodations are reserved in advance; provided, however, that a dwelling shall be considered a single room if rented as such.</p>
+              </content>
+              <paragraph eId="sec_35-145-2__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>"Shared hotel brand" means an identifying trademark that a hotel operator is expressly licensed to operate under in accordance with the terms of a hotel franchise or management agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 7-1-24; 104-6, eff. 7-1-25; 104-417, eff. 8-15-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-3">
+            <num>3</num>
+            <heading>Rate; exemptions</heading>
+            <subsection eId="sec_35-145-3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A tax is imposed upon hotel operators at the rate of 5% of 94% of the gross rental receipts from engaging in business as a hotel operator, excluding, however, from gross rental receipts, the proceeds of renting, leasing or letting hotel rooms to permanent residents of a hotel and proceeds from the tax imposed under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of Section 13 of the Metropolitan Pier and Exposition Authority Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>There shall be imposed an additional tax upon hotel operators at the rate of 1% of 94% of the gross rental receipts received by the hotel operator from engaging in business as a hotel operator, excluding, however, from gross rental receipts, the proceeds of such renting, leasing or letting to permanent residents of that hotel and proceeds from the tax imposed under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of Section 13 of the Metropolitan Pier and Exposition Authority Act. (b-5) Beginning on July 1, 2024, if the renting, leasing, or letting of a hotel room is done through a re-renter of hotel rooms, then, subject to the provisions of Sections 3-2 and 3-3, the re-renter is the hotel operator for the purposes of the taxes under subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>if it meets one of the following thresholds:</p>
+              </content>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the cumulative gross receipts from rentals in Illinois by the re-renter of hotel rooms are $100,000 or more; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the re-renter of hotel rooms cumulatively enters into 200 or more separate transactions for rentals in Illinois. A re-renter of hotel rooms who is headquartered outside of this State and has no presence in this State other than its business as a re-renter, conducted remotely, shall determine on a quarterly basis, ending on the last day of March, June, September, and December, whether he or she meets the threshold of either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this subsection (b-5) for the preceding 12-month period. If such re-renter of hotel rooms meets the threshold of either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for a 12-month period, he or she is subject to tax under this Act and is required to remit the tax imposed under this Act and file returns for the 12-month period beginning on the first day of the next month after he or she determines that he or she meets the threshold of paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>during the preceding 12-month period. If he or she met the threshold in either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the preceding 12-month period, he or she is a hotel operator in this State and is required to remit the tax imposed under this Act and file returns for the subsequent 12-month period. If, at the end of a 12-month period during which such re-renter is required to remit the tax imposed under this Act, the re-renter determines that he or she did not meet the threshold in either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>during the preceding 12-month period, he or she shall subsequently determine on a quarterly basis, ending on the last day of March, June, September, and December, whether he or she meets the threshold of either paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the preceding 12-month period.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>No funds received pursuant to this Act shall be used to advertise for or otherwise promote new competition in the hotel business.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>However, such tax is not imposed upon the privilege of engaging in any business in Interstate Commerce or otherwise, which business may not, under the Constitution and Statutes of the United States, be made the subject of taxation by this State. In addition, the tax is not imposed upon gross rental receipts for which the hotel operator is prohibited from obtaining reimbursement for the tax from the customer by reason of a federal treaty. (d-5) On and after July 1, 2017, the tax imposed by this Act shall not apply to gross rental receipts received by an entity that is organized and operated exclusively for religious purposes and possesses an active Exemption Identification Number issued by the Department pursuant to the Retailers' Occupation Tax Act when acting as a hotel operator renting, leasing, or letting rooms:</p>
+              </content>
+              <paragraph eId="sec_35-145-3__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>in furtherance of the purposes for which it is organized; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to entities that</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>are organized and operated exclusively for religious purposes, (ii) possess an active Exemption Identification Number issued by the Department pursuant to the Retailers' Occupation Tax Act, and (iii) rent the rooms in furtherance of the purposes for which they are organized. No gross rental receipts are exempt under paragraph</p>
+              </content>
+              <paragraph eId="sec_35-145-3__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this subsection (d-5) unless the hotel operator obtains the active Exemption Identification Number from the exclusively religious entity to whom it is renting and maintains that number in its books and records. Gross rental receipts from all rentals other than those described in items</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-145-3__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this subsection (d-5) are subject to the tax imposed by this Act unless otherwise exempt under this Act. This subsection (d-5) is exempt from the sunset provisions of Section 3-5 of this Act. (d-10) On and after July 1, 2023, the tax imposed by this Act shall not apply to gross rental receipts received from the renting, leasing, or letting of rooms to an entity that is organized and operated exclusively by an organization chartered by the United States Congress for the purpose of providing disaster relief and that possesses an active Exemption Identification Number issued by the Department pursuant to the Retailers' Occupation Tax Act if the renting, leasing, or letting of the rooms is in furtherance of the purposes for which the exempt organization is organized. This subsection (d-10) is exempt from the sunset provisions of Section 3-5 of this Act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Persons subject to the tax imposed by this Act may reimburse themselves for their tax liability under this Act by separately stating such tax as an additional charge, which charge may be stated in combination, in a single amount, with any tax imposed pursuant to Sections 8-3-13 and 8-3-14 of the Illinois Municipal Code, and Section 25.05-10 of "An Act to revise the law in relation to counties".</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-3__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>If any hotel operator collects an amount (however designated) which purports to reimburse such operator for hotel operators' occupation tax liability measured by receipts which are not subject to hotel operators' occupation tax, or if any hotel operator, in collecting an amount (however designated) which purports to reimburse such operator for hotel operators' occupation tax liability measured by receipts which are subject to tax under this Act, collects more from the guest or re-renter than the operators' hotel operators' occupation tax liability in the transaction is, the guest or re-renter, as applicable, shall have a legal right to claim a refund of such amount from such operator. However, if such amount is not refunded to the guest or re-renter, as applicable, for any reason, the hotel operator is liable to pay such amount to the Department.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-9, eff. 6-7-23; 103-592, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-4">
+            <num>4</num>
+            <heading>Books and records</heading>
+            <content>
+              <p>Every operator shall keep separate books or records of his business as an operator so as to show the rents and occupancies taxable under this Act separately from his transactions not taxable under this Act. If any operator fails to keep such separate books or records, he shall be liable to tax at the rate designated in Section 3 hereof upon the entire proceeds from his business. The Department may adopt rules that establish requirements, including record forms and formats, for records required to be kept and maintained by taxpayers. For purposes of this Section, "records" means all data maintained by the taxpayer, including data on paper, microfilm, microfiche or any type of machine-sensible data compilation.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-5">
+            <num>5</num>
+            <heading>Certificate of registration; retailers' occupation tax registration provisions apply</heading>
+            <content>
+              <p>It shall be unlawful for any person to engage in business as a hotel operator in this State without a certificate of registration from the Department. All of the provisions of Sections 2a and 2b of the Retailers' Occupation Tax Act, in effect on the effective date of this Act, as subsequently amended, shall apply to persons in business as hotel operators in this State, to the same extent as if such provisions were included herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-6">
+            <num>6</num>
+            <heading>Returns; allocation of proceeds</heading>
+            <subsection eId="sec_35-145-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided hereinafter in this Section, on or before the last day of each calendar month, every person engaged as a hotel operator in this State during the preceding calendar month shall file a return with the Department, stating: 1. the name of the operator; 2. his residence address and the address of his principal place of business and the address of the principal place of business (if that is a different address) from which he engages in business as a hotel operator in this State (including, if required by the Department, the address of each hotel from which rental receipts were received); 3. total amount of rental receipts received by him during the preceding calendar month from engaging in business as a hotel operator during such preceding calendar month; 4. total amount of rental receipts received by him during the preceding calendar month from renting, leasing or letting rooms to permanent residents during such preceding calendar month; 5. total amount of other exclusions from gross rental receipts allowed by this Act; 6. gross rental receipts which were received by him during the preceding calendar month and upon the basis of which the tax is imposed; 7. the amount of tax due; 8. credit for any reimbursement of tax paid by a re-renter of hotel rooms to hotel operators for rentals purchased for re-rental, as provided in Section 3-3 of this Act; 9. such other reasonable information as the Department may require. If the operator's average monthly tax liability to the Department does not exceed $200, the Department may authorize his returns to be filed on a quarter annual basis, with the return for January, February and March of a given year being due by April 30 of such year; with the return for April, May and June of a given year being due by July 31 of such year; with the return for July, August and September of a given year being due by October 31 of such year, and with the return for October, November and December of a given year being due by Januar</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Until July 1, 2024, the Department shall deposit the total net revenue realized from the tax imposed under this Act as provided in this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 3. Of the remaining 60%:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>$5,000,000 shall be deposited into the Illinois Sports Facilities Fund and credited to the Subsidy Account each fiscal year by making monthly deposits in the amount of 1/8 of $5,000,000 plus cumulative deficiencies in such deposits for prior months, and (ii) an amount equal to the then applicable Advance Amount, as defined in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 3 after all required deposits into the Illinois Sports Facilities Fund, an amount equal to 8% of the net revenue realized from this Act during the preceding month shall be deposited as follows: 18% of such amount shall be deposited into the Chicago Travel Industry Promotion Fund for the purposes described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-6__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>of Section 5 of the Metropolitan Pier and Exposition Authority Act and the remaining 82% of such amount shall be deposited into the Local Tourism Fund each month for purposes authorized by Section 605-705 of the Department of Commerce and Economic Opportunity Law. Beginning on August 1, 2011 and through June 30, 2023, an amount equal to 4.5% of the net revenue realized from this Act during the preceding month shall be deposited as follows: 55% of such amount shall be deposited into the Chicago Travel Industry Promotion Fund for the purposes described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-145-6__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>of Section 5 of the Metropolitan Pier and Exposition Authority Act and the remaining 45% of such amount deposited into the International Tou</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-8, eff. 6-7-23; 103-592, eff. 7-1-24; 103-642, eff. 7-1-24; 104-417, eff. 8-15-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-7">
+            <num>7</num>
+            <heading>All of the provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e, 5f,
+5g, 5i, 5j, 6, 6a, 6b, 6c, 7, 8, 9, 10, 11 and 12 of the Retailers'
+Occupation Tax Act and Section 3-7 of the Uniform Penalty and Interest Act
+shall apply to persons in the business of renting, leasing or letting hotel
+rooms in this State to the same extent as if such provisions were
+included herein</heading>
+            <content>
+              <p>(Source: P.A. 87-205; 87-895 .) (35 ILCS 145/8) (from Ch. 120, par. 481b.38)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 87-205; 87-895 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-8">
+            <num>8</num>
+            <heading>When the amount due is under $300, any person engaged in the
+business of renting, leasing or letting
+hotel rooms in this State who fails to make a return, or to keep books and
+records as required herein, or who makes a fraudulent return, or who
+wilfully violates any rule or regulation of the Department for the
+administration and enforcement of the provisions of this Act, or any
+officer or agent of a corporation engaged in the business of renting,
+leasing or letting hotel rooms in this State who signs a fraudulent return
+made on behalf of such corporation, is guilty of a Class 4 felony</heading>
+            <content>
+              <p>Any person who violates any provision of Section 5 of this Act is guilty
+of a Class 4 felony. Each and every day any
+such person is engaged in
+business in violation of said Section 5 shall constitute a separate offense. When the amount due is under $300, any person who accepts money that
+is due to the Department under this
+Act from a taxpayer for the purpose of acting as the taxpayer's agent to
+make the payment to the Department, but who fails to remit such payment to
+the Department when due is guilty of a Class 4 felony.
+Any such person who purports to make such payment by issuing or delivering
+a check or other order upon a real or fictitious depository for the payment
+of money, knowing that it will not be paid by the depository, shall be guilty
+of a deceptive practice in violation of Section 17-1 of the Criminal Code
+of 2012. Any hotel operator who collects or attempts to collect an amount
+(however designated) which purports to reimburse such operator for hotel
+operators' occupation tax liability measured by receipts which such
+operator knows are not subject to hotel operators' occupation tax, or any
+hotel operator who knowingly over-collects or attempts to over-collect an
+amount purporting to reimburse such operator for hotel operators'
+occupation tax liability in a transaction which is subject to the tax that
+is imposed by this Act, shall be guilty of a Class 4 felony. When the amount due is $300 or more, any person engaged in the business
+of renting, leasing or letting hotel rooms in this State who
+fails to make a return, or to keep books and
+records as required herein, or who makes a fraudulent return, or who
+wilfully violates any rule or regulation of the Department for the
+administration and enforcement of the provisions of this Act, or any
+officer or agent of a corporation engaged in the business of renting,
+leasing or letting hotel rooms in this State who signs a fraudulent return
+made on behalf of such corporation is guilty of a Class 3 felony. When the amount due is $300 or more, any person who accepts money that is
+due to the Department under this Act from a taxpayer for the purpose of
+acting as the taxpayer's agent to make the payment to the Department, but
+who fails to remit such payment to the Department is guilty of a Class 3
+felony.  Any such person who purports to make such payment by issuing or
+delivering a check or other order upon a real or fictitious depository for
+the payment of money, knowing that it will not be paid by the depository,
+shall be guilty of a deceptive practice in violation of Section 17-1 of the
+Criminal Code of 2012. A prosecution for any act in violation of this Section may be commenced
+at any time within 3 years of the commission of that act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1150, eff. 1-25-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-9">
+            <num>9</num>
+            <heading>Applicability</heading>
+            <content>
+              <p>Persons engaged in the business of renting, leasing or
+letting rooms in a hotel only to permanent residents are exempt from the
+provisions of this Act. In addition, persons engaged in the business of renting, leasing, or letting rooms in a hotel whose only rentals are as described in items (1) and (2) of subsection (d-5) of Section 3 of this Act are exempt from the provisions of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-213, eff. 8-18-17.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-145-10">
+            <num>10</num>
+            <heading>The Illinois Administrative Procedure Act is hereby expressly
+adopted and shall apply to all administrative rules and procedures of the
+Department of Revenue under this Act, except that (1) paragraph (b) of Section
+5-10 of the Illinois Administrative Procedure Act does not apply to final
+orders, decisions and opinions of the Department, (2) subparagraph (a)2 of
+Section 5-10 of the Illinois Administrative Procedure Act does not apply to
+forms established by the Department for use under this Act, and (3) the
+provisions of Section 10-45 of the Illinois Administrative Procedure Act
+regarding proposals for decision are excluded and not applicable to the
+Department under this Act to the extent Section 10-45 applies to hearings not otherwise subject to the Illinois Independent Tax Tribunal Act of 2012</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illi</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

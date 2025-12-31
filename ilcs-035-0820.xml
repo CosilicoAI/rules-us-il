@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-820"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-820"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-820"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-820/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-820/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-820/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-820/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_820">
+          <num>35 ILCS 820/</num>
+          <heading>Stock, Commodity, or Options Transaction Tax Exemption Act</heading>
+          <section eId="sec_35-820-1">
+            <num>1</num>
+            <heading>No unit of local government shall levy any tax on stock, commodity
+or options transactions</heading>
+            <content>
+              <p>(Source: P.A. 82-1035.) (35 ILCS 820/2) (from Ch. 121 1/2, par. 1002)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-1035.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-820-2">
+            <num>2</num>
+            <heading>No home rule unit, as defined in Article VII of the Illinois
+Constitution, shall have the power to change, alter or amend in any
+way the provisions of Article I of this Act, and it is declared to be
+the law of this State, pursuant to paragraph (g) of Section 6 of
+Article VII of the Constitution, that home rule units shall not have
+the power to levy any tax on stock commodity or options transactions</heading>
+            <content>
+              <p>(Source: P.A. 82-1035.) (35 ILCS 820/3)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-1035.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-820-3">
+            <num>3</num>
+            <heading>Construction of Act</heading>
+            <content>
+              <p>Nothing in this Act shall be construed as
+prohibiting or
+otherwise invalidating any real estate transfer tax or fee authorized
+or permitted by
+Section 31-10 of the Property Tax Code,
+Sections 5-1031 and
+						5-1031.1 of the Counties
+Code,
+or
+Section 8-3-19 of the Illinois Municipal Code. This Section is intended as a
+clarification
+and not as a change to existing law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-657, eff. 6-1-04; 93-1099, eff. 6-1-05 .</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

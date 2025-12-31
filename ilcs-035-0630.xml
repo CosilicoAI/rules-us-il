@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-630"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-630"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-630"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-630/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-630/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-630/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-630/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_630">
+          <num>35 ILCS 630/</num>
+          <heading>Telecommunications Excise Tax Act</heading>
+          <section eId="sec_35-630-1">
+            <num>1</num>
+            <heading>This Article shall be known and may be cited as the
+"Telecommunications Excise Tax Act"</heading>
+            <content>
+              <p>The net proceeds from the taxes
+imposed by this Act shall be used for the support of the General Revenue
+Fund and education.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-2">
+            <num>2</num>
+            <heading>As used in this Article, unless the context clearly requires otherwise: (a) "Gross charge" means the amount paid for the act or privilege of originating or receiving telecommunications in this State and for all services and equipment provided in connection therewith by a retailer, valued in money whether paid in money or otherwise, including cash, credits, services, and property of every kind or nature, and shall be determined without any deduction on account of the cost of such telecommunications, the cost of materials used, labor or service costs, or any other expense whatsoever</heading>
+            <subsection eId="sec_35-630-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for interstate inter-office channels having 2 channel termination points, only one of which is in Illinois, 50% of the total charge imposed; or (ii) for interstate inter-office channels having more than 2 channel termination points, one or more of which are in Illinois, an amount equal to the total charge multiplied by a fraction, the numerator of which is the number of channel termination points within Illinois and the denominator of which is the total number of channel termination points. Prior to January 1, 2004, any method consistent with this paragraph or other method that reasonably apportions the total charges for interstate inter-office channels among the states in which channel terminations points are located shall be accepted as a reasonable method to determine the charges for that portion of the interstate inter-office channel provided within Illinois for that period. However, "gross charges" shall not include any of the following:</p>
+              </content>
+              <paragraph eId="sec_35-630-2__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any amounts added to a purchaser's bill because of a charge made pursuant to</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the tax imposed by this Article; (ii) charges added to customers' bills pursuant to the provisions of Section 9-221 or 9-222 of the Public Utilities Act, as amended, or any similar charges added to customers' bills by retailers who are not subject to rate regulation by the Illinois Commerce Commission for the purpose of recovering any of the tax liabilities or other amounts specified in such provisions of such Act; (iii) the tax imposed by Section 4251 of the Internal Revenue Code; (iv) 911 surcharges; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>the tax imposed by the Simplified Municipal Telecommunications Tax Act.</p>
+              </content>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Charges for a sent collect telecommunication received outside of the State.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Charges for leased time on equipment or charges for the storage of data or information for subsequent retrieval or the processing of data or information intended to change its form or content. Such equipment includes, but is not limited to, the use of calculators, computers, data processing equipment, tabulating equipment, or accounting equipment and also includes the usage of computers under a time-sharing agreement.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Charges for customer equipment, including such equipment that is leased or rented by the customer from any source, wherein such charges are disaggregated and separately identified from other charges.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Charges to business enterprises certified under Section 9-222.1 of the Public Utilities Act, as amended, or under Section 95 of the Reimagining Energy and Vehicles in Illinois Act, to the extent of such exemption and during the period of time specified by the Department of Commerce and Economic Opportunity. (5.1) Charges to business enterprises certified under the Manufacturing Illinois Chips for Real Opportunity (MICRO) Act, to the extent of the exemption and during the period of time specified by the Department of Commerce and Economic Opportunity. (5.2) Charges to entities certified under Section 605-1115 of the Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois to the extent of the exemption and during the period of time specified by the Department of Commerce and Economic Opportunity.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Charges for telecommunications and all services and equipment provided in connection therewith between a parent corporation and its wholly owned subsidiaries or between wholly owned subsidiaries when the tax imposed under this Article has already been paid to a retailer and only to the extent that the charges between the parent corporation and wholly owned subsidiaries or between wholly owned subsidiaries represent expense allocation between the corporations and not the generation of profit for the corporation rendering such service.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Bad debts. Bad debt means any portion of a debt that is related to a sale at retail for which gross charges are not otherwise deductible or excludable that has become worthless or uncollectable, as determined under applicable federal income tax standards. If the portion of the debt deemed to be bad is subsequently paid, the retailer shall report and pay the tax on that portion during the reporting period in which the payment is made.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Charges paid by inserting coins in coin-operated telecommunication devices.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Amounts paid by telecommunications retailers under the Telecommunications Municipal Infrastructure Maintenance Fee Act.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-2__subsec_v__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Charges for nontaxable services or telecommunications if</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>those charges are aggregated with other charges for telecommunications that are taxable, (ii) those charges are not separately stated on the customer bill or invoice, and (iii) the retailer can reasonably identify the nontaxable charges on the retailer's books and records kept in the regular course of business. If the nontaxable charges cannot reasonably be identified, the gross charge from the sale of both taxable and nontaxable services or telecommunications billed on a combined basis shall be attributed to the taxable services or telecommunications. The burden of proving nontaxable charges shall be on the retailer of the telecommunications.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>"Amount paid" means the amount charged to the taxpayer's service address in this State regardless of where such amount is billed or paid.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>"Telecommunications", in addition to the meaning ordinarily and popularly ascribed to it, includes, without limitation, messages or information transmitted through use of local, toll, and wide area telephone service; private line services; channel services; telegraph services; teletypewriter; computer exchange services; cellular mobile telecommunications service; specialized mobile radio; stationary 2-way radio; paging service; or any other form of mobile and portable one-way or 2-way communications; or any other transmission of messages or information by electronic or similar means, between or among points by wire, cable, fiber optics, laser, microwave, radio, satellite, or similar facilities. As used in this Act, "private line" means a dedicated non-traffic sensitive service for a single customer, that entitles the customer to exclusive or priority use of a communications channel or group of channels, from one or more specified locations to one or more other specified locations. The definition of "telecommunications" shall not include value added services in which computer processing applications are used to act on the form, content, code, and protocol of the information for purposes other than transmission. "Telecommunications" shall not include purchases of telecommunications by a telecommunications service provider for use as a component part of the service provided by him to the ultimate retail consumer who originates or terminates the taxable end-to-end communications. Carrier access charges, right of access charges, charges for use of inter-company facilities, and all telecommunications resold in the subsequent provision of, used as a component of, or integrated into end-to-end telecommunications service shall be non-taxable as sales for resale.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>"Interstate telecommunications" means all telecommunications that either originate or terminate outside this State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>"Intrastate telecommunications" means all telecommunications that originate and terminate within this State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>"Department" means the Department of Revenue of the State of Illinois.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>"Director" means the Director of Revenue for the Department of Revenue of the State of Illinois.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>"Taxpayer" means a person</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-595, eff. 6-26-24; 104-6, eff. 6-16-25; 104-417, eff. 8-15-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-3">
+            <num>3</num>
+            <heading>Tax imposed; intrastate telecommunications</heading>
+            <subsection eId="sec_35-630-3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Until December 31, 1997, a tax is imposed upon the act or privilege of originating or receiving intrastate telecommunications by a person in this State at the rate of 5% of the gross charge for such telecommunications purchased at retail from a retailer by such person.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Beginning January 1, 1998 and through June 30, 2025, a tax is imposed upon the act or privilege of originating in this State or receiving in this State intrastate telecommunications by a person in this State at the rate of 7% of the gross charge for such telecommunications purchased at retail from a retailer by such person. However, such tax is not imposed on the act or privilege to the extent such act or privilege may not, under the Constitution and statutes of the United States, be made the subject of taxation by the State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Beginning July 1, 2025, a tax is imposed upon the act or privilege of originating in this State or receiving in this State intrastate telecommunications by a person in this State at the rate of 8.65% of the gross charge for such telecommunications purchased at retail from a retailer by that person. However, the tax is not imposed on the act or privilege to the extent the act or privilege may not, under the Constitution and statutes of the United States, be made the subject of taxation by the State. The 1.65% increase in the rate from 7% to 8.65% under this amendatory Act of the 104th General Assembly shall be designated as the statewide 9-8-8 surcharge and is established to support and enhance the 9-8-8 Suicide and Crisis Lifeline in compliance with the National Suicide Hotline Designation Act of 2020 as codified in 47 U.S.C. 251 and 251a.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-3__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Beginning January 1, 2001, prepaid telephone calling arrangements shall not be considered telecommunications subject to the tax imposed under this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-4">
+            <num>4</num>
+            <heading>Tax imposed; interstate telecommunications</heading>
+            <subsection eId="sec_35-630-4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Until December 31, 1997, a tax is imposed upon the act or privilege of originating in this State or receiving in this State interstate telecommunications by a person in this State at the rate of 5% of the gross charge for such telecommunications purchased at retail from a retailer by such person.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Beginning January 1, 1998 and through June 30, 2025, a tax is imposed upon the act or privilege of originating in this State or receiving in this State interstate telecommunications by a person in this State at the rate of 7% of the gross charge for such telecommunications purchased at retail from a retailer by such person. To prevent actual multi-state taxation of the act or privilege that is subject to taxation under this paragraph, any taxpayer, upon proof that that taxpayer has paid a tax in another state on such event, shall be allowed a credit against the tax imposed in this Section 4 to the extent of the amount of such tax properly due and paid in such other state. However, such tax is not imposed on the act or privilege to the extent such act or privilege may not, under the Constitution and statutes of the United States, be made the subject of taxation by the State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Beginning July 1, 2025, a tax is imposed upon the act or privilege of originating in this State or receiving in this State interstate telecommunications by a person in this State at the rate of 8.65% of the gross charge for such telecommunications purchased at retail from a retailer by that person. To prevent actual multistate taxation of the act or privilege that is subject to taxation under this paragraph, any taxpayer, upon proof that the taxpayer has paid a tax in another state on the event, shall be allowed a credit against the tax imposed in this Section to the extent of the amount of such tax properly due and paid in the other state. However, such tax is not imposed on the act or privilege to the extent the act or privilege may not, under the Constitution and statutes of the United States, be made the subject of taxation by the State. The 1.65% increase in the rate from 7% to 8.65% under this amendatory Act of the 104th General Assembly shall be designated as the statewide 9-8-8 surcharge and is established to support and enhance the 9-8-8 Suicide and Crisis Lifeline in compliance with the National Suicide Hotline Designation Act of 2020 as codified in 47 U.S.C. 251 and 251a.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Beginning on January 1, 2001, prepaid telephone calling arrangements shall not be considered telecommunications subject to the tax imposed under this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-5">
+            <num>5</num>
+            <heading>Any retailer maintaining a place of business in this State shall
+collect and remit to the Department the tax imposed by this Act</heading>
+            <content>
+              <p>Any such
+retailer shall be liable for the tax whether or not the tax has been collected
+by the retailer.  To the extent that a retailer required to collect the tax
+imposed by this Act has actually collected that tax, such tax is held in trust
+for the benefit of the Department.  Retailers
+shall collect the tax from the taxpayer by adding the tax to the gross
+charge for the act or privilege of originating or receiving
+telecommunications in this State, when sold for use, in the manner
+prescribed by the Department. Whenever possible, the tax imposed by this
+Article shall, when collected, be stated as a distinct item separate and apart
+from the gross charge for telecommunications.  The tax imposed by this
+Article shall constitute a debt of the purchaser to the retailer who
+provides such taxable services until paid, and, if unpaid, is recoverable
+at law in the same manner as the original charge for such taxable services.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-203, eff. 7-20-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-6">
+            <num>6</num>
+            <heading>Returns; payments; deposits</heading>
+            <subsection eId="sec_35-630-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided hereinafter in this Section, on or before the last day of each month, each retailer maintaining a place of business in this State shall make a return to the Department for the preceding calendar month, stating: 1. The retailer's name; 2. The address of the principal place of business, or the address of the principal place of business (if that is a different address) from which the retailer engages in the business of transmitting telecommunications; 3. Total amount of gross charges billed by the retailer during the preceding calendar month for providing telecommunications during such calendar month; 4. Total amount received by the retailer during the preceding calendar month on credit extended; 5. Deductions allowed by law; 6. Gross charges which were billed by the retailer during the preceding calendar month and upon the basis of which the tax, including the surcharge, is imposed; 7. Amount of tax (computed upon Item 6); 8. Amount of the statewide 9-8-8 surcharge included in item 7. 9. Such other reasonable information as the Department may require.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any taxpayer required to make payments under this Section may make the payments by electronic funds transfer. The Department shall adopt rules necessary to effectuate a program of electronic funds transfer. Any taxpayer who has average monthly tax billings due to the Department under this Act and the Simplified Municipal Telecommunications Tax Act that exceed $1,000 shall make all payments by electronic funds transfer as required by rules of the Department and shall file the return required by this Section by electronic means as required by rules of the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Types of returns and filing deadlines. If the retailer's average monthly tax billings due to the Department under this Act and the Simplified Municipal Telecommunications Tax Act do not exceed $1,000, the Department may authorize the retailer's returns to be filed on a quarter annual basis, with the return for January, February and March of a given year being due by April 30 of such year; with the return for April, May and June of a given year being due by July 31st of such year; with the return for July, August and September of a given year being due by October 31st of such year; and with the return of October, November and December of a given year being due by January 31st of the following year. If the retailer is otherwise required to file a monthly or quarterly return and if the retailer's average monthly tax billings due to the Department under this Act and the Simplified Municipal Telecommunications Tax Act do not exceed $400, the Department may authorize the retailer's return to be filed on an annual basis, with the return for a given year being due by January 31st of the following year. Notwithstanding any other provision of this Article containing the time within which a retailer may file a return, in the case of any retailer who ceases to engage in a kind of business which makes the retailer responsible for filing returns under this Article, such retailer shall file a final return under this Article with the Department not more than one month after discontinuing such business. In making such return, the retailer shall determine the value of any consideration other than money received by the retailer and he shall include such value in the return. Such determination shall be subject to review and revision by the Department in the manner hereinafter provided for the correction of returns.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Payment and discount. Each retailer whose average monthly liability to the Department under this Article and the Simplified Municipal Telecommunications Tax Act was $25,000 or more during the preceding calendar year, excluding the month of highest liability and the month of lowest liability in such calendar year, and who is not operated by a unit of local government, shall make estimated payments to the Department on or before the 7th, 15th, 22nd and last day of the month during which tax collection liability to the Department is incurred in an amount not less than the lower of either 22.5% of the retailer's actual tax collections for the month or 25% of the retailer's actual tax collections for the same calendar month of the preceding year. The amount of such quarter monthly payments shall be credited against the final liability of the retailer's return for that month. Any outstanding credit, approved by the Department, arising from the retailer's overpayment of its final liability for any month may be applied to reduce the amount of any subsequent quarter monthly payment or credited against the final liability of the retailer's return for any subsequent month. If any quarter monthly payment is not paid at the time or in the amount required by this Section, the retailer shall be liable for penalty and interest on the difference between the minimum amount due as a payment and the amount of such payment actually and timely paid, except insofar as the retailer has previously made payments for that month to the Department in excess of the minimum payments previously due. The retailer making the return herein provided for shall, at the time of making such return, pay to the Department the amount of tax herein imposed, less a discount of 1% which is allowed to reimburse the retailer for the expenses incurred in keeping records, billing the customer, preparing and filing returns, remitting the tax, and supplying data to the Department upon request. No discount may be clai</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-630-6__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Deposits.</p>
+              </content>
+              <paragraph eId="sec_35-630-6__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>On and after the effective date of this Article of 1985 and through July 31, 2025, of the moneys received by the Department of Revenue pursuant to this Article, other than moneys received pursuant to the additional taxes imposed by Public Act 90-548: (A) $1,000,000 shall be paid each month into the Common School Fund; (B) beginning on the first day of the first calendar month to occur on or after the effective date of this amendatory Act of the 98th General Assembly, an amount equal to 1/12 of 5% of the cash receipts collected during the preceding fiscal year by the Audit Bureau of the Department from the tax under this Act and the Simplified Municipal Telecommunications Tax Act shall be paid each month into the Tax Compliance and Administration Fund; those moneys shall be used, subject to appropriation, to fund additional auditors and compliance personnel at the Department of Revenue; and (C) the remainder shall be deposited into the General Revenue Fund.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-630-6__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>On and after February 1, 1998 and through July 31, 2025, however, of the moneys received by the Department of Revenue pursuant to the additional taxes imposed by Public Act 90-548, one-half shall be deposited into the School Infrastructure Fund and one-half shall be deposited into the Common School Fund. On and after the effective date of this amendatory Act of the 91st General Assembly, if in any fiscal year the total of the moneys deposited into the School Infrastructure Fund under this Act is less than the total of the moneys deposited into that Fund from the additional taxes imposed by Public Act 90-548 during fiscal year 1999, then, as soon as possible after the close of the fiscal year, the Comptroller shall order</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-7">
+            <num>7</num>
+            <heading>When a taxpayer does not pay the tax imposed by this Article to
+a retailer, such taxpayer shall file a return with the Department and pay
+the tax upon that portion of gross charges so paid to the retailer during
+the preceding calendar month by the 15th day of the month following that
+month</heading>
+            <content>
+              <p>Such return shall be filed on a form prescribed by the Department
+and shall contain such information as the Department may reasonably require. When a taxpayer pays a tax imposed by this Article directly to the Department,
+the Department (upon request therefor from such taxpayer) shall issue an
+appropriate receipt to such taxpayer showing that he has paid such tax to
+the Department.  Such receipt shall be sufficient to relieve the taxpayer
+from further liability for the amount of tax to which such receipt may refer.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-8">
+            <num>8</num>
+            <heading>If a person who originates or receives telecommunications
+in this State claims to be a reseller of such telecommunications, such
+person shall apply to the Department for a resale number</heading>
+            <content>
+              <p>Such applicant
+shall state facts which will show the Department why such applicant is not
+liable for tax under this Article on any of his purchases and shall furnish
+such additional information as the Department may reasonably require. Upon approval of the application, the Department shall assign a resale
+number to the applicant and shall certify such number to him.  The
+Department may cancel any such number which is obtained through
+misrepresentation, or which is used to originate or receive such
+telecommunications tax-free when such actions in fact are not for resale,
+or which no longer applies because of the person's having discontinued the
+making of resales. Except as provided hereinabove in this Section, the act or privilege of
+originating or receiving telecommunications in this State shall not be made
+tax-free on the ground of being a sale for resale unless the person has an
+active resale number from the Department and furnishes that number to the
+retailer in connection with certifying to the retailer that any sale to
+such person is nontaxable because of being a sale for resale.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-9">
+            <num>9</num>
+            <heading>All of the provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e,
+5f, 5g, 5i, 5j, 6b, and 6c of the Retailers' Occupation Tax
+Act,
+which are not
+inconsistent with this Act, and Section 3-7 of the Uniform Penalty and Interest
+Act, shall apply, as far as practicable, to the subject matter of this Act to
+the same extent as if such provisions were included herein</heading>
+            <content>
+              <p>References in such
+incorporated Sections of the Retailers' Occupation Tax Act to retailers,
+to sellers or to persons engaged in the business of selling tangible
+personal property mean retailers, as defined in this Article, or persons
+engaged in the act or privilege of originating or receiving
+telecommunications.  References in such incorporated Sections of the
+Retailers' Occupation Tax Act to purchasers of tangible personal
+property mean purchasers of telecommunications as defined in this Article.
+References in such incorporated Sections of the Retailers' Occupation Tax
+Act to sales of tangible personal property mean the act or privilege of
+originating or receiving telecommunications as defined in this Article.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-491, eff. 1-1-98.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-10">
+            <num>10</num>
+            <heading>If it shall appear that an amount of tax or penalty or
+interest has been paid in error hereunder to the Department by a taxpayer,
+as distinguished from the retailer, whether such amount be paid through a
+mistake of fact or an error of law, such taxpayer may file a claim for
+credit or refund with the Department</heading>
+            <content>
+              <p>If it shall appear that an amount of
+tax or penalty or interest has been paid in error to the Department
+hereunder by a retailer who is required or authorized to collect and remit
+the tax imposed by this Article, whether such amount be paid through a mistake
+of fact or an error of law, such retailer may file a claim for credit or
+refund with the Department, provided that no credit or refund shall be
+allowed for any amount paid by any such retailer unless it shall appear
+that he bore the burden of such amount and did not shift the burden thereof
+to anyone else, or unless it shall appear that he or she or his or her
+legal representative has unconditionally repaid such amount to his customer
+(1) who bore the burden thereof and has not shifted such burden directly or
+indirectly in any manner whatsoever; or (2) who, if he or she shifted such
+burden, has repaid unconditionally such amount to his or her own customer;
+and (3) who is not entitled to receive any reimbursement therefor from any
+other source than from his retailer, nor to be relieved of such burden in
+any other manner whatsoever. If it is determined that the Department should issue a credit or refund
+under this Article, the Department may first apply the amount thereof against
+any amount of tax or penalty or interest due hereunder from the
+person entitled to such credit or refund.  For this purpose, if proceedings
+are pending to determine whether or not any tax or penalty or interest is
+due under this Article from such person, the Department may withhold issuance
+of the credit or refund pending the final disposition of such proceedings
+and may apply such credit or refund against any amount found to be due to
+the Department as a result of such proceedings.  The balance, if any, of
+the credit or refund shall be issued to the person entitled thereto. If no tax or penalty or interest is due and no proceeding is pending to
+determine whether such person is indebted to the Department for tax or
+penalty or interest, the credit memorandum or refund shall be issued to the
+claimant; or (in the case of a credit memorandum) the credit memorandum may
+be assigned and set over by the lawful holder thereof, subject to
+reasonable rules of the Department, to any other person who is subject to
+this Article, and the amount thereof shall be applied by the Department against
+any tax or penalty or interest due or to become due under this Article from
+such  assignee. As to any claim for credit or refund filed with the Department on or after
+each January 1 and July 1, no amounts erroneously paid more than three
+years prior to such January 1 and July 1, respectively, shall be
+credited or refunded, except that if both the Department and the taxpayer
+have agreed to an
+extension of time to issue a notice of tax liability under this Act, the claim
+may be filed at any time prior to the expiration of the period agreed upon. Notwithstanding any other provision of this Act to the contrary, for any period included in a claim for credit or refund for which the statute of limitations for issuing a notice of tax liability under this Act will expire less than 6 months after the date a taxpayer files the claim for credit or refund, the statute of limitations is automatically extended for 6 months from the date it would have otherwise expired. Claims for credit or refund shall be filed upon forms provided by the
+Department.  As soon as practicable after any claim for credit or refund is
+filed, the Department shall examine the same and determine the amount of
+credit or refund to which the claimant is entitled and shall notify the
+claimant of such determination, which amount shall be prima facie correct. A claim for credit or refund shall be considered to have been filed with
+the Department on the date upon which it is received by the Department.
+Upon receipt of any claim for credit or refund filed under this Article, any
+officer or employee of the Department, authorized in writing by the
+Director of Revenue to acknowledge receipt of such claims on behalf of the
+Department, shall execute on behalf of the Department, and shall deliver or
+mail to the claimant or his duly authorized agent, a written receipt,
+acknowledging that the claim has been filed with the Department, describing
+the claim in sufficient detail to identify it and stating the date upon
+which the claim was received by the Department.  Such written receipt shall
+be prima facie evidence that the Department received the claim described in
+such receipt and shall be prima facie evidence of the date when such claim
+was received by the Department.  In the absence of such a written receipt,
+the records of the Department as to when the claim was received by the
+Department, or as to whether or not the claim was received at all by the
+Department, shall be deemed to be prima facie correct upon these questions
+in the event of any dispute between the claimant (or his or her legal
+representative) and the Department concerning these questions. Any credit or refund that is allowed under this Article shall bear interest
+at the rate and in the manner specified in the Uniform Penalty and Interest
+Act. In case the Department determines that the claimant is entitled to a
+refund, such refund shall be made only from such appropriation as may be
+available for that purpose.  If it appears unlikely that the amount
+appropriated would permit everyone having a claim allowed during the period
+covered by such appropriation to elect to receive a cash refund, the
+Department by rule or regulation shall provide for the payment of refunds
+in hardship cases and shall define what types of cases qualify as hardship
+cases. If a retailer who has failed to pay tax on gross charges for
+telecommunications is required by the Department to pay such tax, such
+retailer, without filing any formal claim with the Department, shall be
+allowed to take credit against such tax liability
+to the extent, if any, to which such retailer has paid the
+tax to its vendor of the telecommunications which
+such retailer purchased and used for resale, and no penalty or interest
+shall be charged to such retailer on the amount of such credit.  However,
+when such credit is allowed to the retailer by the Department, the vendor
+is precluded from refunding any of the tax to the retailer and filing a
+claim for credit or refund with respect thereto with the Department.  The
+provisions of this Section added by this amendatory Act of 1988 shall be
+applied retroactively, regardless of the date of the transaction.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-40, eff. 6-25-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-11">
+            <num>11</num>
+            <heading>Every retailer maintaining a place of business in this State
+under this Article and every taxpayer making direct tax payments to the
+Department under this Article shall keep books, records, papers and other
+documents which are adequate to reflect the information required by
+Sections 6 and 7 of this Article to be reported to the Department by filing
+timely returns with the Department</heading>
+            <content>
+              <p>The Department may adopt rules that
+establish requirements, including record forms and formats, for records
+required to be kept and maintained by taxpayers. For purposes of this Section,
+"records" means all data maintained by the taxpayer, including data on paper,
+microfilm, microfiche or any type of machine-sensible data compilation. All
+books and records and other papers and documents required by this Article to be
+kept shall be kept in the English language and shall, at all times during
+business hours of the day, be subject to inspection by the Department or its
+duly authorized agents and employees. The Department may, upon written authorization of the Director, destroy
+any returns or records, papers or memoranda pertaining to such returns upon
+the expiration of any period covered by such returns with respect to which
+the Department is authorized to establish liability.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-480.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-12">
+            <num>12</num>
+            <heading>For the purpose of administering and enforcing the
+provisions of this Article, the Department or any officer or employee of the
+Department designated, in writing, by the Director thereof, may
+hold investigations and, except for matters otherwise reserved to the Illinois Independent Tax Tribunal, may hold hearings concerning any matters covered by this
+Article  and may examine any books, papers, records or memoranda bearing upon the
+business transacted or purchased by any such retailer or taxpayer and may
+require the attendance of such retailer or taxpayer or any officer or
+employee of such, or of any person having knowledge of such business, and
+may take testimony and require proof of its information</heading>
+            <content>
+              <p>In the conduct of
+any investigation or hearing, neither the Department nor any officer or
+employee thereof shall be bound by the technical rules of evidence,
+and no informality in any proceeding, or in the manner of taking testimony,
+shall invalidate any order, decision, rule or regulation made or approved
+or confirmed by the Department.  The Director or any officer or employee
+thereof shall have power to administer oaths to any such persons.  The
+books, papers, records and memoranda of the Department, or parts thereof,
+may be provided in any hearing, investigation or legal proceeding by a
+reproduced copy thereof under the certificate of the Director.  Such
+reproduced copy shall, without further proof, be admitted into evidence
+before the Department or in any legal proceeding.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-13">
+            <num>13</num>
+            <heading>No person shall be excused from testifying or from producing
+any books, papers, records or memoranda in any investigation or upon any
+hearing, when ordered to do so by the Department or any officer or employee
+thereof, upon the ground that the testimony or evidence, documentary or
+otherwise, may tend to incriminate him or subject him to criminal penalty,
+but no person shall be prosecuted or subjected to any criminal penalty for,
+or on account of, any transaction made or thing concerning which he
+may testify or produce evidence, documentary or otherwise, before the
+Department or any officer or employee thereof; provided that such immunity
+shall extend only to a natural person who, in obedience to a subpoena,
+gives testimony under oath or produces evidence, documentary or otherwise,
+under oath</heading>
+            <content>
+              <p>No person so testifying shall be exempt from prosecution and
+punishment for perjury committed in so testifying.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-14">
+            <num>14</num>
+            <heading>The Department or any officer or employee of the Department
+designated, in writing, by the Director thereof, shall at its or his or her
+own instance, or on the written request of any party to the proceeding,
+issue subpoenas requiring the attendance of and the giving of testimony by
+witnesses, and subpoenas duces tecum requiring the production of books,
+papers, records or memoranda</heading>
+            <content>
+              <p>All subpoenas issued under this Article may be
+served by any person of full age.  The fees of witnesses for attendance and
+travel shall be the same as the fees of witnesses before the circuit court
+of this State; such fees to be paid when the witness is excused from
+further attendance.  When the witness is subpoenaed at the instance of the
+Department or any officer or employee thereof, such fees shall be paid in
+the same manner as other expenses of the Department, and when the witness
+is subpoenaed at the instance of any retailer or taxpayer to any such
+proceeding, the Department may require that the cost of service of the
+subpoena and the fee of the witness be borne by the retailer or taxpayer at
+whose instance the witness is summoned.  In such case, the Department, in
+its discretion, may require a deposit to cover the cost of such service and
+witness fees.  A subpoena issued as aforesaid shall be served in the same
+manner as a subpoena issued out of a court. Any circuit court of this State, upon the application of the Department
+or any officer or employee thereof may, in its discretion, compel the
+attendance of witnesses, the production of books, papers, records or
+memoranda and the giving of testimony before the Department or any officer
+or employee thereof conducting an investigation or holding a hearing
+authorized by this Article, by an attachment for contempt, or otherwise, in the
+same manner as production of evidence may be compelled before the court. The Department or any officer or employee thereof, or any party in an
+investigation or hearing before the Department, may cause the depositions of
+witnesses residing within or without the State to be taken in the manner
+prescribed by law for like depositions in civil actions in courts of this
+State, and, to that end, compel the attendance of witnesses and the
+production of books, papers, records or memoranda.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-15">
+            <num>15</num>
+            <heading>Confidential information</heading>
+            <content>
+              <p>All information received by the
+Department from returns
+filed under this Article, or from any investigations conducted under this
+Article, shall be confidential, except for official purposes, and any person
+who
+divulges any such information in any manner, except in accordance with a
+proper judicial order or as otherwise provided by law, shall be guilty of a
+Class B misdemeanor. Provided, that nothing contained in this Article shall prevent the Director
+from publishing or making available to the public the names and addresses
+of retailers or taxpayers filing returns under this Article, or from publishing
+or making available reasonable statistics concerning the operation of the
+tax wherein the contents of returns are grouped into aggregates in such a
+way that the information contained in any individual return shall not be
+disclosed. And provided, that nothing contained in this Article shall prevent the
+Director from making available to the United States Government or the
+government of any other state, or any officer or agency thereof, for
+exclusively official purposes, information received by the Department in
+the administration of this Article, if such other governmental agency agrees to
+divulge requested tax information to the Department. The furnishing upon request of the Auditor General, or his authorized
+agents, for official use, of returns filed and information related thereto
+under this Article is deemed to be an official purpose within the meaning of
+this Section. The furnishing of financial information to a municipality that has imposed
+a tax under the Simplified Municipal Telecommunications Tax Act, upon request
+of the
+chief executive thereof, is an official purpose within the meaning of this
+Section, provided that the municipality agrees in writing to the requirements
+of this Section.  Information so provided shall be subject to all
+confidentiality provisions of this Section.  The written agreement shall
+provide for reciprocity, limitations on access, disclosure, and procedures for
+requesting information. The Director shall make available for public
+inspection in the Department's principal office and for publication, at cost,
+administrative decisions issued on or after January
+1, 1995. These decisions are to be made available in a manner so that the
+following
+taxpayer information is not disclosed: (1) The names, addresses, and identification numbers of the taxpayer, related entities, and employees. (2) At the sole discretion of the Director, trade secrets or other confidential information identified as such by the taxpayer, no later than 30 days after receipt of an administrative decision, by such means as the Department shall provide by rule. The Director shall determine the
+appropriate extent of the
+deletions allowed in paragraph (2). In the event the taxpayer does not submit
+deletions,
+the Director shall make only the deletions specified in paragraph (1). The Director shall make available for public inspection and publication an
+administrative decision within 180 days after the issuance of the
+administrative
+decision. The term "administrative decision" has the same meaning as defined in
+Section 3-101 of Article III of the Code of Civil Procedure. Costs collected
+under this Section shall be paid into the Tax Compliance and Administration
+Fund. Nothing contained in this Act shall prevent the Director from divulging
+information to any person pursuant to a request or authorization made by the
+taxpayer or by an authorized representative of the taxpayer.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-1074, eff. 12-26-06.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-16">
+            <num>16</num>
+            <heading>Except as otherwise provided in this Section with respect to the Illinois Independent Tax Tribunal, the circuit court of any county wherein a hearing is held
+shall have power to review all final administrative decisions of the
+Department in administering the provision of this Article:  Provided that if
+the administrative proceeding which is to be reviewed judicially is a claim
+for refund proceeding commenced under this Article and Section 2a of "An Act in
+relation to the payment and disposition of moneys received by officers and
+employees of the State of Illinois by virtue of their office or
+employment", approved June 9, 1911, as amended, the circuit court having
+jurisdiction of the action for judicial review under this Section and under
+the Administrative Review Law shall be the same court that entered the
+temporary restraining order or preliminary injunction which is provided for
+in Section 2a of "An Act in relation to the payment and disposition of
+moneys received by officers and employees of the State of Illinois by
+virtue of their office or employment", and which enables such claim
+proceeding to be processed and disposed of as a claim for refund proceeding
+rather than as a claim for credit proceeding</heading>
+            <content>
+              <p>Except as otherwise provided in this Section with respect to the Illinois Independent Tax Tribunal, the provisions of the Administrative Review Law, and the rules adopted
+pursuant thereto, shall apply to and govern all proceedings for the
+judicial review of final administrative decisions of the Department
+hereunder.  The term "administrative decision" is defined as in Section
+3-101 of the Code of Civil Procedure. The provisions of the Illinois Independent Tax Tribunal Act of 2012, and the rules adopted
+pursuant thereto, shall apply to and govern all proceedings for the
+judicial review of final administrative decisions of the Department that are subject to the jurisdiction of the Illinois Independent Tax Tribunal. Service upon the Director or Assistant Director of the Department of
+Revenue of summons issued in any action to review a final administrative
+decision shall be service upon the Department.  The Department shall certify
+the record of its proceedings if the taxpayer shall pay to it the sum of
+75¢ per page of testimony taken before the Department  and 25¢ per page of
+all other matters contained in such record, except that these charges may
+be waived where the Department is satisfied that the aggrieved party is a
+poor person who cannot afford to pay such charges.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-17">
+            <num>17</num>
+            <heading>The Department may make, promulgate and enforce such
+reasonable rules and regulations relating to the administration and
+enforcement of this Article as may be deemed expedient</heading>
+            <content>
+              <p>Any informal rulings, opinions or letters issued by the Department in
+response to any inquiry or request for any opinion from any person
+regarding the coverage and applicability of this Article shall be maintained as
+a public record, and made available for public inspection and copying.  If
+the informal ruling, opinion or letter contains trade secrets or other
+confidential information, where possible the Department shall delete such
+information prior to publication.  Whenever such informal rulings,
+opinions or letters contain any policy of general applicability, the
+Department shall formulate and adopt such policy as a rule in accordance
+with the provisions of the Illinois Administrative Procedure Act. Whenever notice to a retailer or taxpayer is required by this Article, such
+notice may be personally served or given by United States certified or
+registered mail, addressed to the retailer or taxpayer concerned at his
+last known address, and proof of such mailing shall be sufficient for the
+purposes of this Article.  In the case of a notice of hearing, such notice
+shall be mailed not less than 7 days prior to the date fixed for the hearing. All hearings provided for in this Article with respect to a retailer or
+taxpayer having his principal place of business in any of the several
+counties of this State shall be held in the county wherein the retailer or
+taxpayer has his principal place of business.  If the retailer or taxpayer
+does not have his principal place of business in this State, such hearings
+shall be held in Sangamon County. Whenever any proceeding provided by this Article has been begun by the
+Department or by a person subject thereto and such person thereafter dies
+or becomes a person under legal disability before the proceeding has been
+concluded, the legal representative of the deceased person or a person
+under legal disability shall notify the Department of such death or legal
+disability.  The legal representative, as such, shall then be substituted
+by the Department in place of and for the person.  Within 20 days after
+notice to the legal representative of the time fixed for that purpose, the
+proceeding may proceed in all respects and with like effect as though the
+person had not died or become a person under legal disability.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-18">
+            <num>18</num>
+            <heading>The Illinois Administrative Procedure Act is hereby expressly
+adopted and shall apply to all administrative rules and procedures of the
+Department of Revenue under this Article, except that: (1) paragraph (b) of
+Section 5-10 of the Illinois Administrative Procedure Act does not
+apply to final orders, decisions and opinions of the Department; (2)
+subparagraph (a)(2) of Section 5-10 of the Illinois Administrative
+Procedure Act does not apply to forms established by the Department for use
+under this Article; and (3) the provisions of Section 10-45 of the
+Illinois Administrative Procedure Act regarding proposals for decision are
+excluded and not applicable to the Department under this Article to the extent Section 10-45 applies to hearings not otherwise subject to the Illinois Independent Tax Tribunal Act of 2012</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) (35 ILCS 630/19) (from Ch. 120, par. 2019)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-19">
+            <num>19</num>
+            <heading>Any retailer or taxpayer who fails to make a return, or who
+makes a fraudulent return, or who wilfully violates any other provision of
+this Article or any rule or regulation of the Department for the administration
+and enforcement of this Article, is guilty of a Class 4 felony</heading>
+            <content>
+              <p>(Source: P.A. 84-126.) (35 ILCS 630/20) (from Ch. 120, par. 2020)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-20">
+            <num>20</num>
+            <heading>If any clause, sentence, Section, provision or part of this
+Article or the application thereof to any person or circumstance, other than
+the applicability of the Article to messages originating or terminating outside
+this State, shall be adjudged to be unconstitutional, the remainder of this
+Article or its application to persons or circumstances other than those to
+which it is held invalid shall not be affected thereby</heading>
+            <content>
+              <p>In particular, if
+any provision which exempts or has the effect of exempting some class of
+persons or some act or privilege of sending or receiving telecommunication
+from the tax imposed by this Article should be held to constitute or to result
+in an invalid classification or to be unconstitutional for some other
+reason, such provision shall be deemed to be severable, with the remainder
+of this Article, without said provision, being held constitutional.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-630-21">
+            <num>21</num>
+            <heading>If Section 4 of this Article is declared unconstitutional or
+invalid, no part of this Article shall be effective</heading>
+            <content>
+              <p>(Source: P.A. 84-126.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706. Con</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-126.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

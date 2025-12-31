@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-505"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-505"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-505"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-505/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-505/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-505/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-505/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_505">
+          <num>35 ILCS 505/</num>
+          <heading>Motor Fuel Tax Law</heading>
+          <section eId="sec_35-505-1">
+            <num>1</num>
+            <heading>For the purposes of this Act the terms set out in the Sections following this Section and preceding Section 2 have the meanings ascribed to them in those Sections</heading>
+            <subsection eId="sec_35-505-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>produces,
+refines, blends, compounds or manufactures motor fuel in this State, or (ii)
+transports motor fuel into this State, or (iii) exports motor fuel out of this State, or (iv) engages in the distribution of
+motor fuel primarily by tank car or tank truck, or both, and who operates an
+Illinois bulk plant where he or she has active bulk storage capacity of not
+less than 30,000 gallons for gasoline as defined in item (A) of Section 5 of
+this Law. "Distributor" does not, however, include a person who receives or
+transports into this State and sells or uses motor fuel under such
+circumstances as preclude the collection of the tax herein imposed, by
+reason of the provisions of the constitution and statutes of the United
+States. However, a person operating a motor vehicle into the State, may
+transport motor fuel in the ordinary fuel tank attached to the motor
+vehicle for the operation of the motor vehicle, without being considered
+a distributor.  Any railroad registered under
+Section 18c-7201 of the Illinois Vehicle Code may deliver special fuel directly
+into the fuel supply tank of a locomotive owned, operated, or controlled by any
+other railroad registered under Section 18c-7201 of the Illinois Vehicle Code
+without being considered a distributor or supplier. (Source: P.A. 96-1384, eff. 7-29-10.) (Text of Section after amendment by P.A. 104-6 ) Sec. 1.2. Distributor. "Distributor" means a person who does any of the following:</p>
+              </content>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>produces motor fuel in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>refines motor fuel in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>blends motor fuel in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>compounds motor fuel in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>manufactures motor fuel in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>transports motor fuel into this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>exports motor fuel out of this State; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-1__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>distributes motor fuel primarily by tank car or tank truck, or both, and operates an Illinois bulk plant where the person has active bulk storage capacity of not less than 20,000 gallons for motor fuel. "Distributor" does not, however, include a person who receives or transports into this State and sells or uses motor fuel under such circumstances as preclude the collection of the tax herein imposed, by reason of the provisions of the constitution and statutes of the United States. However, a person operating a motor vehicle into the State, may transport motor fuel in the ordinary fuel tank attached to the motor vehicle for the operation of the motor vehicle, without being considered a distributor. Any railroad registered under Section 18c-7201 of the Illinois Vehicle Code may deliver special fuel directly into the fuel supply tank of a locomotive owned, operated, or controlled by any other railroad registered under Section 18c-7201 of the Illinois Vehicle Code without being considered a distributor. (Source: P.A. 104-6, eff. 1-1-26.) (35 ILCS 505/1.3) (from Ch. 120, par. 417.3) Sec. 1.3. "Motor vehicles" means motor vehicles as defined by the Illinois Vehicle
+Code and watercraft propelled by an internal combustion engine. (Source: P.A. 77-1079 .) (35 ILCS 505/1.4) (from Ch. 120, par. 417.4) Sec. 1.4. "Municipality" means city, village or incorporated town. (Source: Laws 1961, p. 3653.) (35 ILCS 505/1.5) (from Ch. 120, par. 417.5) Sec. 1.5. "Blending" means the mixing together by any process whatsoever,
+of any one or more products with other products, and regardless of the
+original character of the products so blended, provided the resultant
+product so obtained is suitable or practicable for use as a motor fuel,
+except such blending as may occur in the process known as refining by the
+original refiner of crude petroleum, and except, also, the blending of
+products known as lubricating oil in the production of lubricating oils and
+greases
+and except, also, th</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-756, eff. 7-16-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-2">
+            <num>2</num>
+            <heading>A tax is imposed on the privilege of operating motor vehicles upon the public highways and recreational-type watercraft upon the waters of this State</heading>
+            <subsection eId="sec_35-505-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prior to August 1, 1989, the tax is imposed at the rate of 13 cents per gallon on all motor fuel used in motor vehicles operating on the public highways and recreational type watercraft operating upon the waters of this State. Beginning on August 1, 1989 and until January 1, 1990, the rate of the tax imposed in this paragraph shall be 16 cents per gallon. Beginning January 1, 1990 and until July 1, 2019, the rate of tax imposed in this paragraph, including the tax on compressed natural gas, shall be 19 cents per gallon. Beginning July 1, 2019 and until July 1, 2020, the rate of tax imposed in this paragraph shall be 38 cents per gallon. Beginning July 1, 2020 and until July 1, 2021, the rate of tax imposed in this paragraph shall be 38.7 cents per gallon. Beginning July 1, 2021 and until January 1, 2023, the rate of tax imposed in this paragraph shall be 39.2 cents per gallon. On January 1, 2023, the rate of tax imposed in this paragraph shall be increased by an amount equal to the percentage increase, if any, in the Consumer Price Index for the 12 months ending in September of 2022. On July 1, 2023, and on July 1 of each subsequent year, the rate of tax imposed in this paragraph shall be increased by an amount equal to the percentage increase, if any, in the Consumer Price Index for the 12 months ending in March of the year in which the increase takes place. The percentage increase in the Consumer Price Index shall be calculated as follows:</p>
+              </content>
+              <paragraph eId="sec_35-505-2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>calculate the average Consumer Price Index for the full 12 months ending in March of the year in which the increase takes place;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>calculate the average Consumer Price Index for the full 12 months ending in March of the year immediately preceding the year in which the increase takes place;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>calculate the percentage increase, if any, in the current-year average determined under item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>over the preceding-year average determined under item</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Until July 1, 2019, the tax on the privilege of operating motor vehicles which use diesel fuel, liquefied natural gas, or propane shall be the rate according to paragraph</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>plus an additional 2 1/2 cents per gallon. Beginning July 1, 2019, the tax on the privilege of operating motor vehicles which use diesel fuel, liquefied natural gas, or propane shall be the rate according to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>plus an additional 7.5 cents per gallon. "Diesel fuel" is defined as any product intended for use or offered for sale as a fuel for engines in which the fuel is injected into the combustion chamber and ignited by pressure without electric spark.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A tax is imposed upon the privilege of engaging in the business of selling motor fuel as a retailer or reseller on all motor fuel used in motor vehicles operating on the public highways and recreational type watercraft operating upon the waters of this State:</p>
+              </content>
+              <paragraph eId="sec_35-505-2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>at the rate of 3 cents per gallon on motor fuel owned or possessed by such retailer or reseller at 12:01 a.m. on August 1, 1989; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-2__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>at the rate of 3 cents per gallon on motor fuel owned or possessed by such retailer or reseller at 12:01 A.M. on January 1, 1990. Retailers and resellers who are subject to this additional tax shall be required to inventory such motor fuel and pay this additional tax in a manner prescribed by the Department of Revenue. The tax imposed in this paragraph</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>shall be in addition to all other taxes imposed by the State of Illinois or any unit of local government in this State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in Section 2a, the collection of a tax based on gallonage of gasoline used for the propulsion of any aircraft is prohibited on and after October 1, 1979, and the collection of a tax based on gallonage of special fuel used for the propulsion of any aircraft is prohibited on and after December 1, 2019.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The collection of a tax, based on gallonage of all products commonly or commercially known or sold as 1-K kerosene, regardless of its classification or uses, is prohibited</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>on and after July 1, 1992 until December 31, 1999, except when the 1-K kerosene is either:</p>
+              </content>
+              <paragraph eId="sec_35-505-2__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>delivered into bulk storage facilities of a bulk user, or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-2__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>delivered directly into the fuel supply tanks of motor vehicles and (ii) on and after January 1, 2000. Beginning on January 1, 2000, the collection of a tax, based on gallonage of all products commonly or commercially known or sold as 1-K kerosene, regardless of its classification or uses, is prohibited except when the 1-K kerosene is delivered directly into a storage tank that is located at a facility that has withdrawal facilities that are readily accessible to and are capable of dispensing 1-K kerosene into the fuel supply tanks of motor vehicles. For purposes of this subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a dispenser hose that is short enough so that it will not reach the fuel supply tank of a motor vehicle or (ii) a dispenser that is enclosed by a fence or other physical barrier so that a vehicle cannot pull alongside the dispenser to permit fueling. Any person who sells or uses 1-K kerosene for use in motor vehicles upon which the tax imposed by this Law has not been paid shall be liable for any tax due on the sales or use of 1-K kerosene. As used in this Section, "Consumer Price Index" means the index published by the Bureau of Labor Statistics of the United States Department of Labor that measures the average change in prices of goods and services purchased by all urban consumers, United States city average, all items, 1982-84 = 100.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-700, eff. 4-19-22; 103-995, eff. 8-9-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-2a">
+            <num>2a</num>
+            <heading>Except as hereinafter provided, on and after January 1, 1990 and before January 1, 2030, a tax of three-tenths of a cent per gallon is imposed upon the privilege of being a receiver in this State of fuel for sale or use</heading>
+            <subsection eId="sec_35-505-2a__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 49 U.S.C. 47133 are binding on the State. The tax shall be paid by the receiver in this State who first sells or uses fuel. In the case of a sale, the tax shall be stated as a separate item on the invoice. For the purpose of the tax imposed by this Section, being a receiver of "motor fuel" as defined by Section 1.1 of this Act, and aviation fuels, home heating oil and kerosene, but excluding liquified petroleum gases, is subject to tax without regard to whether the fuel is intended to be used for operation of motor vehicles on the public highways and waters. However, no such tax shall be imposed upon the importation or receipt of aviation fuels and kerosene at airports with over 300,000 operations per year, for years prior to 1991, and over 170,000 operations per year beginning in 1991, located in a city of more than 1,000,000 inhabitants for sale to or use by holders of certificates of public convenience and necessity or foreign air carrier permits, issued by the United States Department of Transportation, and their air carrier affiliates, or upon the importation or receipt of aviation fuels and kerosene at facilities owned or leased by those certificate or permit holders and used in their activities at an airport described above. In addition, no such tax shall be imposed upon the importation or receipt of diesel fuel or liquefied natural gas sold to or used by a rail carrier registered pursuant to Section 18c-7201 of the Illinois Vehicle Code or otherwise recognized by the Illinois Commerce Commission as a rail carrier, to the extent used directly in railroad operations. In addition, no such tax shall be imposed when the sale is made with delivery to a purchaser outside this State or when the sale is made to a person holding a valid license as a receiver. In addition, no tax shall be imposed upon diesel fuel or liquefied natural gas consumed or used in the operation of ships, barges, or vessels, that are used primarily in or for the transportation of property </p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 6-7-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-2b">
+            <num>2b</num>
+            <heading>Receiver's monthly return</heading>
+            <subsection eId="sec_35-505-2b__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 49 U.S.C. 47133. Beginning on January 1, 2020 and ending with returns due on January 20, 2021, each person who is required to pay the tax imposed under Section 2a of this Act on aviation fuel sold or used in this State during the preceding calendar month shall, instead of reporting and paying tax on aviation fuel as otherwise required by this Section, report and pay such tax on a separate aviation fuel tax return or a separate line on the return.  The requirements related to the return shall be as otherwise provided in this Section.  Notwithstanding any other provisions of this Act to the contrary, a person required to pay the tax imposed by Section 2a of this Act on aviation fuel shall file all aviation fuel tax returns and shall make all aviation fuel tax payments by electronic means in the manner and form required by the Department.  For purposes of this Law, "aviation fuel" means jet fuel and aviation gasoline. If any payment provided for in this Section exceeds the receiver's liabilities under this Act, as shown on an original return, the Department may authorize the receiver to credit such excess payment against liability subsequently to be remitted to the Department under this Act, in accordance with reasonable rules adopted by the Department. If the Department subsequently determines that all or any part of the credit taken was not actually due to the receiver, the receiver's discount shall be reduced by an amount equal to the difference between the discount as applied to the credit taken and that actually due, and that receiver shall be liable for penalties and interest on such difference.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1171, eff. 1-4-19; 101-10, eff. 6-5-19; 101-604, eff. 12-13-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-2c">
+            <num>2c</num>
+            <heading>Sunset of exemptions, credits, and deductions</heading>
+            <content>
+              <p>The application
+of every exemption, credit, and deduction against tax imposed by this Act that
+becomes law after the effective date of this amendatory Act of 1994 shall be
+limited by a reasonable and appropriate sunset date.  A taxpayer is not
+entitled to take the exemption, credit, or deduction beginning on the sunset
+date and thereafter.  If a reasonable and appropriate sunset date is not
+specified in the Public Act that creates the exemption, credit, or deduction, a
+taxpayer shall not be entitled to take the exemption, credit, or deduction
+beginning 5 years after the effective date of the Public Act creating the
+exemption, credit, or deduction and thereafter.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-660, eff. 9-16-94.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-2d">
+            <num>2d</num>
+            <heading>Reporting and payment requirements for persons who produce biodiesel fuel or biodiesel blends for self-use</heading>
+            <subsection eId="sec_35-505-2d__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Beginning July 1, 2007, notwithstanding any other reporting provisions of this Act, if a private biodiesel fuel producer's total gallonage that is  taxable under Sections 2 and 2a of this Act for biodiesel fuel and biodiesel fuel blends is less than 5,000 gallons per year, then he or she  must file returns and make payment of the tax imposed by Section 2 and Section 2a of this Act on an annual basis. The returns and payment of tax for a given year are due by January 20 of the following year.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2d__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If a private biodiesel fuel producer's total gallonage that is  taxable under Sections 2 and 2a of this Act for biodiesel fuel and biodiesel fuel blends is 5,000 or more gallons per year, then he or she  must file returns and make payment of the tax imposed by Section 2 and Section 2a of this Act on a monthly basis. The returns and payment of tax are due between the 1st and 20th days of each calendar month for the preceding calendar month.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2d__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except for persons required to be licensed under Section 13a.4 of this Act, a person who is subject to the provisions of this Section is exempt from all bonding and licensure requirements otherwise imposed under this Act.  Each person who is  subject to the provisions of this Section must keep records as required by Section 12 of this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-2d__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For the purposes of this Section: "Biodiesel blend" has the meaning set forth under Section 3-42 of the Use Tax Act (35 ILCS 105/3-42). "Biodiesel fuel" has the meaning set forth under Section 3-41 of the Use Tax Act (35 ILCS 105/3-41). "Biomass materials" has the meaning set forth under Section 3-43 of the Use Tax Act (35 ILCS 105/3-43). "Private biodiesel fuel producer" means a person whose only activities with respect to motor fuel are:</p>
+              </content>
+              <paragraph eId="sec_35-505-2d__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the conversion of any biomass materials into biodiesel fuel,  which is produced exclusively for personal use and not for sale; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-2d__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the blending of biodiesel fuel resulting in biodiesel blends,  which is produced exclusively for personal use and not for sale.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-264, eff. 8-17-07.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-3">
+            <num>3</num>
+            <heading>No person shall act as a distributor of motor fuel within this
+State without first securing a license to act as a distributor of motor
+fuel from the Department</heading>
+            <content>
+              <p>Application for such license shall be made to the
+Department upon blanks furnished by it. The application shall be signed
+and verified, and shall contain such information as the Department deems
+necessary.
+A blender shall, in addition to securing a distributor's license, make
+application to the Department for a blender's permit, setting forth in the
+application such information as the Department deems necessary. The applicant
+for a distributor's license shall also file with the Department a bond on a
+form to be approved by and with a surety or sureties satisfactory to the
+Department conditioned upon such applicant paying to the State of Illinois
+all monies becoming due by reason of the sale, export, or use of motor fuel by the
+applicant, together with all penalties and interest thereon. The Department
+shall fix the penalty of such bond in each case taking into consideration
+the amount of motor fuel expected to be sold, distributed, exported, and used by such
+applicant and the penalty fixed by the Department shall be such, as in its
+opinion, will protect the State of Illinois against failure to pay the
+amount hereinafter provided on motor fuel sold, distributed, exported, and used, but
+the amount of the penalty fixed by the Department shall not exceed
+twice
+the monthly amount
+that would be collectable as a tax in the event of a sale
+on all the motor fuel sold, distributed, exported, and used by the
+distributor inclusive of tax-free sales, exports, use, or distribution. Upon receipt of the
+application and bond in proper form, the Department shall issue to the
+applicant a license to act as a distributor. No person who is in default to
+the State for monies due under this Act for the sale, distribution, export, or use
+of motor fuel shall receive a license to act
+as a distributor. A license shall not be granted to any person whose principal place
+of business is in a state other than Illinois, unless such person is licensed
+for motor fuel distribution or export in the state in which the principal place of
+business is located
+and that such person is not in default to that State for any monies due
+for the sale, distribution, export, or use of motor fuel.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1384, eff. 7-29-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-3">
+            <num>3</num>
+            <heading>Application for distributor's license</heading>
+            <subsection eId="sec_35-505-3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No person shall act as a distributor of motor fuel within this State without first securing a license to act as a distributor of motor fuel from the Department. Application for such license shall be made to the Department upon blanks furnished by it. The application shall be signed and verified, and shall contain such information as the Department deems necessary. A blender shall, in addition to securing a distributor's license, make application to the Department for a blender's permit, setting forth in the application such information as the Department deems necessary. The applicant for a distributor's license shall also file with the Department a bond on a form to be approved by and with a surety or sureties satisfactory to the Department conditioned upon such applicant paying to the State of Illinois all monies becoming due by reason of the sale, export, or use of motor fuel by the applicant, together with all penalties and interest thereon. The Department shall fix the penalty of such bond in each case taking into consideration the amount of motor fuel expected to be sold, distributed, exported, and used by such applicant and the penalty fixed by the Department shall be such, as in its opinion, will protect the State of Illinois against failure to pay the amount hereinafter provided on motor fuel sold, distributed, exported, and used, but the amount of the penalty fixed by the Department shall not exceed twice the monthly amount that would be collectable as a tax in the event of a sale on all the motor fuel sold, distributed, exported, and used by the distributor inclusive of tax-free sales, exports, use, or distribution. Upon receipt of the application and bond in proper form, the Department shall issue to the applicant a license to act as a distributor. No person who is in default to the State for monies due under this Act for the sale, distribution, export, or use of motor fuel shall receive a license to act as a distributor.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A license shall not be granted to any person whose principal place of business is in a state other than Illinois, unless such person is licensed for motor fuel distribution or export in the state in which the principal place of business is located and that such person is not in default to that State for any monies due for the sale, distribution, export, or use of motor fuel.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>On January 1, 2026, all valid and unrevoked supplier's licenses and their corresponding receiver's licenses issued by the Department shall be converted by the Department to distributor's licenses and corresponding receiver's licenses. Beginning on January 1, 2026, holders of these converted distributor's licenses shall be subject to the same provisions and requirements as other licensed distributors under this Law.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-3a">
+            <num>3a</num>
+            <heading>No person, other than a licensed distributor, shall act as a
+supplier of special fuel within this State without first securing a license
+to act as a supplier of special fuel from the Department</heading>
+            <content>
+              <p>Application for such license shall be made to the Department upon blanks
+furnished by it. The application shall be signed and verified and shall contain
+such
+information as the Department deems necessary. The applicant for a supplier's license shall also file, with the
+Department, a bond on a form to be approved by and with a surety or sureties
+satisfactory to the Department, conditioned upon such applicant paying to
+the State of Illinois all moneys becoming due by reason of the sale or use
+of special fuel by the applicant, together with all penalties and interest
+thereon. The Department shall fix the penalty of such bond in each case,
+taking into consideration the amount of special fuel expected to be sold,
+distributed, exported, and used by such applicant, and the penalty fixed by the
+Department shall be such, as in its opinion, will protect the State of
+Illinois against failure to pay the amount hereinafter provided on special
+fuel sold, distributed, exported, and used, but the amount of the penalty fixed by the
+Department shall not exceed twice the monthly amount
+of tax liability
+that would be collectable as a tax in the event of a taxable sale
+on all the special fuel sold, distributed, exported, and used by the supplier
+inclusive of tax-free sales, use, exports, or distribution. Upon receipt of the application and bond in proper form, the Department
+shall issue to the applicant a license to act as a supplier. No person who
+is in default to the State for moneys due under this Act for the sale,
+distribution, export, or use of motor fuel shall receive a license to act as a supplier. A license shall not be granted to any person whose principal place of
+business is in a state other than Illinois, unless such person is licensed
+for motor fuel distribution or export in the State in which the principal place of
+business is located
+and that other State requires such license and that such person is not in
+default to that State for any monies due for the sale, distribution, export, or use
+of motor fuel.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1384, eff. 7-29-10.  Repealed by P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-3b">
+            <num>3b</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 90-491, eff. 1-1-98.  Repealed by P.A. 91-173, eff. 1-1-00.) (35 ILCS 505/3c) (from Ch. 120, par. 419b.1)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-491, eff. 1-1-98.  Repealed by P.A. 91-173, eff. 1-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-3c">
+            <num>3c</num>
+            <heading>No person shall act as a receiver of fuel within this State
+without first securing a license from the Department to act as a receiver of
+fuel</heading>
+            <content>
+              <p>Application for such license shall be made to the Department upon blanks
+furnished by it.  The application shall be signed and verified, and shall
+contain such information as the Department deems necessary.  The applicant
+for a receiver's license shall also file with the Department a bond on a
+form to be approved by and with a surety or sureties satisfactory to the
+Department conditioned upon such applicant paying to the State of Illinois
+all monies becoming due by reason of the receipt of fuel by the applicant,
+together with all penalties and interest thereon.  The Department shall fix
+the penalty of such bond in each case taking into consideration the amount
+of fuel expected to be sold, distributed and used by such applicant and the
+penalty fixed by the Department shall be such, as in its opinion, will
+protect the State of Illinois against failure to pay
+the tax imposed by Section 2a on fuel received in this State, but the
+amount of the penalty fixed by the Department shall not exceed
+twice the monthly amount
+that would be due in the event of a sale or use on all the
+fuel sold or used by the receiver inclusive of tax-free sales or use. Upon receipt of the application and bond in proper form, the Department
+shall issue to the applicant a license to act as a receiver.  No person who
+is in default to the State for monies due under this Act for the receipt,
+sale, distribution or use of fuel or motor fuel shall receive a license
+either directly or indirectly to act as a receiver.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-491, eff. 1-1-98; 91-173, eff. 1-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-3d">
+            <num>3d</num>
+            <heading>Right to blend</heading>
+            <subsection eId="sec_35-505-3d__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A distributor who is properly licensed and permitted as a blender pursuant to this Act may blend petroleum-based diesel fuel with biodiesel and sell the blended or unblended product on any premises owned and operated by the distributor for the purpose of supporting or facilitating the retail sale of motor fuel.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-3d__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A refiner or supplier of petroleum-based diesel fuel or biodiesel shall not refuse to sell or transport to a distributor who is properly licensed and permitted as a blender pursuant to this Act any petroleum-based diesel fuel or biodiesel based on the distributor's or dealer's intent to use that product for blending.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-700, eff. 4-19-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-3d">
+            <num>3d</num>
+            <heading>Right to blend</heading>
+            <subsection eId="sec_35-505-3d__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A distributor who is properly licensed and permitted as a blender pursuant to this Act may blend petroleum-based diesel fuel with biodiesel and sell the blended or unblended product on any premises owned and operated by the distributor for the purpose of supporting or facilitating the retail sale of motor fuel.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-3d__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A refiner or distributor of petroleum-based diesel fuel or biodiesel shall not refuse to sell or transport to a distributor who is properly licensed and permitted as a blender pursuant to this Act any petroleum-based diesel fuel or biodiesel based on the distributor's or dealer's intent to use that product for blending.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-4c">
+            <num>4c</num>
+            <heading>Notwithstanding any other provision to the contrary, any person
+who is required to file a bond pursuant to any provision of this Act and
+who has continuously complied with all provisions of this Act for 48
+or
+more consecutive months, shall no longer be required to comply with the
+bonding provisions of this Act so long as such person continues his compliance
+with the provisions of this Act</heading>
+            <content>
+              <p>This provision does not apply to motor
+carriers subject to the provisions of Sections 13a through 13a.5 of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-173, eff. 1-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-4d">
+            <num>4d</num>
+            <heading>All special fuel sold or used for non-highway purposes must
+contain only the dye Solvent Red 164 at a concentration spectrally equivalent
+to at least 3</heading>
+            <content>
+              <p>9 pounds of the solid dye standard Solvent Red 26 per thousand
+barrels of special fuel except kerosene-type jet fuel sold for the propulsion
+of any aircraft.  The dye must be added prior to removal from a terminal rack.
+The Department may also require all special fuel sold for non-highway use to
+have a marker added.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-173, eff. 1-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-4e">
+            <num>4e</num>
+            <heading>A legible and conspicuous notice stating "Dyed Diesel Fuel,
+Non-taxable Use Only, Penalty For Taxable Use" must appear on all bills of lading and invoices accompanying any sale of dyed
+diesel
+fuel</heading>
+            <content>
+              <p>(Source: P.A. 91-173, eff. 1-1-00; 92-30, eff. 7-1-01.) (35 ILCS 505/4f)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-173, eff. 1-1-00; 92-30, eff. 7-1-01.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-4f">
+            <num>4f</num>
+            <heading>A legible and conspicuous notice stating  "Dyed Diesel Fuel,
+Non-taxable Use Only" must appear on all  containers, storage tanks, or
+facilities used to store or distribute dyed diesel fuel</heading>
+            <content>
+              <p>(Source: P.A. 91-173, eff. 1-1-00.) (35 ILCS 505/5) (from Ch. 120, par. 421) (Text of Section before amendment by P.A. 104-6 )</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-173, eff. 1-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-5">
+            <num>5</num>
+            <heading>Distributor's monthly return</heading>
+            <subsection eId="sec_35-505-5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the liquefied natural gas is dispensed into the fuel supply tank of any motor vehicle or (ii) the liquefied natural gas is delivered into a storage tank that is located at a facility that has withdrawal facilities which are readily accessible to and are capable of dispensing liquefied natural gas into the fuel supply tanks of motor vehicles. For purposes of this Section, a facility is considered to have withdrawal facilities that are not "readily accessible to and capable of dispensing combustible gases into the fuel supply tanks of motor vehicles" only if the combustible gases or liquefied natural gas are delivered from:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a dispenser hose that is short enough so that it will not reach the fuel supply tank of a motor vehicle or (ii) a dispenser that is enclosed by a fence or other physical barrier so that a vehicle cannot pull alongside the dispenser to permit fueling. For the purposes of this Act, liquefied petroleum
+gases shall mean and include any material having a vapor pressure not exceeding
+that allowed for commercial propane composed predominantly of the following
+hydrocarbons, either by themselves or as mixtures:  Propane, Propylene, Butane
+(normal butane or iso-butane) and Butylene (including isomers). In case of a sale of special fuel to someone other than a licensed
+distributor, or a licensed supplier, for a use other than in motor vehicles,
+the distributor shall show in
+his return the amount of invoiced gallons sold and the name and address of the
+purchaser
+in addition to any other information the Department may require. All special fuel sold or used for non-highway purposes must have a dye
+added in accordance with Section 4d of this Law. In case of a tax-free sale, as provided in Section 6, of
+motor fuel which the distributor is required by this Section to include in
+his return to the Department, the distributor in his return shall show:</p>
+              </content>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the sale is made to another licensed distributor the amount
+sold and the name, address and license number of the purchasing distributor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the sale is made to a person where delivery is made outside of this
+State the name and address of such purchaser and the point of delivery
+together with the date and amount delivered;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the sale is made to the
+Federal Government or its instrumentalities the amount sold;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the sale is made to a
+municipal corporation owning and operating a local transportation
+system for public service in this State the name and address of such
+purchaser, and the amount sold, as evidenced by official forms of
+exemption certificates properly executed and furnished by such purchaser;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the sale is made to a privately owned public utility owning and
+operating 2-axle vehicles designed and used for transporting more than 7
+passengers, which vehicles are used as common carriers in general
+transportation of passengers, are not devoted to any specialized purpose
+and are operated entirely within the territorial limits of a single
+municipality or of any group of contiguous municipalities or in a close
+radius thereof, and the operations of which are subject to the regulations
+of the Illinois Commerce Commission, then the name and address of such
+purchaser and the amount sold as evidenced by official forms of
+exemption certificates properly executed and furnished by the purchaser;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>if the product sold is special fuel and if the sale is made to a
+licensed supplier under conditions which qualify the sale for tax exemption
+under Section 6 of this Act, the amount sold and the name, address and
+license number of the purchaser; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>if a sale of special fuel is made
+to
+someone other than a licensed distributor, or a licensed supplier, for a use other than in motor vehicles, by making a
+specific notation thereof on the invoice or sales slip covering such sales and
+obtaining such supporting documentation as may be required by the Department. All special fuel sold or used for non-highway purposes must have a dye
+added
+in accordance with Section 4d of this Law. A person whose license to act as a distributor of motor fuel has been
+revoked shall make a return to the Department covering the period from the
+date of the last return to the date of the revocation of the license, which
+return shall be delivered to the Department not later than 10 days from the
+date of the revocation or termination of the license of such distributor;
+the return shall in all other respects be subject to the same provisions
+and conditions as returns by distributors licensed under the provisions of
+this Act. The records, waybills and supporting documents kept by railroads and
+other common carriers in the regular course of business shall be prima
+facie evidence of the contents and receipt of cars or tanks covered by those
+records, waybills or supporting documents. If the Department has reason to believe and does believe that the amount
+shown on the return as purchased, acquired, received, exported, sold, used, lost
+or destroyed is incorrect, or that
+an amount of motor fuel of the types required by the second paragraph of
+this Section to be reported to the Department
+has not been correctly reported the Department shall fix
+an amount for
+such receipt, sales, export, use, loss or destruction according to its best
+judgment and</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-9, eff. 7-1-17; 100-1171, eff. 1-4-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-5">
+            <num>5</num>
+            <heading>Distributor's monthly return</heading>
+            <subsection eId="sec_35-505-5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the liquefied natural gas is dispensed into the fuel supply tank of any motor vehicle or (ii) the liquefied natural gas is delivered into a storage tank that is located at a facility that has withdrawal facilities which are readily accessible to and are capable of dispensing liquefied natural gas into the fuel supply tanks of motor vehicles. For purposes of this Section, a facility is considered to have withdrawal facilities that are not "readily accessible to and capable of dispensing combustible gases into the fuel supply tanks of motor vehicles" only if the combustible gases or liquefied natural gas are delivered from:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a dispenser hose that is short enough so that it will not reach the fuel supply tank of a motor vehicle or (ii) a dispenser that is enclosed by a fence or other physical barrier so that a vehicle cannot pull alongside the dispenser to permit fueling. For the purposes of this Act, liquefied petroleum gases shall mean and include any material having a vapor pressure not exceeding that allowed for commercial propane composed predominantly of the following hydrocarbons, either by themselves or as mixtures: Propane, Propylene, Butane (normal butane or iso-butane) and Butylene (including isomers). In case of a sale of special fuel to someone other than a licensed distributor for a use other than in motor vehicles, the distributor shall show in his return the amount of invoiced gallons sold and the name and address of the purchaser in addition to any other information the Department may require. All special fuel sold or used for non-highway purposes must have a dye added in accordance with Section 4d of this Law. In case of a tax-free sale, as provided in Section 6, of motor fuel which the distributor is required by this Section to include in his return to the Department, the distributor in his return shall show:</p>
+              </content>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If the sale is made to another licensed distributor the amount sold and the name, address and license number of the purchasing distributor;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the sale is made to a person where delivery is made outside of this State the name and address of such purchaser and the point of delivery together with the date and amount delivered;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the sale is made to the Federal Government or its instrumentalities the amount sold;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the sale is made to a municipal corporation owning and operating a local transportation system for public service in this State the name and address of such purchaser, and the amount sold, as evidenced by official forms of exemption certificates properly executed and furnished by such purchaser;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the sale is made to a privately owned public utility owning and operating 2-axle vehicles designed and used for transporting more than 7 passengers, which vehicles are used as common carriers in general transportation of passengers, are not devoted to any specialized purpose and are operated entirely within the territorial limits of a single municipality or of any group of contiguous municipalities or in a close radius thereof, and the operations of which are subject to the regulations of the Illinois Commerce Commission, then the name and address of such purchaser and the amount sold as evidenced by official forms of exemption certificates properly executed and furnished by the purchaser; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-5__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>if a sale of special fuel is made to someone other than a licensed distributor for a use other than in motor vehicles, by making a specific notation thereof on the invoice or sales slip covering such sales and obtaining such supporting documentation as may be required by the Department. All special fuel sold or used for non-highway purposes must have a dye added in accordance with Section 4d of this Law. A person whose license to act as a distributor of motor fuel has been revoked shall make a return to the Department covering the period from the date of the last return to the date of the revocation of the license, which return shall be delivered to the Department not later than 10 days from the date of the revocation or termination of the license of such distributor; the return shall in all other respects be subject to the same provisions and conditions as returns by distributors licensed under the provisions of this Act. The records, waybills and supporting documents kept by railroads and other common carriers in the regular course of business shall be prima facie evidence of the contents and receipt of cars or tanks covered by those records, waybills or supporting documents. If the Department has reason to believe and does believe that the amount shown on the return as purchased, acquired, received, exported, sold, used, lost or destroyed is incorrect, or that an amount of motor fuel of the types required by the second paragraph of this Section to be reported to the Department has not been correctly reported the Department shall fix an amount for such receipt, sales, export, use, loss or destruction according to its best judgment and information, which amount so fixed by the Department shall be prima facie correct. All returns shall be made on forms prepared and furnished by the Department, and shall contain such other information as the Department may reasonably require. The return must be accompanied by appropriate computer-genera</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-5a">
+            <num>5a</num>
+            <heading>Supplier's monthly return</heading>
+            <content>
+              <p>A person holding a valid unrevoked license to act as a
+supplier of special fuel shall, between the 1st and 20th days of each
+calendar month, make return to the Department showing an itemized
+statement of the number of invoiced gallons of special fuel
+acquired, received, purchased,
+sold, exported, or used during the preceding calendar month; the amount of special
+fuel sold, distributed, exported, and used by the licensed
+supplier during the preceding calendar month; the amount of special fuel
+lost or destroyed during the preceding
+calendar month; the amount of special fuel on hand at the close of
+business for the preceding calendar month; and such other reasonable
+information as the Department may require. A person whose license to act as a supplier of special fuel has been
+revoked shall make a return to the Department covering the period from
+the date of the last return to the date of the revocation of the
+license, which return shall be delivered to the Department not later
+than 10 days from the date of the revocation or termination of the
+license of such supplier.  The return shall in all other respects be
+subject to the same provisions and conditions as returns by suppliers
+licensed under this Act. The records, waybills and supporting documents kept by railroads and
+other common carriers in the regular course of business shall be prima
+facie evidence of the contents and receipt of cars or tanks covered by
+those records, waybills or supporting documents. If the Department has reason to believe and does believe that the
+amount shown on the return as purchased, acquired, received,
+sold, exported, used, or lost is
+incorrect, or that an amount of special fuel of the type required by the
+1st paragraph of this Section to be reported to the Department by
+suppliers has not been correctly reported as
+a
+purchase, receipt, sale, use, export, or loss the Department shall
+fix an amount for such
+purchase, receipt, sale, use, export, or loss according to its best
+judgment and information,
+which amount so fixed by the Department shall be prima facie correct.
+All licensed suppliers shall report all losses of special fuel sustained on
+account of fire, theft, spillage, spoilage, leakage, or any other provable
+cause when filing the return for the period during which the loss occurred.
+If the supplier reports losses due to fire or theft, then the supplier must include fire department or police department reports and any other documentation that the Department may require. The mere making of the report does not assure the allowance of the loss as a
+reduction in tax liability. Losses of special fuel as the result of evaporation
+or shrinkage due to temperature variations may not exceed 1% of the
+total gallons in storage at the beginning of the month, plus the receipts of
+gallonage during the month, minus the gallonage remaining in storage at the end
+of the month. Any loss reported that is in excess of 1% shall be
+subject to the
+tax imposed by Section 2 of this Law.
+On and after July 1, 2001, for each 6-month period January through June, net
+losses of special fuel (for each category of special fuel that is required to
+be reported on a return) as the result of evaporation or shrinkage due to
+temperature variations may not exceed 1% of the total gallons in storage at the
+beginning of each January, plus the receipts of gallonage each January through
+June, minus the gallonage remaining in storage at the end of each June.  On and
+after July 1, 2001, for each 6-month period July through December, net losses
+of special fuel (for each category of special fuel that is required to be
+reported on a return) as the result of evaporation or shrinkage due to
+temperature variations may not exceed 1% of the total gallons in storage at the
+beginning of each July, plus the receipts of gallonage each July through
+December, minus the gallonage remaining in storage at the end of each December.
+Any net loss reported that is in excess of this amount shall be subject to the
+tax imposed by Section 2 of this Law.  For purposes of this Section, "net
+loss" means the number of gallons gained through temperature variations minus
+the number of gallons lost through temperature variations or evaporation for
+each of the respective 6-month periods. In case of a sale of special fuel to someone other than a licensed
+distributor or licensed supplier
+for a use other than in motor vehicles, the supplier shall show in his
+return the amount of invoiced gallons sold and the name and address of the
+purchaser
+in addition to any other information the Department may require. All special fuel sold or used for non-highway purposes must have a dye
+added in accordance with Section 4d of this Law. All returns shall be made on forms prepared and furnished by the
+Department and shall contain such other information as the Department
+may reasonably require.
+The return must be accompanied by appropriate computer-generated magnetic
+media supporting schedule data in the format required by the Department,
+unless, as provided by rule, the
+Department grants an exception upon petition of a taxpayer. In case of a tax-free sale, as provided in Section 6a, of special
+fuel which the supplier is required by this Section to include in his
+return to the Department, the supplier in his return shall show: (1) If
+the sale of special fuel is made to the Federal Government or its
+instrumentalities; (2) if the sale of special fuel is made to a
+municipal corporation owning and operating a local transportation system
+for public service in this State, the name and address of such purchaser
+and the amount sold, as evidenced by official forms of exemption
+certificates properly executed and furnished by such purchaser; (3) if
+the sale of special fuel is made to a privately owned public utility
+owning and operating 2-axle vehicles designed and used for transporting
+more than 7 passengers, which vehicles are used as common carriers in
+general transportation of passengers, are not devoted to any specialized
+purpose and are operated entirely within the territorial limits of a
+single municipality or of any group of contiguous municipalities or in a
+close radius thereof, and the operations of which are subject to the
+regulations of the Illinois Commerce Commission, then the name and
+address of such purchaser and the amount sold, as evidenced by official
+forms of exemption certificates properly executed and furnished by such
+purchaser; (4) if the product sold is special fuel and if the sale
+is made to a licensed supplier or to a licensed distributor under
+conditions which qualify the sale for tax exemption under Section 6a of
+this Act, the amount sold and the name, address and license number of
+such purchaser; (5) if a sale of special fuel is made to a person where
+delivery is made outside of this State, the name and address of such
+purchaser and the point of delivery together with the date and amount of
+invoiced gallons delivered; and (6) if a sale of special fuel is made to
+someone other than a licensed distributor or a licensed supplier, for a use
+other than in motor vehicles, by making a
+specific notation thereof on the invoice or sales slip covering that sale
+and obtaining such supporting documentation as may be required by the
+Department. All special fuel sold or used for non-highway purposes must have a dye
+added in accordance with Section 4d of this Law. If any payment provided for in this Section exceeds the supplier's liabilities under this Act, as shown on an original return, the Department may authorize the supplier to credit such excess payment against liability subsequently to be remitted to the Department under this Act, in accordance with reasonable rules adopted by the Department. If the Department subsequently determines that all or any part of the credit taken was not actually due to the supplier, the supplier's discount shall be reduced by an amount equal to the difference between the discount as applied to the credit taken and that actuall</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1171, eff. 1-4-19.  Repealed by P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-6">
+            <num>6</num>
+            <heading>Collection of tax; distributors</heading>
+            <subsection eId="sec_35-505-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>delivered from a vehicle designed for the specific purpose of such sales and delivered directly into a stationary bulk storage tank that displays the notice required by Section 4f of this Act, (ii) delivered from a vehicle designed for the specific purpose of such sales and delivered directly into the fuel supply tanks of non-highway vehicles that are not required to be registered for highway use, or (iii) dispensed from a dyed diesel fuel dispensing facility that has withdrawal facilities that are not readily accessible to and are not capable of dispensing dyed diesel fuel into the fuel supply tank of a motor vehicle. A specific notation is required on the invoice or sales slip covering such sales, and any supporting documentation that may be required by the Department must be obtained by the distributor. The distributor shall obtain and keep the supporting documentation in such form as the Department may require by rule. For purposes of this item 7, a dyed diesel fuel dispensing facility is considered to have withdrawal facilities that are "not readily accessible to and not capable of dispensing dyed diesel fuel into the fuel supply tank of a motor vehicle" only if the dyed diesel fuel is delivered from:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a dispenser hose that is short enough so that it will not reach the fuel supply tank of a motor vehicle or (ii) a dispenser that is enclosed by a fence or other physical barrier so that a vehicle cannot pull alongside the dispenser to permit fueling. 8. (Blank). All special fuel sold or used for non-highway purposes must have a dye
+added in accordance with Section 4d of this Law. All suits or other proceedings brought for the purpose of recovering any
+taxes, interest or penalties due the State of Illinois under this Act may
+be maintained in the name of the Department.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-1019, eff. 5-27-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-6">
+            <num>6</num>
+            <heading>Collection of tax; distributors</heading>
+            <subsection eId="sec_35-505-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>delivered from a vehicle designed for the specific purpose of such sales and delivered directly into a stationary bulk storage tank that displays the notice required by Section 4f of this Act, (ii) delivered from a vehicle designed for the specific purpose of such sales and delivered directly into the fuel supply tanks of non-highway vehicles that are not required to be registered for highway use, or (iii) dispensed from a dyed diesel fuel dispensing facility that has withdrawal facilities that are not readily accessible to and are not capable of dispensing dyed diesel fuel into the fuel supply tank of a motor vehicle. A specific notation is required on the invoice or sales slip covering such sales, and any supporting documentation that may be required by the Department must be obtained by the distributor. The distributor shall obtain and keep the supporting documentation in such form as the Department may require by rule. For purposes of this item 7, a dyed diesel fuel dispensing facility is considered to have withdrawal facilities that are "not readily accessible to and not capable of dispensing dyed diesel fuel into the fuel supply tank of a motor vehicle" only if the dyed diesel fuel is delivered from:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a dispenser hose that is short enough so that it will not reach the fuel supply tank of a motor vehicle or (ii) a dispenser that is enclosed by a fence or other physical barrier so that a vehicle cannot pull alongside the dispenser to permit fueling. 8. (Blank). All special fuel sold or used for non-highway purposes must have a dye added in accordance with Section 4d of this Law. All suits or other proceedings brought for the purpose of recovering any taxes, interest or penalties due the State of Illinois under this Act may be maintained in the name of the Department.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-6a">
+            <num>6a</num>
+            <heading>Collection of tax; suppliers</heading>
+            <subsection eId="sec_35-505-6a__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Act.
+In each subsequent sale of special fuel on which the amount of tax imposed
+under this Act has been collected as provided in this Section, the amount
+so collected shall be added to the selling price, so that the amount of tax
+is paid ultimately by the user of the special fuel.  However,
+no collection or payment shall be made in the case of the sale or use of
+any special fuel  to the extent to which such sale or use of  motor fuel
+may not, under the Constitution and statutes of the United States, be made
+the subject of taxation by this State. A person whose license to act as supplier of special fuel has been revoked
+shall, at the time of making a return, also pay to the Department an amount
+equal to the amount that would be collectible as a tax in the event of a
+sale thereof on all special fuel, which he is required by the 1st paragraph
+of Section 5a to report to the Department in making a return. A supplier may make tax-free sales of special fuel, with respect to which
+he is otherwise required to collect the tax, only as specified in the following items 1 through
+7. 1. When the sale is made to the federal government or its instrumentalities. 2. When the sale is made to a municipal corporation owning and operating a local transportation system for public service in this State when an official certificate of exemption is obtained in lieu of the tax. 3. When the sale is made to a privately owned public utility owning and operating 2 axle vehicles designed and used for transporting more than 7 passengers, which vehicles are used as common carriers in general transportation of passengers, are not devoted to any specialized purpose and are operated entirely within the territorial limits of a single municipality or of any group of contiguous municipalities, or in a close radius thereof, and the operations of which are subject to the regulations of the Illinois Commerce Commission, when an official certificate of exemption is obtained in lieu of the tax. 4. When</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-6a__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>delivered from a vehicle designed for the specific purpose of such sales and delivered directly into a stationary bulk storage tank that displays the notice required by Section 4f of this Act, (ii) delivered from a vehicle designed for the specific purpose of such sales and delivered directly into the fuel supply tanks of non-highway vehicles that are not required to be registered for highway use, or (iii) dispensed from a dyed diesel fuel dispensing facility that has withdrawal facilities that are not readily accessible to and are not capable of dispensing dyed diesel fuel into the fuel supply tank of a motor vehicle. A specific notation is required on the invoice or sales slip covering such sales, and any supporting documentation that may be required by the Department must be obtained by the supplier. The supplier shall obtain and keep the supporting documentation in such form as the Department may require by rule. For purposes of this item 5, a dyed diesel fuel dispensing facility is considered to have withdrawal facilities that are "not readily accessible to and not capable of dispensing dyed diesel fuel into the fuel supply tank of a motor vehicle" only if the dyed diesel fuel is delivered from:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-6a__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a dispenser hose that is short enough so that it will not reach the fuel supply tank of a motor vehicle or (ii) a dispenser that is enclosed by a fence or other physical barrier so that a vehicle cannot pull alongside the dispenser to permit fueling. 6. (Blank). 7. When a sale of special fuel is made to a person where delivery is made outside of this State. All special fuel sold or used for non-highway purposes must have a dye
+added
+in accordance with Section 4d of this Law. All suits or other proceedings brought for the purpose of recovering any
+taxes, interest or penalties due the State of Illinois under this Act may
+be maintained in the name of the Department.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-1019, eff. 5-27-22.  Repealed by P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-7">
+            <num>7</num>
+            <heading>Any person, not licensed as a receiver, distributor or supplier,
+purchasing
+fuel or motor fuel as to which there has been no charge made to him
+of the tax imposed by Section 2 or 2a, or both, shall make payment of
+the tax imposed by Section 2a of this Act and if the same be
+thereafter used in the operation of a motor
+vehicle upon the public highways, make payment of the motor fuel tax
+computed at the rate prescribed in Section 2 of this Act on the amount so
+used, such payment to be made to the Department not later than the 20th day
+of the month succeeding the month in which the motor fuel was so used</heading>
+            <content>
+              <p>This Section does not apply in cases of such use of motor fuel which was
+obtained tax-free under an official certificate of exemption mentioned in
+Sections 6 and 6a of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-125.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-7">
+            <num>7</num>
+            <heading>Any person who is not licensed as a receiver or distributor and who purchases fuel or motor fuel as to which there has been no charge made to him of the tax imposed by Section 2 or 2a, or both, shall make payment of the tax imposed by Section 2a of this Act and if the same be thereafter used in the operation of a motor vehicle upon the public highways, make payment of the motor fuel tax computed at the rate prescribed in Section 2 of this Act on the amount so used, such payment to be made to the Department not later than the 20th day of the month succeeding the month in which the motor fuel was so used</heading>
+            <content>
+              <p>This Section does not apply in cases of such use of motor fuel which was obtained tax-free under an official certificate of exemption mentioned in Sections 6 and 6a of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-7b">
+            <num>7b</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: Laws 1955, p. 2046. Repealed by P.A. 102-851, eff. 1-1-23.) (35 ILCS 505/8) (from Ch. 120, par. 424)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1955, p. 2046. Repealed by P.A. 102-851, eff. 1-1-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-8">
+            <num>8</num>
+            <heading>Distribution of proceeds of tax</heading>
+            <subsection eId="sec_35-505-8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>2 1/2 cents per gallon of the tax collected on special fuel under
+paragraph</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 2 and Section 13a of this Act shall be transferred
+to the State Construction Account Fund in the State Treasury; the remainder of the tax collected on special fuel under
+paragraph</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 2 and Section 13a of this Act shall be deposited into the Road Fund; (a-1) Beginning on July 1, 2019, an amount equal to the amount of tax collected under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 2 and Section 13a as a result of the increase in the tax rate under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 2 authorized by Public Act 101-32 shall be deposited each month into the Transportation Renewal Fund; provided, however, that the amount that represents the part</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>portion of the rate under Section 13a shall be deposited each month into the Motor Fuel Tax Fund and the Transportation Renewal Fund in the same proportion as the amount collected under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 2;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>$420,000 shall be transferred each month to the State Boating Act
+Fund to be used by the Department of Natural Resources for the purposes
+specified in Article X of the Boat Registration and Safety Act;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>$3,500,000 shall be transferred each month to the Grade Crossing
+Protection Fund to be used as follows: not less than $12,000,000 each fiscal
+year shall be used for the construction or reconstruction of rail highway grade
+separation structures; $5,500,000 in fiscal year 2022 and each fiscal
+year
+thereafter shall be transferred to the Transportation
+Regulatory Fund and shall be used to pay the cost of administration
+of the Illinois Commerce Commission's railroad safety program in connection
+with its duties under subsection</p>
+              </content>
+              <paragraph eId="sec_35-505-8__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of Section 18c-7401 of the Illinois
+Vehicle Code, with the remainder to be used by the Department of Transportation
+upon order of the Illinois Commerce Commission, to pay that part of the
+cost apportioned by such Commission to the State to cover the interest
+of the public in the use of highways, roads, streets, or
+pedestrian walkways in the
+county highway system, township and district road system, or municipal
+street system as defined in the Illinois Highway Code, as the same may
+from time to time be amended, for separation of grades, for installation,
+construction or reconstruction of crossing protection or reconstruction,
+alteration, relocation including construction or improvement of any
+existing highway necessary for access to property or improvement of any
+grade crossing and grade crossing surface including the necessary highway approaches thereto of any
+railroad across the highway or public road, or for the installation,
+construction, reconstruction, or maintenance of safety treatments to deter trespassing or a pedestrian walkway over or
+under a railroad right-of-way, as provided for in and in
+accordance with Section 18c-7401 of the Illinois Vehicle Code.
+The Commission may order up to $2,000,000 per year in Grade Crossing Protection Fund moneys for the improvement of grade crossing surfaces and up to $300,000 per year for the maintenance and renewal of 4-quadrant gate vehicle detection systems located at non-high speed rail grade crossings.
+In entering orders for projects for which payments from the Grade Crossing
+Protection Fund will be made, the Commission shall account for expenditures
+authorized by the orders on a cash rather than an accrual basis.  For purposes
+of this requirement an "accrual basis" assumes that the total cost of the
+project is expended in the fiscal year in which the order is entered, while a
+"cash basis" allocates the cost of the project among fiscal years as
+expenditures are actually made.  To meet the requirem</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of the amount remaining after allocations provided for in
+subsections</p>
+              </content>
+              <paragraph eId="sec_35-505-8__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the costs of the Department of Revenue in administering this Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-8__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the costs of the Department of Transportation in performing its duties imposed by the Illinois Highway Code for supervising the use of motor fuel tax funds apportioned to municipalities, counties and road districts;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-8__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>refunds provided for in Section 13, refunds for overpayment of decal fees paid under Section 13a.4 of this Act, and refunds provided for under the terms of the International Fuel Tax Agreement referenced in Section 14a;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-8__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>from October 1, 1985 until June 30, 1994, the administration of the Vehicle Emissions Inspection Law, which amount shall be certified monthly by the Environmental Protection Agency to the State Comptroller and shall promptly be transferred by the State Comptroller and Treasurer from the Motor Fuel Tax Fund to the Vehicle Inspection Fund, and for the period July 1, 1994 through June 30, 2000, one-twelfth of $25,000,000 each month, for the period July 1, 2000 through June 30, 2003, one-twelfth of $30,000,000 each month, and $15,000,000 on July 1, 2003, and $15,000,000 on January 1, 2004, and $15,000,000 on each July 1 and October 1, or as soon thereafter as may be practical, during the period July 1, 2004 through June 30, 2012, and $30,000,000 on June 1, 2013, or as soon thereafter as may be practical, and $15,000,000 on July 1 and October 1, or as soon thereafter as may be practical, during the period of July 1, 2013 through June 30, 2015, for the administration of the Vehicle Emissions Inspection Law of 2005, to be transferred by the State Comptroller and Treasurer from the Motor Fuel Tax Fund into the Vehicle Inspection Fund; (4.5) beginning on July 1, 2019, the costs of the Environmental Protection Agency for the administration of the Vehicle Emissions Inspection Law of 2005 shall be paid, subject to appropriation, from the Motor Fuel Tax Fund into the Vehicle Inspection Fund; beginning in 2019, no later than December 31 of each year, or as soon thereafter as practical, the State Comptroller shall direct and the State Treasurer shall transfer from the Vehicle Inspection Fund to the Motor Fuel Tax Fund any balance remaining in the Vehicle Inspection Fund in excess of $2,000,000;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-8__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>amounts ordered paid by the Court of Claims; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-8__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>payment of motor fuel use taxes due to member jurisdictions under the terms of the International Fuel Tax Agreement.  The Department shall certify these amounts to the Comptroller by the 15th day of each month; the Comptroller shall cause orders to be drawn for such amounts, and the Treasurer shall administer those amounts on or before the last day of each month;</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-8__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>after allocations for the purposes set forth in subsections</p>
+              </content>
+              <paragraph eId="sec_35-505-8__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Until January 1, 2000, 58.4%, and beginning January 1, 2000, 45.6% shall be deposited as follows: (A) 37% into the State Construction Account Fund, a</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-16, eff. 6-17-21; 102-558, eff. 8-20-21; 102-699, eff. 4-19-22; 103-8, eff. 6-7-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-8a">
+            <num>8a</num>
+            <heading>Deposit of proceeds</heading>
+            <subsection eId="sec_35-505-8a__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and 49 U.S.C. 47133 are binding on the State.  For purposes of this Section, "aviation fuel" means jet fuel and aviation gasoline. Beginning on July 1, 2022 and through June 30, 2023, all money received by the Department under Section 2a shall be deposited in the Transportation Renewal Fund.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 101-10, eff. 6-5-19; 101-604, eff. 12-13-19; 102-700, eff. 4-19-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-8b">
+            <num>8b</num>
+            <heading>Transportation Renewal Fund; creation; distribution of proceeds</heading>
+            <subsection eId="sec_35-505-8b__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Transportation Renewal Fund is hereby created as a special fund in the State treasury. Moneys in the Fund shall be used as provided in this Section:</p>
+              </content>
+              <paragraph eId="sec_35-505-8b__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>80% of the moneys in the Fund shall be used for highway maintenance, highway construction, bridge repair, congestion relief, and construction of aviation facilities; of that 80%: (A) the State Comptroller shall order transferred and the State Treasurer shall transfer 60% to the State Construction Account Fund; those moneys shall be used solely for construction, reconstruction, improvement, repair, maintenance, operation, and administration of highways and are limited to payments made pursuant to design and construction contracts awarded by the Department of Transportation; (B) 40% shall be distributed by the Department of Transportation to municipalities, counties, and road districts of the State using the percentages set forth in subdivisions (A), (B), (C), and (D) of paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-8b__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-8b__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of Section 8; distributions to particular municipalities, counties, and road districts under this subdivision (B) shall be made according to the allocation procedures described for municipalities, counties, and road districts in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-8b__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of Section 8 and shall be subject to the same requirements and limitations described in that subsection; and</p>
+              </content>
+              <paragraph eId="sec_35-505-8b__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>20% of the moneys in the Fund shall be used for projects related to rail facilities and mass transit facilities, as defined in Section 2705-305 of the Department of Transportation Law of the Civil Administrative Code of Illinois, including rapid transit, rail, high-speed rail, bus and other equipment in connection with the State or a unit of local government, special district, municipal corporation, or other public agency authorized to provide and promote public transportation within the State; of that 20%: (A) 90% shall be deposited into the Regional Transportation Authority Capital Improvement Fund, a special fund created in the State Treasury; moneys in the Regional Transportation Authority Capital Improvement Fund shall be used by the Regional Transportation Authority for construction, improvements, and deferred maintenance on mass transit facilities and acquisition of buses and other equipment; and (B) 10% shall be deposited into the Downstate Mass Transportation Capital Improvement Fund, a special fund created in the State Treasury; moneys in the Downstate Mass Transportation Capital Improvement Fund shall be used by local mass transit districts other than the Regional Transportation Authority for construction, improvements, and deferred maintenance on mass transit facilities and acquisition of buses and other equipment.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-8b__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(Blank).</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-866, eff. 8-9-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-12">
+            <num>12</num>
+            <heading>It is the duty of every distributor, receiver, and
+supplier
+under this Act to keep within this State or at some office outside this State for any period
+for which the Department is authorized to issue a Notice of Tax Liability to
+the distributor, receiver, or supplier records and books
+showing all
+purchases, receipts, losses through any cause, sales, distribution and use of
+motor fuel, aviation fuels, home heating oils, and kerosene, and products used
+for the purpose of blending to produce motor fuel, which records and books
+shall, at all times during business hours of the day, be subject to inspection
+by the Department, or its duly authorized agents and employees</heading>
+            <content>
+              <p>For purposes of this Section, "records" means all data
+maintained by the taxpayer including data on paper, microfilm, microfiche or
+any type of machine-sensible data compilation. The Department may, in its
+discretion, prescribe reasonable and uniform methods for keeping of records and
+books by licensees and that set forth requirements for the form and format of
+records that must be maintained in order to comply with any recordkeeping
+requirement under this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-173, eff. 1-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-12">
+            <num>12</num>
+            <heading>It is the duty of every distributor and receiver under this Act to keep within this State or at some office outside this State for any period for which the Department is authorized to issue a Notice of Tax Liability to the distributor or receiver records and books showing all purchases, receipts, losses through any cause, sales, distribution and use of motor fuel, aviation fuels, home heating oils, and kerosene, and products used for the purpose of blending to produce motor fuel, which records and books shall, at all times during business hours of the day, be subject to inspection by the Department, or its duly authorized agents and employees</heading>
+            <content>
+              <p>For purposes of this Section, "records" means all data maintained by the taxpayer including data on paper, microfilm, microfiche or any type of machine-sensible data compilation. The Department may, in its discretion, prescribe reasonable and uniform methods for keeping of records and books by licensees and that set forth requirements for the form and format of records that must be maintained in order to comply with any recordkeeping requirement under this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-12a">
+            <num>12a</num>
+            <heading>(a) Any duly authorized agent or employee of the Department
+shall have authority to enter in or upon the premises of any manufacturer,
+vendor, dealer, retailer, distributor, receiver, supplier or user of motor fuel
+or special fuels during the regular business hours in order to examine books,
+records, invoices, storage tanks, and any other applicable equipment
+pertaining to motor fuel, aviation fuels, home heating oils, kerosene,
+or special fuels, to determine whether or not the
+taxes imposed by this Act have been paid</heading>
+            <subsection eId="sec_35-505-12a__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any duly authorized agent of the Department, upon presenting
+appropriate credentials and a written notice to the person who owns, operates,
+or controls the place to be inspected, shall have the authority to enter any
+place and to conduct inspections in accordance with subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of this Section.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Inspections will be performed in a reasonable manner and at times
+that are reasonable under the circumstances, taking into consideration the
+normal business hours of the place to be entered.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Inspections may be at any place at which taxable motor fuel is or
+may be produced or stored or at any inspection site where evidence of the
+following activities may be discovered:</p>
+              </content>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Where any dyed diesel fuel is sold or held for sale by any person for any use which the person knows or has reason to know is not a nontaxable use of such fuel.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Where any dyed diesel fuel is held for use or used by any person for a use other than a nontaxable use and the person knew, or had reason to know, that the fuel was dyed according to Section 4d.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Where any person willfully alters, or attempts to alter, the strength or composition of any dye or marking done pursuant to Section 4d of this Law. The places may include, but are not limited to, the following:</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any terminal.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any fuel storage facility that is not a terminal.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any retail fuel facility.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any designated inspection site.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Duly authorized agents of the Department may physically inspect,
+examine, or otherwise search any tank, reservoir, or other container that
+can or may be used for the production, storage, or transportation of
+fuel, fuel dyes, or fuel markers.  Inspection may also be made of any
+equipment used for, or in connection with, production, storage, or
+transportation of fuel, fuel dyes, or fuel markers.  This includes any
+equipment used for the dyeing or marking of fuel.  This also includes
+books and records, if any, that are maintained at the place of inspection
+and are kept to determine tax liability under this Law.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Duly authorized agents of the Department may detain any motor
+vehicle, train, barge, ship, or vessel for the purpose of inspecting its fuel
+tanks and storage tanks.  Detainment will be either on the premises
+under inspection or at a designated inspection site.  Detainment may
+continue for a reasonable period of time as is necessary to determine
+the amount and composition of the fuel.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Duly authorized agents of the Department may take and remove
+samples of fuel in quantities as are reasonably necessary to
+determine the composition of the fuel.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_h">
+              <num>(h)</num>
+              <paragraph eId="sec_35-505-12a__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any person that refuses to allow an inspection shall pay a $1,000 penalty for each refusal.  This penalty is in addition to any other penalty or tax that may be imposed upon that person or any other person liable for tax under this Law.  All penalties received under this subsection shall be deposited into the Tax Compliance and Administration Fund.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>In addition, any licensee who refuses to allow an inspection shall be subject to license revocation as provided by Section 16 of this Law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-173, eff. 1-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-12a">
+            <num>12a</num>
+            <heading>(a) Any duly authorized agent or employee of the Department shall have authority to enter in or upon the premises of any manufacturer, vendor, dealer, retailer, distributor, receiver, or user of motor fuel or special fuels during the regular business hours in order to examine books, records, invoices, storage tanks, and any other applicable equipment pertaining to motor fuel, aviation fuels, home heating oils, kerosene, or special fuels, to determine whether or not the taxes imposed by this Act have been paid</heading>
+            <subsection eId="sec_35-505-12a__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any duly authorized agent of the Department, upon presenting appropriate credentials and a written notice to the person who owns, operates, or controls the place to be inspected, shall have the authority to enter any place and to conduct inspections in accordance with subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of this Section.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Inspections will be performed in a reasonable manner and at times that are reasonable under the circumstances, taking into consideration the normal business hours of the place to be entered.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Inspections may be at any place at which taxable motor fuel is or may be produced or stored or at any inspection site where evidence of the following activities may be discovered:</p>
+              </content>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Where any dyed diesel fuel is sold or held for sale by any person for any use which the person knows or has reason to know is not a nontaxable use of such fuel.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Where any dyed diesel fuel is held for use or used by any person for a use other than a nontaxable use and the person knew, or had reason to know, that the fuel was dyed according to Section 4d.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Where any person willfully alters, or attempts to alter, the strength or composition of any dye or marking done pursuant to Section 4d of this Law. The places may include, but are not limited to, the following:</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any terminal.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any fuel storage facility that is not a terminal.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any retail fuel facility.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any designated inspection site.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Duly authorized agents of the Department may physically inspect, examine, or otherwise search any tank, reservoir, or other container that can or may be used for the production, storage, or transportation of fuel, fuel dyes, or fuel markers. Inspection may also be made of any equipment used for, or in connection with, production, storage, or transportation of fuel, fuel dyes, or fuel markers. This includes any equipment used for the dyeing or marking of fuel. This also includes books and records, if any, that are maintained at the place of inspection and are kept to determine tax liability under this Law.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Duly authorized agents of the Department may detain any motor vehicle, train, barge, ship, or vessel for the purpose of inspecting its fuel tanks and storage tanks. Detainment will be either on the premises under inspection or at a designated inspection site. Detainment may continue for a reasonable period of time as is necessary to determine the amount and composition of the fuel.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Duly authorized agents of the Department may take and remove samples of fuel in quantities as are reasonably necessary to determine the composition of the fuel.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-12a__subsec_h">
+              <num>(h)</num>
+              <paragraph eId="sec_35-505-12a__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any person that refuses to allow an inspection shall pay a $1,000 penalty for each refusal. This penalty is in addition to any other penalty or tax that may be imposed upon that person or any other person liable for tax under this Law. All penalties received under this subsection shall be deposited into the Tax Compliance and Administration Fund.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-12a__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>In addition, any licensee who refuses to allow an inspection shall be subject to license revocation as provided by Section 16 of this Law.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-13">
+            <num>13</num>
+            <heading>Refund of tax paid</heading>
+            <subsection eId="sec_35-505-13__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a certified copy of the tax return filed with such other state by the claimant; (ii) a copy of either the cancelled check paying the tax due on such return, or a receipt acknowledging payment of the tax due on such tax return; and (iii) such other information as the Department may reasonably require. This paragraph shall not apply to taxes paid on returns filed under Section 13a.3 of this Act. Any person who purchases motor fuel use tax decals as required by Section 13a.4 and pays an amount of fees for such decals that exceeds the amount due shall be reimbursed and repaid the amount of the decal fees that are deemed by the department to be in excess of the amount due. Alternatively, any person who purchases motor fuel use tax decals as required by Section 13a.4 may credit any excess decal payment verified by the Department against amounts subsequently due for the purchase of additional decals, until such time as no excess payment remains. Claims for such reimbursement must be made to the Department of Revenue, duly verified by the claimant (or by the claimant's legal representative if the claimant has died or become a person under legal disability), upon forms prescribed by the Department. The claim must state such facts relating to the purchase, importation, manufacture or production of the motor fuel by the claimant as the Department may deem necessary, and the time when, and the circumstances of its loss or the specific purpose for which it was used (as the case may be), together with such other information as the Department may reasonably require. No claim based upon idle time shall be allowed. Claims for reimbursement for overpayment of decal fees shall be made to the Department of Revenue, duly verified by the claimant (or by the claimant's legal representative if the claimant has died or become a person under legal disability), upon forms prescribed by the Department. The claim shall state facts relating to the overpayment of decal fees, together with such ot</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, Article 40, Section 40-5, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-13">
+            <num>13</num>
+            <heading>Refund of tax paid</heading>
+            <subsection eId="sec_35-505-13__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a certified copy of the tax return filed with such other state by the claimant; (ii) a copy of either the cancelled check paying the tax due on such return, or a receipt acknowledging payment of the tax due on such tax return; and (iii) such other information as the Department may reasonably require. This paragraph shall not apply to taxes paid on returns filed under Section 13a.3 of this Act. Any person who purchases motor fuel use tax decals as required by Section 13a.4 and pays an amount of fees for such decals that exceeds the amount due shall be reimbursed and repaid the amount of the decal fees that are deemed by the department to be in excess of the amount due. Alternatively, any person who purchases motor fuel use tax decals as required by Section 13a.4 may credit any excess decal payment verified by the Department against amounts subsequently due for the purchase of additional decals, until such time as no excess payment remains. Claims for such reimbursement must be made to the Department of Revenue, duly verified by the claimant (or by the claimant's legal representative if the claimant has died or become a person under legal disability), upon forms prescribed by the Department. The claim must state such facts relating to the purchase, importation, manufacture or production of the motor fuel by the claimant as the Department may deem necessary, and the time when, and the circumstances of its loss or the specific purpose for which it was used (as the case may be), together with such other information as the Department may reasonably require. No claim based upon idle time shall be allowed. Claims for reimbursement for overpayment of decal fees shall be made to the Department of Revenue, duly verified by the claimant (or by the claimant's legal representative if the claimant has died or become a person under legal disability), upon forms prescribed by the Department. The claim shall state facts relating to the overpayment of decal fees, together with such ot</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, Article 55, Section 55-5, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-13a">
+            <num>13a</num>
+            <heading>(1) A tax is hereby imposed upon the use of motor
+fuel upon highways of this State by commercial motor vehicles</heading>
+            <subsection eId="sec_35-505-13a__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall be at the rate
+established by Section 2 of this Act, as heretofore or hereafter amended.
+Part</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-13a__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>shall be at the rate established by subsection</p>
+              </content>
+              <paragraph eId="sec_35-505-13a__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this
+Section as now or hereafter amended.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-505-13a__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A rate shall be established by the Department as of January 1  of
+each year using the average "selling price", as defined in the Retailers'
+Occupation Tax Act, per gallon of motor fuel sold in this State during
+the previous 12 months and multiplying it by 6 1/4% to determine
+the cents per gallon rate.
+For the period beginning on July 1, 2000 and through December 31, 2000, the
+Department shall establish a rate using the average "selling price", as defined
+in the
+Retailers' Occupation Tax Act, per gallon of motor fuel sold in this State
+during calendar
+year 1999 and multiplying it by 1.25% to determine the cents per gallon rate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-872, eff. 7-1-00.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-14">
+            <num>14</num>
+            <heading>The Department of Revenue is authorized to make such reasonable
+rules and regulations relating to the administration and enforcement of the
+provisions of this Act, as may be deemed expedient</heading>
+            <content>
+              <p>(Source: Laws 1943, vol. 1, p. 1095.) (35 ILCS 505/14a) (from Ch. 120, par. 430.1) (Text of Section before amendment by P.A. 104-6 )</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1943, vol. 1, p. 1095.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-14a">
+            <num>14a</num>
+            <heading>The Department of Revenue may enter into reciprocal agreements
+with the appropriate officials of any other state under which the
+Department may waive all or any part of the requirements imposed by the
+laws of this State upon those who use or consume motor fuel in Illinois
+upon which a tax has been paid to such other state, provided that the
+officials of such other state grant equivalent privileges with respect to
+motor fuel used in such other state but upon which the tax has been paid
+to Illinois</heading>
+            <content>
+              <p>The Department may enter the International Fuel Tax Agreement or
+other cooperative compacts or agreements with other states or
+jurisdictions to permit base state or base jurisdiction licensing of
+persons using motor fuel in this State.  Those agreements may provide for
+the cooperation and assistance among member states in the administration
+and collection of motor fuel tax, including, but not limited to, exchanges
+of information, auditing and assessing of interstate carriers and
+suppliers, and any other activities necessary to further uniformity. Pursuant to federal mandate, upon membership in the International Fuel Tax
+Agreement ("Agreement"), the motor fuel use tax imposed upon Commercial Motor
+Vehicles required to be registered under the terms of the Agreement shall be
+administered according to the terms of the Agreement, as now and hereafter
+amended.  Illinois shall not establish, maintain, or enforce any law or
+regulation that has fuel use tax reporting requirements or that provides for
+the payment of a fuel use tax, unless that law or regulation is in conformity
+with the Agreement. The Department shall adopt rules and regulations to implement the provisions
+of the Agreement.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-480.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-14a">
+            <num>14a</num>
+            <heading>The Department of Revenue may enter into reciprocal agreements with the appropriate officials of any other state under which the Department may waive all or any part of the requirements imposed by the laws of this State upon those who use or consume motor fuel in Illinois upon which a tax has been paid to such other state, provided that the officials of such other state grant equivalent privileges with respect to motor fuel used in such other state but upon which the tax has been paid to Illinois</heading>
+            <content>
+              <p>The Department may enter the International Fuel Tax Agreement or other cooperative compacts or agreements with other states or jurisdictions to permit base state or base jurisdiction licensing of persons using motor fuel in this State. Those agreements may provide for the cooperation and assistance among member states in the administration and collection of motor fuel tax, including, but not limited to, exchanges of information, auditing and assessing of interstate carriers, and any other activities necessary to further uniformity. Pursuant to federal mandate, upon membership in the International Fuel Tax Agreement ("Agreement"), the motor fuel use tax imposed upon Commercial Motor Vehicles required to be registered under the terms of the Agreement shall be administered according to the terms of the Agreement, as now and hereafter amended. Illinois shall not establish, maintain, or enforce any law or regulation that has fuel use tax reporting requirements or that provides for the payment of a fuel use tax, unless that law or regulation is in conformity with the Agreement. The Department shall adopt rules and regulations to implement the provisions of the Agreement.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-15">
+            <num>15</num>
+            <heading>1</heading>
+            <subsection eId="sec_35-505-15__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>who fails or refuses to make payment to the Department as provided in Section
+13a.1 of this Act or in the International Fuel Tax Agreement referenced in
+Section 14a, or (ii) who fails or refuses to make the quarterly return as
+provided in Section 13a.3 is guilty of a Class 4 felony; and for each
+subsequent offense, such person is guilty of a Class 3 felony. 3. In case such person acting as a distributor, receiver, supplier,
+or motor carrier is a corporation, then the officer or officers, agent
+or agents, employee or employees, of such corporation responsible for any
+act of such corporation, or failure of such corporation to act, which acts
+or failure to act constitutes a violation of any of the provisions of this
+Act as enumerated in paragraphs 1 and 2 of this Section, shall be punished
+by such fine or imprisonment, or by both such fine and imprisonment as
+provided in those paragraphs. 3.5. Any person who knowingly enters false information on any supporting
+documentation required to be kept by Section 6 or 6a of this Act is guilty of a
+Class 3
+felony. 3.7. Any person who knowingly attempts in any manner to evade or defeat any
+tax imposed by this Act or the payment of any tax imposed by this Act is guilty
+of a Class 2 felony. 4. Any person who refuses, upon demand, to submit for inspection,
+books and records, or who fails or refuses to keep books and records in
+violation of Section 12 of this Act, or any distributor, receiver, or
+supplier who violates
+any reasonable rule or regulation adopted
+by the Department for the enforcement of this Act is guilty of a Class A
+misdemeanor.  Any person
+who acts
+as a blender in violation of Section 3 of this Act 
+is guilty of a Class 4 felony. 5. Any person licensed under Section 13a.4, 13a.5, or the International
+Fuel Tax Agreement who:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>fails or refuses to keep records
+and
+books, as provided in Section 13a.2 or as required
+by the terms of the
+International Fuel Tax Agreement,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>refuses upon demand
+by the Department to submit for inspection and examination the records required
+by Section 13a.2 of this Act or by the terms of the International Fuel
+Tax Agreement, or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>violates any reasonable rule or
+regulation adopted by the Department for the enforcement of this Act, is
+guilty of a Class A misdemeanor. 6. Any person who makes any false return or report to the
+Department as to any material fact required by Sections 2b, 5, 5a, 7, 13, or
+13a.3 of this Act or by the International Fuel Tax Agreement
+is guilty of a Class 2 felony. 7. A prosecution for any violation of this Section may be
+commenced anytime within 5 years of the commission of that violation.
+A prosecution for tax evasion as set forth in paragraph 3.7 of this Section
+may be prosecuted any time within 5 years of the commission of the last act in
+furtherance of evasion. The running of the period of limitations under this
+Section shall be suspended while any proceeding or appeal from
+any proceeding relating to the quashing or enforcement of any grand jury or
+administrative subpoena issued in connection with an investigation of the
+violation of any provision of this Act is pending. 8. Any person who provides false documentation required by any
+Section of this Act is guilty of a Class 4 felony. 9. Any person filing a fraudulent application or order form under any
+provision of this Act is guilty of a Class A misdemeanor.  For each subsequent
+offense, the person is guilty of a Class 4 felony. 10. Any person who acts as a motor carrier and who fails to carry a
+manifest as provided in Section 5.5 is guilty of a Class A misdemeanor. For
+each subsequent offense, the person is guilty of a Class 4 felony. 11. Any person who knowingly sells or attempts to sell dyed diesel fuel
+for highway use or for use by recreational-type watercraft on the waters of
+this State is guilty of a Class 4 felony.  For each subsequent
+offense, the person is guilty of a Class 2 felony. 12. Any person who knowingly possesses dyed diesel fuel for highway
+use or for use by recreational-type watercraft on the waters of this State
+is guilty of a Class A misdemeanor.  For each subsequent offense,
+the person is gu</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-851, eff. 1-1-23 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-15">
+            <num>15</num>
+            <heading>1</heading>
+            <subsection eId="sec_35-505-15__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>who fails or refuses to make payment to the Department as provided in Section 13a.1 of this Act or in the International Fuel Tax Agreement referenced in Section 14a, or (ii) who fails or refuses to make the quarterly return as provided in Section 13a.3 is guilty of a Class 4 felony; and for each subsequent offense, such person is guilty of a Class 3 felony. 3. In case such person acting as a distributor, receiver, or motor carrier is a corporation, then the officer or officers, agent or agents, employee or employees, of such corporation responsible for any act of such corporation, or failure of such corporation to act, which acts or failure to act constitutes a violation of any of the provisions of this Act as enumerated in paragraphs 1 and 2 of this Section, shall be punished by such fine or imprisonment, or by both such fine and imprisonment as provided in those paragraphs. 3.5. Any person who knowingly enters false information on any supporting documentation required to be kept by Section 6 or 6a of this Act is guilty of a Class 3 felony. 3.7. Any person who knowingly attempts in any manner to evade or defeat any tax imposed by this Act or the payment of any tax imposed by this Act is guilty of a Class 2 felony. 4. Any person who refuses, upon demand, to submit for inspection, books and records, or who fails or refuses to keep books and records in violation of Section 12 of this Act, or any distributor or receiver who violates any reasonable rule or regulation adopted by the Department for the enforcement of this Act is guilty of a Class A misdemeanor. Any person who acts as a blender in violation of Section 3 of this Act is guilty of a Class 4 felony. 5. Any person licensed under Section 13a.4, 13a.5, or the International Fuel Tax Agreement who:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>fails or refuses to keep records and books, as provided in Section 13a.2 or as required by the terms of the International Fuel Tax Agreement,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>refuses upon demand by the Department to submit for inspection and examination the records required by Section 13a.2 of this Act or by the terms of the International Fuel Tax Agreement, or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-505-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>violates any reasonable rule or regulation adopted by the Department for the enforcement of this Act, is guilty of a Class A misdemeanor. 6. Any person who makes any false return or report to the Department as to any material fact required by Sections 2b, 5, 5a, 7, 13, or 13a.3 of this Act or by the International Fuel Tax Agreement is guilty of a Class 2 felony. 7. A prosecution for any violation of this Section may be commenced anytime within 5 years of the commission of that violation. A prosecution for tax evasion as set forth in paragraph 3.7 of this Section may be prosecuted any time within 5 years of the commission of the last act in furtherance of evasion. The running of the period of limitations under this Section shall be suspended while any proceeding or appeal from any proceeding relating to the quashing or enforcement of any grand jury or administrative subpoena issued in connection with an investigation of the violation of any provision of this Act is pending. 8. Any person who provides false documentation required by any Section of this Act is guilty of a Class 4 felony. 9. Any person filing a fraudulent application or order form under any provision of this Act is guilty of a Class A misdemeanor. For each subsequent offense, the person is guilty of a Class 4 felony. 10. Any person who acts as a motor carrier and who fails to carry a manifest as provided in Section 5.5 is guilty of a Class A misdemeanor. For each subsequent offense, the person is guilty of a Class 4 felony. 11. Any person who knowingly sells or attempts to sell dyed diesel fuel for highway use or for use by recreational-type watercraft on the waters of this State is guilty of a Class 4 felony. For each subsequent offense, the person is guilty of a Class 2 felony. 12. Any person who knowingly possesses dyed diesel fuel for highway use or for use by recreational-type watercraft on the waters of this State is guilty of a Class A misdemeanor. For each subsequent offense, the person is guilt</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-16">
+            <num>16</num>
+            <heading>The Department may, after 5 days' notice, revoke the
+distributor's, receiver's, or supplier's license or
+permit of any
+person (1) who does
+not operate as a distributor, receiver, supplier (a) under
+Sections 1</heading>
+            <content>
+              <p>2,
+1.14, or 1.20, (2) who violates
+any provision of this Act or any rule or regulation promulgated by the
+Department under Section 14 of this Act, or (3) who refuses to allow any
+inspection or test authorized by this Law. Any person whose returns for 2 or more consecutive months do not show
+sufficient taxable sales to indicate an active business as a distributor,
+receiver, or
+supplier shall be deemed to not be operating as a distributor, receiver, or
+supplier
+as defined in Sections 1.2, 1.14 or 1.20. The Department may, after 5 days notice, revoke any distributor's,
+receiver's, or
+supplier's license of a person who is registered as a reseller of motor
+fuel pursuant to Section 2a or 2c of the Retailers' Occupation Tax Act and
+who fails to collect such prepaid tax on invoiced gallons of motor fuel sold or
+who fails to deliver a statement of tax paid to the purchaser or to the
+Department as required by Sections 2d and 2e of the Retailers' Occupation Tax
+Act. The Department may, on notice given by registered mail, cancel a
+Blender's Permit for any violation of any provisions of this Act or for
+noncompliance with any rule or regulation made by the Department under
+Section 14 of this Act. The Department, upon complaint filed in the circuit court, may, by
+injunction, restrain any person who fails or refuses to comply with the
+provisions of this Act from acting as a blender or distributor of motor
+fuel, supplier of special fuel, or
+receiver of fuel in this State. The Department may revoke the motor fuel use tax license of a
+motor
+carrier registered under
+Section 13a.4, or that is required to be registered under the terms of the
+International Fuel Tax Agreement, that violates any provision of this Act or
+any
+rule promulgated by the Department under Sections 14 or 14a of this Act.
+Motor fuel use tax licenses that have been revoked are subject to a $100
+reinstatement fee. Licensees registered or required to be registered under Section 13a.4,
+or persons required to obtain single trip permits under Section 13a.5, may
+protest any action or audit
+finding made by the Department by making a written request for a hearing within
+30 days after service of the notice of the original action or finding.  If the
+hearing is not requested within 30 days in writing, the original finding or
+action is final.  Once a hearing has been properly requested, the Department
+shall give at least 20 days written notice of the time and place of the
+hearing.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-1074, eff. 12-26-06.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-16">
+            <num>16</num>
+            <heading>The Department may, after 5 days' notice, revoke the distributor's or receiver's license or permit of any person (1) who does not operate as a distributor or receiver (a) under Sections 1</heading>
+            <content>
+              <p>2 or 1.20, (2) who violates any provision of this Act or any rule or regulation promulgated by the Department under Section 14 of this Act, or (3) who refuses to allow any inspection or test authorized by this Law. Any person whose returns for 2 or more consecutive months do not show sufficient taxable sales to indicate an active business as a distributor or receiver shall be deemed to not be operating as a distributor or receiver as defined in Sections 1.2 or 1.20. The Department may, after 5 days notice, revoke any distributor's or receiver's license of a person who is registered as a reseller of motor fuel pursuant to Section 2a or 2c of the Retailers' Occupation Tax Act and who fails to collect such prepaid tax on invoiced gallons of motor fuel sold or who fails to deliver a statement of tax paid to the purchaser or to the Department as required by Sections 2d and 2e of the Retailers' Occupation Tax Act. The Department may, on notice given by registered mail, cancel a Blender's Permit for any violation of any provisions of this Act or for noncompliance with any rule or regulation made by the Department under Section 14 of this Act. The Department, upon complaint filed in the circuit court, may, by injunction, restrain any person who fails or refuses to comply with the provisions of this Act from acting as a blender or distributor of motor fuel or as a receiver of fuel in this State. The Department may revoke the motor fuel use tax license of a motor carrier registered under Section 13a.4, or that is required to be registered under the terms of the International Fuel Tax Agreement, that violates any provision of this Act or any rule promulgated by the Department under Sections 14 or 14a of this Act. Motor fuel use tax licenses that have been revoked are subject to a $100 reinstatement fee. Licensees registered or required to be registered under Section 13a.4, or persons required to obtain single trip permits under Section 13a.5, may protest any action or audit finding made by the Department by making a written request for a hearing within 30 days after service of the notice of the original action or finding. If the hearing is not requested within 30 days in writing, the original finding or action is final. Once a hearing has been properly requested, the Department shall give at least 20 days written notice of the time and place of the hearing.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-17">
+            <num>17</num>
+            <heading>It is the purpose of Sections 2 and 13a of this Act to
+impose a tax upon the privilege
+of operating each motor vehicle as defined in this Act upon the public
+highways and the waters of this State, such tax to be based upon the
+consumption of motor fuel in such motor vehicle, so far as the same may be
+done, under the Constitution and statutes of the United States, and the
+Constitution of the State of Illinois</heading>
+            <content>
+              <p>It is the purpose of Section 2a of
+this Act to impose a tax upon the privilege of importing or receiving in this State
+fuel for sale or use, such tax to be used to fund the
+Underground Storage Tank Fund or the Transportation Renewal Fund. If any of the provisions of this Act
+include transactions which are not taxable or are in any other respect
+unconstitutional, it is the intent of the General Assembly that, so far as
+possible, the remaining provisions of the Act be given effect.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-700, eff. 4-19-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-17a">
+            <num>17a</num>
+            <heading>Forms; electronic filing</heading>
+            <content>
+              <p>All returns, applications, and other forms required by this Act must be in the form required by the Department.  The Department is authorized to adopt rules to require the electronic payment of tax or fees under this Act, and the electronic filing of returns, applications or other forms required by this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1384, eff. 7-29-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-18">
+            <num>18</num>
+            <heading>The Illinois Administrative Procedure Act is hereby expressly
+adopted and shall apply to all administrative rules and procedures of the
+Department of Revenue under this Act, except that (1) paragraph (b) of Section
+5-10 of the Illinois Administrative Procedure Act does not apply to final
+orders, decisions and opinions of the Department, (2) subparagraph (a)2 of
+Section 5-10 of the Illinois Administrative Procedure Act does not apply to
+forms established by the Department for use under this Act, and (3) the
+provisions of Section 10-45 of the Illinois Administrative Procedure Act
+regarding proposals for decision are excluded and not applicable to the
+Department under this Act to the extent Section 10-45 applies to hearings not otherwise subject to the Illinois Independent Tax Tribunal Act of 2012</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) (35 ILCS 505/19) (from Ch. 120, par. 433.2)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-19">
+            <num>19</num>
+            <heading>A committee is hereby established to advise the Governor on
+the administration of the Department's Disadvantaged Business Enterprise
+Program, and on the Department's compliance with workforce equal
+opportunity goals</heading>
+            <content>
+              <p>The committee shall have 8 members appointed by the Governor
+with the concurrence of the Senate, as follows: one member shall be chosen from
+a civic organization whose purpose is to assure equal opportunity in the
+workforce; and 7 members shall be chosen from industry, 5 of whom
+shall be owners of certified disadvantaged business enterprises. The committee shall report to the Governor semi-annually, and shall
+advise the General Assembly annually of the status of the Department's
+administration of the Disadvantaged Business Enterprise Program and on the
+Department's compliance with workforce equal opportunity goals. The activities of the committee shall encompass the review of issues,
+concerns, questions, policies and procedures pertaining to the
+administration of the Disadvantaged Business Enterprise Program and the
+Department's compliance with workforce equal opportunity goals. Members' expenses associated with committee activities shall be
+reimbursed at the State rate.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-37, eff. 7-13-09.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-20">
+            <num>20</num>
+            <heading>This act may be cited as the "Motor Fuel Tax Law</heading>
+            <content>
+              <p>"</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1929, p. 625.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-505-21">
+            <num>21</num>
+            <heading>The provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e,
+5f, 5g, 5h, 5i and 5j, 6, 6a, 6b, 6c (except to the extent that the time
+limitations for requesting an administrative hearing, the minimum notice
+requirement for hearings, and the provisions regarding penalties and interest
+are inconsistent with this Act), 8, 9, 10 and 12 of the Retailers' Occupation
+Tax Act which are not inconsistent with this Act, and Section 3-7 of the
+Uniform Penalty and Interest Act, shall apply as far as practicable to the
+subject matter of this Act to the same extent as if those provisions were
+included in this Act</heading>
+            <content>
+              <p>(Source: P.A. 87-205; 88-480.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 87-205; 88-480.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

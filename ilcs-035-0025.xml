@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-25"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-25"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_25">
+          <num>35 ILCS 25/</num>
+          <heading>Small Business Job Creation Tax Credit Act</heading>
+          <section eId="sec_35-25-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Small Business Job Creation Tax Credit Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-5">
+            <num>5</num>
+            <heading>Findings and purpose</heading>
+            <content>
+              <p>The General Assembly finds that the Illinois economy is mired in one of the worst economic recessions it has ever suffered.  Small businesses in particular have been hit hard by the economy, resulting in levels of high unemployment throughout the State.  In order to reverse the trend of high unemployment and to help spur the economy to recovery, it is necessary to assist and encourage small businesses in the hiring of new employees.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-25-10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of the Internal Revenue Code, except that for purposes of determining whether a person is a related member under this paragraph, "20%" shall be substituted for "5%" whenever "5%" appears in Section 1563</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of the Internal Revenue Code.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-863, eff. 8-14-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-15">
+            <num>15</num>
+            <heading>Powers of the Department</heading>
+            <content>
+              <p>The Department, in addition to those powers granted under the Civil Administrative Code of Illinois, is granted and shall have all the powers necessary or convenient to carry out and effectuate the purposes and provisions of this Act, including, but not limited to, power and authority to: (1) Promulgate procedures, rules, or regulations deemed necessary and appropriate for the administration of this Act; establish forms for applications, notifications, contracts, or any other agreements; and accept applications at any time during the year and require that all applications be submitted via the Internet. The Department shall require that applications be submitted in electronic form. (2) Provide guidance and assistance to applicants pursuant to the provisions of this Act, and cooperate with applicants to promote, foster, and support job creation within the State. (3) Enter into agreements and memoranda of understanding for participation of and engage in cooperation with agencies of the federal government, units of local government, universities, research foundations or institutions, regional economic development corporations, or other organizations for the purposes of this Act. (4) Gather information and conduct inquiries, in the manner and by the methods it deems desirable, including, without limitation, gathering information with respect to applicants for the purpose of making any designations or certifications necessary or desirable or to gather information in furtherance of the purposes of this Act. (5) Establish, negotiate, and effectuate any term, agreement, or other document with any person necessary or appropriate to accomplish the purposes of this Act; and consent, subject to the provisions of any agreement with another party, to the modification or restructuring of any agreement to which the Department is a party. (6) Provide for sufficient personnel to permit administration, staffing, operation, and related support required to adequately discharge its duties and responsibilities described in this Act from funds made available through charges to applicants or from funds as may be appropriated by the General Assembly for the administration of this Act. (7) Require applicants, upon written request, to issue any necessary authorization to the appropriate federal, State, or local authority or any other person for the release to the Department of information  requested by the Department, with the information requested to include, but not be limited to, financial reports, returns, or records relating to the applicant or to the amount of credit allowable under this Act. (8) Require that an applicant shall at all times keep proper books of record and account in accordance with generally accepted accounting principles consistently applied, with the books, records, or papers related to the agreement in the custody or control of the applicant open for reasonable Department inspection and audits, and including, without limitation, the making of copies of the books, records, or papers. (9) Take whatever actions are necessary or appropriate to protect the State's interest in the event of bankruptcy, default, foreclosure, or noncompliance with the terms and conditions of financial assistance or participation required under this Act, including the power to sell, dispose of, lease, or rent, upon terms and conditions determined by the Director to be appropriate, real or personal property that the Department may recover as a result of these actions.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-20">
+            <num>20</num>
+            <heading>Certificate of eligibility for tax credit</heading>
+            <subsection eId="sec_35-25-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An applicant that has hired a new employee during the incentive period may apply for a certificate of eligibility for the credit with respect to that position on or after the date of hire of the new employee.  The date of hire shall be the first day on which the employee begins providing services for basic wage compensation.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant may apply for a certificate of eligibility for the credit for more than one new employee on or after the date of hire of each qualifying new employee.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-20__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>After receipt of an application under this Section, the Department shall issue a certificate of eligibility to the applicant, stating:</p>
+              </content>
+              <paragraph eId="sec_35-25-20__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The date and time on which the application was received by the Department and an identifying number assigned to the applicant by the Department.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-20__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The maximum amount of the credit the applicant could potentially receive under this Act with respect to the new employees listed on the application.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-20__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The maximum amount of the credit potentially allowable on certificates of eligibility issued for applications received prior to the application for which the certificate of eligibility is issued.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-25">
+            <num>25</num>
+            <heading>Tax credit</heading>
+            <subsection eId="sec_35-25-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to the conditions set forth in this Act, an applicant is entitled to a credit against payment of  taxes withheld under Section 704A of the Illinois Income Tax Act:</p>
+              </content>
+              <paragraph eId="sec_35-25-25__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for new employees who participated as worker-trainees in the Put Illinois to Work Program during 2010: (A) in the first calendar year ending on or after the date that is 6 months after December 31, 2010, or the date of hire, whichever is later. Under this subparagraph, the applicant is entitled to one-half of the credit allowable for each new employee who is employed for at least 6 months after the date of hire; and (B) in the first calendar year ending on or after the date that is 12 months after December 31, 2010, or the date of hire, whichever is later. Under this subparagraph, the applicant is entitled to one-half of the credit allowable for each new employee who is employed for at least 12 months after the date of hire;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-25__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>for all other new employees, in the first calendar year ending on or after the date that is 12 months after the date of hire of  a new employee. The credit shall be allowed as a credit to an applicant for each full-time employee hired during the incentive period that results in a net increase in full-time Illinois employees, where the net increase in the employer's full-time Illinois employees is maintained for at least 12 months.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-25-25__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department shall make credit awards under this Act to further job creation.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-25__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The credit shall be claimed for the first calendar year ending on or after the date on which the certificate is issued by the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-25__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The credit shall not exceed $2,500 per new employee hired.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-25__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The net increase in full-time Illinois employees, measured on an annual full-time equivalent basis, shall be the total number of full-time Illinois employees of the applicant on the final day of the incentive period, minus the number of full-time Illinois employees employed by the employer on the first day of that same incentive period.  For purposes of the calculation, an employer that begins doing business in this State during the incentive period, as determined by the Director, shall be treated as having zero Illinois employees on the first day of the incentive period.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-25__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The net increase in the number of full-time Illinois employees of the applicant under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-25__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>must be sustained continuously for at least 12 months, starting with the date of hire of a new employee during the incentive period.  Eligibility for the credit does not depend on the continuous employment of any particular individual. For purposes of this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-25__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>The Department shall promulgate rules to enable an applicant for which a PEO has been contracted to issue W-2s and make payment of taxes withheld under Section 704A of the Illinois Income Tax Act for new employees to retain the benefit of tax credits to which the applicant is otherwise entitled under this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10; 96-1498, eff. 1-18-11; 97-636, eff. 6-1-12; 97-1052, eff. 8-23-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-30">
+            <num>30</num>
+            <heading>Maximum amount of credits allowed</heading>
+            <content>
+              <p>The Department shall limit the monetary amount of credits awarded under this Act to no more than $50,000,000. If applications for a greater amount are received, credits shall be allowed on a first-come-first-served basis, based on the date on which each properly completed application for a certificate of eligibility is received by the Department.  If more than one certificate of eligibility is received on the same day, the credits will be awarded based on the time of submission for that particular day.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-35">
+            <num>35</num>
+            <heading>Application for award of tax credit; tax credit certificate</heading>
+            <subsection eId="sec_35-25-35__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On or after the conclusion of the 12-month period (or 6-month period, for purposes of subparagraph (A) of item</p>
+              </content>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-25-35__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 25) after a new employee has been hired, an applicant shall file with the Department an application for award of a credit.  The application shall include the following:</p>
+              </content>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The names, Social Security numbers, job descriptions, salary or wage rates, and dates of hire of the new employees with respect to whom the credit is being requested, and an indication of whether each new employee listed participated as a worker-trainee in the Put Illinois to Work Program.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>A certification that each new employee listed has been retained on the job for one year (or 6 months, for purposes of subparagraph (A) of item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-25-35__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 25) from the date of hire.</p>
+              </content>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The number of new employees hired by the applicant during the incentive period.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The net increase in the number of full-time Illinois employees of the applicant (including the new employees listed in the request) between the beginning of the incentive period and the dates on which the new employees listed in the request were hired. This requirement does not apply for tax credits the applicant is seeking because the new employee had participated as a worker-trainee in the Put Illinois to Work Program.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>An agreement that the Director is authorized to verify with the appropriate State agencies the information contained in the request before issuing a certificate to the applicant.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Any other information the Department determines to be appropriate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-25-35__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Although an application may be filed at any time after the conclusion of the 12-month period (or 6-month period, for purposes of subparagraph (A) of item</p>
+              </content>
+              <paragraph eId="sec_35-25-35__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-25-35__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 25) after a new employee was hired, an application filed more than 90 days after the earliest date on which it could have been filed shall not be awarded any credit if, prior to the date it is filed, the Department has received applications under this Section for credits totaling more than $50,000,000.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-25-35__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department shall issue a certificate to each applicant awarded a credit under this Act.  The certificate shall include the following:</p>
+              </content>
+              <paragraph eId="sec_35-25-35__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name and taxpayer identification number of the applicant.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The date on which the certificate is issued.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The credit amount that will be allowed.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-25-35__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Any other information the Department determines to be appropriate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10; 96-1498, eff. 1-18-11.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-40">
+            <num>40</num>
+            <heading>Submission of tax credit certificate to Department of Revenue</heading>
+            <content>
+              <p>An applicant claiming a credit under this Act shall submit to the Department of Revenue a copy of each certificate issued under Section 35 of this Act with the first return for which the credit shown on the certificate is claimed.  However, failure to submit a copy of the certificate with the applicant's return shall not invalidate a claim for a credit.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-45">
+            <num>45</num>
+            <heading>Noncompliance with Act</heading>
+            <content>
+              <p>If the Director determines that an applicant who has received a credit under this Act is not complying with the requirements of  the provisions of this Act, the Director shall provide notice to the applicant of the alleged noncompliance, and allow the taxpayer a hearing under the provisions of the Illinois Administrative Procedure Act.  If, after such notice and any hearing, the Director determines that a noncompliance exists, the Director shall issue to the Department of Revenue notice to that effect, stating the noncompliance date.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-50">
+            <num>50</num>
+            <heading>Rules</heading>
+            <content>
+              <p>The Department may adopt rules necessary to implement this Act.  The rules may provide for recipients of credits under this Act to be charged fees to cover administrative costs of the tax credit program.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-90">
+            <num>90</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-888, eff. 4-13-10; text omitted.) (35 ILCS 25/999)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-25-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-888, eff. 4-13-10.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

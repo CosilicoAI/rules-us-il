@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-65"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-65"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-65"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-65/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-65/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-65/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-65/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_65">
+          <num>305 ILCS 65/</num>
+          <heading>Early Mental Health and Addictions Treatment Act</heading>
+          <section eId="sec_305-65-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Early Mental Health and Addictions Treatment Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1016, eff. 8-21-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-65-5">
+            <num>5</num>
+            <heading>Medicaid Pilot Program; early treatment for youth and young adults</heading>
+            <subsection eId="sec_305-65-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The General Assembly finds as follows:</p>
+              </content>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Most mental health conditions begin in adolescence and young adulthood, yet it can take an average of 10 years before the right diagnosis and treatment are received.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Over 850,000 Illinois youth under age 25 will experience a mental health condition.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Early treatment of significant mental health conditions can enable wellness and recovery and prevent a life of disability or early death from suicide.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Early treatment leads to higher rates of school completion and employment.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Illinois' mental health system is aimed at adults with advanced mental illnesses who have become disabled, rather than focusing on youth in the early stages of a mental health condition to prevent progression.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Many states are implementing programs and services for the early treatment of significant mental health conditions in youth.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>The cost of early community-based treatment is a fraction of the cost of a life of multiple hospitalizations, disability, criminal justice involvement, and homelessness, the common trajectory for someone with a serious mental health condition.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Early treatment for adolescents and young adults with mental health conditions will save lives and State dollars.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-65-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As the sole Medicaid State agency, the Department of Healthcare and Family Services, in partnership with the Department of Human Services' Division of Mental Health and with meaningful input from stakeholders, shall develop a pilot program under which a qualifying adolescent or young adult, as defined in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Federal waiver or State Plan amendment; implementation timeline.</p>
+              </content>
+              <paragraph eId="sec_305-65-5__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Federal approval.  The Department of Healthcare and Family Services shall submit any necessary application to the federal Centers for Medicare and Medicaid Services for a waiver or State Plan amendment to implement the pilot program described in this Section no later than September 30, 2019. If the Department determines the pilot program can be implemented without federal approval, the Department shall implement the program no later than December 31, 2019.  The Department shall not draft any rules in contravention of this timetable for pilot program development and implementation.  This pilot program shall be implemented only to the extent that federal financial participation is available.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Implementation.  After federal approval is secured, if federal approval is required, the Department of Healthcare and Family Services shall implement the pilot program within 6 months after the date of federal approval.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-65-5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Qualifying adolescent or young adult. As used in this Section, "qualifying adolescent or young adult" means a person age 16 through 26 who is enrolled in the Medical Assistance Program under Article V of the Illinois Public Aid Code and has a diagnosis of a serious emotional disturbance as interpreted by the federal Substance Abuse and Mental Health Services Administration or a serious mental illness listed in the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders.  Because the purpose of the pilot program is treatment in the early stages of a significant mental health condition or emotional disturbance for purposes of preventing progression of the illness, debilitating symptoms and disability, a qualifying adolescent or young adult shall not be required to demonstrate disability due to the mental health condition, show a reduction in functioning as a result of the condition, or have a reality impairment (psychosis) to be eligible for services through the pilot program.  A qualifying adolescent or young adult who is determined to be eligible for pilot program services before the age of 21 shall continue to be eligible for such services without interruption through age 26 as long as he or she remains enrolled in the Medical Assistance Program.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Community-based treatment model. The pilot program shall create youth-focused community support teams for early treatment.  The community-based treatment model shall be a multidisciplinary, team-based model specifically tailored for adolescents and young adults and their needs for wellness, symptom management, and recovery.  The model shall take into consideration area workforce, community uniqueness, and cultural diversity. All services shall be evidence-based or evidence-informed as applicable, and the services shall be flexibly provided in-office, in-home, and in-community with an emphasis on in-home and in-community services.  The model shall allow for and include each of the following:</p>
+              </content>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Community-based, outreach treatment, and wrap-around services that begin in the early stages of a serious mental illness or serious emotional disturbance (functional impairment shall not be required for service eligibility under the pilot program).</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Youth specific engagement strategies to encourage participation and retention in services.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Same-age or similar-age peer services to foster resiliency.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Family psycho-education and family involvement.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Expertise or knowledge in school and university systems, special education and work, volunteer and social life for youth.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Evidence-informed and young person-specific psychotherapies.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Care coordination for primary care.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Medication management.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Case management for problem solving to address practicable problems, including criminal justice involvement and housing challenges; and assisting the young person or family in organizing all treatment and goals.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Supported education and employment to keep the young person engaged in school and work to attain self-sufficiency.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>Trauma-informed expertise for youth.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-5__subsec_e__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>Substance use treatment expertise.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-65-5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Pay-for-performance payment model. The Department of Healthcare and Family Services, with meaningful input from stakeholders, shall develop a pay-for-performance payment model aimed at achieving high-quality mental health and overall health and quality of life outcomes for the youth, rather than a fee-for-service payment model. The payment model shall allow for service flexibility to achieve such outcomes, shall cover actual provider costs of delivering the pilot program services to enable sustainability, and shall include all provider costs associated with the data collection for purposes of the analytics and outcomes reporting required under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-5__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Rulemaking.  The Department of Healthcare and Family Services, in partnership with the Department of Human Services' Division of Mental Health and with meaningful input from stakeholders, shall develop rules for purposes of implementation of the pilot program contemplated in this Section within 6 months of federal approval of the pilot program.  If the Department determines federal approval is not required for implementation, the Department shall develop rules with meaningful stakeholder input no later than December 31, 2019.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-5__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Pilot program analytics and outcomes reports.  The Department of Healthcare and Family Services shall engage a third party partner with expertise in program evaluation, analysis, and research at the end of 5 years of implementation to review the outcomes of the pilot program in stabilizing youth with significant mental health conditions early on in their condition to prevent debilitating symptoms and disability and enable</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1016, eff. 8-21-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-65-10">
+            <num>10</num>
+            <heading>Medicaid pilot program for opioid and other
+drug addictions</heading>
+            <subsection eId="sec_305-65-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Legislative findings.  The General Assembly finds as follows:</p>
+              </content>
+              <paragraph eId="sec_305-65-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Illinois continues to face a serious and ongoing opioid epidemic.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Opioid-related overdose deaths rose 76% between 2013 and 2016.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Opioid and other drug addictions are life-long diseases that require a disease management approach and not just episodic treatment.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>There is an urgent need to create a treatment approach that proactively engages and encourages individuals with opioid and other drug addictions into treatment to help prevent chronic use and a worsening addiction and to significantly curb the rate of overdose deaths.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>With the goal of early initial engagement of individuals who have an opioid or other drug addiction in addiction treatment and for keeping individuals engaged in treatment following detoxification, a residential treatment stay, or hospitalization to prevent chronic recurrent drug use, the Department of Healthcare and Family Services, in partnership with the Department of Human Services' Division of Substance Use Prevention and Recovery and with meaningful input from stakeholders, shall develop an Assertive Engagement and Community-Based Clinical Treatment Pilot Program for early treatment of an opioid or other drug addiction. The pilot program shall be implemented across a broad spectrum of geographic regions across the State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Assertive engagement and community-based clinical treatment services. All services included in the pilot program established under this Section shall be evidence-based or evidence-informed as applicable and the services shall be flexibly provided in-office, in-home, and in-community with an emphasis on in-home and in-community services.  The model shall take into consideration area workforce, community uniqueness, and cultural diversity. The model shall, at a minimum, allow for and include each of the following:</p>
+              </content>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Assertive community outreach, engagement, and continuing care strategies to encourage participation and retention in addiction treatment services for both initial engagement into addiction treatment services, and for post-hospitalization, post-detoxification, and post-residential treatment.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Case management for purposes of linking individuals to treatment, ongoing monitoring, problem solving, and assisting individuals in organizing their treatment and goals.  Case management shall be covered for individuals not yet engaged in treatment for purposes of reaching such individuals early on in their addiction and for individuals in treatment.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Clinical treatment that is delivered in an individual's natural environment, including in-home or in-community treatment, to better equip the individual with coping mechanisms that may trigger re-use.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Coverage of provider transportation costs in delivering in-home and in-community services in both rural and urban settings.  For rural communities, the model shall take into account the wider geographic areas providers are required to travel for in-home and in-community pilot services for purposes of reimbursement.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Recovery support services.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>For individuals who receive services through the pilot program but disengage for a short duration (a period of no longer than 9 months), allow seamless treatment re-engagement in the pilot program.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Supported education and employment.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Working with the individual's family, school, and other community support systems.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_c__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Service flexibility to enable recovery and positive health outcomes.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Federal waiver or State Plan amendment; implementation timeline.  The Department shall follow the timeline for application for federal approval and implementation outlined in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of Section 5.  The pilot program contemplated in this Section shall be implemented only to the extent that federal financial participation is available.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Pay-for-performance payment model.  The Department of Healthcare and Family Services, in partnership with the Department of Human Services' Division of Substance Use Prevention and Recovery and with meaningful input from stakeholders, shall develop a pay-for-performance payment model aimed at achieving high-quality treatment and overall health and quality of life outcomes, rather than a fee-for-service payment model.  The payment model shall allow for service flexibility to achieve such outcomes, shall cover actual provider costs of delivering the pilot program services to enable sustainability, and shall include all provider costs associated with the data collection for purposes of the analytics and outcomes reporting required in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Rulemaking.  The Department of Healthcare and Family Services, in partnership with the Department of Human Services' Division of Substance Use Prevention and Recovery and with meaningful input from stakeholders, shall develop rules for purposes of implementation of the pilot program within 6 months after federal approval of the pilot program.  If the Department determines federal approval is not required for implementation, the Department shall develop rules with meaningful stakeholder input no later than December 31, 2019.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Pilot program analytics and outcomes reports.  The Department of Healthcare and Family Services shall engage a third party partner with expertise in program evaluation, analysis, and research at the end of 5 years of implementation to review the outcomes of the pilot program in treating addiction and preventing periods of symptom exacerbation and recurrence.  For purposes of evaluating the outcomes of the pilot program, the Department shall require providers of the pilot program services to track all of the following annual data:</p>
+              </content>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Length of engagement and retention in pilot program services.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Recurrence of drug use.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Symptom management (the ability or inability to control drug use).</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Days of hospitalizations related to substance use or residential treatment stays.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Periods of homelessness and periods of housing stability.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Periods of criminal justice involvement.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Educational and employment attainment during following pilot program services.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_g__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Enrollee satisfaction with his or her quality of life and level of social connectedness, pre-pilot and post-pilot services.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>The Department of Healthcare and Family Services shall deliver a final report to the General Assembly on the outcomes of the pilot program within one year after 4 years of full implementation, and after 7 years of full implementation, compared to typical treatment available to other youth with significant mental health conditions, as well as the cost savings associated with the pilot program taking into account all public systems used when an individual with a significant mental health condition does not have access to the right treatment and supports in the early stages of his or her illness. The reports to the General Assembly shall be filed with the Clerk of the House of Representatives and the Secretary of the Senate in electronic form only, in the manner that the Clerk and the Secretary shall direct. Post-pilot program discharge outcomes shall be collected for all service recipients who exit the pilot program for up to 3 years after exit. This includes youth who exit the program with planned or unplanned discharges. The post-exit data collected shall include the annual data listed in paragraphs</p>
+              </content>
+              <paragraph eId="sec_305-65-10__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>through</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-65-10__subsec_h__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-65-10__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>within one year of 4 full years of implementation, and in an additional report within one year of 7 full years of implementation in order to provide more information about post-exit outcomes on a greater number of youth who enroll in pilot program services in the</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1016, eff. 8-21-18; 101-81, eff. 7-12-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-65-15">
+            <num>15</num>
+            <heading>Availability of naloxone formulations</heading>
+            <content>
+              <p>The Department of Human Services shall, as part of the fiscal year 2024 Drug Overdose Prevention Program, make all FDA-approved formulations of naloxone that are cleared through the  Minnesota Multistate Contracting Alliance for Pharmacy, and for which the manufacturer can set up a system for receiving, tracking, and distribution, available to eligible Drug Overdose Prevention Program participants and applicants.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-8, eff. 6-7-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-65-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1016, eff. 8-21-18.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-645"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-645"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-645"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-645/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-645/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-645/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-645/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_645">
+          <num>35 ILCS 645/</num>
+          <heading>Electricity Infrastructure Maintenance Fee Law</heading>
+          <section eId="sec_35-645-15">
+            <num>15</num>
+            <heading>If any
+provision added by this amendatory Act of 1997 is held invalid, this entire
+amendatory Act of 1997 shall be deemed
+invalid, and the provisions of Section 1</heading>
+            <subsection eId="sec_35-645-15__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>that any contracts entered into and performed, transactions
+completed, orders issued, services provided, billings rendered, or payments
+made
+in accordance with the provisions of this amendatory Act of 1997, other than as
+provided in clause
+(ii) below, prior to the date of the determination of such invalidity, shall
+not thereby be rendered invalid; (ii) that no presumption as to the validity or
+invalidity of any contracts, transactions, orders, billings, or payments
+pursuant to Article XVIII of the Public Utilities Act shall result from a
+determination of invalidity of this amendatory Act of 1997; and (iii) that the
+provisions of
+proviso</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-645-15__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>shall not be deemed to preserve the validity of any executory
+contracts or transactions, of any actions to be taken pursuant to orders
+issued, or of any services to be performed, billings to be rendered, or
+payments to be made, pursuant to provisions of this amendatory Act of 1997
+subsequent to the date of determination of such invalidity.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-561, eff. 12-16-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-645-75">
+            <num>75</num>
+            <heading>Effective date of Articles 2 and 5 and Sections 25, 26, 30,
+35 and 65</heading>
+            <content>
+              <p>Sections 25 and 30 of this amendatory Act of 1997 take
+effect January 1, 1998.  Articles 2 and 5 and Sections 26, 35 and 65 of this
+amendatory Act of 1997 take effect August 1, 1998.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-561, eff. 12-16-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-645-97">
+            <num>97</num>
+            <heading>No acceleration or delay</heading>
+            <subsection eId="sec_35-645-97__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the changes
+made by this Act or (ii) provisions derived from any other Public Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-561, eff. 12-16-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-645-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>Except as provided in
+Article 4, this Act takes effect on becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-561, eff. 12-16-97.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

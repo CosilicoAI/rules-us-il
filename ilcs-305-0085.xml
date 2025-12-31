@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-85"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-85"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-85"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-85/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-85/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-85/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-85/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_85">
+          <num>305 ILCS 85/</num>
+          <heading>Medical Debt Relief Act</heading>
+          <section eId="sec_305-85-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Medical Debt Relief Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-85-5">
+            <num>5</num>
+            <heading>Findings</heading>
+            <subsection eId="sec_305-85-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>People with medical debt often forgo needed medical care, have difficulty meeting basic needs, and face an increased risk of bankruptcy.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Of the estimated 1,900,000 Illinois residents with medical debt in collections, 1,700,000 live at or below 400% of the federal poverty guidelines updated periodically in the Federal Register by the U.S. Department of Health and Human Services. The average medical debt per individual is approximately $2,300, and of the total estimated $4,370,000,000 in medical debt that is in collections in Illinois, roughly $4,000,000,000 is acquirable, erasable medical debt carried by low-income Americans.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Medical debt impacts communities throughout the State. There are at least 12 counties in Illinois in which 20% to 30% of residents are living with medical debt in collections: Alexander, Coles, Grundy, Jefferson, Macon, Marion, Massac, Randolph, Schuyler, Shelby, Vermilion, and Warren counties. These 12 counties have approximately 475,000 residents, about 112,000 of whom have medical debt in collections. 13% of Cook County residents have medical debt in collections, and their medical debts comprise more than a quarter of the statewide total.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>While any person can accumulate medical debt, people of color are disproportionately affected. Nationally, 13% of the population has medical debt in collections, but 15% of people in communities of color have medical debt in collections. In Illinois, 14% of the population has medical debt in collections, but 20% of the population in communities of color have medical debt in collections.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The medical debt disparity reinforces racial inequity and exacerbates disparities in health outcomes. Structural barriers, including housing, credit, and employment opportunities, further increase financial vulnerability for communities of color, making it more difficult to pay medical bills on time.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Since medical debt can be difficult for hospital systems to collect, they will often settle debt obligations for a fraction of the total amount owed.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-5__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Cook County launched a successful effort to erase medical debt obligations for Cook County residents in partnership with a national nonprofit organization. Accounting for Cook County's investment, an additional commitment of approximately $24,500,000 would eliminate all current medical debt for Illinois residents living at or below 400% of the federal poverty guidelines.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-5__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Illinois can accelerate health equity for residents across the State by establishing a Medical Debt Relief Pilot Program to provide grant funding to a nonprofit medical debt relief coordinator to relieve thousands of families from the crushing burden of medical debt.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-85-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act: "Eligible resident" means an individual who: (1) is a resident of the State of Illinois; and (2) has a household income at or below 400% of the federal poverty guidelines or who has medical debt equal to 5% or more of the individual's household income. "Department" means the Department of Healthcare and Family Services. "Medical debt" means an obligation to pay money arising from the receipt of health care services. "Medical debt relief" means the discharge of a patient's medical debt, including debt that is not in collections. "Nonprofit medical debt relief coordinator" means a nonprofit organization that is experienced in locating, acquiring, and relieving medical debt for individuals and that is able to discharge medical debt of an eligible resident in a manner that does not result in a taxable event for the resident. "Pilot program" means the Medical Debt Relief Pilot Program.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-85-15">
+            <num>15</num>
+            <heading>Medical Debt Relief Pilot Program</heading>
+            <subsection eId="sec_305-85-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to appropriation, the Department of Healthcare and Family Services shall establish a Medical Debt Relief Pilot Program to discharge the medical debt of eligible residents.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Under the pilot program, the Department shall provide grant funding to a nonprofit medical debt relief coordinator to use the grant funds and any other private funds available to negotiate and settle, to the extent possible, the medical debt of eligible residents owed to hospitals and other health care providers and entities. The hospitals and other health care providers and entities may be located outside of the State of Illinois, so long as the negotiation and settlement of medical debt is on behalf of an eligible resident.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department shall establish the pilot program no later than January 1, 2025. The Department shall administer the pilot program consistent with the requirements of the Grant Accountability and Transparency Act to determine which nonprofit medical debt relief coordinator to use, unless the Department and the State's Grant Accountability and Transparency Unit determine that only a single nonprofit medical debt relief coordinator has the capacity and willingness to carry out the duties specified in this Act. The Department shall publish on its website any agreement, including amendments and attachments, entered into with a debt relief coordinator within 5 business days after the agreement or amendment was entered into by the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-85-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The nonprofit medical debt relief coordinator shall:</p>
+              </content>
+              <paragraph eId="sec_305-85-15__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Identify eligible residents who qualify for the pilot program.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Review the medical debt accounts of each commercial debt collection agency or health care provider willing to sell medical debt accounts of eligible residents.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Conduct an outreach pilot program with hospitals, hospital systems, and other providers and entities about the benefits of the Medical Debt Relief Pilot Program. Such outreach shall first be initiated with safety-net hospitals.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Negotiate and acquire medical debt of eligible residents from health care providers and medical debt collection agencies.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Within 60 days of the acquisition of an eligible resident's medical debt, notify all eligible residents whose medical debt has been discharged under the pilot program, in a manner approved by the Department, that they no longer have specified medical debt owed to the relevant health care provider or commercial debt collection agency.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Not attempt to seek payment from an eligible resident for medical debt purchased by the nonprofit medical debt relief coordinator.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_d__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>To the extent possible, give priority to hospitals and providers who serve a high percentage of volume of Medicaid customers and providers located in disproportionately impacted area zip codes.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-85-15__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Department shall provide an annual report to the Governor and General Assembly that includes, but is not limited to:</p>
+              </content>
+              <paragraph eId="sec_305-85-15__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The amount of medical debt purchased and discharged under the pilot program.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The number of eligible residents who received medical debt relief under the pilot program.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The demographic characteristics of the eligible residents, including, but not limited to, race, ethnicity, income level, zip code, and insurance status.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-85-15__subsec_e__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>The number and characteristics of health care providers from whom medical debt was purchased and discharged, including, but not limited to, geography and payor mix.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-85-15__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Department shall adopt any rules necessary to implement this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-85-20">
+            <num>20</num>
+            <heading>Repealer</heading>
+            <content>
+              <p>The Act is repealed on July 1, 2029.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-85-100">
+            <num>100</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 103-647, eff. 7-1-24; text omitted.) (305 ILCS 85/105)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-85-105">
+            <num>105</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 103-647, eff. 7-1-24; text omitted.) (305 ILCS 85/999) (Section scheduled to be repealed on July 1, 2029)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-85-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-647, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

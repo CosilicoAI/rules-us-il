@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-730"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-730"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-730"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-730/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-730/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-730/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-730/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_730">
+          <num>35 ILCS 730/</num>
+          <heading>Federal Excise Tax Refund Act</heading>
+          <section eId="sec_35-730-1">
+            <num>1</num>
+            <heading>Every user who reimbursed a retailer for Illinois or municipal
+or county retailers' occupation tax or paid use tax on the amount of the
+Federal excise tax on manufacturers of motor vehicles when purchasing a
+motor vehicle in Illinois between August 16, 1971, and December 10, 1971,
+upon proving to the Department of Revenue (hereinafter called the Department)
+that such user has received a refund of such Federal excise tax, may, prior
+to July 1, 1976, file a claim directly with the Department to recover the
+amount of such use tax or reimbursement for retailers' occupation tax or
+municipal retailers' occupation tax or county retailers' occupation tax</heading>
+            <content>
+              <p>The Department shall prescribe the claim form and shall establish the
+necessary procedures for processing such claim. After making any such
+refund, if the Department finds that the retailer who collected such tax or
+reimbursement therefor from the user did not remit such tax to the
+Department, it shall collect the tax from such retailer. For this purpose,
+all the provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e, 5f, 5g, 5h, 5i,
+and 5j of the "Retailers' Occupation Tax Act", approved June 28, 1933, as
+now or hereafter amended, shall apply to the subject matter of this Act to
+the same extent as if such provisions were included herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 78-982.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

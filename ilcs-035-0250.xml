@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-250"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-250"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-250"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-250/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-250/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-250/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-250/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_250">
+          <num>35 ILCS 250/</num>
+          <heading>Longtime Owner-Occupant Property Tax Relief Act</heading>
+          <section eId="sec_35-250-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Longtime Owner-Occupant Property Tax Relief Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-451.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-250-5">
+            <num>5</num>
+            <heading>Public policy</heading>
+            <content>
+              <p>In recognition of the severe economic circumstances
+of certain longtime owner-occupants of residences who are faced with rising
+living costs and constantly increasing tax burdens in areas where real property
+values have risen markedly as a consequence of the renovation of other
+deteriorating residences or the construction of new residences, the General
+Assembly considers it to be a matter of sound public policy for counties having
+a population of 100,000 or more to adopt uniform special real property tax
+relief provisions in order to allow longtime owner-occupants of residences to
+remain in peaceful possession of their homes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-451.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-250-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-250-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>"Longtime owner-occupant" means a person who for at least 10
+continuous years has owned and has occupied the same dwelling place as a
+principal residence and domicile, or any person who for at least 5 years
+has owned and occupied the same dwelling place as a principal residence and
+domicile if that person received assistance in the acquisition of the
+property as part of a government or nonprofit housing program.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>"Principal residence" means the dwelling place of a person,
+including the principal house and lot, and such lots as are used in
+connection with the principal house and lot that contribute to its enjoyment,
+comfort and convenience.  For purposes of this Act, the term may also include a
+building with a maximum of one commercial establishment and a maximum of 3
+residential units of which one residential unit must be the principal residence
+of the longtime owner-occupant.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-451.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-250-15">
+            <num>15</num>
+            <heading>Deferral or exemption authority</heading>
+            <subsection eId="sec_35-250-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The corporate authorities of a county shall have the power to provide,
+by ordinance or resolution, for uniform
+special real property tax relief provisions granting longtime owner-occupants a
+deferral or exemption, or combination thereof, in the payment of that portion
+of an increase of real property taxes which is due to an increase in the market
+value of the real property as a consequence of the refurbishing or renovating
+of other residences or the construction of new residences in long-established
+residential areas or areas of deteriorated, vacant or abandoned homes and
+properties.  A deferral or exemption, or combination thereof, may be granted
+until the longtime owner-occupant transfers title to the property. The ordinance or resolution must include a provision requiring that
+eligibility notification of the special real property tax relief be delivered
+to the record owner of the property taxed.  The eligibility notification shall
+be mailed to the address of the record owner on file with the county.  If the
+notification is mailed by the county to a mortgagee because it is the only
+address of the record owner filed with the county, then the mortgagee shall,
+within 30 days of receipt, forward a copy of the notice to each mortgagor of
+the property.  There
+shall be no liability for the failure of the mortgagee to forward the notice to
+each mortgagor.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporate authority of a county is authorized to enact ordinances or
+resolutions that provide for
+the designation of areas eligible for the special real property tax relief
+provisions under this Act.  Before enacting an ordinance or
+resolution that proposes designating such an area, the corporate
+authorities shall conduct a public hearing on the proposed ordinance or
+resolution.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>School districts and municipalities within a county have authority to
+determine their participation in the
+program of special real property tax relief within their taxing jurisdictions.
+The provisions of this subsection shall not apply to municipalities and
+school districts included under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of this Section.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding any provision to the contrary, if the corporate
+authority of a county with 3,000,000 or more inhabitants enacts an ordinance or
+resolution in accordance with subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-15__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of Section 6 of Article VII of the Illinois Constitution.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-648, eff. 7-24-98; 91-894, eff. 1-1-01.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-250-20">
+            <num>20</num>
+            <heading>Conditions of deferral or exemption</heading>
+            <subsection eId="sec_35-250-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any deferral or exemption of payment of an increase in real property
+taxes granted under this Act shall be limited to real property that meets both
+of the following conditions:</p>
+              </content>
+              <paragraph eId="sec_35-250-20__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The property is owned and occupied by a longtime owner-occupant.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-250-20__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The property is the principal residence and domicile of the longtime owner-occupant. The corporate authorities of a county, by ordinance or resolution, may
+impose additional criteria for qualifying for a deferral or exemption under
+this
+Act including, but not limited to,</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-250-20__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>requiring the owner-occupant to have
+owned and occupied the same dwelling place as principal residence and domicile
+for a period of more than 10 years, (ii) establishing age criteria for
+eligibility of an owner-occupant, and (iii) establishing income criteria for
+eligibility of an owner-occupant. A deferral or exemption, or combination thereof, under an ordinance or resolution adopted pursuant to this Act, may not exceed $20,000 in equalized assessed value per tax year.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No penalties or interest shall accrue on the portion of any deferral
+granted under this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-20__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as provided in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-250-20__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of Section 15, school districts
+and municipalities within a county to which this
+Act applies may determine whether financial need, age, or both, of the
+longtime owner-occupant shall be used to determine eligibility.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-715, eff. 7-12-04; 94-1074, eff. 12-26-06.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-250-25">
+            <num>25</num>
+            <heading>Retroactive application</heading>
+            <content>
+              <p>The corporate authorities of a
+county to which this Act applies may use any county record or other
+information that predates the effective date of this Act by up to 5 years
+for the purpose of determining whether an increase in the market value of a
+longtime owner-occupant's principal residence is a consequence of the
+refurbishing or renovating of other residences or the construction of new
+residences in long-established residential areas or areas of deteriorated,
+vacant, or abandoned homes and properties.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-451.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-250-30">
+            <num>30</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 88-451; text omitted.) (35 ILCS 250/99)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-451; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-250-99">
+            <num>99</num>
+            <heading>This Act takes effect upon becoming law</heading>
+            <content>
+              <p>(Source: P.A. 88-451.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706. Con</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-451.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

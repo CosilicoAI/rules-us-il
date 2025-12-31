@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-625"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-625"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-625"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-625/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-625/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-625/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-625/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_625">
+          <num>35 ILCS 625/</num>
+          <heading>Water Company Invested Capital Tax Act</heading>
+          <section eId="sec_35-625-1">
+            <num>1</num>
+            <heading>Short Title</heading>
+            <content>
+              <p>This Act shall be known and may be
+cited as the "Water Company Invested Capital Tax Act".</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-274.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-2">
+            <num>2</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-625-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the average of the
+balances at the beginning and end of the taxable period of the
+taxpayer's total stockholder's equity and total long-term debt, less
+investments in and advances to all corporations, as set forth on the
+balance sheets included in the taxpayer's annual report to the Illinois
+Commerce Commission for the taxable period; (ii) multiplied by a
+fraction determined under Sections 301 and 304</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-625-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the Illinois
+Income Tax Act and reported on the Illinois income tax return for the
+taxable period ending in or with the taxable period in question.
+However, notwithstanding the income tax return reporting requirement stated
+above, beginning July 1, 1979, no taxpayer's denominators used to compute
+the sales, property or payroll factors under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-625-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 304
+of the Illinois Income Tax Act shall include payroll, property or sales of
+any corporate entity other than the taxpayer for the purposes of
+determining an allocation for the invested capital tax.  Public Act 82-1024 is not intended to and does not make any change in the meaning
+of any provision of this Act, it having been the intent of the General
+Assembly in initially enacting the definition of "invested capital" to
+provide for apportionment of the invested capital of each company, based
+solely upon the sales, property and payroll of that company. "Taxable period" means each period which ends after August 14, 1979
+and which is covered by an annual report filed by the
+taxpayer with the Illinois Commerce Commission.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-863, eff. 8-14-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-3">
+            <num>3</num>
+            <heading>Imposition of tax on invested capital</heading>
+            <content>
+              <p>Beginning on July 1,
+1979, in addition to the taxes imposed by the Illinois Income Tax Act,
+there is hereby imposed upon the water companies subject to the taxes
+imposed by the Illinois Income Tax Act, a tax in an amount equal to .8%
+of such water companies' invested capital for the taxable period.  If
+any such water company is not liable for the invested capital tax for
+the entire taxable period, such invested capital tax shall be computed
+on the portion of the taxable period during which such water company is
+liable for such invested capital tax. The invested capital tax imposed by
+this Section shall not be imposed upon persons who are not regulated by the
+Illinois Commerce Commission and who are subject to the tax imposed by this
+Act only with respect to transactions between the seller and tenants of
+buildings owned or operated by the seller.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 87-205.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-4">
+            <num>4</num>
+            <heading>Annual return, collection and payment</heading>
+            <subsection eId="sec_35-625-4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the "Illinois Income Tax Act", for the period covered by the return; 5. The amount of tax due for the taxable period (computed on the basis of the amounts set forth in Items 3 and 4); and 6. Such other reasonable information as may be required by forms or regulations prescribed by the Department. The returns prescribed by this Section shall be due and shall be
+filed with the Department not later than the 15th day of the third
+month following the close of the taxable period. The taxpayer making the
+return herein provided for shall, at the time of making such return, pay
+to the Department the remaining amount of tax herein imposed and due for
+the taxable period. Each taxpayer shall make estimated quarterly
+payments on the 15th day of the third, sixth, ninth and twelfth months of
+each taxable period.  Such estimated payments shall be 25% of the tax
+liability for the immediately preceding taxable period or the tax liability
+that would have been imposed in the immediately preceding taxable period if
+this Act had been in effect. All moneys received by the Department under
+this Act shall be paid into the Personal Property Tax Replacement Fund in
+the State Treasury. Any taxpayer required to make payments under this Section may make the
+payments by electronic funds transfer.  The Department shall adopt rules
+necessary to effectuate a program of electronic funds transfer.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-16, eff. 6-16-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-5">
+            <num>5</num>
+            <heading>All of the provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e, 5f,
+5g, 5i, 5j, 6b, and 6c of the Retailers' Occupation Tax Act and
+Section 3-7
+of the Uniform Penalty and Interest Act, which are not inconsistent with
+this Act, shall apply, as far as practicable, to the subject matter of this
+Act to the same extent as if such provisions were included herein</heading>
+            <content>
+              <p>References in such incorporated Sections of the Retailers' Occupation Tax
+Act to retailers, to sellers or to persons engaged in the business of
+selling tangible personal property mean water companies when used in this
+Act. References in such incorporated Sections of the Retailers' Occupation
+Tax Act to purchasers of tangible personal property mean purchasers of
+water, or of water and sewage disposal, when used in this Act. References
+in such incorporated Sections of the Retailers' Occupation Tax Act to sales
+of tangible personal property mean the distributing, supplying, furnishing
+or selling of water for use or consumption, or of water and sewage
+disposal, when used in this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-491, eff. 1-1-98.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-6">
+            <num>6</num>
+            <heading>If it appears, after claim therefor filed with the Department,
+that an amount of tax or penalty or interest has been paid which was not due
+under this Act, whether as the result of a mistake of fact or an error of law,
+except as hereinafter provided, then the Department shall issue a credit
+memorandum or refund to the person who made the erroneous payment or, if
+that person has died or become incompetent, to his legal representative, as
+such</heading>
+            <content>
+              <p>If it is determined that the Department should issue a credit or refund
+under this Act, the Department may first apply the amount thereof against
+any amount of tax or penalty or interest due hereunder from the person
+entitled to such credit or refund. For this purpose, if proceedings are
+pending to determine whether or not any tax or penalty or interest is due
+under this Act from such person, the Department may withhold issuance of
+the credit or refund pending the final disposition of such proceedings and
+may apply such credit or refund against any amount found to be due to the
+Department as a result of such proceedings. The balance, if any, of the
+credit or refund shall be issued to the person entitled thereto. If no tax or penalty or interest is due and no proceeding is pending to
+determine whether such person is indebted to the Department for tax or
+penalty or interest, the credit memorandum or refund shall be issued to the
+claimant; or (in the case of a credit memorandum) the credit memorandum may
+be assigned and set over by the lawful holder thereof, subject to
+reasonable rules of the Department, to any other person who is subject to
+this Act, and the amount thereof shall be applied by the Department against
+any tax or penalty or interest due or to become due under this Act from
+such assignee. As to any claim for credit or refund filed with the Department on or
+after each January 1 and July 1, no amounts erroneously paid more than 3
+years prior to such January 1 and July 1, respectively, shall be credited
+or refunded, except that if both the Department and the taxpayer have agreed
+to an
+extension of time to issue a notice of tax liability under this Act, the claim
+may be filed at any time prior to the expiration of the period agreed upon. Notwithstanding any other provision of this Act to the contrary, for any period included in a claim for credit or refund for which the statute of limitations for issuing a notice of tax liability under this Act will expire less than 6 months after the date a taxpayer files the claim for credit or refund, the statute of limitations is automatically extended for 6 months from the date it would have otherwise expired. Claims for credit or refund shall be filed upon forms provided by the
+Department. As soon as practicable after any claim for credit or refund is
+filed, the Department shall examine the same and determine the amount of
+credit or refund to which the claimant is entitled and shall notify the
+claimant of such determination, which amount shall be prima facie correct. Any credit or refund that is allowed under this Section shall bear
+interest at the rate and in the manner specified in the Uniform Penalty
+and Interest Act. In case the Department determines that the claimant is entitled to a
+refund, such refund shall be made only from such appropriation as may be
+available for that purpose. If it appears unlikely that the amount
+appropriated would permit everyone having a claim allowed during the period
+covered by such appropriation to elect to receive a cash refund, the
+Department, by rule or regulation, shall provide for the payment of refunds
+in hardship cases and shall define what types of cases qualify as hardship
+cases.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-40, eff. 6-25-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-7">
+            <num>7</num>
+            <heading>Every taxpayer under this Act shall keep books, records,
+papers and other documents which are adequate to reflect the information
+which such taxpayers are required by this Act to report to the Department</heading>
+            <content>
+              <p>The Department may adopt rules that establish requirements, including record
+forms and formats, for records required to be kept and maintained by taxpayers.
+For purposes of this Section, "records" means all data maintained by the
+taxpayer, including data on paper, microfilm, microfiche or any type of
+machine-sensible data compilation. All books
+and records and other papers and documents required by this Act to be
+kept shall be kept in the English language and shall, at all times
+during business hours of the day, be subject to inspection by the
+Department or its duly authorized agents and employees. The Department may, upon written authorization of the Director,
+destroy any returns or any records, papers or memoranda pertaining to
+such returns upon the expiration of any period covered by such returns
+with respect to which the Department is authorized to establish liability.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-480.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-8">
+            <num>8</num>
+            <heading>For the purpose of administering and enforcing the provisions of
+this Act, the Department or any officer or employee of the Department
+designated, in writing, by the Director thereof, may hold investigations
+and, except for those matters reserved to the Illinois Independent Tax Tribunal, may hold hearings concerning any matters covered by this Act and may examine any
+books, papers, records or memoranda bearing upon the business transacted by
+any such taxpayer and may require the attendance of such taxpayer or any
+officer or employee of such taxpayer, or of any person having knowledge of
+such business, and may take testimony and require proof for its
+information</heading>
+            <content>
+              <p>In the conduct of any investigation or hearing, neither the
+Department nor any officer or employee thereof shall be bound by the
+technical rules of evidence, and no informality in any proceeding, or in
+the manner of taking testimony, shall invalidate any order, decision, rule
+or regulation made or approved or confirmed by the Department. The Director
+or any officer or employee thereof shall have power to administer oaths to
+any such persons. The books, papers, records and memoranda of the
+Department, or parts thereof, may be proved in any hearing, investigation,
+or legal proceeding by a reproduced copy thereof under the certificate of
+the Director. Such reproduced copy shall, without further proof, be
+admitted into evidence before the Department or in any legal proceeding.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-9">
+            <num>9</num>
+            <heading>No person shall be excused from testifying or from producing any
+books, papers, records or memoranda in any investigation or upon any
+hearing, when ordered to do so by the Department or any officer or employee
+thereof, upon the ground that the testimony or evidence, documentary or
+otherwise, may tend to incriminate him or subject him to a criminal
+penalty, but no person shall be prosecuted or subjected to any criminal
+penalty for, or on account of, any transaction made or thing concerning
+which he may testify or produce evidence, documentary or otherwise, before
+the Department or any officer or employee thereof; provided, that such
+immunity shall extend only to a natural person who, in obedience to a
+subpoena, gives testimony under oath or produces evidence, documentary or
+otherwise, under oath</heading>
+            <content>
+              <p>No person so testifying shall be exempt from
+prosecution and punishment for perjury committed in so testifying.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-274.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-10">
+            <num>10</num>
+            <heading>The Department or any officer or employee of the Department
+designated, in writing, by the Director thereof, shall at its or his own
+instance, or on the written request of any party to the proceeding, issue
+subpoenas requiring the attendance of and the giving of testimony by
+witnesses, and subpoenas duces tecum requiring the production of books,
+papers, records or memoranda</heading>
+            <content>
+              <p>All subpoenas issued under this Act may be
+served by any person of full age. The fees of witnesses for attendance and
+travel shall be the same as the fees of witnesses before the Circuit Court
+of this State; such fees are to be paid when the witness is excused from
+further attendance. When the witness is subpoenaed at the instance of the
+Department or any officer or employee thereof, such fees shall be paid in
+the same manner as other expenses of the Department, and when the witness
+is subpoenaed at the instance of any taxpayer to any such proceeding the
+Department may require that the cost of service of the subpoena and the fee
+of the witness be borne by the taxpayer at whose instance the witness is
+summoned. In such case, the Department, in its discretion, may require a
+deposit to cover the cost of such service and witness fees. A subpoena
+issued as aforesaid shall be served in the same manner as a subpoena issued
+out of a court. Any Circuit Court of this State, or any judge thereof, upon the
+application of the Department or any officer or employee thereof may, in
+its or his discretion, compel the attendance of witnesses, the production
+of books, papers, records or memoranda and the giving of testimony before
+the Department or any officer or employee thereof conducting an
+investigation or holding a hearing authorized by this Act, by an attachment
+for contempt, or otherwise, in the same manner as production of evidence
+may be compelled before the court. The Department or any officer or employee thereof, or any party in an
+investigation or hearing before the Department, may cause the depositions
+of witnesses residing within or without the State to be taken in the manner
+prescribed by law for like depositions in civil actions in courts of this
+State, and, to that end, compel the attendance of witnesses and the
+production of books, papers, records or memoranda. Hearings before the Illinois Independent Tax Tribunal shall be conducted pursuant to the provisions of the Illinois Independent Tax Tribunal Act of 2012.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-11">
+            <num>11</num>
+            <heading>All information received by the Department from returns filed under
+this
+Act, or from any investigations conducted under this Act, shall be
+confidential, except for official purposes, and any person who divulges any
+such information in any manner, except in accordance with a proper judicial
+order or as otherwise provided by law, shall be guilty of a Class B
+misdemeanor</heading>
+            <content>
+              <p>Nothing contained in this Act shall prevent the Director
+from publishing or making available to the public the names and addresses
+of taxpayers filing returns under this Act, or from publishing or making
+available reasonable statistics concerning the operation of the tax wherein
+the contents of returns are grouped into aggregates in such a way that the
+information contained in any individual return shall not be disclosed. Nothing contained in this Act shall prevent the
+Director from making available to the United States Government or any
+officer or agency thereof, for exclusively official purposes, information
+received by the Department in the administration of this Act. The furnishing upon request of the Auditor General, or his authorized
+agents, for official use, of returns filed and information related thereto
+under this Act is deemed to be an official purpose within the meaning of
+this Section. The Director may make available to any State agency, including the
+Illinois Supreme Court, which licenses persons to engage in any occupation,
+information that a person licensed by such agency has failed to file
+returns under this Act or pay the tax, penalty and interest shown therein,
+or has failed to pay any final assessment of tax, penalty or interest due
+under this Act.  An assessment is final when all proceedings in court for
+review of such assessment have terminated or the time for the taking
+thereof has expired without such proceedings being instituted. Nothing contained in this Act shall prevent the Director from divulging
+information to any person pursuant to a request or authorization made by the
+taxpayer or by an authorized representative of the taxpayer.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-491, eff. 1-1-98.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-12">
+            <num>12</num>
+            <heading>Except as otherwise provided in this Section with respect to the Illinois Independent Tax Tribunal, the Circuit Court of the county wherein a hearing is held shall
+have power to review all final administrative decisions of the Department in
+administering this Act</heading>
+            <content>
+              <p>If, however, the
+administrative proceeding which is to be reviewed judicially is a claim for
+refund proceeding commenced in accordance with Section 6 of this Act and
+Section 2a of "An Act in relation to the payment and disposition of moneys
+received by officers and employees of the State of Illinois by virtue of
+their office or employment", approved June 9, 1911, as amended, the
+Circuit Court having jurisdiction of the action for judicial review under
+this Section and under the Administrative Review Law
+shall be the same court that entered the injunctive order which
+is provided for in Section 2a of "An Act in relation
+to the payment and disposition of moneys received by officers and employees
+of the State of Illinois by virtue of their office or employment", and
+which enables such claim proceeding to be processed and disposed of as a
+claim for refund proceeding rather than as a claim for credit proceeding. Except as otherwise provided in this Section with respect to the Illinois Independent Tax Tribunal, the provisions of the Administrative Review Law, as amended, and the rules
+adopted pursuant thereto, shall apply to and govern all proceedings for the
+judicial review of final administrative decisions of the Department under this
+Act. The term "administrative decision" is defined as in Section 3-101 of the
+Code of Civil Procedure, approved August 19, 1981, as amended. The provisions of the Illinois Independent Tax Tribunal Act of 2012, and the rules
+adopted pursuant thereto, shall apply to and govern all proceedings for the
+judicial review of final administrative decisions of the Department that are subject to the jurisdiction of the Illinois Independent Tax Tribunal. Service upon the Director or Assistant Director of the Department of
+Revenue of summons issued in any action to review a final administrative
+decision is service upon the Department.  The Department shall certify
+the record of its proceedings if the taxpayer pays to it the sum of
+75¢ per page of testimony taken before the Department and 25¢ per page of
+all other matters contained in such record, except that these charges may
+be waived where the Department is satisfied that the aggrieved party is a
+poor person who cannot afford to pay such charges.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-13">
+            <num>13</num>
+            <heading>The Department may make, promulgate and enforce such
+reasonable rules and regulations relating to the administration and
+enforcement of this Act as may be deemed expedient</heading>
+            <content>
+              <p>Whenever notice to a taxpayer is required by this Act, such notice may
+be given by United States certified or registered mail, addressed to the
+taxpayer concerned at his last known address, and proof of such mailing
+shall be sufficient for the purposes of this Act.  In the case of a notice
+of hearing, such notice shall be mailed not less than 7 days prior to the
+day fixed for the hearing. All hearings provided for in this Act with respect to a taxpayer having
+his principal place of business in any of the several counties of this
+State shall be held in the county wherein the taxpayer has his principal
+place of business.  If the taxpayer does not have his
+principal place of business in this State, such hearings shall be held in
+Sangamon County. Whenever any proceeding provided by this Act is begun by the Department
+or by a person subject thereto and such person thereafter dies or becomes
+incompetent before such proceeding is concluded, the legal representative
+of the deceased or incompetent person shall notify the Department of such
+death or incompetency.  Such legal representative, as such, shall then be
+substituted by the Department for such person.  Within 20 days after notice
+to the legal representative of the time fixed for that purpose, the
+proceeding may go forward in all respects and with like effect as though
+the person had not died or become incompetent.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-274.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-14">
+            <num>14</num>
+            <heading>The Illinois Administrative Procedure Act, as now or hereafter
+amended, is hereby expressly adopted and shall apply to all administrative
+rules and procedures of the Department of Revenue under this Act, except that
+(1) paragraph (b) of Section 5-10 of that Act does not apply to final
+orders, decisions and opinions of the Department; (2) subparagraph 2 of
+paragraph (a) of Section 5-10 of that Act does not apply to forms established
+by the Department for use under this Act; and (3) the provisions of Section
+10-45 of that Act regarding proposals for decision are excluded and not
+applicable to the Department under this Act to the extent Section 10-45 applies to hearings not otherwise subject to the Illinois Independent Tax Tribunal Act of 2012</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12; 98-756, eff. 7-16-14.) (35 ILCS 625/15) (from Ch. 120, par. 1425)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12; 98-756, eff. 7-16-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-625-15">
+            <num>15</num>
+            <heading>Any taxpayer who fails to make a return, or who makes a fraudulent
+return, or who wilfully violates any other provision of this Act or any
+rule or regulation of the Department for the administration and enforcement
+of this Act, is guilty of a business offense and, upon conviction thereof,
+shall be fined not less than $500 nor more than
+$5,000</heading>
+            <content>
+              <p>(Source: P.A. 82-274.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706. Con</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-274.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

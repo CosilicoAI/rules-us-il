@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-80"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-80"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-80"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-80/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-80/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-80/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-80/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_80">
+          <num>305 ILCS 80/</num>
+          <heading>Murdered Children Funeral and Burial Assistance Act</heading>
+          <section eId="sec_305-80-1">
+            <num>1</num>
+            <heading>Short title; references to Act</heading>
+            <subsection eId="sec_305-80-1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Short title.  This Act may be cited as the Murdered Children Funeral and Burial Assistance Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>References to Act. This Act may be referred to as the Mychal
+Moultry, Jr. Funeral and Burial Assistance Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-5">
+            <num>5</num>
+            <heading>Purpose; findings</heading>
+            <subsection eId="sec_305-80-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Gun violence is the leading cause of death for children
+and teenagers in Illinois.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Parents and guardians who experience the death of a
+child by gun violence face the painful process of bereavement while
+also bearing the responsibilities of planning a funeral and paying
+for funeral and burial expenses, usually through some form of debt.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>While the State assists the families of murdered
+children with funeral and burial expenses, assistance is primarily
+in the form of a reimbursement to the family after a formal
+application is submitted. After submission, the application
+undergoes a lengthy evaluation process by a review committee and a
+subsequent hearing before an administrative court. The process
+takes months, even years, before a final decision is rendered,
+during which time the victim's family can incur an overwhelming
+amount of debt.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This debt is particularly burdensome for low-income families, who struggle to repay the debt while continuing to provide
+for the family's basic needs. Many families rely on in-kind
+donations to support their basic needs while they work to pay off
+funeral and burial expenses.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>It is the intent of this Act to assist the families of
+children murdered in Illinois with funeral and burial expenses by
+having the State issue direct payments to funeral establishments
+and cemetery authorities instead of having the victim's family
+struggle to pay the cost and wait for reimbursement. Direct payments
+will enable families to secure burial rights and funeral and burial services and merchandise without enduring
+significant financial hardship and debt.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This Act provides for expedited processing and
+payment of all disbursement requests for child victim funeral and
+burial expenses.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>In this Act: "Burial rights" means rights of internment, inurnment, or entombment. "Cemetery authority" means any individual or legal entity
+that owns or controls cemetery lands or property that provides
+burial rights and burial services and merchandise to a child
+victim consistent with the Cemetery Oversight Act. "Child victim" means a person under 17 years of age killed in this State by a firearm as a result of first degree murder, second degree murder, voluntary manslaughter of an unborn child, involuntary manslaughter, and involuntary manslaughter of an unborn child. "Department" means the Department of Human Services. "Eligible survivor" means the parent or guardian of a child victim, or anyone living in the household of a child victim in a relationship with the victim that is substantially similar to that of a parent, who has a household income of less than 150% of the federal poverty level, qualifies for payment of funeral and burial expenses under this Act, and has or shares the authority to
+direct the disposition of the remains of the victim pursuant to the
+Disposition of Remains Act. "Funeral and burial expenses" means expenses that include, but are not limited to, the transport of deceased human remains to
+a funeral establishment; the preparation of deceased human
+remains for burial, including cleaning, disinfecting, and embalming; the preparation, direction, and supervision of the
+burial, cremation, or other disposition of deceased human
+remains, including furnishing a casket, vault, mausoleum, columbarium, or urn;
+the administration of funeral arrangements, including providing
+printed materials, providing transportation of the deceased human
+remains to the burial site, and furnishing necessary facilities
+and equipment; and any other service related to the carrying out
+of funeral or burial services that the Department may allow, if
+ consistent with the law, up to the total allowable amount
+of disbursement under Section 40. "Funeral establishment" means a State-licensed funeral home, funeral chapel, funeral parlor, or other business that provides funeral and burial services to a child victim.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-15">
+            <num>15</num>
+            <heading>Felon as victim or survivor</heading>
+            <content>
+              <p>An eligible survivor's or child victim's criminal history
+or felony status shall not automatically prevent an award for payment of the child victim's funeral and burial expenses.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-20">
+            <num>20</num>
+            <heading>Additional powers; Department of Human Services</heading>
+            <content>
+              <p>In addition to other powers and duties set forth in this Act
+and other powers exercised by the Department,
+the Department shall conduct a review of disbursement
+requests submitted by a funeral establishment or cemetery
+authority, which includes verification of the eligible survivor's
+household income, verification of the child victim's death
+certificate, and a review of the
+statement of goods and services provided by the funeral
+establishment or cemetery authority. Upon conclusion of the review, the Department shall provide the funeral establishment or cemetery authority with a payment determination letter. The Department shall disburse payment to a funeral establishment or cemetery authority.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-25">
+            <num>25</num>
+            <heading>Right to disbursement</heading>
+            <subsection eId="sec_305-80-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>With respect to the provision of burial rights and funeral and
+burial services and merchandise within the applicable scope of
+practice, a funeral establishment or cemetery authority is
+entitled to a disbursement under this Act if within one year of the occurrence of the crime upon
+which a disbursement request is made, the funeral establishment or
+cemetery authority submits the request to the Department
+on a form prescribed in accordance with Section 30 as furnished by
+the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-25__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department may accept a request presented after
+the period provided in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>if it determines that the
+funeral establishment or cemetery authority had a good cause for a
+delay.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-30">
+            <num>30</num>
+            <heading>Disbursement request requirements</heading>
+            <subsection eId="sec_305-80-30__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A disbursement request shall include:</p>
+              </content>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the eligible survivor and his or her relationship to the child victim;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the date and nature of the crime on which the disbursement request is based;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the nature and extent of the injuries sustained by the child victim, and the names and addresses of those giving any medical and hospitalization treatment to the child victim;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a copy of the child victim's death certificate;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>an affidavit of facts of death;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>documentation verifying an eligible survivor's household income;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a copy of the invoice detailing funeral and burial expenses, including any applicable taxes, surcharges, and fees;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>releases authorizing the surrender to the Department of reports, documents and other information relating to matters specified under this Act and rules adopted in accordance with this Act; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-80-30__subsec_a__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>such other information as the Department reasonably requires.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-80-30__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department may require that materials
+substantiating the facts stated in the disbursement request
+be submitted with that request.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-30__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A funeral establishment or cemetery authority, on
+its own volition, may file an amended request or additional substantiating materials to correct inadvertent
+errors or omissions at any time before the original request has been disposed of by the Department. In either case, the
+filing of additional information or of an amended request shall
+be considered for the purpose of this Act to have been filed at
+the same time as the original request.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-35">
+            <num>35</num>
+            <heading>Additional materials requested</heading>
+            <content>
+              <p>If a funeral establishment or cemetery authority does not
+submit all materials substantiating its disbursement request as
+requested by the Department, the Department shall notify the
+establishment in writing of the specific additional items of
+information or materials required and that it has 30 days in which
+to furnish those items to the Department. No disbursement shall be made
+for any portion of the request from a funeral establishment or
+cemetery authority that is not substantiated by the establishment
+or authority. An establishment or authority may request an extension
+of time from the Department prior to the expiration of the 30-day
+period.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-40">
+            <num>40</num>
+            <heading>Amount of disbursement</heading>
+            <subsection eId="sec_305-80-40__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The total amount of disbursement for funeral and burial
+expenses for a child victim shall be no more than $10,000, to be apportioned
+between the funeral establishment and cemetery authority by those
+eligible survivors authorized to direct the disposition of remains
+pursuant to the Disposition of Remains Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-40__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon submitting a disbursement request to the
+Department, and upon the Department's review of such request
+verifying that a survivor is an eligible survivor, a funeral
+establishment and cemetery authority shall each receive
+disbursement from the Department in the amount of the total
+cost of burial rights and funeral services and merchandise
+provided, up to the allocation amount. The Department shall
+process all payment vouchers within 30 days of submission of a
+complete disbursement request, and shall pay all such vouchers
+within 30 days of receipt. All disbursement requests that are not
+paid within 60 days shall thereafter accrue interest at the rate
+set by the Prompt Payment Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-40__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Beginning on July 1, 2024, the maximum
+allowable disbursement amount shall be increased each year by an amount equal to any increase in the general inflation, as determined by
+the index published by the Bureau of Labor Statistics of the United States Department of Labor that measures the average change in prices of goods and services purchased by all urban consumers, United States city average, all items, 1982-84 = 100.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-45">
+            <num>45</num>
+            <heading>Prohibition against double payment; recordkeeping; payment recapture</heading>
+            <subsection eId="sec_305-80-45__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If any funeral and burial expenses are paid under this Act, no award for such assistance shall be granted to any party in relation to funeral and burial expenses for the same child victim under the Crime
+Victims Compensation Act or the Department of Human
+Services Funeral and Burial Benefits Program.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-45__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>No person or entity receiving assistance
+under this Act shall receive or  retain a duplicate award for funeral and
+burial expenses for a child victim from any State agency or
+agencies. For the purposes of this Section, a duplicate award is
+one that results in a total award from the State for the cost of
+funeral and burial expenses for a child victim in excess of that
+authorized by the Department. To prevent such duplicate awards,
+the Department shall maintain an electronic record of each
+disbursement to a funeral establishment or cemetery authority
+and provide access to such records to any State agency
+providing funeral or burial assistance to Illinois residents.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-45__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department is authorized to contract with third-party entities to conduct payment recapture audits to detect and
+recapture payments made in error or as a result of fraud or
+abuse. A payment recapture audit shall include the process of
+identifying improper payments paid to a funeral
+establishment or cemetery authority or to an eligible survivor
+whereby accounting specialists examine payment records and uncover
+duplicate payments, payments for services not rendered,
+overpayments, payments for unauthorized services, and fictitious
+vendors. This audit may include the use of professional and
+specialized auditors on a contingency basis, with compensation tied
+to the identification of misspent funds.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-50">
+            <num>50</num>
+            <heading>Notice to public of available assistance</heading>
+            <subsection eId="sec_305-80-50__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department  shall
+develop a brochure informing the public of the existence of funeral and burial assistance for the families of murdered children under this Act and make the brochure available on its website.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-80-50__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any law enforcement agency that investigates an offense
+committed in this State shall inform the parent or guardian of the
+child victim concerning the availability of assistance for funeral
+and burial expenses under this Act and advise such persons that any
+information concerning this Act may be obtained from the
+Department.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-900">
+            <num>900</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 102-754, eff. 5-10-22; text omitted.) (305 ILCS 80/999)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-80-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-754, eff. 5-10-22.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
