@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-50"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-50"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-50"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-50/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-50/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-50/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-50/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_50">
+          <num>305 ILCS 50/</num>
+          <heading>Scientific Job Training Evaluation Act</heading>
+          <section eId="sec_305-50-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Scientific Job Training Evaluation Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 89-389, eff. 1-1-96.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-50-5">
+            <num>5</num>
+            <heading>Evaluation</heading>
+            <subsection eId="sec_305-50-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Public Aid shall contract for a scientific evaluation
+of the effectiveness of its job training and education programs for recipients
+of aid under Article IV of the Illinois Public Aid Code.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-50-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The methodology of the evaluation shall consist of a controlled
+experiment in which a statistically significant group of recipients of aid who
+are eligible for or volunteering to participate in the program is divided into
+2 groups by a random assignment: an experimental group (which participates in
+the program) and a control group (which does not participate in the program).
+The effect of the program on its participants shall be evaluated by comparing
+the control and experimental groups.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-50-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>As used in this Section, &quot;random assignment&quot; means any established
+method that divides a population into 2 or more groups on a random
+statistical basis, thereby assuring initial homogeneity between
+experimental and control groups necessary for scientific comparison.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-50-5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If, within the 3 years preceding the effective date of this Act, the
+Department has done a scientific evaluation of a program with a statistically
+significant sample, using both a control group and an experimental group,
+then the Department is not required to repeat that evaluation under this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-50-5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If an evaluation required under this Section is not
+completed before July 1, 1997, the Department of Human Services (acting as
+successor to the Department of Public Aid under the Department of Human
+Services Act) shall ensure that the evaluation is completed.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 89-380, eff. 1-1-96; 89-507, eff. 7-1-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-50-10">
+            <num>10</num>
+            <heading>AFDC; separate analysis</heading>
+            <content>
+              <p>In the case of any education and
+training program for recipients of aid under Article IV of the Illinois Public
+Aid Code,
+the Department of Public Aid shall contract for both an experimental evaluation
+as described in Section 5 of this Act and a separate statistical analysis to
+determine whether the availability of the education and training program has
+led
+to an increase or decrease in the number of applications for aid under Article
+IV of the Illinois Public Aid Code.  If the evaluation and statistical
+analysis required under this Section are
+not completed before July 1, 1997, the Department of Human Services (acting
+as successor to the Department of Public Aid under the Department of Human
+Services Act) shall ensure that the evaluation and statistical analysis are
+completed.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 89-389, eff. 1-1-96; 89-507, eff. 7-1-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-50-15">
+            <num>15</num>
+            <heading>Waiver</heading>
+            <content>
+              <p>In the event that scientific evaluation of a particular
+program is prohibited by federal law or regulation, the evaluations will not
+begin until the necessary waivers have been obtained from the appropriate
+federal department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 89-389, eff. 1-1-96.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-50-90">
+            <num>90</num>
+            <heading>Repeal</heading>
+            <content>
+              <p>Sections 5-1 and 5-5 of Public Act 88-412, which are
+known as the Job Training Evaluation Act, are repealed.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 89-389, eff. 1-1-96.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

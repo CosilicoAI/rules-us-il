@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-405"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-405"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-405"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-405/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-405/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-405/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-405/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_405">
+          <num>35 ILCS 405/</num>
+          <heading>Illinois Estate and Generation-Skipping Transfer Tax Act</heading>
+          <section eId="sec_35-405-1">
+            <num>1</num>
+            <heading>This Act may be cited as the Illinois Estate and Generation-Skipping Transfer Tax Act</heading>
+            <content>
+              <p>(Source: P.A. 86-737.) (35 ILCS 405/2) (from Ch. 120, par. 405A-2)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-2">
+            <num>2</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-405-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For persons dying on or after January 1, 2003 and
+through December 31, 2005, an amount
+equal
+to the full credit calculable under Section 2011 or Section 2604 of the
+Internal Revenue
+Code as the credit would have been computed and allowed under the Internal
+Revenue
+Code as in effect on December 31, 2001, without the reduction in the State
+Death Tax
+Credit as provided in Section 2011</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>or the termination of the State Death
+Tax Credit
+as provided in Section 2011</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>as enacted by the Economic Growth and Tax Relief
+Reconciliation Act of 2001, but recognizing the increased applicable exclusion
+amount
+through December 31, 2005.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For persons dying after December 31, 2005 and on or before December 31,
+2009, and for persons dying after December 31, 2010, an amount equal to the full
+credit
+calculable under Section 2011 or 2604 of the Internal Revenue Code as the
+credit would
+have been computed and allowed under the Internal Revenue Code as in effect on
+December 31, 2001, without the reduction in the State Death Tax Credit as
+provided in
+Section 2011</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>or the termination of the State Death Tax Credit as provided
+in
+Section 2011</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>as enacted by the Economic Growth and Tax Relief Reconciliation
+Act of
+2001, but recognizing the exclusion amount of only</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>$2,000,000 for persons dying prior to January 1, 2012, (ii) $3,500,000 for persons dying on or after January 1, 2012 and prior to January 1, 2013, and (iii) $4,000,000 for persons dying on or after January 1, 2013, and with reduction to the adjusted taxable estate for any qualified terminable interest property election as defined in subsection (b-1) of this Section. (b-1) The person required to file the Illinois return may elect on a timely filed Illinois return a marital deduction for qualified terminable interest property under Section 2056</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>of the Internal Revenue Code for purposes of the Illinois estate tax that is separate and independent of any qualified terminable interest property election for federal estate tax purposes.  For purposes of the Illinois estate tax, the inclusion of property in the gross estate of a surviving spouse is the same as under Section 2044 of the Internal Revenue Code. In the case of any trust for which a State or federal qualified terminable interest property election is made, the trustee may not retain non-income producing assets for more than a reasonable amount of time without the consent of the surviving spouse. &quot;Taxable transfer&quot; means an event that gives rise to a state tax credit,
+including any credit as a result of the imposition of an
+additional tax under Section 2032A</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of the Internal Revenue Code. &quot;Transferee&quot; means a transferee within the meaning of Section 2603</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>and Section 6901</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>of the Internal Revenue Code. &quot;Transferred property&quot; means:</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_h__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>With respect to a taxable transfer occurring at the death of an individual, the deceased individual's gross estate as defined in Section 2031 of the Internal Revenue Code.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-2__subsec_h__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>With respect to a taxable transfer occurring as a result of a taxable termination as defined in Section 2612</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the Internal Revenue Code,  the taxable amount determined under Section 2622</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the Internal Revenue Code.</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>With respect to a taxable transfer occurring as a result of a taxable distribution as defined in Section 2612</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of the Internal Revenue Code, the taxable amount determined under Section 2621</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the Internal Revenue Code.</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>With respect to an event which causes the imposition of an additional estate tax under Section 2032A</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of the Internal Revenue Code, the qualified real property that was disposed of or which ceased to be used for the qualified use, within the meaning of Section 2032A</p>
+              </content>
+              <paragraph eId="sec_35-405-2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of the Internal Revenue Code. &quot;Trust&quot; includes a trust as defined in Section 2652</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-2__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of the Internal
+Revenue Code.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-789, eff. 9-8-09; 96-1496, eff. 1-13-11; 97-636, eff. 6-1-12 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-3">
+            <num>3</num>
+            <heading>Illinois estate tax</heading>
+            <subsection eId="sec_35-405-3__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Imposition of Tax.  An Illinois estate tax is imposed on every
+taxable transfer
+involving transferred
+property having a tax situs within the State of Illinois.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-3__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Amount of tax.  On estates of persons dying before January 1, 2003, the amount of the Illinois estate tax shall be the state
+tax credit, as defined in Section 2 of this Act, with respect to the taxable
+transfer
+reduced by the lesser of:</p>
+              </content>
+              <paragraph eId="sec_35-405-3__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount of the state tax credit paid to any other state or states; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-3__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount determined by multiplying the maximum state tax credit allowable with respect to the taxable transfer  by the percentage which the gross value of the transferred property not having a tax situs in Illinois bears to the gross value of the total transferred property.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-3__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>On estates of persons dying on or after January 1, 2003, the amount of the Illinois estate tax shall be the state
+tax credit, as defined in Section 2 of this Act, reduced by the amount determined by multiplying the state tax
+credit with respect to the taxable transfer
+ by the percentage which the gross
+value of the transferred property not having a tax situs in Illinois bears
+to the gross value of the total transferred property.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-30, eff. 6-20-03; 94-419, eff. 8-2-05.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-4">
+            <num>4</num>
+            <heading>Illinois generation-skipping transfer tax</heading>
+            <subsection eId="sec_35-405-4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Imposition of tax.  An Illinois generation-skipping transfer tax is
+imposed on every taxable transfer resulting in federal generation-skipping
+transfer tax involving transferred property having a tax situs within the
+State of Illinois.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Amount of tax.  The amount of the Illinois generation-skipping transfer
+tax shall be the maximum state tax credit allowable with respect to the
+taxable transfer, reduced by the lesser of:</p>
+              </content>
+              <paragraph eId="sec_35-405-4__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount of the state tax credit paid to any other state or states; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-4__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount determined by multiplying the maximum state tax credit allowable with respect to the taxable transfer by the percentage which the gross value of the transferred property not having a tax situs in Illinois bears to the gross value of the total transferred property.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-5">
+            <num>5</num>
+            <heading>Determination of tax situs and valuation</heading>
+            <subsection eId="sec_35-405-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Illinois estate tax.</p>
+              </content>
+              <paragraph eId="sec_35-405-5__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>For purposes of the Illinois estate tax, in the case of a decedent who was a resident of this State at the time of death, all of the transferred property has a tax situs in this State, including any such property held in trust, except real or tangible personal property physically situated in another state.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-5__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>For purposes of the Illinois estate tax, in the case of a decedent who was not a resident of this State at the time of death, the transferred property having a tax situs in this State, including any such property held in trust, is only the real estate and tangible personal property physically situated in this State.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Illinois generation-skipping transfer tax.</p>
+              </content>
+              <paragraph eId="sec_35-405-5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>For purposes of the Illinois generation-skipping transfer tax, all transferred property from or in a resident trust has a tax situs in this State, including any such property held in trust, except real or tangible personal property physically situated in another state on the date that the taxable transfer occurs.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>For purposes of the Illinois generation-skipping transfer tax, none of the transferred property from or in a non-resident trust has a tax situs in this State, except that portion of the transferred property that is real or tangible personal property physically situated in this State, including any such property held in trust, on the date that the taxable transfer occurs.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Valuation.  Except as otherwise expressly provided, for purposes of
+this Act, the gross value of transferred property shall be its value as
+finally determined for purposes of the federal transfer tax,
+undiminished
+by any mortgages, liens or other encumbrances upon such transferred
+property for which the decedent was personally liable.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-30, eff. 6-20-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-6">
+            <num>6</num>
+            <heading>Returns and payments</heading>
+            <subsection eId="sec_35-405-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Due Dates.  The Illinois transfer
+tax shall be paid and the Illinois transfer tax return shall be filed on
+the due date or dates, respectively, including extensions, for paying the
+federal transfer tax and filing the related federal return.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Installment payments and deferral.  In the event that any portion of
+the federal transfer tax is deferred or to be paid in installments under
+the provisions of the Internal Revenue Code, the portion of the Illinois
+transfer tax which is subject to deferral or payable in installments shall
+be determined by multiplying the Illinois transfer tax by a fraction, the
+numerator of which is the gross value of the assets included in the
+transferred property having a tax situs in this State and which give rise
+to the deferred or installment payment under
+the Internal Revenue Code, and the denominator of which is the gross value
+of all assets included in the transferred property having a tax situs in
+this State.  Deferred payments and installment payments, with interest,
+shall be paid at the same time and in the same manner as payments of the
+federal transfer tax are required to be made under the applicable Sections
+of the Internal Revenue Code, provided that the rate of interest on unpaid
+amounts of Illinois transfer tax shall be determined under this Act.
+Acceleration of payment under this Section shall occur under the same
+circumstances and in the same manner as provided in the Internal Revenue Code.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Who shall file and pay.  The Illinois transfer tax return (including
+any supplemental or amended return) shall be filed, and the Illinois
+transfer tax (including any additional tax that may become due) shall be
+paid by the same person or persons, respectively, who are required to pay
+the federal transfer tax and file the federal return,
+or
+who would have been required to pay a federal transfer tax and file a
+federal return if
+a federal transfer tax were due.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Where to file return.  The executed Illinois transfer tax return
+shall be filed with the Attorney General.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-6__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Where to pay tax.   The Illinois transfer tax shall be paid according to the following rules:</p>
+              </content>
+              <paragraph eId="sec_35-405-6__subsec_e__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Illinois Estate Tax.  Prior to July 1, 2012, the Illinois estate tax shall be paid to the treasurer of the county in which the decedent was a resident on the date of the decedent's death or, if the decedent was not a resident of this State on the date of death, the county in which the greater part, by gross value, of the transferred property with a tax situs in this State is located.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-6__subsec_e__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Illinois Generation-Skipping Transfer Tax.  Prior to July 1, 2012, the Illinois generation-skipping transfer tax involving transferred property from or in a resident trust shall be paid to the county treasurer for the county in which the grantor resided at the time the trust became irrevocable (in the case of an inter vivos trust) or the county in which the decedent resided at death (in the case of a trust created by the will of a decedent). In the case of an Illinois generation-skipping transfer tax involving transferred property from or in a non-resident trust, the Illinois generation-skipping transfer tax shall be paid to the county treasurer for the county in which the greater part, by gross value, of the transferred property with a tax situs in this State is located.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-6__subsec_e__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Payments on or after July 1, 2012.  On or after July 1, 2012, both the Illinois estate tax and the Illinois generation-skipping transfer tax shall be paid directly to the State Treasurer.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-6__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Forms; confidentiality.  The Illinois transfer tax return shall be
+in all respects in the manner and form prescribed by the regulations of the
+Attorney General.  At the same time the Illinois transfer tax return is
+filed, the person required to file shall also file with the Attorney
+General a copy of the related federal return.
+For individuals dying after December 31, 2005, in cases where no federal
+return is
+required to be filed, the person required to file an Illinois return shall also
+file with the
+Attorney General schedules of assets in the manner and form prescribed by the
+Attorney
+General.
+The Illinois transfer tax
+return and the copy of the federal return filed with the Attorney General, the
+ county treasurer, or the State Treasurer shall be confidential, and the Attorney General,
+each county treasurer, and the State Treasurer and all of their assistants or employees are
+prohibited from divulging in any manner any of the contents of those returns,
+except
+only in a proceeding instituted under the provisions of this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-6__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>County Treasurer shall accept payment.  Prior to July 1, 2012, no county treasurer shall
+refuse to accept payment of any amount due under this Act on the grounds
+that the county treasurer has not yet received a copy of the appropriate
+Illinois transfer tax return.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-6__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Beginning July 1, 2012, the State Treasurer shall not refuse to accept payment of any amount due under this Act on the grounds
+that the State Treasurer has not yet received a copy of the appropriate
+Illinois transfer tax return.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-575, eff. 7-15-16.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-7">
+            <num>7</num>
+            <heading>Supplemental returns; refunds</heading>
+            <subsection eId="sec_35-405-7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Supplemental returns.  If
+the State tax credit is increased after the filing of the Illinois transfer
+tax return, the person or persons required to file the Illinois transfer
+tax return and pay the Illinois transfer tax shall file a supplemental
+Illinois transfer tax return.  The supplemental return shall be filed and
+the additional tax shall be paid in the same place and manner as provided
+in Section 6 of this Act.  The due date for the supplemental return and for
+the payment of the additional tax reported in the supplemental return shall
+be no later than 3
+months after the earliest of:</p>
+              </content>
+              <paragraph eId="sec_35-405-7__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the date an amended federal return is filed;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-7__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the date an increase in the federal transfer tax is paid or accepted in writing;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-7__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the date the Internal Revenue Service issues a request for evidence of payment of the State tax credit; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-7__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the date that any increase to the taxable estate is discovered; provided that if the federal transfer tax may be deferred or paid
+in installments, then part or all of the additional Illinois transfer tax
+may be deferred or paid in installments under rules consistent with
+subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 6 of this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Refunds.  If the state tax credit is reduced after the filing of the
+Illinois transfer tax return, the person who paid the Illinois transfer tax (or
+the person
+upon whom the burden of payment fell) shall file an amended Illinois
+transfer tax return and shall be entitled to a refund of tax or interest
+paid on the Illinois transfer tax.  No interest shall be paid on any amount
+refunded.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-30, eff. 6-20-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-8">
+            <num>8</num>
+            <heading>Penalties for failure to file tax return or to pay tax</heading>
+            <subsection eId="sec_35-405-8__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Failure to file return.  In case of failure to file any return
+required under this Act with the Attorney General by the due date,
+unless it is shown that the failure to file is due to a reasonable cause,
+there shall be added to the amount required
+to be shown as tax on the return 5% of the amount of that tax (or 5% of
+the additional tax due in the case of a supplemental return) if the failure
+is for not more than one month from the due date, with an additional 5% for
+each additional month or fraction of a month thereafter during
+which the failure to file continues, not exceeding in the aggregate 25% of
+the tax or, in the
+case of a supplemental return, 25% of the additional tax.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-8__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Failure to pay tax.  In the case of failure to pay the amount of tax
+shown due on any return required under this Act on or before the due date
+for payment of that tax, unless it is shown that the failure to pay is
+due to reasonable cause, there shall be
+added to the unpaid amount of the tax 0.5% of that unpaid amount if the
+failure is for not more than one month from the due date, with an
+additional 0.5% for each additional month or fraction of a month thereafter
+during which the failure to pay continues, not exceeding in the aggregate 25%
+of
+the unpaid amount.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-8__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Extensions of Time.</p>
+              </content>
+              <paragraph eId="sec_35-405-8__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Internal Revenue Service Extensions.  If the date for filing the federal return or the date for payment of the federal transfer tax is extended by the Internal Revenue Service, the filing of the return and payment of the tax imposed by this Act shall be due on the respective date specified by the Internal Revenue Service in granting a request for extension.  If the request for extension is granted by the Internal Revenue Service, the person required to file the Illinois transfer tax return shall furnish the Attorney General with a copy of the request for extension showing approval of the extension by the Internal Revenue Service.  If a request for extension of time to file the federal return is denied by the Internal Revenue Service, no penalty shall be due under this Act if the return required by this Act is filed within the time specified by the Internal Revenue Service for filing the federal return.  If a request for extension of time to pay the federal transfer tax is denied by the Internal Revenue Service, no penalty shall be due under this Act if the tax is paid within the time specified by the Internal Revenue Service for paying the federal transfer tax.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-8__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Attorney General Extensions.  The person or persons required to file the Illinois transfer tax return and to pay the Illinois transfer tax may apply to the Attorney General for an extension of time to file the Illinois transfer tax return or to pay the Illinois transfer tax.  The application must establish reasonable cause why it is impossible or impractical to file a reasonably complete return or to pay the full amount of tax due by the due date.  The Attorney General may for reasonable cause extend the time for filing the return or paying the tax for a reasonable period from the date fixed for filing the return or paying the tax.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-8__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Waiver of Penalties.</p>
+              </content>
+              <paragraph eId="sec_35-405-8__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Internal Revenue Service Waiver.  If the Internal Revenue Service waives the penalty provided in the Internal Revenue Code for failure to timely file the federal return or the penalty for failure to timely pay the federal transfer tax liability, such waiver or waivers shall be deemed to constitute reasonable cause for purposes of this Section.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-8__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Attorney General Waiver.  The Attorney General may waive the penalty or penalties for failure to file or pay for reasonable cause, notwithstanding the failure of the Internal Revenue Service to waive the penalty or penalties for failure to timely file the federal transfer tax return or to pay the federal transfer tax.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-30, eff. 6-20-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-9">
+            <num>9</num>
+            <heading>Interest</heading>
+            <content>
+              <p>If any amount of Illinois transfer tax imposed by
+this Act is not paid on or before the initial due date for the Illinois
+transfer tax return (without extensions), interest shall be charged and
+collected on the unpaid amount
+at the rate of 10% per annum from and
+after the initial due date and for the time thereafter as the tax is not
+paid, provided that the rate of interest on the outstanding amount of
+Illinois transfer tax permitted to be deferred or paid in installments
+under this Act shall be 6%.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-10">
+            <num>10</num>
+            <heading>Liens and Personal Liability</heading>
+            <subsection eId="sec_35-405-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Lien for Illinois transfer tax.  Unless the
+Illinois transfer tax is sooner paid in full, the Illinois
+transfer tax shall be a lien in favor of this State upon the transferred
+property having a tax situs within this State for 10 years from the date of
+the taxable transfer, or, in the case of Illinois transfer tax subject to
+deferral or payable in installments, the later of 10 years from the date of
+the taxable transfer or one year after the last deferred or installment
+payment may become due.  The lien imposed by this Section on the
+transferred property shall not be valid as against any purchaser,
+mortgagee, pledgee, or other holder of a security interest for a full and
+adequate consideration in money or money's worth; provided, however, that
+any property, consideration or proceeds received as a result of any sale,
+mortgage, pledge or granting of a security interest shall remain subject to
+the lien imposed by this Section.  In addition, the lien imposed by this
+Section on the transferred property shall be subject to the exceptions set
+forth in Section 6324</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>of the Internal Revenue Code as if the lien
+were a lien imposed by that Section.  In no event shall the issuance by the
+Attorney General of a release of the lien imposed by this subsection be
+required with respect to the sale, mortgage, pledge, granting of a security
+interest in, transfer or distribution of transferred property.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Special lien for property valued under Section 2032A of the Internal
+Revenue Code.  In the event the Illinois estate tax is reduced as a result
+of an election under Section 2032A of the Internal Revenue Code, then an amount
+equal to the additional Illinois estate tax that would be due in the
+absence of such an election shall be a lien in favor of this State on the
+transferred property that has a tax situs in this State and is subject to
+such election.  The lien imposed by this subsection shall arise at the time
+an election is filed under Section 2032A of the Internal Revenue Code and
+shall continue with respect to such transferred property:</p>
+              </content>
+              <paragraph eId="sec_35-405-10__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>until the liability for the Illinois estate tax with respect to such transferred property has been satisfied or has become unenforceable by reason of lapse of time or otherwise; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-10__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>until it is established to the satisfaction of the Attorney General that no further tax liability may arise under this Act with respect to such transferred property. The lien imposed by this subsection shall not be valid as against any
+purchaser, mortgagee, pledgee, other holder of a security interest,
+mechanic's lien, or judgment lien creditor until notice of such lien has
+been filed as provided by the laws of this State.  In regulations
+prescribed in accordance with Section 16 of this Act, the Attorney General
+may require that the qualified heir file such notice of lien.  Even though
+notice of said lien has been filed as provided in the preceding sentence,
+such lien shall be subject to the rules set forth in paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-10__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of
+Section 6324A</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-405-10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of the Internal Revenue Code as if the lien were a lien
+imposed by that Section.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Personal liability.  If the Illinois transfer tax is not paid when
+due, then the person required to file the federal return and the
+transferee of any transferred property having a tax situs within this State
+shall be personally liable for the Illinois transfer tax, to the extent of
+such transferred property originally received, controlled or transferred to
+that person or transferee, less the amount of any expenses or charges
+against the transferred property, related to the taxable transfer, which
+have a higher priority of payment under applicable law than the Illinois transfer tax.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Collection.  The Attorney General shall have the right to sue for
+collection of the Illinois transfer tax for 3 years after the date of the
+actual filing of the related Illinois transfer tax return with the Attorney
+General, or, if later, the last date upon which application for refund of
+the Illinois transfer tax could be filed with the State Treasurer.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Waiver of lien and personal liability.  If the Attorney General is
+satisfied that no liability for Illinois transfer tax exists or that the
+Illinois transfer tax has been fully discharged or provided for, the
+Attorney General shall issue a certificate releasing all of the transferred
+property having a tax situs within the State of Illinois from the lien
+imposed by this Section.  Issuance of such certificate shall discharge the
+person required to file the Illinois return and any
+transferee from
+personal liability for the Illinois transfer tax.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-30, eff. 6-20-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-11">
+            <num>11</num>
+            <heading>Reimbursement</heading>
+            <content>
+              <p>If the person who pays the Illinois transfer tax arising from a
+taxable transfer is entitled under the Internal Revenue Code or any other
+state or federal statute or rule of law to reimbursement of a portion of
+the federal transfer tax from any other person who has
+received transferred property, then, unless the governing document directs
+otherwise, the person who paid the Illinois transfer tax shall also be
+entitled to reimbursement from that other person of a portion of the
+Illinois transfer tax. The amount of reimbursement shall be determined by
+multiplying the total Illinois transfer tax by a fraction, the numerator of
+which shall be the gross value of the transferred property received by that
+other person and having a tax situs in this State which gives rise to a
+right of reimbursement of the federal transfer tax, and the denominator of
+which shall be the gross value of all transferred property having a tax
+situs in this State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-12">
+            <num>12</num>
+            <heading>Parent as natural guardian for purposes of Sections
+2032A and 2057 of the Internal Revenue Code</heading>
+            <subsection eId="sec_35-405-12__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Section 2032A of the Internal Revenue
+Code for the valuation of property under that Section
+or (ii) Section 2057 of the Internal Revenue
+Code relating to deduction of the value of certain property under that
+Section. Any election so made, and any agreement so
+signed, shall have the same legal force and effect as if the election had
+been made and the agreement had been signed by the minor or person with a disability 
+and the minor or person with a disability had been legally competent. This amendatory Act of the 91st General Assembly applies to elections and
+agreements made on or after January 1, 1998
+in reliance on or pursuant to Section 2057 of the Internal Revenue Code, and
+those elections and agreements made before the effective date of this
+amendatory Act are hereby validated.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-143, eff. 7-27-15.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-13">
+            <num>13</num>
+            <heading>Collection by county treasurers; tax collection distribution
+fund</heading>
+            <subsection eId="sec_35-405-13__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Collection by county treasurers. Each county treasurer shall
+transmit to the State Treasurer all taxes, interest or penalties paid to
+the county treasurer under this Act and in the county treasurer's
+possession as of the last day of the previous
+month, together with a report under oath identifying the taxpayer for or by
+whom an amount was paid.    Those amounts and the report shall be
+transmitted to and received by the
+State Treasurer by the 10th day of each month.  At the same time, a copy of
+the report shall be
+furnished to the Attorney General. The report shall
+be in a form and contain the particulars as the State Treasurer may
+prescribe. The State Treasurer shall give the county treasurer a receipt
+for the amount transmitted to the State Treasurer. Except as provided in subsection (a-5) of this Section, if any county treasurer fails
+to pay to the State Treasurer all amounts that may be due and payable under
+this Act as required by this Section, the county treasurer shall pay to the
+State Treasurer, as a penalty, a sum of money equal to the
+interest on the amounts not paid at the rate of 1% per month from the time those
+amounts are due by the county treasurer until those amounts are paid. The
+sureties upon the official bond of the county treasurer shall be security
+for the payment of the penalty. The penalty under this Section may
+be recovered in a civil action against the county treasurer and his or her
+sureties, in the name of the People of the State of Illinois, in the
+circuit court within the county wherein the county treasurer is resident;
+and the penalty, when recovered, shall be paid into the State treasury.
+The civil action to recover the penalty shall be brought by the State
+treasurer within 10 days after
+the failure of the county treasurer to pay to the State Treasurer any
+amounts collected by the county treasurer within the time required by this Act. Failure
+to bring the action within that time shall not prevent the bringing</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-13__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Section on a case-by-case basis if the State Treasurer finds that imposing penalties would be unreasonable or unnecessarily burdensome because the delay in payment was due to an incident caused by the operation of an extraordinary force, including, but not limited to, the occurrence of a  natural disaster, that cannot be foreseen, that cannot be avoided by the exercise of due care, and for which no person can be held liable.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-13__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>(Blank).</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-13__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>On and after July 1, 2012, 94% of the amounts collected from the taxes, interest, and penalties collected under this Act shall be deposited into the General Revenue Fund and 6% of those amounts shall be deposited into the Estate Tax Refund Fund, a special fund created in the State treasury. Moneys in the Estate Tax Refund Fund shall be expended exclusively for the purpose of paying refunds resulting from overpayment of tax liability under this Act, except that, whenever the State Treasurer determines that any such moneys in the Fund exceed the amount required for the purpose of paying refunds resulting from overpayment of tax liability under this Act, the State Treasurer may transfer any such excess amounts from the Estate Tax Refund Fund to the General Revenue Fund. The Treasurer shall order payment of refunds resulting from overpayment of tax liability under this Act from the Estate Tax Refund Fund only to the extent that amounts have been deposited and retained in the Fund. Public Act 97-732 shall constitute an irrevocable and continuing appropriation from the Estate Tax Refund Fund for the purpose of paying refunds upon the order of the Treasurer in accordance with the provisions of this Act and for the purpose of paying refunds under this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-278, eff. 8-6-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-14">
+            <num>14</num>
+            <heading>Statute of limitations; claims for refund</heading>
+            <content>
+              <p>In case it appears
+that the amount paid with respect to any taxable transfer is more than the
+amount due under this Act, then the State Treasurer shall refund the excess
+to the person entitled to the refund, provided that no amount shall be refunded
+unless application for the refund is filed with the State Treasurer no later than
+one year after the last date allowable under the Internal Revenue Code for
+filing a claim for refund of any part of the related federal transfer tax
+or, if later, within one year after the date of final determination of the
+related federal transfer tax.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-15">
+            <num>15</num>
+            <heading>Circuit court jurisdiction and venue</heading>
+            <subsection eId="sec_35-405-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Jurisdiction.
+Jurisdiction to hear and determine all disputes in relation to a tax
+arising under this Act shall be in the circuit court for
+the county having venue as determined under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of this Section,
+and the circuit court first acquiring jurisdiction shall retain
+jurisdiction to the exclusion of every other circuit court.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Venue.</p>
+              </content>
+              <paragraph eId="sec_35-405-15__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Venue for disputes involving Illinois estate tax of a decedent who was a resident of Illinois at the time of death shall lie in the circuit court for the county in which the decedent resided at death.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-15__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Venue for disputes involving Illinois generation-skipping tax for a resident trust shall lie in the circuit court for the county in which a person required to file the return is resident or, if none, in either Sangamon County or Cook County.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-405-15__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Venue for disputes involving Illinois estate tax of a decedent who was not a resident of Illinois at the time of death or for disputes involving Illinois generation-skipping tax of a non-resident trust shall lie in the circuit court for any Illinois county in which transferred property is situated.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-16">
+            <num>16</num>
+            <heading>Duty of Attorney General; failure to pay tax; proceedings</heading>
+            <subsection eId="sec_35-405-16__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Duty of the Attorney General.  It is the duty of the Attorney
+General to exercise general
+supervision over the assessment and collection of the tax provided in this
+Act, and in the discharge of that duty, the Attorney General may prescribe
+rules and regulations as are deemed necessary and may institute and
+prosecute suits and proceedings as may be necessary and proper,
+appearing therein for that purpose; and it shall be the duty of the several
+State's Attorneys to render assistance when requested by the Attorney
+General to do so. The Attorney General shall determine and assess the tax
+as provided for in this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-16__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Disclosure of federal return information.  When receipt of estate
+tax information from the Internal Revenue Service under the Agreement on
+Coordination of Tax Administration between the Internal Revenue Service and the
+Attorney General discloses possible Illinois estate tax liability, any person
+possessing federal estate tax information shall be required to submit such
+information to the Attorney General upon request to enable the Attorney General
+to audit the return or Internal Revenue
+Service audit adjustments and to determine whether any tax, penalty, or
+interest is due the State of Illinois where such return information has not
+been filed with the Attorney General.  A claim of confidentiality under Section
+48.1 of the Illinois Banking Act shall not prohibit or preclude the
+dissemination of tax information required under this Section and shall not
+constitute grounds for failing or refusing to surrender such tax information to
+the Attorney General in the administration and enforcement of this Act.  Any
+tax information submitted in compliance with this Section shall be treated and
+afforded with the same confidentiality as a return filed under the Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-150, eff. 7-16-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-17">
+            <num>17</num>
+            <heading>Agreements with other states for payment of tax imposed by
+this Act</heading>
+            <content>
+              <p>Where the Attorney General claims that transferred property has a
+tax situs in this State and the taxing authorities of another state
+or states claim the same transferred property is subject to a transfer tax
+in their state or states, the Attorney General may
+enter into a written agreement with those taxing authorities
+in the other state or states and with the person required to file the
+Illinois transfer tax return or pay the Illinois transfer tax that a
+certain sum shall be accepted in full payment of the tax imposed by this
+Act, provided that the agreement also fixes the amount to be paid in full
+payment to such other state or states. Full power and authority is hereby
+conferred upon the person required to file the Illinois transfer tax return
+or pay the Illinois tax to enter into the agreement provided for in this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-405-18">
+            <num>18</num>
+            <heading>Effective dates</heading>
+            <subsection eId="sec_35-405-18__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions contained in Sections 6 and 8 of this Act which
+provide for an extension of time to file or to pay tax, if an extension of
+time is granted by the Internal Revenue Service, shall apply with respect
+to the estates of decedents dying on or after January 1, 1983.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-18__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A claim for refund of Illinois estate tax or penalties arising from
+the effective date provisions set forth in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-405-18__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Section
+shall not be denied because of the expiration of the time for filing that
+claim, under the law that otherwise would apply, if the claim is filed not
+later than the date which is one year after the date this Act takes effect.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-737.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

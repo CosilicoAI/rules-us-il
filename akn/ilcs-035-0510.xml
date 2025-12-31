@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-510"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-510"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-510"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-510/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-510/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-510/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-510/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_510">
+          <num>35 ILCS 510/</num>
+          <heading>Coin-Operated Amusement Device and Redemption Machine Tax Act</heading>
+          <section eId="sec_35-510-1">
+            <num>1</num>
+            <heading>There is imposed, on the privilege of operating every
+coin-in-the-slot-operated amusement device, including a device operated
+or operable by insertion of coins, tokens, chips or similar objects, in
+this State which returns to the player thereof no money or property or
+right to receive money or property, and on the privilege of operating in
+this State a redemption machine as defined in Section 28-2 of the Criminal
+Code of 2012, an annual privilege tax of $30 for each
+device for a period beginning on or after August 1 of any year and
+prior to August 1 of the succeeding year</heading>
+            <content>
+              <p>(Source: P.A. 97-1150, eff. 1-25-13.) (35 ILCS 510/2) (from Ch. 120, par. 481b.2)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1150, eff. 1-25-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-2">
+            <num>2</num>
+            <heading>(a) Any person, firm, limited liability company, or corporation
+which displays any device described in Section 1, to be played or operated by
+the public at any place owned or leased by any such person, firm, limited
+liability company, or corporation, shall before he displays such device, file
+in the Office of the Department of Revenue
+a form containing information regarding such device, setting
+forth his name and address, with a brief description of the device to be
+displayed and the premises where such device will be located, together
+with such other relevant data as the Department of Revenue may require</heading>
+            <subsection eId="sec_35-510-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If an amount of tax, penalty, or interest has
+been paid in error to the Department, the taxpayer may file a claim for credit
+or refund with the Department.  If it is determined that the Department must
+issue a credit or refund under this Act, the Department may first apply the
+amount of the credit or refund due against any amount of tax, penalty, or
+interest due under this Act from the taxpayer entitled to the credit or refund.
+ If proceedings are pending to determine if any tax, penalty, or interest is
+due under this Act from the taxpayer, the Department may withhold issuance of
+the credit or refund pending the final disposition of those proceedings and may
+apply that credit or refund against any amount determined to be due to the
+Department as a result of those proceedings.  The balance, if any, of the
+credit or refund shall be paid to the taxpayer. If no tax, penalty, or interest is due and no proceedings are pending to
+determine whether the taxpayer is indebted to the Department for tax, penalty,
+or interest, the credit memorandum or refund shall be issued to the taxpayer;
+or, the credit memorandum may be assigned by the taxpayer, subject to
+reasonable rules of the Department, to any other person who is subject to this
+Act, and the amount of the credit memorandum by the Department against any tax,
+penalty, or interest due or to become due under this Act from the assignee. For any claim for credit or refund filed with the Department on or after
+each July 1, no amount erroneously paid more than 3 years before that July 1,
+shall be credited or refunded. A claim for credit or refund shall be filed on a form provided by the
+Department.  As soon as practicable after any claim for credit or refund is
+filed, the Department shall determine the amount of credit or refund to which
+the claimant is entitled and shall notify the claimant of that determination. A claim for credit or refund shall be filed with the Department on the date
+it is received by </p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-32, eff. 7-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-2a">
+            <num>2a</num>
+            <heading>Sunset of exemptions, credits, and deductions</heading>
+            <content>
+              <p>The application
+of every exemption, credit, and deduction against tax imposed by this Act that
+becomes law after the effective date of this amendatory Act of 1994 shall be
+limited by a reasonable and appropriate sunset date.  A taxpayer is not
+entitled to take the exemption, credit, or deduction beginning on the sunset
+date and thereafter.  If a reasonable and appropriate sunset date is not
+specified in the Public Act that creates the exemption, credit, or deduction, a
+taxpayer shall not be entitled to take the exemption, credit, or deduction
+beginning 5 years after the effective date of the Public Act creating the
+exemption, credit, or deduction and thereafter.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-660, eff. 9-16-94.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-3">
+            <num>3</num>
+            <heading>Transfer of decals; affixing decals</heading>
+            <content>
+              <p>(1) All privilege tax decals herein provided for
+shall be transferable from
+one device to another device. Any such transfer from one device to another
+shall be reported to the Department of Revenue on forms prescribed by such
+Department.  All privilege tax decals issued hereunder shall
+expire on July 31
+following issuance. (2) All privilege tax decals must be securely affixed to the device. A decal that is attached to a device behind a transparent plate or covering that is screwed, bolted, or otherwise securely fastened to the device is deemed to be securely affixed for the purposes of this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-32, eff. 7-1-03; 94-742, eff. 5-8-06.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-4">
+            <num>4</num>
+            <heading>The Department of Revenue hereby is authorized to make, promulgate
+and enforce reasonable rules and regulations relating to the administration
+and enforcement of this Act</heading>
+            <content>
+              <p>(Source: Laws 1953, p. 956.) (35 ILCS 510/4a) (from Ch. 120, par. 481b.4a)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1953, p. 956.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-4a">
+            <num>4a</num>
+            <heading>The Illinois Administrative Procedure Act is hereby expressly
+adopted and shall apply to all administrative rules and procedures of the
+Department of Revenue under this Act, except that (1) paragraph (b) of Section
+5-10 of the Illinois Administrative Procedure Act does not apply to final
+orders, decisions and opinions of the Department, (2) subparagraph (a)2 of
+Section 5-10 of the Illinois Administrative Procedure Act does not apply to
+forms established by the Department for use under this Act, and (3) the
+provisions of Section 10-45 of the Illinois Administrative Procedure Act
+regarding proposals for decision are excluded and not applicable to the
+Department under this Act to the extent Section 10-45 applies to hearings not otherwise subject to the Illinois Independent Tax Tribunal Act of 2012</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) (35 ILCS 510/4b) (from Ch. 120, par. 481b.4b)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-4b">
+            <num>4b</num>
+            <heading>The Department of Revenue is hereby authorized to implement a
+program whereby the privilege tax decals required by and the
+taxes imposed by this Act
+may be distributed and collected on behalf of the Department by State or
+national banks and by State or federal savings and loan associations</heading>
+            <content>
+              <p>The
+Department shall promulgate such rules and regulations as are reasonable
+and necessary to establish the system of collection of taxes and
+distribution of privilege tax decals authorized by this
+Section.  Such rules and
+regulations shall provide for the licensing of such financial institutions,
+specification of information to be disclosed in an application therefor and
+the imposition of a license fee not in excess of $100 annually.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-32, eff. 7-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-5">
+            <num>5</num>
+            <heading>On every device found to have been displayed without the tax
+imposed by this Act having been paid, the tax otherwise payable shall be
+increased by 30% as a penalty</heading>
+            <content>
+              <p>(Source: P.A. 83-1428.) (35 ILCS 510/6) (from Ch. 120, par. 481b.6)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 83-1428.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-6">
+            <num>6</num>
+            <heading>The Department of Revenue is hereby empowered and authorized in the
+name of the People of the State of Illinois in a suit or suits in any court
+of competent jurisdiction to enforce the collection of any unpaid
+tax, fines or penalties provided for in this Act</heading>
+            <content>
+              <p>(Source: P.A. 93-32, eff. 7-1-03.) (35 ILCS 510/7) (from Ch. 120, par. 481b.7)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-32, eff. 7-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-7">
+            <num>7</num>
+            <heading>The right to tax the games or devices described in this Act
+is not exclusive with the State of Illinois, but municipalities of the
+State of Illinois shall have the right to impose taxes or license fees
+thereon and to regulate or control the operation of the same within such
+municipalities as provided in Section 11-55-1 of the Illinois Municipal
+Code and counties of the State of Illinois shall have the right to impose
+taxes or license fees thereon in unincorporated territory and to regulate
+or control the operation of the same within such territory as provided in
+Section 5-1076 of the Counties Code</heading>
+            <content>
+              <p>(Source: P.A. 86-1475.) (35 ILCS 510/8) (from Ch. 120, par. 481b.8)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-1475.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-8">
+            <num>8</num>
+            <heading>Any person operating or displaying any device described in this Act
+in such manner that it could be played by the public without the tax imposed by
+this Act having first been paid shall be guilty of a Class C misdemeanor</heading>
+            <content>
+              <p>The
+use or operation for other than amusement purposes of any device taxed as in
+this Act provided shall be a Class C misdemeanor.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 83-1428.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-9">
+            <num>9</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: Laws 1953, p. 956.  Repealed by P.A. 93-32, eff. 7-1-03.) (35 ILCS 510/10) (from Ch. 120, par. 481b.10)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1953, p. 956.  Repealed by P.A. 93-32, eff. 7-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-10">
+            <num>10</num>
+            <heading>All final administrative decisions of the Department of Revenue
+under any of the provisions of this Act shall be subject to judicial
+review pursuant to the provisions of the Administrative Review Law or the Illinois Independent Tax Tribunal Act of 2012, as applicable, and any amendment
+and modifications thereof, and
+the rules adopted relative thereto</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) (35 ILCS 510/11) (from Ch. 120, par. 481b.11)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-11">
+            <num>11</num>
+            <heading>This Act shall not apply to coin-in-the-slot-operated devices
+maintained by any public utility for furnishing service of any public
+utility, nor to any device which is designed and used strictly as a vendor
+of merchandise or service and which is not an amusement device</heading>
+            <content>
+              <p>(Source: Laws 1963, p. 1549.) (35 ILCS 510/12) (from Ch. 120, par. 481b.12)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1963, p. 1549.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-12">
+            <num>12</num>
+            <heading>If a court of competent jurisdiction shall adjudge to be invalid
+or unconstitutional any clause, sentence, paragraph or part of this Act,
+such judgment shall not affect, impair, invalidate or nullify the
+remainder of this Act, but the effect thereof shall be confined to the
+clause, sentence, paragraph or part of this Act so adjudged to be invalid
+or unconstitutional</heading>
+            <content>
+              <p>(Source: P.A. 84-1308.) (35 ILCS 510/13) (from Ch. 120, par. 481b.13)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-1308.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-13">
+            <num>13</num>
+            <heading>Any duly authorized employee of the Department may, without a
+search warrant, seize any coin-in-the-slot-operated amusement device which
+is being displayed in his presence in a manner that violates any provision
+of this Act</heading>
+            <content>
+              <p>Such amusement device so seized shall be subject to
+confiscation and forfeiture as hereinafter provided.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1963, p. 1549.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-14">
+            <num>14</num>
+            <heading>After seizing any coin-in-the-slot-operated amusement device, as
+provided in Section 13 of this Act, the Department shall hold a hearing
+in the county where such amusement device was seized and shall determine
+whether such amusement device was being displayed in a manner which
+violates any provision of this Act</heading>
+            <content>
+              <p>The Department shall give not less than 7 days' notice of the time and
+place of such hearing to the owner of such amusement device if he is known,
+and also to the person in whose possession the amusement device so taken
+was found, if such person is known and if such person in possession is not
+the owner of said amusement device. In case neither the owner nor the person in possession of such amusement
+device is known, the Department shall cause publication of the time and
+place of such hearing to be made at least once in each week for 3 weeks
+successively in a newspaper of general circulation in the county where such
+hearing is to be held. If, as the result of such hearing, the Department shall determine that
+the amusement device seized was, at the time of seizure, being displayed in
+a manner which violates this Act, the Department shall enter an order
+declaring such amusement device confiscated and forfeited to the State, and
+to be sold by the Department in the manner provided for hereinafter in this
+Section.  The Department shall give notice of such order to the owner of
+such amusement device if he is known, and also to the person in whose
+possession the amusement device so taken was found, if such person is known
+and if such person in possession is not the owner of such amusement device.
+In case neither the owner nor the person in possession of such amusement
+device is known, the Department shall cause publication of such order to be
+made at least once in each week for 3 weeks successively in a newspaper of
+general circulation in the county where such hearing was held. The person from whom such amusement device has been seized (or the owner
+of such device if that is a different person) may redeem and reclaim such
+device by paying, to the Department, within 30 days after the Department's
+order of confiscation and forfeiture becomes final, an amount equal to
+twice the annual tax applicable to such amusement device, plus a penalty of
+10%. When any amusement device shall have been declared forfeited to the
+State by the Department, as provided in this Section, and when all
+proceedings for the judicial review of the Department's decision have
+terminated, the Department shall (if such amusement device is not redeemed
+and reclaimed within the time and in the manner provided for in this
+Section), to the extent that its decision is sustained on review, sell such
+amusement device for the best price obtainable and shall forthwith pay over
+the proceeds of such sale to the State Treasurer; provided, however, that
+if the value of the property to be sold at any one time shall be $500.00 or
+more, such property shall be sold only to the highest and best bidder on
+such terms and conditions and on open competitive bidding after public
+advertisement, in such manner and for such terms as the Department, by
+rule, may prescribe. If no complaint for review, as provided in Section 10 of this Act, has
+been filed within the time required by law,
+and if such amusement device is not redeemed and reclaimed within the time
+and in the manner provided for in this Section, the Department shall
+proceed to sell said property for the best price obtainable and shall
+forthwith pay over the proceeds of such sale to the State Treasurer;
+provided, however, that if the value of the property to be sold at any one
+time shall be $500.00 or more, such property shall be sold only to the
+highest and best bidder on such terms and conditions and on open
+competitive bidding after public advertisement, in such manner and for such
+terms as the Department, by rule, may prescribe.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-15">
+            <num>15</num>
+            <heading>Whenever any peace officer of the State or any duly authorized
+officer or employee of the Department shall have reason to believe that any
+violation of this Act has occurred and that the person so violating the Act
+has in his, her or its possession any amusement device which is being
+displayed in a manner which violates this Act, he may file or cause to be
+filed his complaint in writing, verified by affidavit, with any court
+within whose jurisdiction the premises to be searched are situated, stating
+the facts upon which such belief is founded, the premises to be searched,
+and the property to be seized, and procure a search warrant and execute the
+same</heading>
+            <content>
+              <p>Upon the execution of such search warrant, the peace officer, or officer
+or employee of the Department, executing such search warrant shall make due
+return thereof to the court issuing the same, together with an inventory of
+the property taken thereunder. The court shall thereupon issue process
+against the owner of such property if he is known; otherwise, such process
+shall be issued against the person in whose possession the property so
+taken is found, if such person is known. In case of inability to serve such process upon the owner or the person
+in possession of the property at the time of its seizure, as hereinbefore
+provided, notice of the proceedings before the court shall be given as
+required by the statutes of the State governing cases of attachment. Upon the return of the process duly served or upon the posting or
+publishing of notice made, as hereinabove provided, the court or jury, if a
+jury shall be demanded, shall proceed to determine whether or not such
+property so seized was displayed in violation of this Act. In case of a
+finding that the amusement device seized was, at the time of seizure, being
+displayed in violation of this Act, judgment shall be entered confiscating
+and forfeiting the property to the State and ordering its delivery to the
+Department, and in addition thereto, the court shall have power to tax and
+assess the costs of the proceedings. The person from whom such amusement device has been seized (or the owner
+of such device if that is a different person) may redeem and reclaim such
+device by paying, to the Department, within 30 days after the order of
+confiscation and forfeiture becomes final, an amount equal to twice the
+annual tax applicable to such amusement device, plus a penalty of 10%. When any amusement device shall have been declared forfeited to the
+State by any court, and when such confiscated and forfeited amusement
+device shall have been delivered to the Department, and if such device is
+not redeemed and reclaimed within the time and in the manner provided for
+in this Section, the Department shall sell such amusement device for the
+best price obtainable and shall forthwith pay over the proceeds of such
+sale to the State Treasurer; provided, however, that if the value of the
+property to be sold at any one time shall be $500.00 or more, such property
+shall be sold only to the highest and best bidder on such terms and
+conditions and on open competitive bidding after public advertisement, in
+such manner and for such terms as the Department, by rule, may prescribe.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1965, p. 3716.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-510-16">
+            <num>16</num>
+            <heading>This Act may be cited as the Coin-Operated Amusement Device and Redemption Machine Tax Act</heading>
+            <content>
+              <p>(Source: P.A. 87-855.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706. Con</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 87-855.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

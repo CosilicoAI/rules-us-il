@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-140"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-140"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-140"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-140/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-140/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-140/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-140/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_140">
+          <num>35 ILCS 140/</num>
+          <heading>Home Rule Cigarette Tax Restriction Act</heading>
+          <section eId="sec_35-140-1">
+            <num>1</num>
+            <heading>If any home rule unit imposes a tax based upon the selling
+price of cigarettes, such selling price shall, on and after December 1,
+1985, include the charges which are added to prices by sellers on account
+of the seller's liability under the Cigarette Tax Act, on account of the
+seller's duty to collect from the purchaser the tax imposed under the
+Cigarette Use Tax Act, and on account of the seller's duty to collect from
+the purchaser any cigarette tax imposed by a home rule unit</heading>
+            <subsection eId="sec_35-140-1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of Section 6 of Article VII of the Illinois
+Constitution, this Section limits the taxing power of home rule units.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 84-1027.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

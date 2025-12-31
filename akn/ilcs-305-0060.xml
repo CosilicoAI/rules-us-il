@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-60"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-60"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-60"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-60/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-60/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-60/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-60/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_60">
+          <num>305 ILCS 60/</num>
+          <heading>Pediatric Palliative Care Act</heading>
+          <section eId="sec_305-60-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Pediatric Palliative Care Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1078, eff. 7-16-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-3">
+            <num>3</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 97-689, eff. 7-1-12. Repealed by P.A. 102-655, eff. 1-1-22.) (305 ILCS 60/5)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-689, eff. 7-1-12. Repealed by P.A. 102-655, eff. 1-1-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-5">
+            <num>5</num>
+            <heading>Legislative findings</heading>
+            <subsection eId="sec_305-60-5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>challenges in predicting life expectancy; (ii) the reluctance of families and professionals to acknowledge a child's incurable condition; and (iii) the lack of an appropriate, pediatric-focused reimbursement structure leading to insufficient community-based resources.</p>
+              </content>
+              <paragraph eId="sec_305-60-5__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Community-based pediatric palliative services have been shown to keep children out of the hospital by managing many symptoms in the home setting, thereby improving childhood quality of life while maintaining budget neutrality.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>In this Act: &quot;Department&quot; means the Department of Healthcare and Family Services. &quot;Palliative care&quot; means care focused on expert assessment and management of pain and other symptoms, assessment and support of caregiver needs, and coordination of care. Palliative care attends to the physical, functional, psychological, practical, and spiritual consequences of a serious illness. It is a person-centered and family-centered approach to care, providing people living with serious illness relief from the symptoms and stress of an illness.  Through early integration into the care plan for the seriously ill, palliative care improves quality of life for the patient and the family. Palliative care can be offered in all care settings and at any stage in a serious illness through collaboration of many types of care providers. &quot;Serious illness&quot; means a health condition identified in Section 25 that carries a high risk of mortality and negatively impacts a person's daily function or quality of life.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-15">
+            <num>15</num>
+            <heading>Pediatric palliative care program</heading>
+            <content>
+              <p>The Department shall develop a pediatric palliative care program, and the medical assistance program established under Article V of the Illinois Public Aid Code shall cover community-based pediatric palliative care from a trained interdisciplinary team, as an added benefit under which a qualifying child, as defined in Section 25, may also choose to continue curative or disease-directed treatments for a serious illness under the benefits available under Article V of the Illinois Public Aid Code.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-20">
+            <num>20</num>
+            <heading>Federal waiver or State Plan amendment</heading>
+            <content>
+              <p>If applicable, the Department shall submit the necessary application to the federal Centers for Medicare and Medicaid Services for a waiver or State Plan amendment to implement the program described in this Act.  After federal approval is secured, the Department shall implement the waiver or State Plan amendment within 12 months of the date of approval. The Department shall not draft any rules in contravention of this timetable for program development and implementation.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-25">
+            <num>25</num>
+            <heading>Qualifying child</heading>
+            <subsection eId="sec_305-60-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For the purposes of this Act, a qualifying child is a person under 21 years of age who is enrolled in the medical assistance program under Article V of the Illinois Public Aid Code and is diagnosed by the child's primary physician or specialist as suffering from a serious illness, as defined in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-60-25__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department, in consultation with interested stakeholders, shall determine the serious illnesses that render a child who is enrolled in the medical assistance program eligible for the program under this Act. Such serious illnesses shall include, but need not be limited to, the following:</p>
+              </content>
+              <paragraph eId="sec_305-60-25__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Cancer</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-60-25__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for which there is no known effective treatment, (ii) that does not respond to conventional protocol, (iii) that has progressed to an advanced stage, or (iv) where toxicities or other complications limit the administration of curative therapies.</p>
+              </content>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>End-stage lung disease, including but not limited to cystic fibrosis, that results in dependence on technology, such as mechanical ventilation.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Severe neurological conditions, including, but not limited to, hypoxic ischemic encephalopathy, acute brain injury, brain infections and inflammatory diseases, or irreversible severe alteration of mental status, with one of the following co-morbidities:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-60-25__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>intractable seizures or (ii) brainstem failure to control breathing or other automatic physiologic functions.</p>
+              </content>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Degenerative neuromuscular conditions, including, but not limited to, spinal muscular atrophy, Type I or II, or Duchenne Muscular Dystrophy, requiring technological support.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Genetic syndromes, such as, but not limited to, Trisomy 13 or 18, where the child has substantial neurocognitive disability with no expectation of long-term survival.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Congenital or acquired end-stage heart disease without adequate medical or surgical treatments available.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>End-stage liver disease where</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-60-25__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>transplant is not a viable option or (ii) transplant rejection or failure has occurred.</p>
+              </content>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>End-stage kidney failure where</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-60-25__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>transplant is not a viable option or (ii) transplant rejection or failure has occurred.</p>
+              </content>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Metabolic or biochemical disorders, including, but not limited to, mitochondrial disease, leukodystrophies, Tay-Sachs disease, or Lesch-Nyhan syndrome where</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-60-25__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>no suitable therapies exist or (ii) available treatments, including stem cell (&quot;bone marrow&quot;) transplant, have failed.</p>
+              </content>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>Congenital or acquired diseases of the gastrointestinal system, such as &quot;short bowel syndrome&quot;, where</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-60-25__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>transplant is not a viable option or (ii) transplant rejection or failure has occurred.</p>
+              </content>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>Congenital skin disorders, including but not limited to epidermolysis bullosa, where no suitable treatment exists.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-60-25__subsec_i__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>Any other serious illness that the Department, in consultation with interested stakeholders, determines to be appropriate. The definition of a serious illness shall not include a definitive time period due to the difficulty and challenges of prognosticating life expectancy in children.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-30">
+            <num>30</num>
+            <heading>Authorized providers</heading>
+            <subsection eId="sec_305-60-30__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a physician, acting as the  program medical
+director, who is board certified or board eligible in pediatrics or hospice and palliative medicine; (ii) a registered nurse; and (iii) a licensed social worker with a background in pediatric care.  All members of the pediatric interdisciplinary team must meet criteria the Department may establish by rule, including demonstrated expertise in pediatric palliative care.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-35">
+            <num>35</num>
+            <heading>Interdisciplinary team; services</heading>
+            <content>
+              <p>Subject to federal approval for matching funds, the reimbursable services offered under the program shall be provided by an interdisciplinary team, operating under the direction of a program medical director, and shall include, but not be limited to, the following: (1) Nursing for pain and symptom management. (2) Expressive therapies (such as music or art therapies) for age-appropriate counseling. (3) Client and family counseling (provided by a licensed social worker, licensed professional counselor, child life specialist, or non-denominational chaplain or spiritual counselor). (4) Respite care. (5) Bereavement services. (6) Case management. (7) Any other services that the Department determines to be appropriate.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-37">
+            <num>37</num>
+            <heading>Medical assistance program standards for pediatric palliative care services</heading>
+            <content>
+              <p>The Department, in consultation with interested stakeholders, shall establish standards for the provision of pediatric palliative care services under the medical assistance program under Article V of the Illinois Public Aid Code. The Department shall establish standards for and provide technical assistance to managed care organizations, as defined in Section 5-30.1 of the Illinois Public Aid Code, to ensure the delivery of pediatric palliative care services to qualifying children.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-40">
+            <num>40</num>
+            <heading>Administration</heading>
+            <subsection eId="sec_305-60-40__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department shall oversee the administration of the program.  The Department, in consultation with interested stakeholders, shall determine the appropriate process for review of referrals and enrollment of qualifying children.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-60-40__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department shall appoint an individual or entity to serve as program manager or an alternative position to assess level-of-care and target-population criteria for the program. The Department  shall ensure that the individual or entity meets the criteria for demonstrated expertise in pediatric palliative care that the Department, in consultation with interested stakeholders, may establish by rule.  The process for review of referrals and enrollment of qualifying children shall not include unnecessary delays and shall reflect the fact that treatment of pain and other distressing symptoms represents an urgent need for children with a serious illness. The process shall also acknowledge that children with a serious illness and their families require holistic and seamless care.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-45">
+            <num>45</num>
+            <heading>Report</heading>
+            <subsection eId="sec_305-60-45__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 25 and the necessary services needed to ensure high-quality care for qualifying children and their families.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-655, eff. 1-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-50">
+            <num>50</num>
+            <heading>Effect on medical assistance program</heading>
+            <subsection eId="sec_305-60-50__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Nothing in this Act shall be construed so as to result in the elimination or reduction of any benefits or services covered under the medical assistance program under Article V of the Illinois Public Aid Code.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-60-50__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This Act does not affect an individual's eligibility to receive, concurrently with the benefits provided for in this Act, any services, including home health services, for which the individual would have been eligible in the absence of this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1078, eff. 7-16-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-90">
+            <num>90</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-1078, eff. 7-16-10; text omitted.) (305 ILCS 60/99)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1078, eff. 7-16-10; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-60-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1078, eff. 7-16-10.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

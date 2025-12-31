@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-30"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-30"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_30">
+          <num>305 ILCS 30/</num>
+          <heading>Family Resource Development Act</heading>
+          <section eId="sec_305-30-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Family Resource Development Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 87-266.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-30-5">
+            <num>5</num>
+            <heading>The Department of Human Services, the Illinois
+Community
+College Board and the Department of Commerce and Economic Opportunity may
+develop as a demonstration program a Family Resource Development Center for
+the benefit and use of an initial 20 low-income families</heading>
+            <content>
+              <p>The
+Center shall establish an interdisciplinary approach that shall increase the
+coping skills of low-income families and develop the potential of
+low-income families through community economic development programs.  Funding
+for the demonstration program shall be from existing moneys in supportive
+services funds, joint partnership training funds, and other existing moneys
+that are intended to meet the educational, vocational and training needs of
+recipients.  The demonstration program shall be administered in accordance
+with existing federal and State statutes and regulations.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-793, eff. 5-19-06.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

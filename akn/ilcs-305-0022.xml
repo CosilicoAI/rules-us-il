@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-22"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-22"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-22"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-22/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-22/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-22/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-22/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_22">
+          <num>305 ILCS 22/</num>
+          <heading>Good Samaritan Energy Plan Act</heading>
+          <section eId="sec_305-22-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Good Samaritan Energy Plan Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-285, eff. 7-22-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>In this Act: &quot;Department&quot; means the Department of Commerce and Economic Opportunity. &quot;LIHEAP&quot; means the energy assistance program established under the Energy Assistance Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-331, eff. 8-21-07; 96-154, eff. 1-1-10 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-10">
+            <num>10</num>
+            <heading>Legislative findings</heading>
+            <content>
+              <p>The General Assembly finds that high electric and gas bill arrearages are a serious problem for low-income utility consumers in Illinois, often impeding access to service. The General Assembly also finds that the inability to have electric or gas service connected due to high arrearages is a threat to the health and safety of many low-income households in Illinois. The General Assembly further finds that eligibility for LIHEAP does not alleviate the burden of high arrearages for low-income utility consumers and is not enough to enable many households to have electric or gas service connected.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-285, eff. 7-22-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-15">
+            <num>15</num>
+            <heading>Good Samaritan Energy Trust Fund</heading>
+            <content>
+              <p>The Good Samaritan Energy Trust Fund is created as a special fund in the State treasury. The Department shall administer the Fund. The Department shall deposit moneys received from the following sources into the Fund: (1) Voluntary donations from individuals, foundations, corporations, and other sources. (2) Proceeds from fundraising events held for the purpose of generating moneys for the Fund.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-285, eff. 7-22-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-20">
+            <num>20</num>
+            <heading>Solicitation of contributions to Fund</heading>
+            <content>
+              <p>The Department may insert a fundraising letter requesting voluntary contributions to the Fund in utility bills 2 times each year to solicit contributions to the Fund. All public utilities doing business in the State shall cooperate in allowing the Department to insert fundraising solicitation letters in their utility bills. The solicitation letter from the Department must be sized so as to fit into the utility's standard bill envelope, and must be of sufficiently light weight so as not to cause any increase in postage cost to the utility.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-285, eff. 7-22-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-25">
+            <num>25</num>
+            <heading>Administration of Fund</heading>
+            <content>
+              <p>The Department shall administer the Good Samaritan Energy Trust Fund with the advice and consent of the Low Income Energy Assistance Policy Advisory Council established under the Energy Assistance Act. Donations received for the Fund shall be made available for the purpose of alleviating utility bill arrearages for households determined eligible for LIHEAP, except that the Department may use up to 10% of the moneys donated for the Fund for the expenses of the Department and the local area agency incurred in administering the Fund. Resources from the Fund shall be awarded to local area agencies that have existing contracts with the Department to administer LIHEAP in Illinois.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-331, eff. 8-21-07 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-30">
+            <num>30</num>
+            <heading>Distribution of moneys from Fund</heading>
+            <content>
+              <p>Subject to appropriations made by the General Assembly, the Department may spend moneys from the Good Samaritan Energy Trust Fund for the purpose of providing assistance authorized under Section 25. The Department, with the advice and consent of the Low Income Energy Assistance Policy Advisory Council, shall establish priorities for the distribution of moneys from the Good Samaritan Energy Trust Fund to low-income consumers to enable them to pay gas or electric bill arrearages in order to have household gas or electric utility service connected. Low-income consumers who are unable to have their service connected even with a LIHEAP grant shall be given preference. Notwithstanding any other provision of law, on October 1, 2025, or as soon thereafter as practical, the State Comptroller shall direct and the State Treasurer shall transfer the remaining balance from the Good Samaritan Energy Trust Fund into the Supplemental Low-Income Energy Assistance Fund. Upon completion of the transfer, the Good Samaritan Energy Trust Fund is dissolved, any future deposits due to the Good Samaritan Energy Trust Fund pass to the Supplemental Low-Income Energy Assistance Fund, and any outstanding obligations or liabilities of the Good Samaritan Energy Trust Fund pass to the Supplemental Low-Income Energy Assistance Fund.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-283, eff. 8-15-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-35">
+            <num>35</num>
+            <heading>Annual report</heading>
+            <content>
+              <p>On or before May 31 of each year, beginning in 2005, the Department shall provide an annual report to the General Assembly on the use and effectiveness of the Good Samaritan Energy Trust Fund. The report shall include the amount of money deposited into the Fund, the amount of money allocated by the Fund for the direct benefit of low-income consumers, the number of low-income households served by the Fund, by county, and recommendations for improving the operation and effectiveness of the Fund.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-285, eff. 7-22-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-90">
+            <num>90</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 93-285, eff. 7-22-03; text omitted.) (305 ILCS 22/95) (Section scheduled to be repealed on January 1, 2026)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-285, eff. 7-22-03; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-95">
+            <num>95</num>
+            <heading>Repeal</heading>
+            <content>
+              <p>This Act is repealed on January 1, 2026.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-283, eff. 8-15-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-22-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-285, eff. 7-22-03 .</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

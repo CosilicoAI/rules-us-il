@@ -1,0 +1,3213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-516"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-516"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-516"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-516/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-516/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-516/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-516/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_516">
+          <num>35 ILCS 516/</num>
+          <heading>Mobile Home Local Services Tax Enforcement Act</heading>
+          <section eId="sec_35-516-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Mobile Home Local Services Tax Enforcement Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act: &quot;Mobile home&quot; means that term as defined in the Mobile Home Local Services
+Tax Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-10">
+            <num>10</num>
+            <heading>Application</heading>
+            <content>
+              <p>This Act applies to delinquencies in payment of
+the tax imposed by the Mobile Home Local Services Tax Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-15">
+            <num>15</num>
+            <heading>Lien; payments by representative or agent</heading>
+            <content>
+              <p>When a mobile home is
+taxed to any person as agent for another, or in a representative capacity,
+the agent or representative shall have a lien on the mobile home, or any mobile
+home of his or her principal in the agent's possession,  until he or she is
+indemnified against the payment thereof, or, if he or she has paid the tax,
+until he or she is reimbursed for the payment.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-20">
+            <num>20</num>
+            <heading>Lien for taxes</heading>
+            <subsection eId="sec_35-516-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Foreclosure; mobile home forfeited for 2 or more years.  A lien may be
+foreclosed, in the circuit court in the name of the People of the State of
+Illinois, whenever the taxes for 2 or more years on the same mobile home have
+been forfeited to the State and there is not an open scavenger buy.  The
+mobile home may be sold under the
+order of the court by the person having authority to receive County taxes, with
+notice to interested parties and right of redemption from the sale, (except
+that the interest or any other amount to be paid upon redemption in addition to
+the amount for which the mobile home was sold shall be as provided herein), as
+provided in Sections 290 through 310 and 325. In any action to foreclose the lien for delinquent taxes brought by the
+People of the State of Illinois when the taxes for 2 or more years on the same
+mobile home have been forfeited to the State, service of process
+shall be made in the manner now prescribed by law.  All owners, parties
+interested, and occupants of any mobile home against which tax liens are sought
+to
+be foreclosed shall be named as parties defendant, and shall be served in the
+manner and form as provided by law for the service of defendants in
+foreclosures of lien or encumbrances upon real estate.  In case there are other
+parties with ownership interests in the mobile home, they shall be named in the
+notice under the designation &quot;unknown owners&quot;.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Redemption interest.  The interest to be paid upon redemption from all
+tax foreclosure sales held under this Section shall be:</p>
+              </content>
+              <paragraph eId="sec_35-516-20__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If redeemed within 2 months from the date of the sale, 3% per month upon the amount for which the mobile home was sold for each of the first 2 months, or fraction thereof;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-20__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If redeemed between 2 and 6 months from the date of the sale, 12% of the amount of sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-20__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If redeemed between 6 and 12 months from the date of the sale, 24% of the amount of sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-20__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>If redeemed between 12 and 18 months from the date of the sale, 36% of the amount of sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-20__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>If redeemed between 18 and 24 months from the date of the sale, 48% of the amount of sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-20__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>If redeemed after 24 months from the date of sale, the 48% for the 24 months plus interest at 6% per year thereafter.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-20__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Enforcement of lien from rents and profits. A lien under this Section
+may be enforced at any time after 6 months from the day the tax becomes
+delinquent out of the rents and profits of the mobile home accruing, or accrued
+and
+under the control or jurisdiction of a court.  This process may be initiated by
+the county board of the county or by the corporate authorities of any taxing
+body entitled to receive any part of the delinquent tax, by petition in any
+pending suit having jurisdiction of the mobile home, or in any application for
+judgment and order of sale of mobile homes for delinquent taxes in which the
+mobile home is included, in the name of the People of the State of Illinois. The process, practice, and procedure under this subsection shall be the same
+as provided in the Civil Practice Law and the Supreme Court Rules adopted in
+relation to that Law, except that receivers may be appointed on not less than 3
+days' written notice to holders of certificate of title or persons in
+possession.  In all
+petitions the court shall have power to appoint the county collector to take
+possession of the mobile home only for the purpose of collecting the rents, issues
+and profits therefrom, and to apply them in satisfaction of the tax lien.  When
+the taxes set forth in the petition are paid in full, the receiver shall be
+discharged.  If the taxes described in the petition are reduced by the final
+judgment of a court, the county collector shall immediately refund all moneys
+collected by him or her as receiver over and above the taxes as reduced, and
+shall deduct that amount from the moneys thereafter distributed to the taxing
+bodies which received the tax revenue. In proceedings to foreclose the tax lien, or in petitions to enforce the
+lien, the amount due on the collector's books against the mobile home shall be
+prima facie evidence of the amount of taxes against the mobile home.  When any
+taxes are collected, they shall be paid to the county collector</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-25">
+            <num>25</num>
+            <heading>Preventing waste to mobile homes; receiver</heading>
+            <content>
+              <p>During the pendency
+of
+any tax foreclosure proceeding and until the time to redeem the mobile home
+sold
+expires, or redemption is made, from any sale made under any judgment
+foreclosing the lien of taxes, no waste shall be committed or suffered on any
+of the mobile homes involved. The mobile home shall be maintained in good
+condition
+and repair. When violations of local building, health, or safety codes or
+violations of mobile home park rules and regulations make the
+mobile home dangerous or hazardous, when taxes on the mobile home are
+delinquent for
+2 years or more, or when in the judgment of the court it is to the best
+interest of the parties, the court may, upon the verified petition of any party
+to the proceeding, or the holder of the certificate of purchase, appoint a
+receiver for the mobile home with like powers and duties of receivers as in
+cases of foreclosure of mortgages or trust deeds.  The court,
+in its
+discretion,
+may take any other action as may be necessary or desirable to prevent waste
+and maintain the mobile home in good condition and repair.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-30">
+            <num>30</num>
+            <heading>No receiver for homestead dwelling</heading>
+            <content>
+              <p>No receiver shall be
+appointed under the provisions of Section 25 for mobile homes used
+as a family dwelling and occupied
+by the owner as a residence at the time the unpaid taxes became a lien and
+continuously thereafter.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-35">
+            <num>35</num>
+            <heading>Purchase and sale by county;
+distribution of proceeds</heading>
+            <content>
+              <p>When any
+mobile home is delinquent, or is forfeited for each of 2 or more
+years, and is
+offered for sale under any of the provisions of this Act, the county board of
+the county in which the mobile home is located,
+in its discretion, if there are no other bids, may bid, or, in
+the case of a forfeited mobile home, may apply to purchase it, in the name of
+the
+county as trustee for all taxing districts having an
+interest in the mobile home's
+taxes for the nonpayment of which the mobile home is sold.
+The presiding officer of the county board, with the advice and consent of the
+board, may appoint on its behalf
+some officer or person to attend such sales
+and bid or, in the case of a forfeited mobile home, to apply to the county
+clerk
+to
+purchase. The county shall apply on the bid or purchase
+the unpaid taxes
+due upon the mobile home. No cash need be paid. The county shall take all steps
+necessary to acquire certificate of title to the mobile home and upon
+acquisition of the certificate of title may manage and operate the mobile home.
+When a county, or other taxing district within the
+county, is a petitioner for a tax certificate of title, no filing fee shall be
+required.
+When a county or other taxing district within the county is the petitioner
+for a tax certificate of title, one petition may be filed including all mobile
+homes that are
+tax
+delinquent within the county or taxing district, and any publication made under
+Section 380 of this Act may combine all such mobile homes within a single
+notice.
+The notice shall list the street or common address, and the mobile home park
+where the mobile home is sited, if known, of the mobile homes for informational
+purposes.
+The
+county, as tax creditor and as trustee for other tax creditors, or other taxing
+districts within the county, shall not be required to allege and prove that all
+taxes that become due and payable after the sale to
+the county have been paid nor shall the county be
+required to pay the
+subsequently accruing taxes at any time, except when subsequent taxes are sold
+to another buyer.  The county
+board or its designee may prohibit the county collector from including the
+mobile home in the tax sale of one or more subsequent years. The lien of taxes
+that become due and payable after a sale to a county
+shall
+merge in the certificate of title of the county, or other taxing district
+within the
+county, on the issuance of a certificate of title. The County may sell or assign the mobile home so
+acquired, or the certificate of
+purchase to it, to any party, including
+taxing districts. The proceeds of that sale or
+assignment, less all costs
+of the county incurred in the acquisition and sale or
+assignment of the
+mobile home, shall be
+distributed to the taxing districts in proportion to their respective interests
+therein. Under Sections 55 and 60, a County may bid or
+purchase only in the absence of other bidders.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-40">
+            <num>40</num>
+            <heading>Tax abatement after acquisition by a governmental unit</heading>
+            <content>
+              <p>When
+any county or municipality acquires a mobile home through the foreclosure of a
+lien, through a judicial order, through the foreclosure of receivership
+certificate lien, or by acceptance of a certificate of title in lieu of
+foreclosing any lien
+against the mobile home, or when any county or other taxing district
+acquires a certificate of title for a mobile home under Section 35 or Sections
+90 and 200,
+all due or unpaid mobile home taxes and existing liens for unpaid mobile home
+taxes
+imposed or pending under any law or ordinance of this State or any of its
+political subdivisions shall become null and void.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-45">
+            <num>45</num>
+            <heading>Notice to county officials; voiding of tax bills</heading>
+            <content>
+              <p>The county
+board or corporate authorities of the county, or other taxing district
+acquiring a mobile home under Section 35 shall give written notice of the
+acquisition to the chief county assessment officer and the county collector and
+the county clerk of the county in which the mobile home is located, and request
+the voiding of the tax liens as provided in this Section. The notice shall
+describe the acquired mobile home by the vehicle identification number of the
+mobile home, if there is one. Upon receipt of the notice, the county collector and county clerk or county
+assessor, as appropriate shall void the current and all prior unpaid taxes on
+the records in their respective offices by entering the following statement
+upon their records for the mobile home:  &quot;Acquired by ... (name of county or
+municipality acquiring the mobile home under Section 35). Taxes due and unpaid
+on this mobile home ... (give vehicle identification number, if any, and
+location of the mobile home) ... are waived and null and void under Section 45
+of the Mobile Home Local Services Tax Enforcement Act.  The tax bills of this
+mobile home are hereby voided and liens for the taxes are extinguished.&quot;</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-50">
+            <num>50</num>
+            <heading>Liability of owner; rights of tax purchaser</heading>
+            <content>
+              <p>Nothing in
+Sections 40 and 45 shall relieve any owner liable for delinquent
+mobile home taxes under the Mobile Home Local Services Tax Act from the payment
+of any delinquent taxes or liens which have become null and void under those
+Sections. Sections 45 and 50 shall not adversely affect the rights or interests
+of the holder of any bona fide certificate of purchase of the mobile home for
+delinquent taxes.
+However, upon acquisition of a mobile home by a governmental unit as set forth
+in Section 40, the rights and interests of the holder of any bona fide
+certificate of purchase of the mobile home for delinquent taxes shall be
+limited to a sale in error and a refund as provided under Section 255.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-55">
+            <num>55</num>
+            <heading>Published notice of annual application for judgment and sale;
+delinquent taxes</heading>
+            <content>
+              <p>At any time after all taxes have become delinquent in any
+year, the Collector shall publish an advertisement,
+giving notice of the intended application for judgment and sale of the
+delinquent mobile homes.  Except as provided below, the advertisement shall be
+in a newspaper published in the township or road district in which the
+mobile homes
+are located. If there is no newspaper published in the township or road
+district, then the notice shall be published in some newspaper in the same
+county as the township or road district, to be selected by the county
+collector.
+When the mobile home is in an incorporated town which has superseded a
+civil township, the advertisement shall be in a newspaper published in the
+incorporated town or if there is no such newspaper, then in a newspaper
+published in the county.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-60">
+            <num>60</num>
+            <heading>Times of publication of notice</heading>
+            <content>
+              <p>The advertisement shall be
+published once at least 10 days before the day on which judgment is to be
+applied for, and shall contain a list of the delinquent mobile homes upon which
+the taxes or any part thereof remain due and unpaid, the names of owners,
+the street and the common address where the mobile home is
+sited, if known, the vehicle identification number, if known, the total amount due, and the year or years for
+which they are due.  In counties of less than 3,000,000 inhabitants,
+advertisement shall include notice of the registration requirement for persons
+bidding at the sale. The collector shall give notice that he or she will apply to the circuit
+court on a specified day for judgment against the mobile homes for the taxes,
+and costs, and for an order to sell the mobile homes for the satisfaction of
+the amount due. The collector shall also give notice of a date within the next 5 business
+days after the date of application on which all the mobile homes for the sale
+of which an order is made will be exposed to public sale at a location within
+the county designated by the county collector, for the amount of taxes and
+cost due.  The advertisement published according to the provisions of this
+Section shall be deemed to be sufficient notice of the intended application for
+judgment and of the sale of mobile homes under the order of the court. A county with fewer than 3,000,000 inhabitants may, by joint agreement, combine its tax sale with the tax sale of one or more other contiguous counties; such a joint tax sale shall be held at a location in one of the participating counties.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 101-379, eff. 1-1-20 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-65">
+            <num>65</num>
+            <heading>Costs of publishing delinquent list</heading>
+            <content>
+              <p>A county shall pay for
+the printer for advertising delinquent lists for mobile homes, $0.40 per column
+line, to be taxed and collected as costs. The printer shall receive for printing the preamble, the descriptive
+headings, the affidavit, and any other matter accompanying the
+delinquent list, the sum of $0.40 per line, to be paid by the
+county. No costs except printer's fee shall be charged on any mobile homes
+forfeited to the State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-70">
+            <num>70</num>
+            <heading>Sale of mobile homes previously ordered sold</heading>
+            <content>
+              <p>A mobile home
+ordered sold by unexecuted judgments and orders of sale, previously entered,
+shall be included in the advertisement for sale only under the previous orders,
+and shall be sold in the order in which they appear in the delinquent list
+contained in the advertisement. At any time between annual sales the county
+collector also may advertise for sale any mobile homes subject to sale under
+orders previously entered and not executed for any reason. The advertisement
+and sale shall be regulated by the provisions regulating the annual
+advertisement and sale of delinquent mobile homes, as far as applicable.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-75">
+            <num>75</num>
+            <heading>Use of figures and letters in advertisement and other
+lists</heading>
+            <content>
+              <p>In all advertisements for the sale of mobile homes for taxes,
+and in entries required to be made by the clerk of the court or other officer,
+letters, figures, or characters may be used to denote the year or the years for
+which the taxes were due and the amount of taxes, interest, and costs. The
+county collector may subsequently advertise and obtain judgment on mobile homes
+that have been omitted, or that have been erroneously advertised or described
+in the first advertisement.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-80">
+            <num>80</num>
+            <heading>Mailed notice of application for judgment and sale</heading>
+            <content>
+              <p>Not less
+than 15 days before the date of application for judgment and sale of delinquent
+mobile homes, the county collector shall mail, by registered or certified mail,
+a notice of the forthcoming application for judgment and sale to the person
+shown by the current collector's warrant book to be the party in whose name the
+taxes were last computed or to the current owner of record.  The notice shall include the intended dates of
+application for judgment and sale and commencement of the sale, and a
+description of the mobile homes. The county collector must present proof of the
+mailing to the court along with the application for judgement. In counties with less than 3,000,000 inhabitants, a copy of this notice shall
+also be mailed by the county collector by registered or certified mail to any
+lienholder of record who annually requests a copy of the notice. The failure of
+the county collector to mail a notice or its non-delivery to the lienholder
+shall not affect the validity of the judgment. The collector shall collect $10 from the proceeds of each sale to cover
+the costs of registered or certified mailing and the costs of advertisement
+and publication.
+If a taxpayer pays the taxes on the mobile home after the notice of the
+forthcoming application for judgment and sale is mailed but before the sale is
+made, then the collector shall collect $10 from the taxpayer to cover the costs
+of registered or certified mailing and the costs of advertisement and
+publication.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03; 93-899, eff. 8-10-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-85">
+            <num>85</num>
+            <heading>Printer's error in advertisement</heading>
+            <content>
+              <p>In all cases where there is
+a printer's error in the advertised list which prevents judgment from being
+obtained against any mobile home, or against all of the delinquent list, at the
+time stated in the advertisement, the printer shall lose the compensation
+allowed by this Act for those mobile homes containing errors, or for the entire
+list, as the case may be.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-90">
+            <num>90</num>
+            <heading>Scavenger sale</heading>
+            <content>
+              <p>At the same time the county collector annually
+publishes the collector's annual sale advertisement under Sections 55
+and 60, the collector, if the county board so orders by resolution, must
+publish an advertisement giving notice of the intended
+application for judgment and sale of all mobile homes upon which all or a part
+of the taxes for each of 2 or more years, including the current tax year, are
+delinquent as of the date of
+the advertisement.  In no event may there be more than 2 consecutive years
+without a sale under this Section. The term delinquent also includes
+forfeitures. The county collector shall include in the advertisement and in the
+application for judgment and sale under this Section and Section 200 the
+total amount of all taxes upon those mobile homes which are delinquent as
+of the date of the advertisement. In lieu of a single annual advertisement and
+application for judgment and sale under this Section and Section 200, the
+county collector may, from time to time, beginning on the date of the
+publication of the annual sale advertisement and before August 1 of the next
+year, publish separate advertisements and make separate applications on
+eligible mobile homes described in one or more volumes of the delinquent list.
+The separate advertisements and applications shall, in the aggregate, include
+all the mobile homes which otherwise would have been included in the single
+annual advertisement and application for judgment and sale under this Section.
+The advertisement and application for judgment and sale shall be in the manner
+prescribed by this Act relating to the annual advertisement and application for
+judgment and sale of delinquent mobile homes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-95">
+            <num>95</num>
+            <heading>Time of applying for judgment</heading>
+            <content>
+              <p>Except as otherwise provided
+in this Section, all applications for judgment and order of sale for taxes
+on delinquent mobile homes shall be made during the month of
+October. Within 30 days after the day specified for the application for judgment the
+court shall hear and determine the matter.  If judgment is rendered, the sale
+shall begin on the date within 5 business days specified in the notice as
+provided in Section 60.  If the collector is prevented from advertising and
+obtaining judgment during the month of October, the collector may obtain
+judgment at any time thereafter; but if the failure arises by the county
+collector's not complying with any of the requirements of this Act, he or she
+shall be held on his or her official bond for the full amount of all taxes
+charged against him or her.  Any failure on the part of the
+county collector shall not be allowed as a valid objection to the collection of
+any tax, or to entry of a judgment against any delinquent
+mobile homes included in the application of the county collector.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-100">
+            <num>100</num>
+            <heading>Annual tax judgment, sale, redemption, and forfeiture
+record</heading>
+            <content>
+              <p>The collector shall transcribe into a record prepared for that purpose,
+and known as the annual tax judgment, sale, redemption, and forfeiture record,
+the list of delinquent mobile homes.  The record shall contain all the
+information necessary to be recorded, at least 5 days before the day on which
+application for judgment is to be made. The record shall set forth the name of the owner and the street, common
+address, and mobile home park where the mobile home is sited, if known; a
+description
+of the mobile home, including the vehicle identification number, if known, model year,
+and
+square footage; the year or years for which the tax is
+due; the valuation on which the tax is extended; the amount of the
+consolidated and other taxes; the costs; and the
+total amount of charges against the mobile home. The record shall also be ruled in columns
+to show the amount paid before entry of judgment; the
+amount of judgment and a column for remarks; the amount paid before sale and
+after entry of judgment; the amount of the sale; amount of interest or penalty;
+amount of cost; amount forfeited to the State; date of sale;
+name of purchaser; amount of sale and penalty; taxes of succeeding years;
+interest and when paid, interest and cost; total amount of redemption; date of
+redemption; when certificate of title executed; by whom redeemed; and a column
+for remarks or
+receipt of redemption money. The record shall be kept in the office of the county clerk.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-274, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-105">
+            <num>105</num>
+            <heading>Payment of delinquent tax before sale</heading>
+            <content>
+              <p>Any person owning or
+claiming mobile homes upon which application for judgment is applied for may,
+in person or by agent, pay the taxes, and costs due to the county collector
+at any time before sale.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-110">
+            <num>110</num>
+            <heading>Report of payments and corrections</heading>
+            <content>
+              <p>On the day on which
+application for judgment on a delinquent mobile home is applied for, the
+collector,
+assisted by the county clerk, shall post all payments, compare and correct the
+list, and shall make and subscribe an affidavit, which shall be substantially
+in the following form: State of Illinois) ) ss. County of .......) I ...., collector of the county of ...., do solemnly swear (or affirm,
+as the case may be), that the foregoing is a true and correct list of the
+delinquent mobile homes within the county of ...., upon which I have been
+unable to collect the taxes (and interest and
+printer's fees, if any), charged thereon, as required by law, for the year
+or years therein set forth; and that the taxes, now remain due and
+unpaid, to the best of my knowledge and belief. Dated .......... The affidavit shall be entered at the end of the list, and signed by
+the collector.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-112">
+            <num>112</num>
+            <heading>Certificate of error</heading>
+            <content>
+              <p>At any time before a judgment and order of sale is entered in any proceeding to collect or to enjoin the collection of taxes, the owner may file an affidavit with the board of review that the tax bill is in error as to the square footage or as to the rate of tax. The board of review, with the consent of the chief county assessment officer, may issue the person erroneously assessed a certificate of error setting forth the nature of the error and the cause or causes of the error. The certificate, when properly endorsed by a majority of the board of review and by the chief county assessment officer showing their concurrence, and not otherwise, may be used in evidence in any court of competent jurisdiction and, when introduced in evidence, shall become part of the court record and shall not be removed from the files except on an order of the court.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-254, eff. 8-11-09.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-115">
+            <num>115</num>
+            <heading>Proceedings by court</heading>
+            <content>
+              <p>Defenses to the entry of judgment
+against mobile homes included in the delinquent list shall be entertained by
+the court only when the defense includes a writing specifying the particular
+grounds for the objection. If any party objecting is entitled to a refund of all or any part of a tax
+paid, the court shall enter judgment accordingly, and also shall
+enter judgment for the taxes, interest, and penalties as
+appear to be due.  The judgment shall be considered as a several judgment
+against each mobile home, for each kind of tax included therein. The court
+shall direct the clerk to prepare and enter an order for the sale of the mobile
+home against which judgment is entered.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-120">
+            <num>120</num>
+            <heading>Form of court order</heading>
+            <content>
+              <p>A judgment and order of sale shall be
+substantially in the following form: Whereas, due notice has been given of the intended application for a
+judgment against mobile homes, and no sufficient defense having been made or
+cause shown why judgment should not be entered against the mobile homes, for
+taxes, interest, penalties, and costs due and
+unpaid thereon for the year or years herein set forth, therefore the court
+hereby enters judgment against the above stated mobile homes,
+in favor of the People of the State of Illinois, for the amount of
+taxes, interest, penalties and costs due
+thereon. It is ordered by the court that the mobile homes
+be sold as the law directs. The order shall be signed by the judge. In all judicial proceedings of
+any kind, for the collection of taxes, all
+amendments may be made which, by law, could be made in any personal action
+pending in that court.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-125">
+            <num>125</num>
+            <heading>Cure of error or informality in computation of tax
+or collection of the taxes</heading>
+            <content>
+              <p>No computation of the tax on a mobile home or
+charge for any of the taxes shall be considered illegal on account of any
+irregularity in the computation, or on account of the computation not having
+been made within the time required by law, or on account of the mobile home
+having been charged without name, or in any other
+name than that of the rightful owner. No error or informality in the
+proceedings of any of the officers connected with the computation or
+collection of the taxes, not affecting the substantial justice of the tax
+itself, shall vitiate or in any manner affect the tax or the computation
+thereof. Any irregularity or informality in the computation of the tax,
+or in any of the proceedings connected with the computation of the
+taxes, or any omission or defective act of any other officer or officers
+connected with the computation of the taxes, may be, in the
+discretion of the court, corrected, supplied and made to conform to law by the
+court, or by the person (in the presence of the court) from whose neglect or
+default it was occasioned.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-130">
+            <num>130</num>
+            <heading>Entry of judgment for sale</heading>
+            <content>
+              <p>If judgment is rendered against
+any mobile home for any tax, the county collector shall, after publishing a
+notice for sale in compliance with the requirements of Sections
+55 or 60, proceed to offer the mobile home for sale pursuant to the
+judgment. However, in the case of an appeal from the judgment, if the party,
+when filing notice of appeal deposits with the county collector the amount of
+the judgment and costs, the collector shall not sell the mobile home until the
+appeal is disposed of.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-135">
+            <num>135</num>
+            <heading>Examination of record; certificate of correctness</heading>
+            <content>
+              <p>On the
+day advertised for sale, the county clerk, assisted by the collector, shall
+examine the list upon which judgment has been entered and ascertain that all
+payments have been properly noted thereon. The county clerk shall make a
+certificate to be entered on the record, following the order of court that the
+record is correct, and that judgment was entered upon the mobile home therein
+mentioned for the taxes, interest, and costs due thereon.  The certificate
+shall be attested by the circuit court clerk under seal of the court and shall
+be the process on which the mobile home or any interest therein shall be sold
+for taxes, interest, and costs due thereon, and may be substantially in the
+following form: State of Illinois County of ..... I, ...., clerk of the circuit court, in and for the county of ...., do
+hereby certify that the foregoing is a true and correct record of the
+delinquent mobile home in the county, against which judgment and order of sale
+was duly entered in the circuit court for the county, on (insert date), for the
+amount of the taxes, interest, and costs due severally thereon as therein set
+forth, and that the judgment and order of court in relation thereto fully
+appears on the record. Dated (insert date).</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-140">
+            <num>140</num>
+            <heading>County clerk assistance at sale</heading>
+            <content>
+              <p>The county clerk, in person
+or by deputy, shall attend all sales for taxes, made by the collector, and
+shall assist at the sales.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-145">
+            <num>145</num>
+            <heading>Tax sale procedures</heading>
+            <content>
+              <p>The collector, in person or by deputy,
+shall attend, on the day and in the place specified in the notice for the sale
+of mobile homes for taxes, and shall, between 9:00 a.m. and 4:00 p.m., or later
+at the collector's discretion, proceed to offer for sale, separately and in
+consecutive order, all mobile homes in the list on which the taxes, interest,
+or costs have not been paid.
+The collector's office shall be kept open during all hours
+in which the sale is in progress. The sale shall be continued from day to day,
+until all mobile homes in the delinquent list have been offered for sale.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-150">
+            <num>150</num>
+            <heading>Penalty bids</heading>
+            <content>
+              <p>The person at the sale offering to pay the
+amount due on each mobile home for the least penalty percentage shall be the
+purchaser of that mobile home. No bid shall be accepted for a penalty exceeding
+18% of the amount of the tax on a mobile home.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-155">
+            <num>155</num>
+            <heading>Registration</heading>
+            <content>
+              <p>In counties with less than 3,000,000 inhabitants,
+unless the county board
+provides otherwise, no person shall be eligible to bid who did not register
+with the county collector at least 10 business days prior to the first day of
+sale authorized under Section 60.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-160">
+            <num>160</num>
+            <heading>Forfeited mobile home</heading>
+            <content>
+              <p>Every mobile home offered at public
+sale, and not sold for want of bidders, shall be forfeited to the State of
+Illinois. However, when the court, county clerk, and county treasurer certify
+that the taxes on a forfeited mobile home equal or exceed the actual value of
+the mobile home, the county collector shall, on the receipt of such
+certificate, offer the mobile home for sale to the highest bidder, after first
+giving 10 days' notice, in the manner described in Sections 55 and 60, of the
+time and place of sale, together with a description of the mobile home to be
+offered. A certificate of purchase shall be issued to the purchaser at the sale
+as in other cases provided in this Act. The county collector shall receive
+credit in the settlement with the taxing bodies for which the tax was levied
+for the amount not realized by the sale. The amount received from the sale
+shall be paid by the collector, pro rata, to the taxing bodies entitled to it.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-165">
+            <num>165</num>
+            <heading>Record of sales and redemptions</heading>
+            <content>
+              <p>When any mobile home is sold,
+the county clerk shall enter on the Tax Judgment, Sale, Redemption and
+Forfeiture Record, in the blank columns provided for that purpose, the name of
+the purchaser and the final bid. When any mobile home is redeemed from sale,
+the county clerk shall enter the name of the person redeeming, the redemption
+date, and the amount of redemption, in the proper column.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-170">
+            <num>170</num>
+            <heading>Record of forfeitures</heading>
+            <content>
+              <p>All mobile homes forfeited to the State
+at the sale shall be noted on the Tax Judgment, Sale, Redemption and Forfeiture
+Record.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-175">
+            <num>175</num>
+            <heading>Payment for mobile homes purchased at tax sale; reoffering for
+sale</heading>
+            <content>
+              <p>Except as otherwise provided below, the person purchasing any mobile
+home shall be liable to the county for the amount due and shall forthwith pay
+to the county collector the amount charged on the mobile home.  Upon failure to
+do so, the amount due shall be recoverable in a civil action brought in the
+name of the People of the State of Illinois in any court of competent
+jurisdiction.  The person so purchasing shall be relieved of liability only by
+payment of the amount due together with interest and costs thereon, or if the
+mobile home is reoffered at the sale, purchased, and paid for.  Reoffering of
+the mobile home for sale shall be at the discretion of the collector. The sale
+shall not be closed until payment is made or the mobile home again offered for
+sale. The purchaser then shall be entitled to a certificate of purchase. If a
+purchaser
+fails to complete his or her purchase as provided in this Section, the purchase
+shall become void, and be of no effect, but the collector shall not refund the
+amount paid in cash at the time of the sale, except in cases of sale in error.
+That amount shall be treated as a payment and distributed to the taxing bodies
+as other collections are distributed. The lien for taxes for the amount paid
+shall remain on the mobile home, in favor of the purchaser, his or her heirs or
+assigns, until paid with 5% interest per year on that amount from the date the
+purchaser paid it. The amount and fact of such ineffective purchase shall be
+entered in the tax judgment, sale, redemption and forfeiture record opposite
+the mobile home upon which the lien remains. No redemption shall be made
+without payment of this amount for the benefit of the purchaser, and no future
+sale of the mobile home shall be made except subject to the lien of such
+purchaser.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-180">
+            <num>180</num>
+            <heading>Automation fee</heading>
+            <subsection eId="sec_35-516-180__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The fee shall be paid at the time of the purchase if the record keeping
+system used for processing the delinquent mobile home tax sales is automated or
+has been approved for automation by the county board. The fee shall be
+collected in the same manner as other fees or costs.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-180__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Fees collected under this Section shall be retained by the county
+treasurer in a fund designated as the Tax Sale Automation Fund. The fund shall
+be audited by the county auditor. The county board shall make expenditures from
+the fund to pay any costs related to the automation of mobile home tax
+collections
+and delinquent mobile home tax sales, including the cost of hardware, software,
+research and development, and personnel.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-185">
+            <num>185</num>
+            <heading>Certificate of purchase</heading>
+            <content>
+              <p>The county clerk shall make out and
+deliver to the purchaser of any mobile home sold under Section 145, a
+certificate of purchase countersigned by the collector, describing the mobile
+home sold, including the vehicle identification number, the model year, and the
+square footage, the date of sale, the amount of taxes, interest, and
+cost for which it was sold, and that payment of the sale price has been made.
+If any person becomes the purchaser of more than one mobile home owned by one
+party or person, the purchaser may have the whole or one or more of them
+included in one certificate, but separate certificates shall be issued in all
+other cases. A certificate of purchase shall be assignable by endorsement. An
+assignment shall vest in the assignee or his or her legal representatives, all
+the right and title of the original purchaser. If the tax certificate is lost or destroyed, the county clerk
+shall issue a duplicate certificate upon written request and a sworn affidavit
+by the tax sale purchaser, or his or her assignee, that the tax certificate is
+lost or destroyed.
+The county clerk shall cause a notation to be made
+in the tax sale and judgment book that a duplicate certificate has been issued,
+and redemption payments shall be made only to the holder of the duplicate
+certificate.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-190">
+            <num>190</num>
+            <heading>Index of tax sale records</heading>
+            <content>
+              <p>The county clerk may make an index
+of tax-sale records.  The index shall be kept in the county clerk's office as a
+public record, open to inspection during office hours.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-195">
+            <num>195</num>
+            <heading>County clerk's books and records; prima facie evidence</heading>
+            <content>
+              <p>The
+books and records of the county clerk, or copies thereof, certified by the
+clerk, shall be prima facie evidence to prove the sale of any mobile home for
+taxes, the redemption of the mobile home, or payment of
+taxes thereon.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-200">
+            <num>200</num>
+            <heading>Collector's scavenger sale</heading>
+            <subsection eId="sec_35-516-200__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Conducting the sale; bidding.   All mobile homes shall be offered for
+sale in consecutive order as they appear in the delinquent list. The minimum
+bid for any mobile home shall be $250 or one-half of the tax if the total
+liability is less than $500.  The successful bidder shall immediately pay the
+amount of minimum bid to the County Collector in cash, by certified or
+cashier's check, by money order, or, if the
+successful bidder is a governmental unit, by a check issued by that
+governmental unit.  If the bid exceeds the minimum bid, the
+successful bidder shall pay the balance of the bid to the county collector in
+cash, by certified or cashier's check, by money order, or, if the
+successful bidder is a governmental unit, by a check issued by that
+governmental unit
+ by the close of the
+next business day.  If the minimum bid is not paid at the time of sale or if
+the balance is not paid by the close of the next business day, then the sale is
+void and the minimum bid, if paid, is forfeited to the county general fund.  In
+that event, the mobile home shall be reoffered for sale within 30 days of the last
+offering of mobile homes in regular order.  The collector shall make available
+to
+the public a list of all mobile homes to be included in any reoffering due to the
+voiding of the original sale.  The collector is not required to serve or
+publish any other notice of the reoffering of those mobile homes. In the event
+that any of the mobile homes are not sold upon reoffering, or are sold for less
+than the amount of the original voided sale, the original bidder who failed to
+pay the bid amount shall remain liable for the unpaid balance of the bid in an
+action under Section 175.  Liability shall not be reduced where the bidder
+upon reoffering also fails to pay the bid amount, and in that event both
+bidders shall remain liable for the unpaid balance of their respective bids. A
+sale of mobile homes under this Section shall not be final until confirmed by </p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-200__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Confirmation of sales.  The county collector shall file his or her
+report of sale in the court within 30 days after the date of sale of each
+mobile home.  No notice of the county collector's application to confirm the
+sales shall be required except as prescribed by rule of the court.  Upon
+confirmation, except in cases where the sale becomes void under Section 430,
+or in cases where the order of confirmation is vacated by the court, a sale
+under this Section shall extinguish the in rem lien of the taxes,
+for which judgment has been entered and a
+redemption shall not revive the lien.  Confirmation of the sale shall in no
+event affect the owner's personal liability to pay the taxes, interest, and
+penalties as provided in this Act or prevent institution of a proceeding under
+Section 355 to collect any amount that may remain due after the sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-200__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Issuance of tax sale certificates. Upon confirmation of the sale, the
+county clerk and the county collector shall issue to the purchaser a
+certificate of purchase in the form prescribed by Section 185 as near as may
+be.  A certificate of purchase shall not be issued to any person who is
+ineligible to bid at the sale or to receive a certificate of purchase under
+Section 205.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-200__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Scavenger Tax Judgment, Sale and Redemption Record; sale of
+parcels not sold.  The county collector shall prepare a Scavenger Tax Judgment,
+Sale and Redemption Record.  The county clerk shall write or stamp on the
+scavenger tax judgment, sale, forfeiture and redemption record opposite the
+description of any mobile home offered for sale and not sold, or not confirmed for
+any reason, the words &quot;offered but not sold&quot;. The mobile homes that are offered
+for sale under this Section and not sold or not confirmed shall be offered for
+sale annually thereafter in the manner provided in this Section until sold.
+At any time between annual sales the county collector may advertise for sale
+any mobile homes subject to sale under judgments for sale previously entered
+under this Section and not executed for any reason.  The advertisement and sale
+shall be regulated by the provisions of this Act as far as applicable.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-200__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Proceeding to tax certificate of title. The owner of the certificate of purchase shall
+give notice as required by Sections 365 through 390, and may extend the
+period of redemption as provided by Section 330. At any time within 5 months
+prior to expiration of the period of redemption from a sale under this Act,
+the owner of a certificate of purchase may file a petition and may obtain a tax
+certificate of title under Sections 390 through 410. All proceedings for the issuance of
+a tax certificate of title and all tax certificates of title for mobile homes sold under this
+Section shall be subject to Sections 390 through 410.  This Section shall be
+liberally construed so that the certificates of title provided for in this
+Section convey merchantable title.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-200__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Redemptions from scavenger sales. Redemptions may be made from sales
+under this Section in the same manner and upon the same terms and conditions as
+redemptions from sales made under the county collector's annual application for
+judgment and order of sale, except that in lieu of penalty the person redeeming
+shall pay interest on that part of the amount for which the mobile home was
+sold equal to or less than the full amount of delinquent
+taxes, penalties, interest, and costs, included in the
+judgment and order of sale as follows:</p>
+              </content>
+              <paragraph eId="sec_35-516-200__subsec_f__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>If redeemed within the first 2 months from the date of the sale, 3% per month upon the amount of taxes, penalties, interest, and costs due for each of the first 2 months, or fraction thereof.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-200__subsec_f__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>If redeemed at any time between 2 and 6 months from the date of the sale, 12% of the amount of taxes, penalties, interest, and costs due.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-200__subsec_f__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>If redeemed at any time between 6 and 12 months from the date of the sale, 24% of the amount of taxes, penalties, interest, and costs due.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-200__subsec_f__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>If redeemed at any time between 12 and 18 months from the date of the sale, 36% of the amount of taxes, penalties, interest, and costs due.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-200__subsec_f__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>If redeemed at any time between 18 and 24 months from the date of the sale, 48% of the amount of taxes, penalties, interest, and costs due.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-200__subsec_f__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>If redeemed after 24 months from the date of sale, the 48% provided for the 24 months together with interest at 6% per annum thereafter on the amount of taxes, penalties, interest, and costs due. The person redeeming shall not be required to pay any interest on any part
+of the amount for which the mobile home was sold that exceeds the full amount
+of delinquent taxes, penalties, interest, and costs included in the judgment
+and order of sale. Notwithstanding any other provision of this Section,
+the amount required to be paid for redemption
+shall also include an amount equal to all delinquent taxes on the mobile home
+which taxes were delinquent at the time of sale.  The delinquent taxes shall be
+apportioned by the county collector among the taxing districts in which the
+mobile home is situated in accordance with law. In the event that all moneys
+received from any sale held under this Section exceed an amount equal to all
+delinquent taxes on the mobile home sold, which taxes were delinquent at the
+time
+of sale, together with all publication and other costs associated with the
+sale,</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-205">
+            <num>205</num>
+            <heading>Scavenger sale; persons ineligible to bid or purchase</heading>
+            <content>
+              <p>No person, except a unit of local government, shall be eligible to bid
+or receive a certificate of purchase at any sale under Section 200 unless
+that person has completed and delivered to the county clerk a true, accurate,
+and complete application for certificate of purchase which shall affirm that: (1) the person has not bid upon or applied to purchase any mobile home at the sale for a person who is the party or agent of the party who owns the mobile home or is responsible for the payment of the delinquent taxes; (2) the person is not, nor is he or she the agent for, the owner or party responsible for payment of the taxes on any mobile home which is located in the same county in which the sale is held and which is tax delinquent or forfeited for all or any part of each of 2 or more years; and (3) the person, although otherwise eligible to bid, has not either directly or through an agent twice during the same sale failed to complete a purchase by the immediate payment of the minimum bid or the payment of the balance of a bid within the time provided by Section 200.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-863, eff. 8-14-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-210">
+            <num>210</num>
+            <heading>Scavenger sale registration</heading>
+            <content>
+              <p>No person, except a unit of local
+government, shall be eligible to bid or to receive a certificate of purchase
+who did not register with the county collector at least 5 business days in
+advance of the first day of the sale under Section 200. The collector may
+charge, for each registration, a fee of not more than $50 in counties with less
+than 3,000,000 inhabitants.
+Registration shall be made upon such forms and according to
+such regulations as the county collector deems necessary in order to effect
+complete and accurate disclosure of the identity of all persons beneficially
+interested, directly or indirectly, in each sale under Section 200. The
+information to be disclosed shall include, but not be limited to, the name,
+address, and telephone number of the purchaser to whom the clerk and collector
+will be requested to issue a certificate of purchase; if the purchaser is a
+corporation, the place of incorporation and the names and addresses of its
+shareholders unless the corporation is publicly held; if the purchaser is a
+partnership, the names and addresses of all general and limited partners; if
+the purchaser is doing business under an assumed business name, the county
+where such name is registered and the names, addresses, and telephone numbers
+of all persons having an ownership interest in the business; and the identity
+and location of any other tax delinquent mobile home owned by the bidder and
+purchaser. Every application for certificate of purchase and form for registration
+authorized and required by this Section and Section 215 shall be executed
+under penalty of perjury as though under oath or affirmation, but no
+acknowledgement is required.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-215">
+            <num>215</num>
+            <heading>Scavenger sale; application for certificate of purchase</heading>
+            <subsection eId="sec_35-516-215__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>and according to the regulations prescribed by
+the Treasurer's office. 3. Neither I (we) nor any person or firm identified in the registration
+submitted to the Treasurer of ..... County was an owner or agent of an
+owner, lienholder or agent of a
+lienholder (other than the mobile home park owner or his or her agent), holder
+of beneficial
+interest or agent of a holder of a
+beneficial interest in or of any mobile home identified on the schedule</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-215__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>attached to this application on January 1st of any years for which taxes
+were delinquent at the time of my (our) bid</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-215__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>described in the schedule</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-215__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>attached to this application at the time of the bid</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-215__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>described in the
+schedule. 5. Neither I (we) nor any person or firm identified in the registration
+submitted to the Treasurer of ..... County was an owner or agent for an
+owner, or party or agent for a party responsible for the payment of
+delinquent taxes, on any mobile home in the county that was tax delinquent or
+forfeited for all or any part of each of 2 or more years when the registration
+was submitted. 6. Neither I (we) nor any person acting in my (our) behalf has twice
+failed to complete a purchase at the sale during which the mobile homes on
+the attached schedule</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-215__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>were offered by failing to immediately pay a
+minimum bid or by failing to pay the balance of a bid for any mobile home
+within one business day thereafter. I (we) hereby affirm that I (we) have read this application and that the
+statements made in it are personally known by me (us) to be true, accurate
+and complete, under penalty of perjury as provided by law. I (we) further understand that this application shall be void unless the
+schedule</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-215__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>of mobile homes referred to in the application is (are) completed
+and delivered to the County Clerk. ........................ Dated: .............. (Signature of Purchaser) ........................ Dated: .............. (Signature of Bidder) SCHEDULE OF PROPERTIES Mobile home vehicle identification number (or other identification) Date of Bid (insert number or other identification) (insert date) I (we) hereby affirm that I (we) successfully bid upon  the above
+mobile homes at the sale conducted by the County Treasurer of ..... County on
+the indicated dates, and I (we) request that the County Clerk of .....
+County attach this schedule to my (our) application for certificate of
+purchase dated ...... Signed under penalty of perjury as provided by law: ........................ Dated: .............. (Signature of Purchaser) ........................ Dated: .............. (Signature of Bidder)</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-220">
+            <num>220</num>
+            <heading>Scavenger sale; ineligible bid; liability</heading>
+            <subsection eId="sec_35-516-220__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any person who is ineligible under Section 205 to bid or to receive a
+certificate of purchase from a sale under Section 200, who nevertheless
+registers to bid or bids or receives or acquires ownership of a certificate of
+purchase from a sale, and any person who registers to bid or bids at a sale on
+behalf of an ineligible person, shall be personally liable, jointly and
+severally, in a sum equal to the full amount of delinquent or forfeited
+taxes, interest, penalties, and costs for
+which the judgment for sale under Section 200 was entered.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-220__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The State's Attorney of the county in which the sale under Section
+200 was conducted may bring an action in the name of the People of the State
+of Illinois against the person and, upon a finding of liability under this
+Section, the court shall enter judgment against the person in a sum equal to
+the full amount of delinquent or forfeited taxes,
+interest, penalties, and costs for which judgment for sale
+under Section 200 was entered, together with the costs of the action and
+reasonable attorney's fees. The proceeds of any judgment under this Section
+shall be paid into the county general fund.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-225">
+            <num>225</num>
+            <heading>Tax scavenger sale fraud; definitions</heading>
+            <content>
+              <p>For purposes of
+Section
+230: (1) &quot;Ownership interest&quot; means any title or other interest in a mobile home, the holder of which is considered to be the owner of the mobile home for purposes of taxation under Section 3 of the Mobile Home Local Services Tax Act. Mobile home park owners are not deemed to have an ownership interest as defined in this Section. (2) &quot;Nonownership interest&quot; means any interest in a mobile home other than a contingent interest and other than an ownership interest as defined in this Section, including without limitation an easement or lien. (3) &quot;Mobile home&quot; has the same meaning as defined in Section 1 of the Mobile Home Local Services Tax Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-230">
+            <num>230</num>
+            <heading>Offense of scavenger sale fraud</heading>
+            <subsection eId="sec_35-516-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>enters a bid or authorizes or procures the entry of a bid on any mobile home offered for sale under Section 200, when the person in whose behalf the bid is made or authorized or procured has an ownership interest or nonownership interest in the mobile home, or where that person had such an interest on January 1 of any year for which  delinquent taxes were included within the judgment for sale under Section 200;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-230__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>acquires, or attempts to acquire, ownership of any certificate of purchase for a mobile home sold under Section 200, when the person in whose behalf such certificate of purchase is or would be acquired has an ownership interest or nonownership interest in the mobile home, or where that person had that interest on January 1 of any year for which delinquent taxes were included within the judgment for sale under Section 200;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-230__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>conveys or assigns any certificate of purchase for a mobile home sold under Section 200 to any person who has an ownership interest or nonownership interest in the mobile home, or who had that interest on January 1 of any year for which delinquent taxes were included within the judgment for sale under Section 200;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-230__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>makes a false statement in any application for certificate of purchase or registration form submitted under Sections 210 and 215; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-230__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>forfeits 2 or more bids at any one sale under Section 200 by failing to pay the minimum cash bid timely or by failing to pay the balance of the bid timely as required by Section 200. Tax sale fraud is a Class A misdemeanor.  A subsequent conviction for tax
+sale fraud as defined in subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-230__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-230__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of this Section is a Class
+4 felony.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-235">
+            <num>235</num>
+            <heading>Creation of indemnity fund</heading>
+            <subsection eId="sec_35-516-235__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each person
+purchasing any mobile home at a sale under this Act shall pay
+to the county collector, prior to the issuance of any certificate of purchase,
+a fee of $20 for each item purchased.  A like sum shall be paid for each year
+that all or a portion of
+subsequent taxes are paid by the tax purchaser
+and posted to
+the tax judgment, sale, redemption and forfeiture record where the underlying
+certificate of purchase is recorded.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-235__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount paid prior to issuance of the certificate of purchase
+pursuant to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-235__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall be included in the purchase price of
+the mobile home in the certificate of purchase and all amounts paid under this
+Section shall be included in the amount required to redeem under Section 300.
+Except as otherwise provided in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-235__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 240, all money
+received under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-235__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall be paid by the collector to the
+county treasurer of the county in which the mobile home is situated, for the
+purpose of an indemnity fund. The county treasurer, as trustee of that fund,
+shall invest all of that fund, principal and income, in his or her hands from
+time to time, if not immediately required for payments of indemnities under
+subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-235__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 245, in investments permitted by the Illinois State
+Board of Investment under Article 22A of the Illinois Pension Act.  The county
+collector shall report annually to  the county clerk on the condition and
+income of the fund. The indemnity fund shall be held to satisfy judgments
+obtained against the county treasurer, as trustee of the fund. No payment shall
+be made from the fund, except upon a judgment of the court which ordered the
+issuance of a tax certificate of title.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-412, eff. 8-2-05.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-240">
+            <num>240</num>
+            <heading>Amount to be retained in indemnity fund</heading>
+            <subsection eId="sec_35-516-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county board in each county shall determine the amount of the fund
+to be maintained in that county, which amount shall not be less than
+$50,000 and shall not be greater
+than $1,000,000 in counties with less than 3,000,000 inhabitants.
+Any
+moneys accumulated by the county treasurer in excess of the amount so
+established, as trustee of the fund, shall be paid by him or her annually to
+the general fund of the county.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-240__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In counties in which a Tort Liability Fund is established, all sums of
+money received under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-240__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 235 may be deposited in the
+general fund of the county for general county governmental purposes, if the
+county board provides by ordinance that the indemnity required by this Section
+shall be provided by the Tort Liability Fund.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-245">
+            <num>245</num>
+            <heading>Payments from Indemnity Fund</heading>
+            <subsection eId="sec_35-516-245__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any owner of a mobile home sold under any provision of this Act who
+sustains loss or damage by reason of the issuance of a tax certificate of title
+under Section 360 or 400 and who is barred or is in any way precluded from
+bringing an action for the recovery of the mobile home shall have the right to
+indemnity for the loss or damage sustained, limited as follows:</p>
+              </content>
+              <paragraph eId="sec_35-516-245__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An owner who resided in a mobile home on the last day of the period of redemption and who is equitably entitled to compensation for the loss or damage sustained has the right to indemnity.  An equitable indemnity award shall be limited to the fair cash value of the mobile home as of the date the tax certificate of title was issued less any liens on the mobile home, and the award will not exceed $99,000. The court shall liberally construe this equitable entitlement standard to provide compensation wherever, in the discretion of the court, the equities warrant the action. An owner of a mobile home who requests an award in excess of $99,000 must prove that the loss of his or her mobile home was not attributable to his or her own fault or negligence before an award in excess of $99,000 will be granted.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An owner who sustains the loss or damage of any mobile home occasioned by reason of the issuance of a tax certificate of title, without fault or negligence of his or her own, has the right to indemnity limited to the fair cash value of the mobile home less any liens on the mobile home. In determining the existence of fault or negligence, the court shall consider whether the owner exercised ordinary reasonable diligence under all of the relevant circumstances.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>In determining the fair cash value of a mobile home less any liens on the mobile home, the fair cash value shall be reduced by the principal amount of all taxes paid by the tax purchaser or his or her assignee before the issuance of the tax certificate of title.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>If an award made under paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>is subject to a reduction by the amount of an outstanding lien on the mobile home, other than the principal amount of all taxes paid by the tax purchaser or his or her assignee before the issuance of the tax certificate of title and the petitioner would be personally liable to the lienholder for all or part of that reduction amount, the court shall order an additional indemnity award to be paid directly to the lienholder sufficient to discharge the petitioner's personal liability. The court, in its discretion, may order the joinder of the lienholder as an additional party to the indemnity action.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-245__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Indemnity fund; subrogation.</p>
+              </content>
+              <paragraph eId="sec_35-516-245__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any person claiming indemnity hereunder shall petition the court which ordered the tax certificate of title to issue, shall name the county treasurer, as trustee of the indemnity fund, as defendant to the petition, and shall ask that judgment be entered against the county treasurer, as trustee, in the amount of the indemnity sought.  The provisions of the Civil Practice Law shall apply to proceedings under the petition, except that neither the petitioner nor county treasurer shall be entitled to trial by jury on the issues presented in the petition. The court shall liberally construe this Section to provide compensation wherever in the discretion of the Court the equities warrant such action.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The county treasurer, as trustee of the indemnity fund, shall be subrogated to all parties in whose favor judgment may be rendered against him or her,  and by third party complaint may bring in as a defendant any person, other than the tax certificate of title grantee and its successors in title, not a party to the action who is or may be liable to him or her, as subrogee, for all or part of the petitioner's claim against him or her.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-245__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any contract involving the proceeds of a judgment for indemnity under
+this Section, between the tax certificate of title grantee or its successors in
+title and the indemnity petitioner or his or her successors, shall be in
+writing.  In any action brought under this Section, the Collector shall be
+entitled to discovery regarding, but not limited to, the following:</p>
+              </content>
+              <paragraph eId="sec_35-516-245__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the identity of all persons beneficially interested in the contract, directly or indirectly, including at least the following information:  the names and addresses of any natural persons; the place of incorporation of any corporation and the names and addresses of its shareholders unless it is publicly held; the names and addresses of all general and limited partners of any partnership; the names and addresses of all persons having an ownership interest in any entity doing business under an assumed name, and the county in which the assumed business name is registered; and the nature and extent of the interest in the contract of each person identified;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the time period during which the contract was negotiated and agreed upon, from the date of the first direct or indirect contact between any of the contracting parties to the date of its execution;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the name and address of each natural person who took part in negotiating the contract, and the identity and relationship of the party that the person represented in the negotiations; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-245__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the existence of an agreement for payment of attorney's fees by or on behalf of each party. Any information disclosed during discovery may be subject to protective order
+as deemed appropriate by
+the court. The terms of the contract shall not be used as evidence of value.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-250">
+            <num>250</num>
+            <heading>Indemnity fund fraud</heading>
+            <subsection eId="sec_35-516-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person commits the offense of indemnity fund fraud when that person
+knowingly:</p>
+              </content>
+              <paragraph eId="sec_35-516-250__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>offers or agrees to become a party to, or to acquire an interest in, a contract involving the proceeds of a judgment for indemnity under Section 245 before the end of the period of redemption from the tax sale to which the judgment relates;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-250__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>fraudulently induces a party to forego bringing an action for the recovery of the mobile home;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-250__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>makes a deceptive misrepresentation during the course of negotiating an agreement under subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-250__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of Section 245; or</p>
+              </content>
+              <paragraph eId="sec_35-516-250__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>conspires to violate any of the provisions of this subsection.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-250__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Commission of any one act described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>is a Class A
+misdemeanor. Commission of more than one act described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-250__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>during a single course of conduct is a Class 4 felony. A second or
+subsequent conviction for violation of any portion of this Section is a
+Class 4 felony.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-250__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The State's Attorney of the county in which a judgment for
+indemnity under Section 245 is entered may bring a civil action in the
+name of the People of the State of Illinois against a person who violates
+paragraph</p>
+              </content>
+              <paragraph eId="sec_35-516-250__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-255">
+            <num>255</num>
+            <heading>Sales in error</heading>
+            <subsection eId="sec_35-516-255__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When, upon application of the county collector, the owner of the
+certificate of purchase, or a
+municipality that owns or has owned the mobile home ordered sold, it appears to
+the satisfaction of the court that ordered the mobile home sold that any of the
+following subsections are applicable, the court shall declare the sale to be a
+sale in error:</p>
+              </content>
+              <paragraph eId="sec_35-516-255__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the mobile home was not subject to taxation, (1.5) the mobile home has been moved to a different location,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-255__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the taxes had been paid prior to the sale of the mobile home,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-255__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>there is a double computation of the tax,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-255__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the description is void for uncertainty,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-255__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the assessor, chief county assessment officer, board of review, board of appeals, or other county official has made an error (other than an error of judgment as to the value of any mobile home), (5.5) the owner of the mobile home had tendered timely and full payment to the county collector that the owner reasonably believed was due and owing on the mobile home, and the county collector did not apply the payment to the mobile home; provided that this provision applies only to mobile home owners, not their agents or third-party payors,</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-255__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>prior to the tax sale a voluntary or involuntary petition has been filed by or against the legal or beneficial owner of the mobile home requesting relief under the provisions of 11 U.S.C. Chapter 7, 11, 12, or 13, or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-255__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the mobile home is owned by the United States, the State of Illinois, a municipality, or a taxing district.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-255__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>When, upon application of the owner of the certificate of purchase
+only, it appears to the satisfaction of the court that ordered the mobile home
+sold that any of the following subsections are applicable, the court shall
+declare the sale to be a sale in error:</p>
+              </content>
+              <paragraph eId="sec_35-516-255__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>A voluntary or involuntary petition under the provisions of 11 U.S.C. Chapter 7, 11, 12, or 13 has been filed subsequent to the tax sale and prior to the issuance of the tax certificate of title.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-255__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The mobile home sold has been substantially destroyed or rendered uninhabitable or otherwise unfit for occupancy subsequent to the tax sale and prior to the issuance of the tax certificate of title.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-255__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When the county collector discovers, prior to the expiration of the period of redemption, that a tax sale
+should not have occurred for one or more of the reasons set forth in
+subdivision</p>
+              </content>
+              <paragraph eId="sec_35-516-255__subsec_c__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>of this Section, the county
+collector shall notify the last known owner of the certificate of purchase by
+certified and regular mail, or other means reasonably calculated to provide
+actual notice, that the county collector intends to declare an administrative
+sale in error and of the reasons therefor, including documentation sufficient
+to establish the reason why the sale should not have occurred. The owner of the
+certificate of purchase may object in writing within 28 days after the date of
+the mailing by the county collector. If an objection is filed, the county
+collector shall not administratively declare a sale in error, but may apply to
+the circuit court for a sale in error as provided in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-255__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this
+Section. Thirty days following the receipt of notice by the last known owner of
+the certificate of purchase, or within a reasonable time thereafter, the county
+collector shall make a written declaration, based upon clear and convincing
+evidence, that the taxes were sold in error and shall deliver a copy thereof to
+the county clerk within 30 days after the date the declaration is made for
+entry in the tax judgment, sale, redemption, and forfeiture record pursuant to
+subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-255__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of this Section. The county collector shall promptly notify the
+last known owner of the certificate of purchase of the declaration by regular
+mail and shall promptly pay the amount of the tax sale, together with interest
+and costs as provided in Sections 260 through 280, upon surrender of the original
+certificate of purchase.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-255__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a sale is declared to be a sale in error, the county
+clerk shall make entry in the tax judgment, sale, redemption and
+forfeiture record, that the mobile home was erroneously sold, and the county
+collector shall, on demand of the owner of the certificate of purchase, refund
+the amount paid, pay any interest and costs as may be ordered under Sections
+260 through 280, and cancel the certificate so far as it relates to the
+mobile home. The county collector shall deduct from the accounts of the
+appropriate taxing bodies their pro rata amounts paid.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-949, eff. 8-15-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-260">
+            <num>260</num>
+            <heading>Interest on refund</heading>
+            <subsection eId="sec_35-516-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In those cases which arise solely under grounds set forth in Section
+255 or 395, and in no other cases, the court which orders a sale in
+error shall
+also award interest on the refund of the amount paid for the certificate of
+purchase, together with all costs paid by the owner of the certificate of
+purchase or his or her assignor which were posted to the tax judgment, sale,
+redemption and forfeiture record, except as otherwise provided in
+this Section.  Except as otherwise provided in this Section, interest shall be
+awarded and paid at the rate of 1% per month from the date of sale to the
+date of payment to the tax purchaser, or in an amount equivalent to the
+penalty interest which would be recovered on a redemption at the time of
+payment pursuant to the order for sale in error, whichever is less.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-260__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Interest on the refund to the owner of the certificate of
+purchase shall not be paid</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-260__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>in any case in which the mobile home
+sold has been substantially destroyed or rendered uninhabitable or otherwise
+unfit for occupancy,
+(ii) when the sale in error is made pursuant to Section 395,
+or (iii) in any other case where the court determines that the
+tax purchaser had actual knowledge prior to the sale of the grounds on which
+the sale is declared to be erroneous.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-260__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When the county collector files a petition for sale in error under
+Section 255 and mails a notice thereof by
+certified or registered mail to the tax purchaser, any interest otherwise
+payable under this Section shall cease to accrue as of the date the
+petition is filed, unless the tax purchaser agrees to an order for sale in
+error upon the presentation of the petition to the court.  Notices under
+this subsection may be mailed to the original owner of the certificate of
+purchase, or to the latest assignee, if known.  When the
+owner of the certificate of purchase contests the collector's petition
+solely to determine whether the grounds for sale in error are such as to
+support a claim for interest, the court may direct that the principal
+amount of the refund be paid to the owner of the certificate of purchase
+forthwith. If the court thereafter determines that a claim for interest
+lies under this Section, it shall award such interest from the date of sale
+to the date the principal amount was paid. If the owner of the certificate of purchase files an objection to the county collector's intention to declare an administrative sale in error, as provided under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-260__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of Section 255, and, thereafter, the county collector elects to apply to the circuit court for a sale in error under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-260__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 255, then, if the circuit court grants the county collector's application for a sale in error, the court may not award interest to the owner of the certificate of purchase for the period after the mailing date of the county collector's notice of intention to declare an administrative sale in error.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-949, eff. 8-15-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-265">
+            <num>265</num>
+            <heading>Refund of other taxes paid by holder of certificate of
+purchase</heading>
+            <content>
+              <p>The court which orders a sale in error shall order the
+refund of all other taxes paid by the owner of the certificate of purchase or
+his or her assignor  which were validly posted to the tax judgment, sale
+redemption and forfeiture record subsequent to the tax sale, together with
+interest on the other taxes under the same terms as interest is otherwise
+payable under Section 260. The interest under this Section shall be
+calculated at the rate of 1% per month from the date the other taxes
+were paid and not from the date of sale.  The collector shall take credit
+in settlement of his or her accounts for the refund of the other taxes as in
+other cases of sale in error under Section 255.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-270">
+            <num>270</num>
+            <heading>Orders for payment of interest</heading>
+            <content>
+              <p>The county treasurer may
+determine in his or her discretion whether payment of interest and costs shall
+be made as provided in Section 275, 280, or 285. If the treasurer determines
+not to make payment as provided in those Sections, the treasurer shall pay any
+interest or costs awarded under this Section pro rata from those accounts where
+the principal refund of the tax sale purchase price under Section 275 is taken.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-275">
+            <num>275</num>
+            <heading>Fund for payment of interest</heading>
+            <subsection eId="sec_35-516-275__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>$100,000 in counties with 250,000 or less inhabitants or (ii) $500,000 in counties with more than 250,000 inhabitants
+						shall be paid each year prior to the commencement of the
+annual tax sale, first to satisfy
+any existing unpaid judgments entered pursuant to Section 235, and any funds
+remaining thereafter shall be paid to the general fund of the county.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-362, eff. 7-29-05.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-280">
+            <num>280</num>
+            <heading>Claims for interest and costs</heading>
+            <content>
+              <p>Any person
+claiming interest or costs under Sections 260 through 275 shall
+include the claim in his or her petition for sale in error
+under Section 255.  Any claim for interest or costs which is not included in
+the petition is waived, except interest or costs may be awarded to the extent
+permitted by this Section upon a sale in error petition filed by the
+county collector, without requiring a separate filing by the claimant.  Any
+order for interest or costs upon the petition for sale in error shall be
+deemed to be entered against the county treasurer as trustee of the fund
+created by Section 275.  The fund shall be the sole source for
+payment  and satisfaction of orders for interest or costs, except as otherwise
+provided in this Section.  If the court determines that the fund has been
+depleted and will not be restored in time to pay an award with reasonable
+promptness, the court may authorize the collector to pay the interest portion
+of the award pro rata from those accounts where the principal refund of the tax
+sale purchase price under Section 255 is taken.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-285">
+            <num>285</num>
+            <heading>Recovery of amount of tax paid by
+purchaser at erroneous sale</heading>
+            <content>
+              <p>In addition to all other remedies,
+when the purchaser or assignee of a certificate of purchase that has been
+declared an erroneous sale, has paid any tax upon the
+mobile home sold, which was not paid by the owner of the
+mobile home and was not refunded to the tax purchaser or assignee by the
+county, the purchaser or assignee may recover from the owner the amount he or
+she paid, with 10% interest, as money paid for the owner's use.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-290">
+            <num>290</num>
+            <heading>Right of redemption</heading>
+            <subsection eId="sec_35-516-290__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Mobile homes sold under this Act may be
+redeemed only by those persons having a right of redemption as defined
+in this Section and only in accordance with this Act. A right to redeem a mobile home from any sale under this Act shall exist in
+any
+owner or person interested in that mobile home whether or not the
+interest in the mobile home sold is recorded or filed.  Any redemption shall
+be presumed to have been made by or on behalf of the owners and persons
+interested in the mobile home and shall inure to the benefit of the persons
+having the certificate of title to the mobile home redeemed, subject to
+the right of the person making the redemption to be reimbursed by the
+persons benefited.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-290__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any person who desires to redeem and does not desire to
+contest the validity of a petition for tax certificate of title may redeem
+pursuant to this Section and related Sections of this Act without submitting a
+written protest under Section 21-380.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-295">
+            <num>295</num>
+            <heading>Period of redemption</heading>
+            <content>
+              <p>Mobile homes sold under this Act may be
+redeemed on or before the expiration of 2 years and 6 months from the date of
+sale. If, however, the court that ordered the mobile home sold, upon the
+verified petition of the holder of the certificate of
+purchase brought within 4 months from the date of sale, finds and declares that
+the mobile home is abandoned, then the court may order that the
+mobile home may be redeemed at any time on or before the expiration of 1 year
+from the date of sale. Notice of the hearing on a petition to declare the
+mobile home abandoned shall be given to the owner or owners of the mobile home
+and to the person in whose name the taxes were last assessed, by certified or
+registered mail sent to their last known addresses at least 5 days before the
+date of the hearing. If the period of redemption has been extended by the certificate
+holder as provided in Section 330, the mobile home may be redeemed on or before
+the extended redemption date.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-300">
+            <num>300</num>
+            <heading>Amount of redemption</heading>
+            <subsection eId="sec_35-516-300__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>the certificate amount, which shall include all tax principal, interest, and penalties paid by the tax purchaser together with costs and fees of sale and fees paid under Sections 235 and 260 through 280;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>the accrued penalty, computed through the date of redemption as a percentage of the certificate amount, as follows:</p>
+              </content>
+              <paragraph eId="sec_35-516-300__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>if the redemption occurs on or before the expiration of  6 months from the date of sale, the certificate amount times the penalty bid at sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>if the redemption occurs after 6 months from the date of sale, and on or before the expiration of 12 months from the date of sale, the certificate amount times 2 times the penalty bid at sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the redemption occurs after 12 months from the date of sale and on or before the expiration of 18 months from the date of sale, the certificate amount times 3 times the penalty bid at sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>if the redemption occurs after 18 months from the date of sale and on or before the expiration of 24 months from the date of sale, the certificate amount times 4 times the penalty bid at sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>if the redemption occurs after 24 months from the date of sale and on or before the expiration of 30 months from the date of sale, the certificate amount times 5 times the penalty bid at sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>if the redemption occurs after 30 months from the date of sale and on or before the expiration of 36 months from the date of sale, the certificate amount times 6 times the penalty bid at sale.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The total of all taxes, accrued interest on those taxes, and costs charged in connection with the payment of those taxes, which have been paid by the tax certificate holder on or after the date those taxes became delinquent together with 12% penalty on each amount so paid for each year or portion thereof intervening between the date of that payment and the date of redemption. In counties with less than 3,000,000 inhabitants, however, a tax certificate holder may not pay the subsequent tax for any year, nor shall any tender of such a payment be accepted, until the subsequent tax has become delinquent or until after the holder of the certificate of purchase has filed a petition for a tax certificate of title under Section 390.  The person redeeming shall also pay the amount of interest charged on the subsequent tax and paid as a penalty by the tax certificate holder.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any amount paid to redeem a forfeiture occurring subsequent to the tax sale together with 12% penalty thereon for each year or portion thereof intervening between the date of the forfeiture redemption and the date of redemption from the sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any amount paid by the certificate holder for redemption of a subsequently occurring tax sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>All fees paid to the county clerk under Section 22-5.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>All fees paid to the circuit clerk and the sheriff or coroner in connection with the filing of the petition for tax certificate of title and service of notices under Sections 375 through 390 and 400 in addition to</p>
+              </content>
+              <paragraph eId="sec_35-516-300__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a fee of $35 if a petition for tax certificate of title has been filed, which fee shall be posted to the tax judgement, sale, redemption, and forfeiture record, to be paid to the purchaser or his or her assignee;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a fee of $4 if a notice under Section 365 has been filed, which fee shall be posted to the tax judgment, sale, redemption, and forfeiture record, to be paid to the purchaser or his or her assignee; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_g__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>all costs paid to record a lis pendens notice in connection with filing a petition under this Act. The fees in</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-300__subsec_g__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this paragraph</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>shall be exempt from the posting requirements of Section 305.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>All fees paid for publication of notice of the tax sale in accordance with Section 380.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>All sums paid to any city, village or incorporated town for reimbursement under Section 395.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-300__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>All costs and expenses of receivership under Section 350, to the extent that these costs and expenses exceed any income from the mobile home in question, if the costs and expenditures have been approved by the court appointing the receiver and a certified copy of the order or approval is filed and posted by the certificate holder with the county clerk.  Only actual costs expended may be posted on the tax judgment, sale, redemption and forfeiture record.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-305">
+            <num>305</num>
+            <heading>Posting requirements</heading>
+            <subsection eId="sec_35-516-305__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-305__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>of Section 300 in the payment for redemption or
+the amount received for  redemption, nor shall payment thereof be a charge on
+the mobile home sold for taxes, unless the tax certificate holder has filed and
+posted with the county clerk prior to redemption and in any event not less than
+30 days prior to the expiration of the period of redemption or extended period
+of redemption an official, original or duplicate receipt for payment of those
+fees, costs, and expenses permitted under paragraphs</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-305__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-305__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>of Section
+300.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-310">
+            <num>310</num>
+            <heading>Deficiency judgment</heading>
+            <content>
+              <p>If the sold mobile home is not redeemed,
+a deficiency judgment shall not be taken on account of the receivership
+proceedings against the owner or owners of the mobile home.  In the event that
+income to the receiver exceeds expenditures, net income is to be deposited with
+the clerk of the court ordering the tax sale and shall be distributed as
+determined by the court ordering the appointment of the receiver.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-315">
+            <num>315</num>
+            <heading>Redemption of a forfeited mobile home</heading>
+            <content>
+              <p>Except as otherwise
+provided in Section 320, any mobile home forfeited to the State may be redeemed
+or sold in the following manner: When a mobile home has been forfeited for delinquent taxes,
+the person desiring to redeem shall apply to the county clerk who shall order
+the county collector to receive from the person the amount of the forfeited
+taxes, statutory costs, interest prior to forfeiture, printer's fees
+due thereon and, in addition, forfeiture interest at a rate of 12% per year or
+fraction thereof. Upon presentation of the county clerk's order to the county
+collector, the collector shall receive the amount due on account of forfeited
+taxes and give the person duplicate receipts, setting forth a description of
+the mobile home and amount received. One of the receipts shall be
+countersigned by the county clerk and, when so countersigned, shall be evidence
+of the redemption of the mobile home. The receipt shall not be valid until it
+is countersigned by the county clerk. The other receipt shall be filed by the
+county clerk in his or her office, and the clerk shall make a proper entry of
+the redemption of the  mobile home on the appropriate books in his or her
+office and charge the amount of the redemption to the county collector.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-320">
+            <num>320</num>
+            <heading>Partial redemption of forfeited mobile homes</heading>
+            <subsection eId="sec_35-516-320__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>the amount of back or forfeited taxes,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-320__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>interest prior
+to forfeiture,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-320__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>statutory costs and printers' fees, and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-320__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>forfeiture
+interest or penalties attaching thereto. The county clerk shall, at the
+same time, order the county or town collector to receive from the person the
+amount due on account of the taxes, for the year or years determined as
+provided above, of the back or forfeited taxes, interest prior to forfeiture,
+statutory costs, printers' fees, and forfeiture interest or penalties to date
+attaching to the back or forfeited taxes. Upon presentation of the order from the county clerk, and receipt of the
+addendum if the books are in the collector's possession, the collector
+shall receive the sum tendered on account of the taxes for the year or
+years designated, and make out duplicate receipts therefor. The receipts
+shall set forth a description of the mobile home, the year or years paid, and
+the total amount received. One copy of the receipt shall be given the
+person making payment and, when countersigned by the county clerk, shall be
+evidence of the payment therein set forth. The second copy
+shall be filed by the county clerk in his or her office. If the collector's books are in the collector's possession, he or she shall
+enter the payment on the current collector's books or addendum, and he or
+she shall also enter any unpaid balance on the Tax Judgment, Sale, Redemption
+and Forfeiture record at the proper time. After the tax sale and before receipt by the county collector of the current
+collector's books, the county clerk shall make a proper entry on the Tax
+Judgment, Sale, Redemption and Forfeiture record, and shall charge the county
+collector with the sum received. The county clerk shall also enter any unpaid
+balance on the county collector's books at the proper time. The county collector shall distribute all sums received as required by law.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-325">
+            <num>325</num>
+            <heading>Redemption under protest</heading>
+            <content>
+              <p>Any person redeeming under this
+Section at a time subsequent to the filing of a petition under Section 390 or
+360, who desires to preserve his or her right to defend against the petition
+for a tax certificate of title, shall accompany the deposit for redemption with
+a writing substantially in the following form: Redemption Under Protest Tax Deed Case No. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Vol. No. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Mobile Home Vehicle Identification No. (or other unique description) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Original Amount of Tax $. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Amount Deposited for Redemption $. . . . . . . . . . . . . . . . . . . . . . . . . . . . . Name of Petitioner . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Tax Year Included in Judgment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Date of Sale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Expiration Date of the Period of Redemption . . . . . . . . . . . . . . . . . . . To the county clerk of ........ County: This redemption is made under protest for the following reasons: (here
+set forth and specify the grounds relied upon for the objection) Name of party redeeming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Address . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Any grounds for the objection not specified at the time of the redemption
+under protest shall not be considered by the court.  The specified grounds
+for the objections shall be limited to those defenses as would provide
+sufficient basis to deny entry of an order for issuance of a tax certificate of
+title.
+Nothing in this Section shall be construed to authorize or revive any
+objection to the tax sale or underlying taxes which was estopped by entry
+of the order for sale as set forth in Section 420. The person protesting shall present to the county clerk 3 copies of the
+written protest signed by himself or herself.  The clerk shall write or
+stamp the date of receipt upon the copies and sign them.  He or she shall
+retain one of the copies, another he or she shall deliver to the person making
+the redemption, who shall file the copy with the clerk of the court in which
+the tax certificate of title petition is pending, and the third he or she shall
+forward to the petitioner named therein. The county clerk shall enter the redemption as provided in Section 165
+and shall note the redemption under protest.  The redemption money so deposited
+shall not be distributed to the holder of the certificate of purchase but shall
+be retained by the county clerk pending disposition of the petition filed under
+Section 390. Redemption under protest constitutes the appearance of the person protesting
+in the proceedings under Sections 390 through 412 and that person shall
+present a defense to the petition for tax certificate of title at the time
+which the court directs.  Failure to appear and defend shall constitute a
+waiver of the protest and the court shall order the redemption money
+distributed to the holder of the certificate of purchase upon surrender of that
+certificate and shall dismiss the proceedings. When the party redeeming appears and presents a defense, the court shall hear
+and determine the matter.  If the defense is not sustained, the court shall
+order the protest stricken and direct the county clerk to distribute the
+redemption money upon surrender of the certificate of purchase and shall order
+the party redeeming to pay the petitioner reasonable expenses, actually
+incurred, including the cost of withheld redemption money, together with a
+reasonable attorney's fee.  Upon a finding sustaining the protest in whole or
+in
+part, the court may declare the sale to be a sale in error under Section 255
+or Section 405, and shall direct the county clerk to return all or part of
+the redemption money or deposit to the party redeeming.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-330">
+            <num>330</num>
+            <heading>Extension of period of redemption</heading>
+            <content>
+              <p>The
+purchaser or his or her assignee of a mobile home
+sold for nonpayment of taxes may extend
+the period of redemption at any time before the expiration of the
+original period of redemption, or thereafter prior to the expiration of any
+extended period of redemption, for a period which will expire not later than 3
+years from the date of sale, by filing with the county clerk of
+the county in which the mobile home is located a written notice to that
+effect describing the mobile home, stating the date of the sale and
+specifying the extended period of redemption.  If prior to the
+expiration of the period of redemption or extended period of redemption
+a petition for tax certificate of title has been filed under Section
+390, upon application of the petitioner, the court shall allow the
+purchaser or his or her assignee to extend the period of redemption after
+expiration of the original period or any extended period of redemption,
+provided that any extension allowed will expire not later than 3 years from the
+date of sale.  If the period of redemption is extended, the purchaser or his or
+her assignee must give the notices provided for in Section 370 at the
+specified times prior to the expiration of the extended period of redemption by
+causing a sheriff (or if he or she is disqualified, a coroner) of the county in
+which the mobile home, or any part thereof, is located to serve the notices as
+provided in Sections 375 and 380.
+The notices may also be served as provided in Sections 375 and 380 by a
+special process server.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-335">
+            <num>335</num>
+            <heading>Effect of receipt of redemption money, forfeiture,
+withdrawal, or return of certificate</heading>
+            <content>
+              <p>The receipt of the
+redemption money on any mobile home
+by any purchaser or assignee, on account of
+any forfeiture or withdrawal, or the return of the certificate of purchase,
+withdrawal or forfeiture for cancellation, shall operate as a release of the
+claim to the mobile home under, or by virtue
+of, the purchase, withdrawal, or forfeiture.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-340">
+            <num>340</num>
+            <heading>County clerk to pay successor redemption money collected</heading>
+            <content>
+              <p>At
+the expiration of his or her term of office, the county clerk shall pay over to
+the successor in office all moneys in his or her hands received for redemption
+from sale for taxes on a mobile home.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-345">
+            <num>345</num>
+            <heading>Notice of order setting aside redemption</heading>
+            <content>
+              <p>The order shall
+provide that any person who was entitled to redeem may pay to the county clerk
+within 30 days after the entry of the order the amount necessary to redeem the
+mobile home from the sale as of the last day of the period of redemption. The
+county clerk shall make an entry in the annual tax judgment, sale, redemption,
+and forfeiture record reflecting the entry of the order and shall immediately
+upon request provide an estimate of the amount required to effect a redemption
+as of the last date of the period of redemption. If the amount is paid within
+30 days after entry of the order, then  the court shall enter an order
+declaring the taxes to be paid as if the mobile home had been redeemed within
+the time required by law and dismissing the petition for tax certificate of
+title.  A tax certificate of title
+shall not be issued within the 30-day period.  Upon surrender of the
+certificate of purchase, the county clerk shall distribute the funds deposited
+as if a timely redemption had been made.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-350">
+            <num>350</num>
+            <heading>Waste; appointment of receiver</heading>
+            <content>
+              <p>After any sale of mobile homes
+under this Act and until a tax certificate of title has been issued or until
+redemption has been made, no waste shall be committed on any of the mobile
+homes involved. The court which ordered the mobile home to be sold may, upon
+verified petition of the holder of the certificate of purchase, take such
+action as the court deems necessary and desirable to prevent the commission of
+waste. If the mobile home sold is abandoned or if any mobile home park owner,
+municipality or other local
+governmental body has legal action pending because the mobile home violates
+local building, housing, or fire ordinances,
+or mobile home park rules and regulations,
+or because the taxes on the mobile
+home are delinquent for 2 or more years, the court which ordered the mobile
+home to be sold may, upon verified petition of the holder of the certificate of
+purchase, enter an order for appointment of a receiver. Notice of the hearing
+for appointment of the receiver shall be given to the owner or owners of the
+mobile home and to the person in whose name the taxes were last assessed, by
+certified or registered mail sent to their last known addresses, at least 5
+days prior to the date of the hearing. The receiver may take only that action, subject to court approval, as is
+necessary for the preservation of the mobile home or is necessary
+to correct conditions at the mobile home that fail to conform to
+minimum standards of health and safety, as set forth in local ordinances or
+mobile home park rules and regulations. If a
+receiver is appointed, all costs and expenses advanced by the
+receiver shall be repaid as provided for in Section 300
+before any redemption is considered complete.  The receiver shall  be
+discharged upon redemption from the tax sale or upon entry of an order
+directing issuance of a tax certificate of title.  Nothing herein contained is
+intended to
+prevent a court from appointing the holder of the certificate of purchase as
+receiver.  The holder of the certificate of purchase
+shall be made a party to any action or proceeding to demolish or destroy
+a mobile home where the mobile home has been sold for failure
+to pay taxes and the period of redemption has not expired.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-355">
+            <num>355</num>
+            <heading>Action for collection of taxes</heading>
+            <content>
+              <p>The
+county board may, at any time after final judgment and order of sale against a
+delinquent mobile home under Section 120, institute a civil action in the name
+of the People of the State of Illinois in the circuit court for the whole
+amount due for taxes on the delinquent or forfeited
+mobile home. Any county, city, village, incorporated town, school district or
+other municipal corporation to which any tax is due, may,
+at any time after final judgment under Section 120, institute a civil action
+in its own name, in the circuit court, for the amount of the tax
+due to it on the delinquent or forfeited mobile home, and prosecute the same to
+final judgment. On the sale of any mobile home following judgment in the civil
+action, the county, city, village, incorporated town, school district or
+other municipal corporation, interested in the collection of the tax, may
+become purchaser at the sale. If the mobile home so sold is not redeemed the
+purchaser may acquire, hold, sell or dispose of the title thereto, the same as
+individuals may do under the laws of this State.  In any action for
+delinquent or forfeited taxes, the fact that the mobile home was assessed to a
+person shall be prima facie evidence that the person was the owner thereof, and
+was liable for the taxes for the year or years for which the assessment was
+made.  That fact may be proved by the introduction in evidence of the proper
+assessment book or roll, or other competent proof.  Any judgment rendered for
+delinquent or forfeited taxes under this Section shall include the costs of the
+action and reasonable attorney's fees.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-360">
+            <num>360</num>
+            <heading>Tax foreclosure proceedings</heading>
+            <content>
+              <p>In tax
+foreclosure proceedings, the purchaser or assignee shall file a petition for a
+certificate of title in the proceeding in which the foreclosure order was
+entered.  Notice of the filing of the petition and of the hearing on the
+petition shall be given in conformity with rule or practice of court in regard
+to motions as in other civil actions.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-365">
+            <num>365</num>
+            <heading>Notice of sale and redemption rights</heading>
+            <content>
+              <p>In order to be
+entitled to a tax certificate of title, within 4 months and 15 days after any
+sale held under this Act, the purchaser
+or his or her assignee shall deliver to the county clerk a notice
+to be given to the party in whose name the taxes are last assessed as
+shown by the most recent tax collector's warrant books, in at least 10
+point type in the following form completely filled in: TAKE NOTICE County of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Date Premises Sold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Certificate No. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Sold for Taxes of (year) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Warrant No. ...............   Inst. No. ................. THIS PROPERTY HAS BEEN SOLD FOR DELINQUENT TAXES Property located at . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Mobile Home Vehicle Identification No. (or other unique description) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . This notice is to advise you that the above mobile home has  been
+sold for delinquent taxes and that the period of redemption from
+the sale will expire on . This notice is also to advise you that a petition will be filed for a
+tax certificate of title which will transfer certificate of title and the right
+to possession
+of this mobile home if redemption is not made on or before . At the date of this notice the total amount which you must pay in order
+to redeem the above mobile home is . YOU ARE URGED TO REDEEM IMMEDIATELY TO PREVENT LOSS OF PROPERTY Redemption can be made at any time on or before .... by applying to
+the County Clerk of .... County, Illinois at the County Court House in
+...., Illinois. The above amount is subject to increase at 6 month intervals from the
+date of sale.  Check with the county clerk as to the exact amount you owe
+before redeeming.  Payment must be made by certified check, cashier's check,
+money order, or in cash. For further information contact the County Clerk. ............................... Purchaser or Assignee Dated (insert date). Within 10 days after receipt of said notice, the county clerk shall mail
+to the addresses supplied by the purchaser or assignee, by registered or
+certified mail, copies of said notice to the party in whose name the taxes
+are last assessed as shown by the most recent tax collector's warrant books.
+The purchaser or assignee shall pay to the clerk postage plus the sum of $10.
+The clerk shall write or stamp the date of receiving the notices upon the
+copies of the notices, and retain one copy.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-370">
+            <num>370</num>
+            <heading>Notice of expiration of period of redemption</heading>
+            <content>
+              <p>A purchaser or
+assignee shall not be entitled to a tax certificate of title to the
+mobile home sold unless, not less than 3 months nor more than 6 months prior to
+the expiration of the period of redemption, he or she gives notice of the
+sale and the date of expiration of the period of redemption to the
+owners, occupants, and parties interested in the mobile home as
+provided below. The Notice to be given to the parties shall be in at least 10 point
+type in the following form completely filled in: TAX DEED NO. ....................  FILED .................... TAKE NOTICE County of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Date Premises Sold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Certificate No. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Sold for Taxes of (year) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Warrant No. ................  Inst. No. ................. THIS PROPERTY HAS BEEN SOLD FOR DELINQUENT TAXES Property located at . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Mobile Home Vehicle Identification No. (or other unique description) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . This notice is to advise you that the above mobile home has
+been sold for delinquent taxes and that the period of
+redemption from the sale will expire on . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . The amount to redeem is subject to increase at 6 month intervals from
+the date of sale and may be further increased if the purchaser at the tax
+sale or his or her assignee pays any subsequently accruing taxes
+to redeem the mobile home from subsequent forfeitures or tax sales.
+Check with the county clerk as to the exact amount you owe before redeeming. This notice is also to advise you that a petition has been filed for
+a tax certificate of title which will transfer certificate of title and the right to possession
+of this mobile home if redemption is not made on or before . This matter is set for hearing in the Circuit Court of this county in
+...., Illinois on ..... You may be present at this hearing but your right to redeem will
+already have expired at that time. YOU ARE URGED TO REDEEM IMMEDIATELY TO PREVENT LOSS OF PROPERTY Redemption can be made at any time on or before ....  by applying to
+the County Clerk of .... County, Illinois at the County Court House in
+...., Illinois. For  further  information   contact  the  County   Clerk. .......................... Purchaser or Assignee.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-296, eff. 8-24-17.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-375">
+            <num>375</num>
+            <heading>Service of notice</heading>
+            <subsection eId="sec_35-516-375__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>as to individuals, by</p>
+              </content>
+              <paragraph eId="sec_35-516-375__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>leaving a copy of the notice with the person personally or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-375__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>by leaving a copy at his or her usual place of residence with a person of the family, of the age of 13 years or more, and informing that person of its contents.  The person making the service shall cause a copy of the notice to be sent by registered or certified mail, return receipt requested, to that party at his or her usual place of residence;</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-375__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>as to public and private corporations, municipal, governmental and quasi-municipal corporations, partnerships, receivers and trustees of corporations, by leaving a copy of the notice with the person designated by the Civil Practice Law. When a party interested in the mobile home is a trustee, notice served upon
+the trustee shall be deemed to have been served upon any beneficiary or note
+holder thereunder unless the holder of the note is disclosed of record. When a judgment is a lien upon the mobile home sold, the holder
+of the lien shall be served with notice if the name of the judgment debtor as
+shown in the transcript, certified copy or  memorandum of judgment
+filed of record is identical, as to given name and surname, with the
+name of the party interested as it appears of record. If any owner or party interested, upon diligent inquiry and effort,
+cannot be found or served with notice in the county as provided in this
+Section, and the person in actual occupancy and possession is tenant to, or in
+possession under the owners or the parties interested in the mobile home, then
+service of notice upon the tenant, occupant or person in possession
+shall be deemed service upon the owners or parties interested. If any owner or party interested, upon diligent inquiry and effort
+cannot be found or served with notice in the county, then the person making the
+service shall cause a copy of the notice to be sent by
+registered or certified mail, return
+receipt requested, to that party at his or her residence, if ascertainable.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-380">
+            <num>380</num>
+            <heading>Proof of service of notice; publication of notice</heading>
+            <subsection eId="sec_35-516-380__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>notice of the filing of the
+petition for tax certificate of title,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-380__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>the date on which the petitioner
+intends to make application for an order on the petition that a tax certificate
+of title issue,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-380__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>a description of the mobile home,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-380__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>the date upon which
+the mobile home was sold,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-380__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>the taxes for which it was sold and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-380__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>the date
+on which the period of redemption will expire. The publication shall not
+include more than one mobile home listed and sold in one description, except as
+provided in Section 35, and except that when more than one mobile home is owned
+by one person, all of the mobile homes owned by that person may be included in
+one notice.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-385">
+            <num>385</num>
+            <heading>Mailed notice</heading>
+            <content>
+              <p>In addition to the notice required to be
+served not less than 3 months nor more than 5 months prior to the expiration of
+the period of redemption, the purchaser or his or her assignee shall prepare
+and deliver to the clerk of the circuit court of the county in which the mobile
+home is located, the notice provided for in this Section, together with the
+statutory costs for mailing the notice by certified mail, return receipt
+requested.  The form of notice to be mailed by the clerk shall be
+identical in form to that provided by Section 370 for service upon owners
+residing in the mobile home sold, except that it shall bear the signature of
+the clerk and shall designate the parties to whom it is to
+be mailed.  The clerk may furnish the form.  The clerk
+shall promptly mail the notices delivered to him or her by certified mail,
+return receipt requested. The certificate of the clerk that he or she has
+mailed the notices, together with the return receipts, shall be filed
+in and made a part of the court record.  The notices shall be
+mailed to the owners of the mobile home at their last known addresses, and
+to those persons who are entitled to service of notice as occupants.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-390">
+            <num>390</num>
+            <heading>Petition for certificate of title</heading>
+            <content>
+              <p>At any time within 6 months
+but not less than 3 months prior to the expiration of the redemption period for
+a mobile home sold pursuant to judgment and order of sale under Sections 55
+through 65 or 200, the purchaser or his or her assignee may file a petition in
+the circuit court in the same proceeding in which the judgment and order of
+sale were entered, asking that the court direct the county clerk to issue a tax
+certificate of title if the mobile home is not redeemed from the sale. The
+petition shall be accompanied by the statutory filing fee. Notice of filing the petition and the date on which the petitioner intends to
+apply for an order on the petition that a certificate of title be issued if the
+mobile home is not
+redeemed shall be given to occupants, owners, and persons interested in the
+mobile home as part of the notice provided in Sections 370 through 385, except
+that only one publication is required. The county clerk shall be notified of
+the filing of the petition and any person owning or interested in the mobile
+home may, if he or she desires, appear in the proceeding.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-296, eff. 8-24-17.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-395">
+            <num>395</num>
+            <heading>Reimbursement of a county or municipality before issuance of tax
+certificate of title</heading>
+            <content>
+              <p>Except in any proceeding in which the tax purchaser is a county acting as trustee for taxing districts as provided in Section 35,  an order for the issuance of a tax certificate of title
+under this Act shall not be entered affecting the title to or interest in any
+mobile home in which a county, city, village, or incorporated town has an interest
+under the police and welfare power by
+advancements made from public funds, until the purchaser or assignee makes
+reimbursement to the county, city, village, or incorporated town of the money so
+advanced or the county, city, village, or town waives its lien on the mobile home for
+the money so advanced.  However, in lieu of reimbursement or waiver, the
+purchaser or his or her
+assignee may make application for and the court shall order that the tax
+purchase be set aside as a sale in error.  A filing or appearance fee shall not
+be required of a county, city, village, or incorporated town seeking to enforce its
+claim under this Section in a tax certificate of title proceeding. The changes made by this amendatory Act of the 94th General Assembly are intended to be declarative of existing law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1162, eff. 6-1-15 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-400">
+            <num>400</num>
+            <heading>Issuance of certificate of title; possession</heading>
+            <subsection eId="sec_35-516-400__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If the redemption period expires
+and the mobile home has not been redeemed and all taxes
+which became due and payable subsequent to the sale have been paid and all
+forfeitures and sales which occur subsequent to the sale have been redeemed and
+the notices required by law have been given and all advancements of public
+funds under the police power made by a city, village, or town under Section
+395 have been paid and the petitioner has complied with all the provisions of
+law entitling him or her to a certificate of title, the court shall so find and shall enter an
+order directing the Secretary of State on the production of the certificate of
+purchase and a certified copy of the order, to issue to the purchaser or his or
+her assignee a tax certificate of title.  The court shall insist on strict
+compliance with
+Sections 370 through 385.  Prior to the entry of an order directing the
+issuance of a tax certificate of title, the petitioner shall furnish the court
+with a report of
+proceedings of the evidence received on the application for tax certificate of
+title and the
+report of proceedings shall be filed and made a part of the court record.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>If taxes for years prior to the year sold remain delinquent at the
+time of the tax certificate of title hearing, those delinquent taxes may be
+merged into the tax
+certificate of title if the court determines that all other requirements for
+receiving an order directing the issuance of the tax certificate of title are
+fulfilled and makes a further determination under either paragraph</p>
+              </content>
+              <paragraph eId="sec_35-516-400__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-400__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Incomplete estimate. (A) The mobile home in question was purchased at an annual sale; and (B) the statement and estimate of forfeited taxes furnished by the county clerk pursuant to Section 175 failed to include all delinquent taxes as of the date of that estimate's issuance.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-400__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Vacating order. (A) The petitioner furnishes the court with a certified copy of an order vacating a prior sale for the subject mobile home; (B) the order vacating the sale was entered after the date of purchase for the subject taxes; (C) the sale in error was granted pursuant to paragraphs</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-400__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-400__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 255 or Section 395; and (D) the tax purchaser who received the sale in error has no affiliation, direct or indirect, with the petitioner in the present proceeding and that petitioner has signed an affidavit attesting to the lack of affiliation. If delinquent taxes are merged into the tax certificate of title pursuant to this subsection, a
+declaration to that effect shall be included in the order directing issuance
+of the tax certificate of title.  Nothing contained in this Section shall
+relieve any owner
+liable for delinquent mobile home taxes under the Mobile Home Local Services
+Tax
+Act from the payment of the taxes that have been merged into the title upon
+issuance of the tax certificate of title.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-400__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon application the court shall enter an order to place the tax
+certificate of title
+grantee in possession of the mobile home and may enter orders and grant relief
+as
+may be necessary or desirable to maintain the grantee in possession.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-402">
+            <num>402</num>
+            <heading>Mobile homes located in manufactured home community;
+requirements</heading>
+            <subsection eId="sec_35-516-402__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A person, other than a county acting as trustee for taxing districts, as provided in Section 35, who has a certificate of purchase and obtains a court
+order directing the issuance of a tax certificate of title under Section 400
+for a mobile home located on a lot in a manufactured home community is liable
+for lot rent (at the prevailing rate) beginning on the date of the entry of the
+court order and shall either</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-402__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>qualify for tenancy in the manufactured home
+community in accordance with the community's normal tenant qualification and
+screening procedures or (ii) remove the mobile home from the lot no later than
+30 days after the date of the entry of the court order.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-402__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A county acting as trustee for taxing districts, as provided in Section 35, that obtains a court order directing the issuance of a tax certificate of title to the county as trustee, under Section 400, for a mobile home located on a lot in a manufactured home community must remove the mobile home from the lot no later than 30 days after the date of the entry of the court order.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-358, eff. 7-29-05.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-405">
+            <num>405</num>
+            <heading>Tax certificate of title incontestable unless order appealed or
+relief
+petitioned</heading>
+            <content>
+              <p>Tax certificates of title issued under Section 395 are
+incontestable except by
+appeal from the order of the court directing the county clerk to issue the tax
+certificate of title.  However, relief from such order may be had under Section
+2-1401
+of the Code of Civil Procedure in the same manner and to the same extent as
+may be had under that Section with respect to final orders and judgments in
+other proceedings.  The grounds for relief under Section 2-1401 shall be
+limited to: (1) proof that the taxes were paid prior to sale; (2) proof that the mobile home was exempt from taxation; (3) proof by clear and convincing evidence that the tax certificate of title had been procured by fraud or deception by the tax purchaser or his or her assignee; or (4) proof by a person or party holding a recorded ownership or other recorded interest in the mobile home that he or she was not named as a party in the publication notice as set forth in Section 380, and that the tax purchaser or his or her assignee did not make a diligent inquiry and effort to serve that person or party with the notices required by Sections 370 through 390. The court hearing a petition filed under this Section
+or Section 2-1401 of the Code of Civil Procedure may concurrently hear a
+petition filed under Section 235 and may grant relief under either Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-410">
+            <num>410</num>
+            <heading>Denial of certificate of title</heading>
+            <content>
+              <p>If the court refuses to enter an
+order
+directing the Secretary of State to execute and deliver the tax certificate of
+title, because
+of the failure of the purchaser to fulfill any of the above provisions, and if
+the purchaser, or his or her assignee has made a bona fide attempt to comply
+with the statutory requirements for the issuance of the tax certificate of
+title, it shall
+order the return of the purchase price, and subsequent taxes and posted costs
+forthwith, as in case of sales in error,
+except that no interest shall be paid.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-412">
+            <num>412</num>
+            <heading>Tax certificate of titles to convey merchantable title</heading>
+            <content>
+              <p>This
+Section shall be liberally construed so that tax certificate of titles shall
+convey merchantable
+title.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-415">
+            <num>415</num>
+            <heading>Form of certificate of title</heading>
+            <content>
+              <p>A tax certificate of title
+executed by the Secretary of State
+vests in the grantee the certificate of title of the mobile home therein
+described
+without further acknowledgment or evidence of the conveyance.  The conveyance
+shall be substantially in the following form: At a public sale of mobile homes for the nonpayment of taxes, held in the
+.... County, on (insert date), the following described mobile home
+was sold:
+(here place description of mobile home conveyed).  The mobile home not having
+been
+redeemed from the sale, and it appearing that the holder of the certificate of
+purchase of the mobile home has complied with the laws of the State of Illinois
+necessary to entitle (insert him, her or them) to a certificate of title of the mobile home: I
+...., (Secretary of State official) ...., in consideration of the mobile home and
+by virtue of the statutes of the State of Illinois in such cases provided,
+issue a certificate of title to .... for the mobile home described above. Dated (insert date). Signature of .................... (Secretary of State)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-420">
+            <num>420</num>
+            <heading>Certificate of title; prima facie evidence of regularity of
+sale</heading>
+            <subsection eId="sec_35-516-420__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As to the mobile home conveyed therein, tax certificates of title
+executed by the Secretary of State are prima
+facie evidence of the following facts in all controversies and suits in
+relation to the rights of the tax certificate of title grantee and his or her
+heirs or assigns:</p>
+              </content>
+              <paragraph eId="sec_35-516-420__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the mobile home conveyed was subject to taxation at the time the tax was charged and was listed and charged in the time and manner required by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-420__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the taxes were not paid at any time before the sale;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-420__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the mobile home was advertised for sale in the manner and for the length of time required by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-420__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the mobile home was sold for taxes as stated in the certificate of title;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-420__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the sale was conducted in the manner required by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-420__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the mobile home conveyed was not redeemed from the sale within the time permitted by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-420__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>the grantee in the certificate of title was the purchaser or assignee of the purchaser.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-420__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any order for the sale of a mobile home for delinquent taxes, except as
+otherwise
+provided in this Section, shall estop all parties from raising any objections
+to the order or to a tax certificate of title based thereon, which existed at
+or before the
+rendition of the order, and which could have been presented as a defense to the
+application for the order.  The order itself is conclusive evidence of its
+regularity and validity in all collateral proceedings, except in cases where
+the tax was paid prior to the sale or the mobile home was exempt from taxes.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-425">
+            <num>425</num>
+            <heading>Order of court setting aside tax certificate of title; payments
+to holder
+of certificate of title</heading>
+            <subsection eId="sec_35-516-425__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any order of court vacating an order directing the Secretary of State to
+issue a tax certificate of title based upon a finding that the mobile home was
+not subject to
+taxation, or that the taxes had
+been paid prior to the sale of the mobile home, or that the tax sale was otherwise
+void, shall declare the tax sale to be a sale in error pursuant to Section
+255 of this Act.  The order shall direct the county
+collector to refund to the tax certificate of title grantee or his or her successors and
+assigns (or, if a tax certificate of title has not yet issued, the holder of the certificate of
+purchase) the following amounts:</p>
+              </content>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>all taxes purchased, paid, or redeemed by the tax purchaser or his or her assignee, or by the tax certificate of title grantee or his or her successors and assigns, whether before or after entry of the order for tax certificate of title, with interest at the rate of 1% per month from the date each amount was paid until the date of payment pursuant to this Section;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>all costs paid and posted to the judgment record and not included in paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>court reporter fees for the hearing on the application for tax certificate of title and transcript thereof, cost of certification of tax certificate of title order, cost of issuance of tax certificate of title, and cost of transferring certificate of title to the tax purchaser.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-425__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except in those cases described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-516-425__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Section, and
+unless the court on motion of the tax certificate of title petitioner extends the redemption
+period to a date not later than 3 years from the date of sale, any order of
+court finding that an order directing the Secretary of State to issue a tax
+certificate of title
+should be vacated shall direct the party who successfully contested the entry
+of the order to pay to the tax certificate of title grantee or his or her successors and
+assigns
+(or, if a tax certificate of title has not yet issued, the holder of the certificate)
+within 90 days after the date of the finding:</p>
+              </content>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the amount necessary to redeem the mobile home from the sale as of the last day of the period of redemption, except that, if the sale is a scavenger sale pursuant to Section 200 of this Act, the redemption amount shall not include an amount equal to all delinquent taxes on such mobile home which taxes were delinquent at the time of sale; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>amounts in satisfaction of municipal liens paid by the tax purchaser or his or her assignee, and the amounts specified in paragraphs</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-425__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Section, to the extent the amounts are not included in paragraph</p>
+              </content>
+              <paragraph eId="sec_35-516-425__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-516-425__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>until the payment has been made.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-430">
+            <num>430</num>
+            <heading>Failure to timely transfer certificate of title; tax certificate of title is void</heading>
+            <content>
+              <p>Unless the holder of the certificate purchased at any tax sale under this Act
+transfers the certificate of title within one
+year from and after the time for redemption expires, the certificate of
+purchase or order for tax certificate of title,
+and the sale on which it is based, shall, after the expiration of the one year
+period, be absolutely void with no right to reimbursement.  If the holder of
+the certificate of purchase is prevented from obtaining a certificate of title
+by injunction or
+order of
+any court, or by the refusal or inability of any court to act upon the
+application for a tax certificate of title, or by the refusal of the Secretary
+of State to
+execute the same
+certificate of title, the time he or she is so prevented shall be excluded from
+computation of
+the one year period.  Certificates of purchase and orders for tax certificates
+of title
+executed by the court shall recite the qualifications required in this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-905">
+            <num>905</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 92-807, eff. 1-1-03; text omitted.) (35 ILCS 516/910)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-910">
+            <num>910</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 92-807, eff. 1-1-03; text omitted.) (35 ILCS 516/995)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-995">
+            <num>995</num>
+            <heading>No acceleration or delay</heading>
+            <subsection eId="sec_35-516-995__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the changes
+made by this Act or (ii) provisions derived from any other Public Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-516-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect on January 1, 2003.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-807, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

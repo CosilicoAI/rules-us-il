@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-180"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-180"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-180"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-180/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-180/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-180/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-180/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_180">
+          <num>35 ILCS 180/</num>
+          <heading>Rental Purchase Agreement Occupation and Use Tax Act</heading>
+          <section eId="sec_35-180-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Rental Purchase Agreement Occupation and Use Tax Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act: &quot;Consumer&quot; means an individual who leases personal property under a rental-purchase agreement. &quot;Department&quot; means the Department of Revenue. &quot;Gross receipts&quot; from the renting of tangible personal property or &quot;rent&quot; means the total rental price or leasing price. In the case of rental transactions in which the consideration is paid to the merchant on an installment basis, the amounts of such payments shall be included by the merchant in gross receipts or rent only as and when payments are received by the merchant.
+    &quot;Gross receipts&quot; does not include receipts received by a merchant for delivery fees, reinstatement fees, processing fees, waiver fees or club program fees. &quot;Merchandise&quot; means the personal property that is the subject of a rental-purchase agreement. &quot;Merchant&quot; means a person who, in the ordinary course of business, regularly leases, offers to lease or arranges for the leasing of merchandise under a rental-purchase agreement, and includes a person who is assigned an interest in a rental-purchase agreement. &quot;Person&quot; means any natural individual, firm, partnership, association, joint stock company, joint adventure, public or private corporation, limited liability company, or a receiver, executor, trustee, conservator or other representative appointed by order of any court. &quot;Rental price&quot; means the consideration for renting merchandise valued in money, whether received in money or otherwise, including cash credits, property and services, and shall be determined without any deduction on account of the cost of the property rented, the cost of materials used, labor or service cost, or any other expense whatsoever, but does not include charges that are added by a merchant on account of the merchant's tax liability under this Act or on account of the merchant's duty to collect, from the consumer, the tax that is imposed by Section 4 of this Act. The phrase &quot;rental price&quot; does not include compensation paid to a merchant by a consumer in consideration of the waiver by the merchant of any right of action or claim against the consumer for loss or damage to the merchandise rented and also does not include a separately stated charge for insurance or other separately stated charges that are not for the use of tangible personal property. &quot;Rental purchase agreement&quot; means an agreement for the use of merchandise by a consumer for personal, family, or household purposes for an initial period of 4 months or less that is automatically renewable with each payment after the initial period and that permits the consumer to become the owner of the merchandise. &quot;Renting&quot; means any transfer of the possession or right to possession of merchandise to a user for a valuable consideration under a rental-purchase agreement.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-10">
+            <num>10</num>
+            <heading>Rental Purchase Agreement Occupation Tax</heading>
+            <content>
+              <p>A tax is imposed upon persons engaged in this State in the business of renting merchandise under a rental-purchase agreement in Illinois at the rate of 6.25% of the gross receipts received from the business. Every person engaged in this State in the business of renting merchandise shall apply to the Department (upon a form prescribed and furnished by the Department) for a certificate of registration under this Act. The certificate of registration which is issued by the Department to a retailer under the Retailers' Occupation Tax Act shall permit the merchant to engage in a business that is taxable under this Section without registering separately with the Department. The Department shall have full power to administer and enforce this Section, to collect all taxes and penalties due hereunder, to dispose of taxes and penalties so collected in the manner hereinafter provided, and to determine all rights to credit memoranda, arising on account of the erroneous payment of tax or penalty hereunder. In the administration of, and compliance with, this Section, the Department and persons who are subject to this Section shall have the same rights, remedies, privileges, immunities, powers and duties, and be subject to the same conditions, restrictions, limitations, penalties and definitions of terms, and employ the same modes of procedure, as are prescribed in Sections 1, 1a, 2, 2-10 through 2-65 (in respect to all provisions therein other than the State rate of tax), 2a, 2b, 2c, 3 (except provisions relating to transaction returns), 4, 5, 5a, 5b, 5c, 5d, 5e, 5f, 5g, 5i, 5j, 6, 6a, 6b, 6c, 7, 8, 9, 10, 11, 11a, 12, and 13 of the Retailers' Occupation Tax Act and Section 3-7 of the Uniform Penalty and Interest Act as fully as if those provisions were set forth herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-15">
+            <num>15</num>
+            <heading>Rental Purchase Agreement Use Tax</heading>
+            <content>
+              <p>A tax is imposed upon the privilege of using, in this State, merchandise which is rented from a merchant. Such tax is at the rate of 6.25% of the rental price paid to the merchant under any rental purchase agreement. The tax hereby imposed shall be collected from the consumer by a merchant maintaining a place of business in this State and remitted to the Department. The tax hereby imposed and not paid to a merchant pursuant to the preceding paragraph of this Section shall be paid to the Department directly by any person using such merchandise within this State. Merchants shall collect the tax from consumers by adding the tax to the rental price of the merchandise, when rented for use, in the manner prescribed by the Department. The Department shall have the power to adopt and promulgate reasonable rules and regulations for the adding of such tax by merchants to rental prices by prescribing bracket systems for the purpose of enabling such merchants to add and collect, as far as practicable, the amount of such tax. The tax imposed by this Section shall, when collected, be stated as a distinct item separate and apart from the rental price of the merchandise. The Department shall have full power to administer and enforce this Section; to collect all taxes, penalties and interest due hereunder; to dispose of taxes, penalties and interest so collected in the manner hereinafter provided, and to determine all rights to credit memoranda or refunds arising on account of the erroneous payment of tax, penalty or interest hereunder. In the administration of, and compliance with, this Section, the Department and persons who are subject to this Section shall have the same rights, remedies, privileges, immunities, powers, and duties, and be subject to the same conditions, restrictions, limitations, penalties, and definitions of terms, and employ the same modes of procedure, as are prescribed in Sections 2, 3, 3-10 through 3-80, 4, 6, 7, 8, 9 (except provisions relating to transaction returns), 10, 11, 12, 12a, 12b, 13, 14, 15, 19, 20, 21, and 22 of the Use Tax Act, and are not inconsistent with this Section, as fully as if those provisions were set forth herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-20">
+            <num>20</num>
+            <heading>Electronic filing and payment</heading>
+            <content>
+              <p>Any return or document that is required to be filed under this Act shall be filed electronically, in the form and manner required by the Department. Any payment required to be made under this Act shall be paid electronically, in the form and manner required by the Department. The Department shall grant a waiver of the electronic filing or payment requirement under this Section for any taxpayer who petitions the Department and demonstrates undue hardship in complying with the electronic filing or payment requirement. The waiver shall be for a period not to exceed 2 years, but may be renewed an unlimited number of times for periods not to exceed 2 years each.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-25">
+            <num>25</num>
+            <heading>Deposit of taxes</heading>
+            <subsection eId="sec_35-180-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each month, from the net revenue realized for the preceding month, the Department shall pay an amount estimated by the Department to be required for refunds of the tax under this Act, which shall be deposited into the Rental Purchase Agreement Tax Refund Fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-180-25__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Of the remainder of funds after the deposit under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-180-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Section:</p>
+              </content>
+              <paragraph eId="sec_35-180-25__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>each month the Department shall pay into the State and Local Sales Tax Reform Fund 20% of the net revenue realized for the preceding month from the tax imposed under this Act; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-180-25__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>each month the Department shall pay into the General Revenue Fund 80% of the net revenue realized for the preceding month from the tax imposed under this Act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-30">
+            <num>30</num>
+            <heading>One-Time Transitional Use Tax Credit</heading>
+            <content>
+              <p>Within 3  months after the effective date of this Act, the merchant shall file an application (upon a form prescribed and furnished by the Department) to receive a one-time credit for the Use Tax paid on merchandise subject to tax under this Act purchased during the 6 months immediately prior to the effective date of this Act. The Department shall issue a credit equal to the total Use Tax paid in the 6 months immediately prior to the effective date of this Act. Upon the issuance of the credit, the merchant may apply the credit against the tax imposed under this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-35">
+            <num>35</num>
+            <heading>Applicability</heading>
+            <content>
+              <p>This Act does not apply to tangible personal property which is required to be titled and registered by a State agency.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-40">
+            <num>40</num>
+            <heading>Rulemaking</heading>
+            <content>
+              <p>The Department may make such rules as it may deem necessary to implement the purposes of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-45">
+            <num>45</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 100-437, eff. 1-1-18; text omitted.) (35 ILCS 180/50)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-50">
+            <num>50</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 100-437, eff. 1-1-18; text omitted.) (35 ILCS 180/55)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-55">
+            <num>55</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 100-437, eff. 1-1-18; text omitted.) (35 ILCS 180/99)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-180-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect January 1, 2018.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-437, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

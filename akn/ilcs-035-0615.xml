@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-615"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-615"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-615"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-615/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-615/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-615/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-615/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_615">
+          <num>35 ILCS 615/</num>
+          <heading>Gas Revenue Tax Act</heading>
+          <section eId="sec_35-615-1">
+            <num>1</num>
+            <heading>For the purposes of this Act: &quot;Gross receipts&quot; means the consideration received for gas
+distributed, supplied, furnished or sold to persons for use or
+consumption and not for resale, and for all services (including the
+transportation or storage of gas for an end-user) rendered in connection
+therewith, and shall include cash, services and property of every kind or
+nature, and shall be determined without any deduction on account of the
+cost of the service, product or commodity supplied, the cost of materials
+used, labor or service costs, or any other expense whatsoever</heading>
+            <subsection eId="sec_35-615-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>any minimum or other charge for gas or gas service where the customer has taken no therms of gas; (ii) any charge for a dishonored check; (iii) any finance or credit charge, penalty or charge for delayed payment, or discount for prompt payment; (iv) any charge for reconnection of service or for replacement or relocation of facilities;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-615-1__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>any advance or contribution in aid of construction; (vi) repair, inspection or servicing of equipment located on customer premises; (vii) leasing or rental of equipment, the leasing or rental of which is not necessary to distributing, furnishing, supplying, selling, transporting or storing gas; (viii) any sale to a customer if the taxpayer is prohibited by federal or State constitution, treaty, convention, statute or court decision from recovering the related tax liability from such customer; (ix) any charges added to customers' bills pursuant to the provisions of Section 9-221 or Section 9-222 of the Public Utilities Act, as amended, or any charges added to customers' bills by taxpayers who are not subject to rate regulation by the Illinois Commerce Commission for the purpose of recovering any of the tax liabilities or other amounts specified in such provisions of such Act; and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-615-1__subsec_x">
+              <num>(x)</num>
+              <content>
+                <p>prior to October 1, 2003, any charge for gas or gas services to a customer who acquired contractual rights for the direct purchase of gas or gas services originating from an out-of-state supplier or source on or before March 1, 1995, except for those charges solely related to the local distribution of gas by a public utility.  This exemption includes any charge for gas or gas service, except for those charges solely related to the local distribution of gas by a public utility, to a customer who maintained an account with a public utility (as defined in Section 3-105 of the Public Utilities Act) for the transportation of customer-owned gas on or before March 1, 1995.  The provisions of this amendatory Act of 1997 are intended to clarify, rather than change, existing law as to the meaning and scope of this exemption.  This exemption</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-615-1__subsec_x">
+              <num>(x)</num>
+              <content>
+                <p>expires on September 30, 2003. In case credit is extended, the amount thereof shall be included only as and
+when payments are received. &quot;Gross receipts&quot; shall not include consideration received from business
+enterprises certified under Section 9-222.1 of the Public Utilities
+Act, as amended, to the extent of such exemption and during the
+period of time specified by the Department of Commerce and Economic Opportunity. &quot;Department&quot; means the Department of Revenue of the State of Illinois. &quot;Director&quot; means the Director of Revenue for the Department of Revenue of the
+State of Illinois. &quot;Taxpayer&quot; means a person engaged in the business of distributing, supplying,
+furnishing or selling gas for use or consumption and not for resale. &quot;Person&quot; means any natural individual, firm, trust, estate, partnership,
+association, joint stock company, joint adventure, corporation, limited
+liability company, or a receiver, trustee, guardian or other representative
+appointed by order of any court, or any city, town, county or other political
+subdivision of this State. &quot;Invested capital&quot; means that amount equal to</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-615-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the average of the balances
+at the beginning and end of each taxable period of the taxpayer's total
+stockholder's equity and total long-term debt, less investments in and advances
+to all corporations, as set forth on the balance sheets included in the
+taxpayer's annual report to the Illinois Commerce Commission for the taxable
+period; (ii) multiplied by a fraction determined under Sections 301 and
+304</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-615-1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the &quot;Illinois Income Tax Act&quot; and reported on the Illinois income
+tax return for the taxable period ending in or with the taxable period in
+question. However, notwithstanding the income tax return reporting
+requirement stated above, beginning July 1, 1979, no taxpayer's
+denominators used to compute the sales, property or payroll factors under
+subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-615-1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 304 of the Illinois Income Tax Act shall include
+payroll, property or sales of any corporate entity other than the taxpayer
+for the purposes of determining an allocation for the invested capital tax.
+This amendatory Act of 1982, Public Act 82-1024, is not intended to and
+does not make any change in the meaning of any provision of this Act, it
+having been the intent of the General Assembly in initially enacting the
+definition of &quot;invested capital&quot; to provide for apportionment of the
+invested capital of each company, based solely upon the sales, property and
+payroll of that company. &quot;Taxable period&quot; means each period which ends after the effective date
+of this Act and which is covered by an annual report filed by the taxpayer
+with the Illinois Commerce Commission.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-31, eff. 10-1-03; 94-793, eff. 5-19-06.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-2">
+            <num>2</num>
+            <heading>A tax is imposed upon persons engaged in the business of
+distributing, supplying, furnishing or selling gas to persons for use or
+consumption and not for resale at the rate of 2</heading>
+            <content>
+              <p>4 cents per therm of all
+gas which is so distributed, supplied, furnished, sold or
+transported to or for each customer in
+the course of such business, or 5% of the gross receipts
+received from each customer from
+such business, whichever is the lower rate as applied to each customer
+for that customer's billing period, provided that any change in rate
+imposed by this amendatory
+Act of 1985 shall become effective only with bills having a meter reading
+date on or after January 1, 1986. However, such
+taxes are not imposed with
+respect to any business in interstate commerce, or otherwise to the extent
+to which such business may not, under the Constitution and statutes of the
+United States, be made the subject of taxation by this State. Nothing in this amendatory Act of 1985 shall impose a tax with respect
+to any transaction with respect to which no tax was imposed immediately
+preceding the
+effective date of this amendatory Act of 1985. Beginning with bills issued to customers on and after October 1, 2003, no
+tax shall be
+imposed under this Act on transactions with customers who incur a tax liability
+under the
+Gas Use Tax Law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-31, eff. 10-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-3">
+            <num>3</num>
+            <heading>Return of taxpayer; payment of tax</heading>
+            <content>
+              <p>Except as provided in this Section, on or before the 15th
+day of each month, each taxpayer shall make a return to the Department
+for the preceding calendar month, stating: 1. His name; 2. The address of his principal place of business, and the address of the principal place of business (if that is a different address) from which he engages in the business of distributing, supplying, furnishing or selling gas in this State; 3. The total number of therms for which payment was received by him from customers during the preceding calendar month and upon the basis of which the tax is imposed; 4. Gross receipts which were received by him from customers during the preceding calendar month from such business, including budget plan and other customer-owned amounts applied during such month in payment of charges includible in gross receipts,  and upon the basis of which the tax is imposed; 5. Amount of tax (computed upon Items 3 and 4); 6. Such other reasonable information as the Department may require. In making such return the taxpayer may use any reasonable method to
+derive reportable &quot;therms&quot; and &quot;gross receipts&quot; from his billing and
+payment records. Any taxpayer required to make payments under this Section may make the
+payments by electronic funds transfer.  The Department shall adopt rules
+necessary to effectuate a program of electronic funds transfer. If the taxpayer's average monthly tax liability to the Department
+does not exceed $100.00, the Department may authorize his returns to be
+filed on a quarter annual basis, with the return for January, February
+and March of a given year being due by April 30 of such year; with the
+return for April, May and June of a given year being due by July 31 of
+such year; with the return for July, August and September of a given
+year being due by October 31 of such year, and with the return for
+October, November and December of a given year being due by January 31
+of the following year. If the taxpayer's average monthly tax liability to the Department
+does not exceed $20.00, the Department may authorize his returns to be
+filed on an annual basis, with the return for a given year being due by
+January 31 of the following year. Such quarter annual and annual returns, as to form and substance,
+shall be subject to the same requirements as monthly returns. Notwithstanding any other provision in this Act concerning the time
+within which a taxpayer may file his return, in the case of any taxpayer
+who ceases to engage in a kind of business which makes him responsible
+for filing returns under this Act, such taxpayer shall file a final
+return under this Act with the Department not more than one month after
+discontinuing such business. In making such return the taxpayer shall determine the value of any
+reportable consideration other than money received by him and shall include
+such value in his return.  Such determination shall be subject to review
+and revision by the Department in the same manner  as is provided in this
+Act for the correction of returns. Each taxpayer whose average monthly liability to the Department under
+this Act was $10,000 or more during the preceding calendar year, excluding
+the month of highest liability and the month of lowest liability in such
+calendar year, and who is not operated by a unit of local government, shall
+make estimated payments to the Department on or before the 7th, 15th, 22nd
+and last day of the month during which tax liability to the Department is
+incurred in an amount not less than the lower of either 22.5% of the
+taxpayer's actual tax liability for the month or 25% of the taxpayer's
+actual tax liability for the same calendar month of the preceding year.
+The amount of such quarter monthly payments shall be credited against the
+final tax liability of the taxpayer's return for that month.  Any
+outstanding credit, approved by the  Department, arising from the
+taxpayer's overpayment of its final tax liability
+for any month may be applied to reduce the amount of any subsequent quarter
+monthly payment or credited against the final tax liability of the taxpayer's
+return for any subsequent month.  If any quarter monthly payment is not
+paid at the time or in the amount required by this Section, the taxpayer
+shall be liable for penalty and interest on the difference between the minimum
+amount due as a payment and the amount of such payment actually and timely
+paid, except insofar as the taxpayer has previously made payments for that
+month to the Department in excess of the minimum payments previously due. If the Director finds that the information required for the making of
+an accurate return cannot reasonably be compiled by a taxpayer within 15
+days after the close of the calendar month for which a return is to be
+made, he may grant an extension of time for the filing of such return
+for a period of not to exceed 31 calendar days.  The granting of such an
+extension may be conditioned upon the deposit by the taxpayer with the
+Department of an amount of money not exceeding the amount estimated by
+the Director to be due with the return so extended.  All such deposits,
+including any made before the effective date of this amendatory Act of
+1975 with the Department, shall be credited against the taxpayer's
+liabilities under this Act. If any such deposit exceeds the taxpayer's
+present and probable future liabilities under this Act, the Department
+shall issue to the taxpayer a credit memorandum, which may be assigned
+by the taxpayer to a similar taxpayer under this Act, in accordance with
+reasonable rules and regulations to be prescribed by the Department. The taxpayer making the return provided for in this Section shall, at
+the time of making such return, pay to the Department the amount of tax
+imposed by this Act. All moneys received by the Department under this
+Act shall be paid into the General Revenue Fund in the State Treasury,
+except as otherwise provided. If any payment provided for in this Section exceeds the taxpayer's liabilities under this Act, as shown on an original return, the Department may authorize the taxpayer to credit such excess payment against liability subsequently to be remitted to the Department under this Act, in accordance with reasonable rules adopted by the Department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1171, eff. 1-4-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-5">
+            <num>5</num>
+            <heading>All of the provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e, 5f,
+5g, 5i, 5j, 6b, and 6c of the Retailers' Occupation Tax Act
+which are not inconsistent
+with this Act, and Section 3-7 of the Uniform Penalty and Interest Act
+shall apply, as far as practicable, to the subject matter of this Act to
+the same extent as if such provisions were included herein</heading>
+            <content>
+              <p>References in
+such incorporated Sections of the Retailers' Occupation Tax Act to
+retailers, to sellers or to persons engaged in the business of selling
+tangible personal property mean persons engaged in the business of
+distributing, supplying, furnishing or selling gas when used in this Act.
+References in such incorporated Sections of the Retailers' Occupation Tax
+Act to purchasers of tangible personal property mean purchasers of gas when
+used in this Act. References in such incorporated Sections of the
+Retailers' Occupation Tax Act to sales of tangible personal property mean
+the distributing, supplying, furnishing or selling of gas when used in
+this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-491, eff. 1-1-98.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-6">
+            <num>6</num>
+            <heading>If it appears, after claim therefor filed with the Department,
+that an amount of tax or penalty or interest has been paid which was not
+due under this Act, whether as the result of a mistake of fact or an error of
+law, except as hereinafter provided, then the Department shall issue a credit
+memorandum or refund to the person who made the erroneous payment or, if
+that person has died or become a person under legal disability, to his or
+her legal representative, as such</heading>
+            <content>
+              <p>If it is determined that the Department should issue a credit or refund
+under this Act, the Department may first apply the amount thereof against
+any amount of tax or penalty or interest due hereunder from the person
+entitled to such credit or refund. For this purpose, if proceedings are
+pending to determine whether or not any tax or penalty or interest is due
+under this Act from such person, the Department may withhold issuance of
+the credit or refund pending the final disposition of such proceedings and
+may apply such credit or refund against any amount found to be due to the
+Department as a result of such proceedings. The balance, if any, of the
+credit or refund shall be issued to the person entitled thereto. If no tax or penalty or interest is due and no proceeding is pending to
+determine whether such person is indebted to the Department for tax or
+penalty or interest, the credit memorandum or refund shall be issued to the
+claimant; or (in the case of a credit memorandum) the credit memorandum may
+be assigned and set over by the lawful holder thereof, subject to
+reasonable rules of the Department, to any other person who is subject to
+this Act, and the amount thereof shall be applied by the Department against
+any tax or penalty or interest due or to become due under this Act from
+such assignee. As to any claim for credit or refund filed with the Department on or
+after each January 1 and July 1, no amounts erroneously paid more than 3
+years prior to such January 1 and July 1, respectively, shall be credited
+or refunded, except that if both the Department and the taxpayer have agreed
+to an
+extension of time to issue a notice of tax liability under this Act, the claim
+may be filed at any time prior to the expiration of the period agreed upon. Notwithstanding any other provision of this Act to the contrary, for any period included in a claim for credit or refund for which the statute of limitations for issuing a notice of tax liability under this Act will expire less than 6 months after the date a taxpayer files the claim for credit or refund, the statute of limitations is automatically extended for 6 months from the date it would have otherwise expired. Claims for credit or refund shall be filed upon forms provided by the
+Department. As soon as practicable after any claim for credit or refund is
+filed, the Department shall examine the same and determine the amount of
+credit or refund to which the claimant is entitled and shall notify the
+claimant of such determination, which amount shall be prima facie correct. Any credit or refund that is allowed under this Act shall bear interest
+at the rate and in the manner specified in the Uniform Penalty and Interest
+Act. In case the Department determines that the claimant is entitled to a
+refund, such refund shall be made only from such appropriation as may be
+available for that purpose. If it appears unlikely that the amount
+appropriated would permit everyone having a claim allowed during the period
+covered by such appropriation to elect to receive a cash refund, the
+Department, by rule or regulation, shall provide for the payment of refunds
+in hardship cases and shall define what types of cases qualify as hardship
+cases.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-40, eff. 6-25-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-7">
+            <num>7</num>
+            <heading>Every taxpayer under this Act shall keep books, records, papers
+and other documents which are adequate to reflect the information which
+such taxpayers are required by Section 3 of this Act to report to the
+Department by filing monthly returns with the Department</heading>
+            <content>
+              <p>The Department may adopt rules that establish requirements, including record
+forms and formats, for records required to be kept and maintained by taxpayers.
+For purposes of this Section, &quot;records&quot; means all data maintained by the
+taxpayer, including data on paper, microfilm, microfiche or any type of
+machine-sensible data compilation. All books and
+records and other papers and documents required by this Act to be kept
+shall be kept in the American language and shall, at all times during
+business hours of the day, be subject to inspection by the Department or
+its duly authorized agents and employees. Books and records reflecting
+gross receipts received during any period with respect to which the
+Department is authorized to establish liability as provided in Sections 4
+and 5 of this Act shall be preserved until the expiration of such period
+unless the Department, in writing, authorized their destruction or disposal
+at an earlier date. The Department may, upon written authorization of the Director, destroy
+any returns or any records, papers or memoranda pertaining to such returns
+upon the expiration of any period covered by such returns with respect to
+which the Department is authorized to establish liability.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-480.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-8">
+            <num>8</num>
+            <heading>For the purpose of administering and enforcing the provisions of
+this Act, the Department or any officer or employee of the Department
+designated, in writing, by the Director thereof, may hold investigations
+and, except for those matters reserved to the Illinois Independent Tax Tribunal, may hold hearings concerning any matters covered by this Act and may examine any
+books, papers, records or memoranda bearing upon the business transacted by
+any such taxpayer and may require the attendance of such taxpayer or any
+officer or employee of such taxpayer, or of any person having knowledge of
+such business, and may take testimony and require proof for its
+information</heading>
+            <content>
+              <p>In the conduct of any investigation or hearing, neither the
+Department nor any officer or employee thereof shall be bound by the
+technical rules of evidence, and no informality in any proceeding, or in
+the manner of taking testimony, shall invalidate any order, decision, rule
+or regulation made or approved or confirmed by the Department. The Director
+or any officer or employee thereof shall have power to administer oaths to
+any such persons. The books, papers, records, and memoranda of the
+Department, or parts thereof, may be proved in any hearing, investigation
+or legal proceeding by a reproduced copy thereof under the certificate of
+the Director. Such reproduced copy shall, without further proof, be
+admitted into evidence before the Department or in any legal proceeding.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-9">
+            <num>9</num>
+            <heading>No person shall be excused from testifying or from producing any
+books, papers, records or memoranda in any investigation or upon any
+hearing, when ordered to do so by the Department or any officer or employee
+thereof, upon the ground that the testimony or evidence, documentary or
+otherwise, may tend to incriminate him or subject him to a criminal
+penalty, but no person shall be prosecuted or subjected to any criminal
+penalty for, or on account of, any transaction made or thing concerning
+which he may testify or produce evidence, documentary or otherwise, before
+the Department or any officer or employee thereof; provided, that such
+immunity shall extend only to a natural person who, in obedience to a
+subpoena, gives testimony under oath or produces evidence, documentary or
+otherwise, under oath</heading>
+            <content>
+              <p>No person so testifying shall be exempt from
+prosecution and punishment for perjury committed in so testifying.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1945, p. 1244.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-10">
+            <num>10</num>
+            <heading>The Department or any officer or employee of the Department
+designated, in writing, by the Director thereof, shall at its or his or
+her own instance, or on the written request of any party to the proceeding, issue
+subpoenas requiring the attendance of and the giving of testimony by
+witnesses, and subpoenas duces tecum requiring the production of books,
+papers, records or memoranda</heading>
+            <content>
+              <p>All subpoenas issued under this Act may be
+served by any person of full age. The fees of witnesses for attendance and
+travel shall be the same as the fees of witnesses before the circuit court
+of this State; such fees to be paid when the witness is excused from
+further attendance. When the witness is subpoenaed at the instance of the
+Department or any officer or employee thereof, such fees shall be paid in
+the same manner as other expenses of the Department, and when the witness
+is subpoenaed at the instance of any taxpayer to any such proceeding the
+Department may require that the cost of service of the subpoena and the fee
+of the witness be borne by the taxpayer at whose instance the witness is
+summoned. In such case, the Department, in its discretion, may require a
+deposit to cover the cost of such service and witness fees. A subpoena
+issued as aforesaid shall be served in the same manner as a subpoena issued
+out of a court. Any circuit court of this State, upon the application
+of the Department or any officer or employee thereof may, in its
+discretion, compel the attendance of witnesses, the production of books,
+papers, records or memoranda and the giving of testimony before the
+Department or any officer or employee thereof conducting an investigation
+or holding a hearing authorized by this Act, by an attachment for contempt,
+or otherwise, in the same manner as production of evidence may be compelled
+before the court. The Department or any officer or employee thereof, or any party in an
+investigation or hearing before the Department, may cause the depositions
+of witnesses residing within or without the State to be taken in the manner
+prescribed by law for like depositions in civil actions in courts of this
+State, and, to that end, compel the attendance of witnesses and the
+production of books, papers, records or memoranda. Notwithstanding any other provision of law, the provisions of the Illinois Independent Tax Tribunal Act of 2012, and the rules adopted pursuant
+thereto, shall apply to and govern judicial review of final administrative decisions that are subject to the Illinois Independent Tax Tribunal Act of 2012.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-11">
+            <num>11</num>
+            <heading>All information received by the Department from returns filed under this
+Act, or from any investigations conducted under this Act, shall be
+confidential, except for official purposes, and any person who divulges any
+such information in any manner, except in accordance with a proper judicial
+order or as otherwise provided by law, shall be guilty of a Class B
+misdemeanor</heading>
+            <content>
+              <p>Provided, that nothing contained in this Act shall prevent the Director
+from publishing or making available to the public the names and addresses
+of taxpayers filing returns under this Act, or from publishing or making
+available reasonable statistics concerning the operation of the tax wherein
+the contents of returns are grouped into aggregates in such a way that the
+information contained in any individual return shall not be disclosed. And provided, that nothing contained in this Act shall prevent the
+Director from making available to the United States Government or any
+officer or agency thereof, for exclusively official purposes, information
+received by the Department in the administration of this Act. The furnishing upon request of the Auditor General, or his authorized
+agents, for official use, of returns filed and information related thereto
+under this Act is deemed to be an official purpose within the meaning of
+this Section. The Director may make available to any State agency, including the
+Illinois Supreme Court, which licenses persons to engage in any occupation,
+information that a person licensed by such agency has failed to file
+returns under this Act or pay the tax, penalty and interest shown therein,
+or has failed to pay any final assessment of tax, penalty or interest due
+under this Act.  An assessment is final when all proceedings in court for
+review of such assessment have terminated or the time for the taking
+thereof has expired without such proceedings being instituted. The Director shall make available for public
+inspection in the Department's principal office and for publication, at cost,
+administrative decisions issued on or after January
+1, 1995. These decisions are to be made available in a manner so that the
+following
+taxpayer information is not disclosed: (1) The names, addresses, and identification numbers of the taxpayer, related entities, and employees. (2) At the sole discretion of the Director, trade secrets or other confidential information identified as such by the taxpayer, no later than 30 days after receipt of an administrative decision, by such means as the Department shall provide by rule. The Director shall determine the
+appropriate extent of the
+deletions allowed in paragraph (2). In the event the taxpayer does not submit
+deletions,
+the Director shall make only the deletions specified in paragraph (1). The Director shall make available for public inspection and publication an
+administrative decision within 180 days after the issuance of the
+administrative
+decision. The term &quot;administrative decision&quot; has the same meaning as defined in
+Section 3-101 of Article III of the Code of Civil Procedure. Costs collected
+under this Section shall be paid into the Tax Compliance and Administration
+Fund. Nothing contained in this Act shall prevent the Director from divulging
+information to any person pursuant to a request or authorization made by the
+taxpayer or by an authorized representative of the taxpayer.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-1074, eff. 12-26-06.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-12">
+            <num>12</num>
+            <heading>The Circuit Court of the county wherein a hearing is held shall
+have power to review all final administrative decisions of the Department
+in administering the provisions of this Act: Provided that if the
+administrative proceeding which is to be reviewed judicially is a claim for
+refund proceeding commenced in accordance with Section 6 of this Act and
+Section 2a of &quot;An Act in relation to the payment and disposition of moneys
+received by officers and employees of the State of Illinois by virtue of
+their office or employment&quot;, approved June 9, 1911, as amended, the
+Circuit Court having jurisdiction of the action for judicial review under
+this Section and under the Administrative Review Law, as amended, shall
+be the same court that entered the temporary restraining order or preliminary
+injunction which is provided for in Section 2a of &quot;An Act in relation
+to the payment and disposition of moneys received by officers and employees
+of the State of Illinois by virtue of their office or employment&quot;, and
+which enables such claim proceeding to be processed and disposed of as a
+claim for refund proceeding rather than as a claim for credit proceeding</heading>
+            <content>
+              <p>Except as otherwise provided in this Section, the provisions of the Administrative Review Law, and the rules adopted
+pursuant thereto, shall apply to and govern all proceedings for the
+judicial review of final administrative decisions of the Department
+hereunder. The term &quot;administrative decision&quot; is defined as in Section 3-101
+of the Code of Civil Procedure. Notwithstanding any other provision of law, the provisions of the Illinois Independent Tax Tribunal Act of 2012, and the rules adopted pursuant
+thereto, shall apply to and govern judicial review of final administrative decisions that are subject to the Illinois Independent Tax Tribunal Act of 2012. Service upon the Director or Assistant Director of the Department of
+Revenue of summons issued in any action to review a final administrative
+decision shall be service upon the Department. The Department shall certify
+the record of its proceedings if the taxpayer shall pay to it the sum of
+75¢ per page of testimony taken before the Department and 25¢ per page of
+all other matters contained in such record, except that these charges may
+be waived where the Department is satisfied that the aggrieved party is a
+poor person who cannot afford to pay such charges.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-12a">
+            <num>12a</num>
+            <heading>The Department may make, promulgate and enforce such
+reasonable rules and regulations relating to the administration and
+enforcement of this Act as may be deemed expedient</heading>
+            <content>
+              <p>Whenever notice to a taxpayer is required by this Act, such notice may
+be given by United States certified or registered mail, addressed to the taxpayer
+concerned at his last known address, and proof of such mailing shall be
+sufficient for the purposes of this Act.  In the case of a notice of
+hearing, such notice shall be mailed not less than 7 days prior to
+the day fixed for the hearing. All hearings provided for in this Act with respect to a taxpayer having
+his principal place of business in any of the several counties of this
+State shall be held in the county wherein the taxpayer has his principal
+place of business.  If the taxpayer does not have his
+principal place of business in this State, such hearings shall be held in
+Sangamon County. Whenever any proceeding provided by this Act has been begun by
+the Department or by a person subject thereto and such person
+thereafter dies or becomes a person under legal disability
+before the proceeding
+has been concluded, the legal representative of the deceased person or
+person under legal disability shall notify the
+Department of such death or legal disability.  The legal representative,
+as such, shall then be substituted
+by the Department in place of and for the person.  Within 20
+days after notice to the legal representative of the time fixed for
+that purpose, the proceeding may proceed in all respects
+and with like
+effect as though the person had not died or become a person under legal
+disability.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 83-706.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-12b">
+            <num>12b</num>
+            <heading>The Department shall not take any action in law or
+administratively against a municipally owned defendant for monies,
+interest or penalties claimed because such defendant has failed to
+include in its gross receipts amounts due under this Act which, in
+order to be exempt from taxation, should have been billed to its
+customers separately as a charge for reimbursement of taxes, but
+were not so billed, provided such defendant, in fact, included such
+amounts in its bills to its customers and informed such customers
+of the nature of the included amounts</heading>
+            <content>
+              <p>(Source: P.A. 80-1132.) (35 ILCS 615/12c) (from Ch. 120, par. 467.27c)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 80-1132.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-12c">
+            <num>12c</num>
+            <heading>The Illinois Administrative Procedure Act is hereby expressly
+adopted and shall apply to all administrative rules and procedures of
+the Department of Revenue under this Act, except that (1) paragraph (b)
+of Section 5-10 of the Illinois Administrative Procedure Act does
+not apply to final orders, decisions and opinions of the Department, (2)
+subparagraph (a)2 of Section 5-10 of the Illinois Administrative
+Procedure Act does not apply to forms established by the Department for use
+under this Act, and (3) the provisions of Section 10-45 of the
+Illinois Administrative Procedure Act regarding proposals for decision are
+excluded and not applicable to the Department under this Act to the extent Section 10-45 applies to hearings not otherwise subject to the Illinois Independent Tax Tribunal Act of 2012</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) (35 ILCS 615/13) (from Ch. 120, par. 467.28)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-13">
+            <num>13</num>
+            <heading>Any taxpayer who fails to make a return, or who makes a fraudulent
+return, or who wilfully violates any other provision of this Act or any
+rule or regulation of the Department for the administration and enforcement
+of this Act, is guilty of a business offense and, upon conviction thereof,
+shall be fined not less than $750 nor
+more than $7,500</heading>
+            <content>
+              <p>(Source: P.A. 83-1428.) (35 ILCS 615/14) (from Ch. 120, par. 467.29)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 83-1428.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-14">
+            <num>14</num>
+            <heading>The tax herein imposed shall be in addition to all other
+occupation or privilege taxes imposed by the State of Illinois or by any
+municipal corporation or political subdivision thereof</heading>
+            <content>
+              <p>(Source: Laws 1945, p. 1244.) (35 ILCS 615/15) (from Ch. 120, par. 467.30)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1945, p. 1244.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-615-15">
+            <num>15</num>
+            <heading>This Act may be cited as the Gas Revenue Tax Act</heading>
+            <content>
+              <p>(Source: P.A. 86-1475.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706. Co</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-1475.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

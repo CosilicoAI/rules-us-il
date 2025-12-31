@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-638"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-638"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-638"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-638/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-638/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-638/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-638/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_638">
+          <num>35 ILCS 638/</num>
+          <heading>Mobile Telecommunications Sourcing Conformity Act</heading>
+          <section eId="sec_35-638-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Mobile Telecommunications Sourcing Conformity Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-5">
+            <num>5</num>
+            <heading>Legislative intent</heading>
+            <content>
+              <p>The General Assembly recognizes that the
+Mobile Telecommunications Sourcing Act, Public Law 106-252, codified at 4 U.S.C
+Sections 116 through 126, was passed by the United States Congress to establish
+sourcing requirements for state and local taxation of mobile telecommunication
+services.  In general, the rules provide that taxes on mobile
+telecommunications services shall be collected and remitted to the jurisdiction
+where the customer's primary use of the services occurs, irrespective of where
+the mobile telecommunications services originate, terminate, or pass through.
+By passing this legislation in the State of Illinois, the General Assembly
+desires to implement that Act in this State by establishing the Mobile
+Telecommunications Sourcing Conformity Act and to inform State and local
+government officials of its provisions as it applies to the taxes of this
+State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-638-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the person or entity that contracts with the home
+service provider for mobile telecommunications services or (ii) if the end
+user of mobile telecommunications services is not the contracting party, the
+end user of the mobile telecommunications services, but this clause (ii)
+applies
+only for the purpose of determining the place of primary use.  &quot;Customer&quot; does
+not include</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a reseller of mobile telecommunications service or (ii) a
+serving carrier under an arrangement to serve the customer outside the home
+service provider's licensed service area. &quot;Designated database provider&quot; means a corporation, association, or other
+entity representing all the political subdivisions of a State that is:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>responsible for providing an electronic database prescribed in Section 25 if the State has not provided such electronic database; and (ii) approved by municipal and county associations or leagues of the State whose responsibility it would otherwise be to provide such database prescribed by Sections 116 through 126 of Title 4 of the United States Code. &quot;Enhanced zip code&quot; means a United States postal zip code of 9 or more
+digits. &quot;Home service provider&quot; means the facilities-based carrier or reseller with
+which the customer contracts for the provision of mobile telecommunications
+services. &quot;Licensed service area&quot; means the geographic area in which the home service
+provider is authorized by law or contract to provide commercial mobile radio
+service to the customer. &quot;Mobile telecommunications service&quot; means commercial mobile radio service, as
+defined in Section 20.3 of Title 47 of the Code of Federal Regulations as in
+effect on June 1, 1999. &quot;Place of primary use&quot; means the street address representative of where the
+customer's use of the mobile telecommunications service primarily occurs, which
+must be:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the residential street address or the primary business street address of the customer; and (ii) within the licensed service area of the home service provider. &quot;Prepaid telephone calling services&quot; means the right to purchase exclusively
+telecommunications services that must be paid for in advance that enables the
+origination of calls using an access number, authorization code, or both,
+whether manually or electronically dialed, if the remaining amount of units of
+service that have been prepaid is known by the provider of the prepaid service
+on a continuous basis. &quot;Reseller&quot; means a provider who purchases telecommunications services from
+another telecommunications service provider and then resells, uses as a
+component part of, or integrates the purchased services into a mobile
+telecommunications service.  &quot;Reseller&quot; does not include a serving carrier with
+which a home service provider arranges for the services to its customers
+outside the home service provider's licensed service area. &quot;Serving carrier&quot; means a facilities-based carrier providing mobile
+telecommunications service to a customer outside a home service provider's or
+reseller's licensed service area. &quot;Taxing jurisdiction&quot; means any of the several states, the District of
+Columbia, or any territory or possession of the United States, any
+municipality, city, county, township, parish, transportation district, or
+assessment jurisdiction, or any other political subdivision within the
+territorial limits of the United States with the authority to impose a tax,
+charge, or fee.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-15">
+            <num>15</num>
+            <heading>Application of this Act</heading>
+            <subsection eId="sec_35-638-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>General provisions.  This Act shall apply to any tax, charge, or fee
+levied by the State or a taxing jurisdiction within this State as a fixed
+charge for each customer or measured by gross amounts charged to customers for
+mobile telecommunications services, regardless of whether the tax, charge, or
+fee is imposed on the vendor or customer of the service and regardless of the
+terminology used to describe the tax, charge, or fee.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>General exceptions.  This Act does not apply to:</p>
+              </content>
+              <paragraph eId="sec_35-638-15__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>any tax, charge, or fee levied upon or measured by the net income, capital stock, net worth, or property value of the provider of mobile telecommunications service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-15__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>any tax, charge, or fee that is applied to an equitably apportioned amount that is not determined on a transactional basis;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-15__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>any tax, charge, or fee that represents compensation for a mobile telecommunications service provider's use of public rights of way or other public property, provided that such tax, charge, or fee is not levied by the taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunications services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-15__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any generally applicable business and occupation tax that is imposed by a State, is applied to gross receipts or gross proceeds, is the legal liability of the home service provider, and that statutorily allows the home service provider to elect to use the sourcing method required in this Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-15__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>any fee related to obligations under Section 254 of the federal Communications Act of 1934; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-15__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>any tax, charge, or fee imposed by the Federal Communications Commission.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-638-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Specific exceptions.  The provisions of this Act:</p>
+              </content>
+              <paragraph eId="sec_35-638-15__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>do not apply to the determination of the taxing situs of prepaid telephone calling services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-15__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>do not affect the taxability of either the initial sale of mobile telecommunications services or subsequent resale of such services, whether as sales of such services alone or as a part of a bundled product, if the federal Internet Tax Freedom Act would preclude a taxing jurisdiction from subjecting the charges of the sale of such services to a tax, charge, or fee, but this Section provides no evidence of the intent of the General Assembly with respect to the applicability of the federal Internet Tax Freedom Act to such charges; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-15__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>do not apply to the determination of the taxing situs of air-ground radiotelephone service as defined in Section 22.99 of Title 47 of the Code of Federal Regulations as in effect on June 1, 1999.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-638-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Date of applicability.  The provisions of this Act apply to customer
+bills issued on or after August 1, 2002.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-20">
+            <num>20</num>
+            <heading>Sourcing rules for mobile telecommunications services</heading>
+            <subsection eId="sec_35-638-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding the law of this State or any political subdivision of
+this State, mobile telecommunications services provided in a taxing
+jurisdiction to a customer, the charges for which are billed by or for the
+customer's home service provider, shall be deemed to be provided by the
+customer's home service provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All charges for mobile telecommunications services that are deemed to be
+provided by the customer's home service provider under this Act are authorized
+to be subjected to tax, charge, or fee by the taxing jurisdictions whose
+territorial limits encompass the customer's place of primary use, regardless of
+where the mobile telecommunications services originate, terminate, or pass
+through, and no other taxing jurisdiction may impose taxes, charges, or fees on
+charges for such mobile telecommunications services.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-25">
+            <num>25</num>
+            <heading>Provision of electronic database</heading>
+            <subsection eId="sec_35-638-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The State may provide an electronic database to a home service provider
+or, if the State does not provide such an electronic database to home service
+providers, then the designated database provider may provide an electronic
+database to a home service provider.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-25__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The electronic database, whether provided by the State or the designated
+database provider, shall:</p>
+              </content>
+              <paragraph eId="sec_35-638-25__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>be provided in a format approved by the American National Standards Institute's Accredited Standards Committee X12, that, allowing for de minimis deviations, designates for each street address in the State, including to the extent practical, any multiple postal street addresses applicable to one street location, the appropriate taxing jurisdictions, and the appropriate code for each taxing jurisdiction, for each level of taxing jurisdiction, identified by one nationwide standard numeric code described in subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-25__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>also provide the appropriate code for each street address with respect to political subdivisions that are not taxing jurisdictions when reasonably needed to determine the proper taxing jurisdiction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-638-25__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The nationwide standard numeric codes shall contain the same number of
+numeric digits with each digit or combination of digits referring to the same
+level of taxing jurisdiction throughout the United States using a format
+similar to FIPS 55-3 or other appropriate standard approved by the Federation
+of Tax Administrators and the Multistate Tax Commission, or their successors.
+Each address shall be provided in standard postal format.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-30">
+            <num>30</num>
+            <heading>Notice; updates</heading>
+            <content>
+              <p>If the State or a designated database provider
+provides or maintains an electronic database described in Section 25, then the
+State or the electronic database provider shall provide notice of the
+availability of the then current electronic database, and any subsequent
+revisions thereof, by publication in the manner normally employed for the
+publication of informational tax, charge, or fee notices to taxpayers in the
+State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-35">
+            <num>35</num>
+            <heading>User held harmless</heading>
+            <content>
+              <p>A home service provider using the data
+contained in an electronic database described in Section 25 shall be held
+harmless from any tax, charge, or fee liability that otherwise would be due
+solely as a result of any error or omission in the database provided by the
+State or designated database provider.  The home service provider shall reflect
+changes made to the database during a calendar quarter not later than 30 days
+after the end of the calendar quarter if the State or an electronic database
+provider issues notice of the availability of an electronic database reflecting
+the changes under Section 30.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-40">
+            <num>40</num>
+            <heading>Safe harbor</heading>
+            <subsection eId="sec_35-638-40__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If neither the State nor a designated database provider provides an
+electronic database under Section 25, a home service provider shall be held
+harmless from any tax, charge, or fee liability that otherwise would be due
+solely as a result of an assignment of a street address to an incorrect taxing
+jurisdiction if, subject to Section 60, the home service provider employs an
+enhanced zip code to assign each street address to a specific taxing
+jurisdiction for each level of taxing jurisdiction and exercises due diligence
+at each level of taxing jurisdiction to ensure that each such street address is
+assigned to the correct taxing jurisdiction.  If an enhanced zip code overlaps
+boundaries of taxing jurisdictions of the same level, the home service provider
+must designate one specific jurisdiction within the enhanced zip code for use
+in taxing the activity for the enhanced zip code for each level of taxing
+jurisdiction.  Any enhanced zip code assignment changed in accordance with
+Section 60 is deemed to be in compliance with this Section.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-40__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this Section, there is a rebuttable presumption that a
+home service provider has exercised due diligence if the home service provider
+demonstrates that it has:</p>
+              </content>
+              <paragraph eId="sec_35-638-40__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>expended reasonable resources to implement and maintain an appropriately detailed electronic database of street address assignments to taxing jurisdictions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-40__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>implemented and maintained reasonable internal controls to promptly correct misassignments of street addresses to taxing jurisdictions; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-40__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>used all reasonably obtainable and usable data pertaining to municipal annexations, incorporations, reorganizations, and any other changes in jurisdictional boundaries that materially affect the accuracy of the database.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-45">
+            <num>45</num>
+            <heading>Termination of safe harbor</heading>
+            <content>
+              <p>Section 40 applies to a home
+service provider that is in compliance with the requirements of Section 40
+until the later of: (1) Eighteen months after the nationwide standard numeric code described in
+Section 25 has been approved by the Federation of Tax Administrators and the
+Multistate Tax Commission; or (2) Six months after the State or a designated database provider in the
+State provides such database as prescribed in Section 25.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-50">
+            <num>50</num>
+            <heading>Home service provider required to obtain and maintain customer's
+place of primary use</heading>
+            <content>
+              <p>A home service provider shall be responsible for
+obtaining and maintaining the customer's place of primary use, as defined in
+this Act.  Subject to Section 60, and if the home service provider's reliance
+on information provided by its customer is in good faith, a taxing jurisdiction
+shall: (1) allow a home service provider to rely on the applicable residential or
+business street address supplied by the home service provider's customer; and (2) not hold a home service provider liable for any additional taxes,
+charges, or fees based on a different determination of the place of primary use
+for taxes, charges, or fees that are customarily passed on to the customer as a
+separate itemized charge.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-55">
+            <num>55</num>
+            <heading>Primary place of use for service contracts in effect on or
+before July 28, 2002</heading>
+            <content>
+              <p>Except as provided in Section 60, a taxing jurisdiction
+shall allow a home service provider to treat the address used by the home
+service provider for tax purposes for any customer under a service contract or
+agreement in effect on or before July 28, 2002 as that customer's place of
+primary use for the remaining term of the service contract or agreement,
+excluding any extension or renewal of the service contract or agreement, for
+purposes of determining the taxing jurisdictions to which taxes, charges, or
+fees on charges for mobile telecommunications services are remitted.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-60">
+            <num>60</num>
+            <heading>Determination by taxing jurisdiction or State concerning place of
+primary use; notice to home service provider</heading>
+            <subsection eId="sec_35-638-60__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>determine that the address used for purposes of determining the taxing
+jurisdictions to which taxes, charges, or fees for mobile telecommunications
+services are remitted does not meet the definition of place of primary use in
+this Act and give binding notice to the home service provider to change the
+place of primary use on a prospective basis from the date of notice of
+determination if:</p>
+              </content>
+              <paragraph eId="sec_35-638-60__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the taxing jurisdiction obtains the consent of all affected taxing jurisdictions within the State before giving the notice of determination (if the taxing jurisdiction making the determination is not the State); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-60__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>before the taxing jurisdiction gives the notice of determination, the customer is given an opportunity to demonstrate in accordance with applicable State or local tax, charge, or fee administrative procedures that the address is the customer's place of primary use.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-638-60__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>determine that the assignment of a taxing jurisdiction by a home service
+provider under Section 40 does not reflect the correct taxing jurisdiction and
+give binding notice to the home service provider to change the assignment on a
+prospective basis from the date of notice of determination if:</p>
+              </content>
+              <paragraph eId="sec_35-638-60__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the taxing jurisdiction obtains the consent of all affected taxing jurisdictions within the State before giving the notice of determination (if the taxing jurisdiction making the determination is not the State); and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-638-60__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the home service provider is given an opportunity to demonstrate in accordance with applicable State or local tax, charge, or fee administrative procedures that the assignment reflects the correct taxing jurisdiction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-65">
+            <num>65</num>
+            <heading>No change to authority of taxing jurisdiction to collect tax if
+customer fails to provide place of primary use</heading>
+            <content>
+              <p>Nothing in this Act modifies,
+impairs, supersedes, or authorizes the modification, impairment, or
+supersession of, any law allowing a taxing jurisdiction to collect a tax,
+charge, or fee from a customer that has failed to provide its place of primary
+use.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-70">
+            <num>70</num>
+            <heading>Tax may be imposed on items not subject to taxation if those
+items not separately stated</heading>
+            <content>
+              <p>If a taxing jurisdiction does not otherwise
+subject charges for mobile telecommunications services to taxation and if these
+charges are aggregated with and not separately stated from charges that are
+subject to taxation, then the charges for nontaxable mobile telecommunications
+services may be subject to taxation unless the home service provider can
+reasonably identify charges not subject to such tax, charge, or fee from its
+books and records that are kept in the regular course of business.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-75">
+            <num>75</num>
+            <heading>Customers and otherwise non-taxable charges</heading>
+            <content>
+              <p>If a taxing
+jurisdiction does not subject charges for mobile telecommunications services to
+taxation, a customer may not rely upon the nontaxability of charges for mobile
+telecommunications services unless the customer's home service provider
+separately states the charges for nontaxable mobile telecommunications services
+from taxable charges or the home service provider elects, after receiving a
+written request from the customer in the form required by the provider, to
+provide verifiable data based upon the home service provider's books and
+records that are kept in the regular course of business that reasonably
+identifies the nontaxable charges.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-80">
+            <num>80</num>
+            <heading>Customers' procedures and remedies for correcting taxes and
+fees</heading>
+            <subsection eId="sec_35-638-80__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>If a customer believes that he or she is being charged an improper
+amount of tax or is not subject to a tax imposed under the Simplified Municipal
+Telecommunications Tax Act for a telecommunications service covered by the term
+&quot;mobile telecommunications&quot; under this Act, he or she shall follow the
+procedures outlined in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of Section 5-42 of the Simplified
+Municipal Telecommunications Tax Act. The procedures outlined in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of Section 5-42 of the Simplified Municipal Telecommunications Tax Act shall
+also apply to the home service provider, the Department, and municipalities.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall apply to a municipality that directly
+receives collected tax revenue from a retailer under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section
+5-40 of the Simplified Municipal Telecommunications Tax Act for a
+telecommunications service covered by the term &quot;mobile telecommunications
+service&quot; under this Act. In lieu of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>only if a municipality directly receives collected
+tax
+revenue from a retailer under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 5-40 of the Simplified
+Municipal Telecommunications Tax Act for a telecommunications service covered
+by the term &quot;mobile telecommunications service&quot; under this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For municipalities covered under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 5-40 of the
+Simplified Municipal Telecommunications Tax Act,
+if a customer believes that an amount of tax or assignment of place of
+primary use or taxing jurisdiction included on a billing is erroneous, the
+customer shall notify the home service provider in writing.  The customer shall
+include in this written notification the street address for her or his place of
+primary use, the account name and number for which the customer seeks a
+correction of the tax assignment, a description of the error asserted by the
+customer, and any other information that the home service provider reasonably
+requires to process the request.  Within 60 days after receiving a notice under
+this subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 5-40 of the Simplified Municipal
+Telecommunications Tax Act for a telecommunications service covered by the term
+&quot;mobile telecommunications service&quot; under this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The procedures set forth in subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-638-80__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>shall be the first
+course of remedy
+available to customers seeking correction of assignment of place of primary use
+or taxing jurisdiction or a refund of or other compensation for taxes, charges,
+and fees erroneously collected by the home service provider, and no cause of
+action based upon a dispute arising from these taxes, charges, or fees shall
+accrue until a customer has reasonably exercised the rights
+and procedures set forth in this Section.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02; 92-602, eff. 7-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-85">
+            <num>85</num>
+            <heading>Inseverability clause</heading>
+            <subsection eId="sec_35-638-85__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>is based on federal law, (ii) is
+no longer subject to appeal, and (iii) substantially limits or impairs the
+essential elements of Sections 116 through 126 of Title 4 of the
+United States Code, then the provisions of this Act are invalid and have no
+legal effect as of the date of entry of such judgment.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-905">
+            <num>905</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 92-474, eff. 8-1-02; text omitted.) (35 ILCS 638/910)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-910">
+            <num>910</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 92-474, eff. 8-1-02; text omitted.) (35 ILCS 638/915)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-915">
+            <num>915</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 92-474, eff. 8-1-02; text omitted.) (35 ILCS 638/920)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-920">
+            <num>920</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 92-474, eff. 8-1-02; text omitted.) (35 ILCS 638/999)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-638-999">
+            <num>999</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect on August 1, 2002.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-474, eff. 8-1-02.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

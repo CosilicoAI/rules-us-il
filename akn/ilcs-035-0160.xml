@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-160"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-160"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-160"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-160/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-160/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-160/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-160/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_160">
+          <num>35 ILCS 160/</num>
+          <heading>Direct Pay Permit Implementation Act</heading>
+          <section eId="sec_35-160-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Direct Pay Permit Implementation Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-682, eff. 1-1-99.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-160-5">
+            <num>5</num>
+            <heading>Direct pay permit pilot program</heading>
+            <content>
+              <p>The Department of
+Revenue shall implement a pilot direct pay permit
+program as a means of collecting State and local occupation and use taxes.
+The Department may work with Illinois
+business taxpayers and their representatives to implement a direct pay permit
+pilot program and to set standards for participation in that pilot program.
+The Department shall select the participants for the pilot program, but
+participation shall be voluntary.  The Department shall
+report the results of the pilot program to the General Assembly on or before
+January 1, 2001, with a recommendation as to whether a direct pay permit
+program should be implemented in Illinois.  If the Department recommends that a
+direct pay program be implemented, the Department shall also
+recommend legislation to implement that program. The pilot program shall end no
+later
+than July 1, 2001.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-682, eff. 1-1-99.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

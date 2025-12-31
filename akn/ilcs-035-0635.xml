@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-635"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-635"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-635"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-635/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-635/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-635/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-635/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_635">
+          <num>35 ILCS 635/</num>
+          <heading>Telecommunications Infrastructure Maintenance Fee Act</heading>
+          <section eId="sec_35-635-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Telecommunications Infrastructure Maintenance Fee Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-526, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-5">
+            <num>5</num>
+            <heading>Legislative intent</heading>
+            <subsection eId="sec_35-635-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The General Assembly imposed a tax on
+invested capital of utilities to partially replace the personal property tax
+that was abolished by the Illinois Constitution of 1970.  Since that tax was
+imposed, telecommunications retailers have evolved from utility status into an
+increasingly competitive industry serving the public.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>This Act is intended to
+abolish the invested capital tax on telecommunications retailers (that is,
+persons engaged in the business of transmitting messages and acting as a
+retailer of telecommunications as defined in Section 2 of the
+Telecommunications Excise Tax Act).  Cellular telecommunications retailers have
+already been excluded from application
+of the invested capital tax by earlier legislative action.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For the period prior to the effective date of this amendatory Act of
+the 92nd General Assembly, this Act is also intended to
+abolish municipal franchise fees with
+respect to telecommunications retailers,
+create a uniform system for the collection and
+distribution of fees associated with the privilege of use of the public right
+of way for telecommunications activity, and provide municipalities
+with
+a comprehensive method of compensation for telecommunications activity
+including
+the recovery of reasonable costs of regulating the use of the public
+rights-of-way for telecommunications activity.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>For the period from the effective date of this amendatory Act of the
+92nd General Assembly through December 31, 2002, it is the
+intent of the General Assembly
+that the municipal infrastructure maintenance fee and its rate are subject only
+to the limits prescribed in Section 20, and that the fee and the rate of the
+fee do not relate to use of the public rights-of-way or the costs associated
+with maintaining and regulating the use of the public rights-of-way.  It is
+also the intent of the General Assembly that proceeds of the municipal
+infrastructure maintenance fee may be used for any lawful corporate purpose.
+It is not the intent of the General Assembly that the municipal infrastructure
+maintenance fee is in any way compensation for use of the public rights-of-way.
+ It is the intent of the General Assembly that the fee be paid by all
+telecommunications retailers, regardless of whether they have equipment in the
+public rights-of-way.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>This amendatory Act of the 92nd
+General Assembly is intended to repeal the municipal
+infrastructure maintenance fee and the optional infrastructure
+maintenance fee effective January 1, 2003.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 91-533, eff. 8-13-99; 92-526, eff. 2-8-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-635-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Gross charges&quot; means the amount paid to a telecommunications retailer for the act or privilege of originating or receiving telecommunications in this State and for all services rendered in connection therewith, valued in money whether paid in money or otherwise, including cash, credits, services, and property of every kind or nature, and shall be determined without any deduction on account of the cost of such telecommunications, the cost of the materials used, labor or service costs, or any other expense whatsoever. In case credit is extended, the amount thereof shall be included only as and when paid. &quot;Gross charges&quot; for private line service shall include charges imposed at each channel termination point within this State, charges for the channel mileage between each channel termination point within this State, and charges for that portion of the interstate inter-office channel provided within Illinois. Charges for that portion of the interstate inter-office channel provided in Illinois shall be determined by the retailer as follows:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for interstate inter-office channels having 2 channel termination points, only one of which is in Illinois, 50% of the total charge imposed; or (ii) for interstate inter-office channels having more than 2 channel termination points, one or more of which are in Illinois, an amount equal to the total charge multiplied by a fraction, the numerator of which is the number of channel termination points within Illinois and the denominator of which is the total number of channel termination points. Prior to January 1, 2004, any method consistent with this paragraph or other method that reasonably apportions the total charges for interstate inter-office channels among the states in which channel terminations points are located shall be accepted as a reasonable method to determine the charges for that portion of the interstate inter-office channel provided within Illinois for that period. However, &quot;gross charges&quot; shall not include any of the following:</p>
+              </content>
+              <paragraph eId="sec_35-635-10__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any amounts added to a purchaser's bill because of a charge made under:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-635-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the fee imposed by this Section, (ii) additional charges added to a purchaser's bill under Section 9-221 or 9-222 of the Public Utilities Act, (iii) the tax imposed by the Telecommunications Excise Tax Act, (iv) 911 surcharges,</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-10__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>the tax imposed by Section 4251 of the Internal Revenue Code, or (vi) the tax imposed by the Simplified Municipal Telecommunications Tax Act.</p>
+              </content>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Charges for a sent collect telecommunication received outside of this State.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Charges for leased time on equipment or charges for the storage of data or information or subsequent retrieval or the processing of data or information intended to change its form or content. Such equipment includes, but is not limited to, the use of calculators, computers, data processing equipment, tabulating equipment, or accounting equipment and also includes the usage of computers under a time-sharing agreement.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Charges for customer equipment, including such equipment that is leased or rented by the customer from any source, wherein such charges are disaggregated and separately identified from other charges.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Charges to business enterprises certified under Section 9-222.1 of the Public Utilities Act to the extent of such exemption and during the period of time specified by the Department of Commerce and Economic Opportunity. (5.1) Charges to business enterprises certified under Section 95 of the Reimagining Energy and Vehicles in Illinois Act, to the extent of the exemption and during the period of time specified by the Department of Commerce and Economic Opportunity. (5.2) Charges to business enterprises certified under Section 110-95 of the Manufacturing Illinois Chips for Real Opportunity (MICRO) Act, to the extent of the exemption and during the period of time specified by the Department of Commerce and Economic Opportunity. (5.3) Charges to entities certified under Section 605-1115 of the Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois to the extent of the exemption and during the period of time specified by the Department of Commerce and Economic Opportunity.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Charges for telecommunications and all services and equipment provided in connection therewith between a parent corporation and its wholly owned subsidiaries or between wholly owned subsidiaries, and only to the extent that the charges between the parent corporation and wholly owned subsidiaries or between wholly owned subsidiaries represent expense allocation between the corporations and not the generation of profit other than a regulatory required profit for the corporation rendering such services.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>Bad debts (&quot;bad debt&quot; means any portion of a debt that is related to a sale at retail for which gross charges are not otherwise deductible or excludable that has become worthless or uncollectible, as determined under applicable federal income tax standards; if the portion of the debt deemed to be bad is subsequently paid, the retailer shall report and pay the tax on that portion during the reporting period in which the payment is made).</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>Charges paid by inserting coins in coin-operated telecommunication devices.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-635-10__subsec_v__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>Charges for nontaxable services or telecommunications if</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-635-10__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>those charges are aggregated with other charges for telecommunications that are taxable, (ii) those charges are not separately stated on the customer bill or invoice, and (iii) the retailer can reasonably identify the nontaxable charges on the retailer's books and records kept in the regular course of business. If the nontaxable charges cannot reasonably be identified, the gross charge from the sale of both taxable and nontaxable services or telecommunications billed on a combined basis shall be attributed to the taxable services or telecommunications. The burden of proving nontaxable charges shall be on the retailer of the telecommunications. (a-5) &quot;Department&quot; means the Illinois Department of Revenue.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Telecommunications&quot; includes, but is not limited to, messages or information transmitted through use of local, toll, and wide area telephone service, channel services, telegraph services, teletypewriter service, computer exchange services, private line services, specialized mobile radio services, or any other transmission of messages or information by electronic or similar means, between or among points by wire, cable, fiber optics, laser, microwave, radio, satellite, or similar facilities. Unless the context clearly requires otherwise, &quot;telecommunications&quot; shall also include wireless telecommunications as hereinafter defined. &quot;Telecommunications&quot; shall not include value added services in which computer processing applications are used to act on the form, content, code, and protocol of the information for purposes other than transmission. &quot;Telecommunications&quot; shall not include purchase of telecommunications by a telecommunications service provider for use as a component part of the service provided by him or her to the ultimate retail consumer who originates or terminates the end-to-end communications. Retailer access charges, right of access charges, charges for use of intercompany facilities, and all telecommunications resold in the subsequent provision and used as a component of, or integrated into, end-to-end telecommunications service shall not be included in gross charges as sales for resale. &quot;Telecommunications&quot; shall not include the provision of cable services through a cable system as defined in the Cable Communications Act of 1984 (47 U.S.C. Sections 521 and following) as now or hereafter amended or through an open video system as defined in the Rules of the Federal Communications Commission (47 C.D.F. 76.1550 and following) as now or hereafter amended. Beginning January 1, 2001, prepaid telephone calling arrangements shall not be considered &quot;telecommunications&quot; subject to the tax imposed under this Act. For purposes</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-595, eff. 6-26-24; 104-417, eff. 8-15-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-15">
+            <num>15</num>
+            <heading>State telecommunications infrastructure maintenance fees</heading>
+            <subsection eId="sec_35-635-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A State infrastructure maintenance fee is hereby imposed upon
+telecommunications retailers as a replacement for the personal property tax in
+an amount
+specified in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of the State infrastructure maintenance fee imposed upon a
+telecommunications retailer under this Section shall be equal to 0.5% of all
+gross charges charged by the telecommunications retailer to service addresses
+in this State for telecommunications, other than wireless telecommunications,
+originating or received in this State.  However, the State infrastructure
+maintenance fee is not imposed in any case in which the imposition of the fee
+would violate the Constitution or statutes of the United States.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-15__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>(Blank).</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>(Blank).</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-15__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The State infrastructure maintenance fee authorized by this Section shall be collected,
+enforced, and
+administered as set forth in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 25 of this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-526, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-20">
+            <num>20</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 92-526, eff. 2-8-02.  Repealed internally, eff. 1-1-03.) (35 ILCS 635/22)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-526, eff. 2-8-02.  Repealed internally, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-22">
+            <num>22</num>
+            <heading>Certificates</heading>
+            <content>
+              <p>It shall be unlawful for any person to engage
+in business as a telecommunications retailer
+in this State within the meaning of this Act without first having
+obtained a certificate of registration to do so from the
+Department.  Application for the certificate shall be made to the
+Department in a form prescribed and furnished by the Department.
+Each applicant for a certificate shall furnish to the Department
+on a form prescribed by the Department and signed by the
+applicant under penalties of perjury, the following information: (1) The name of the applicant. (2) The address of the location at which the applicant proposes to engage in business as a telecommunications retailer in this State. (3) Other information the Department may reasonably require. The Department, upon receipt of an application in proper
+form, shall issue to the applicant a certificate, in a form
+prescribed by the Department, which shall permit the applicant to
+whom it is issued to engage in business as a telecommunications retailer
+at the place shown on his or her application.
+No certificate issued under this Act is transferable or
+assignable.  No certificate shall be issued to any person
+who is in default to the State of Illinois for moneys due under
+this Act or any other tax Act administered by the Department.
+Any person aggrieved by any decision of the Department under this
+Section may, within 20 days after notice of such decision,
+protest and request a hearing, whereupon the Department shall
+give notice to such person of the time and place fixed for such
+hearing and shall hold a hearing in conformity with the
+provisions of this Act and then issue its final administrative
+decision in the matter to such person.  In the absence of such a
+protest within 20 days, the Department's decision shall become
+final without any further determination being made or notice
+given. The Department may, in its discretion, upon application,
+authorize the payment of the fees imposed under this Act by any
+telecommunications retailer not otherwise subject to the fees
+imposed under this Act who, to the satisfaction of the
+Department, furnishes adequate security to ensure payment of the
+fees.  The telecommunications retailer shall be issued, without
+charge, a certificate to remit the fees.  When so authorized, it
+shall be the duty of the telecommunications retailer to remit the
+fees imposed upon the gross charges charged by the
+telecommunications retailer to service addresses in this State
+for telecommunications in the same manner and subject to the same
+requirements as a telecommunications retailer operating within
+this State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-16, eff. 6-28-01.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-24">
+            <num>24</num>
+            <heading>Certificate actions</heading>
+            <content>
+              <p>The Department may,
+after notice and a hearing, revoke, cancel, or suspend the
+certificate of registration of any telecommunications retailer
+who violates any of the provisions of this Act or regulations
+promulgated thereunder. The notice shall specify the alleged
+violation or violations upon which the revocation, cancellation,
+or suspension proceeding is based. The Department may, after notice and a hearing as provided
+herein, revoke the certificate of registration of any person who
+violates any of the provisions of this Act. Before revocation of
+a certificate of registration the Department shall, within 90
+days after non-compliance and at least 7 days prior to the date
+of the hearing, give the person so accused notice in writing of
+the charge against him or her, and on the date designated shall
+conduct a hearing upon this matter. The lapse of such 90 day
+period shall not preclude the Department from conducting
+revocation proceedings at a later date if necessary. Any hearing
+held under this Section shall be conducted by the Director of
+Revenue or by any officer or employee of the Department
+designated, in writing, by the Director of Revenue.
+Upon the hearing of any such proceeding, the Director of
+Revenue, or any officer or employee of the Department designated,
+in writing, by the Director of Revenue, may administer oaths and
+the Department may procure by its subpoena the attendance of
+witnesses and, by its subpoena duces tecum, the production of
+relevant books and papers. Any circuit court, upon application
+either of the accused or of the Department, may, by order duly
+entered, require the attendance of witnesses and the production
+of relevant books and papers, before the Department in any
+hearing relating to the revocation of certificates of
+registration. Upon refusal or neglect to obey the order of the
+court, the court may compel obedience thereof by proceedings for
+contempt.
+The Department may, by application to any circuit court,
+obtain an injunction restraining any person who engages in
+business as a telecommunications retailer without a certificate
+(either because his or her certificate has been revoked,
+canceled, or suspended or because of a failure to obtain a
+certificate in the first instance) from engaging in that business
+until that person, as if that person were a new applicant for a
+certificate, complies with all of the conditions, restrictions,
+and requirements of Section 22 of this Act and qualifies for
+and obtains a certificate. Refusal or neglect to obey the order
+of the court may result in punishment for contempt.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-562, eff. 12-16-97.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-25">
+            <num>25</num>
+            <heading>Collection, enforcement, and administration of State
+telecommunications infrastructure maintenance fees</heading>
+            <subsection eId="sec_35-635-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A telecommunications retailer shall charge each customer an additional
+charge equal to the State infrastructure
+maintenance fee attributable to that customer's service address.  Such additional charge shall be shown separately
+on the bill to each customer.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-25__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The State infrastructure maintenance fee shall be designated as a replacement for the personal
+property
+tax and shall be remitted by the telecommunications retailer to the Department; provided, however, that the
+telecommunications retailer
+may retain an amount not to exceed 2% of the State infrastructure maintenance
+fee paid to the
+Department, with a timely paid and timely filed return to reimburse itself for
+expenses incurred in collecting, accounting for, and remitting the fee. Beginning on the first day of the first calendar month to occur on or after the effective date of this amendatory Act of the 98th General Assembly, an amount equal to 1/12 of 5% of the cash receipts collected during the preceding fiscal year by the Audit Bureau of the Department from the tax under this Act shall be paid each month into the Tax Compliance and Administration Fund to be used, subject to appropriation, to fund additional auditors and compliance personnel at the Department of Revenue. All
+remaining amounts herein remitted to the Department shall be paid into the Personal
+Property Tax Replacement Fund in the State Treasury.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1098, eff. 8-26-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-27">
+            <num>27</num>
+            <heading>Returns by telecommunications retailer; extensions</heading>
+            <content>
+              <p>Except as
+provided
+hereinafter in this Section, on or before the 30th day of each
+month each telecommunications retailer maintaining a place of business in this
+State
+shall make a return and payment of fees to the Department for the
+preceding calendar month on a form prescribed and furnished by
+the Department. The return shall be signed by the telecommunications retailer
+under
+penalties of perjury and shall contain the following information: 1. His or her name; 2. The address of his or her principal place of business, or the address of the principal place of business (if that is a different address) from which he or she engages in the business of transmitting telecommunications; 3. The total amount of gross charges charged by him or her during the preceding calendar month for providing telecommunications during such calendar month; 4. The total amount received by him or her during the preceding calendar month on credit extended; 5. Deductions allowed by law; 6. Gross charges that were charged by him or her during the preceding calendar month and upon the basis of which the State infrastructure maintenance fee is imposed; 7. (Blank); 8. Amounts of fees due; 9. Such other reasonable information as the Department may require. If the telecommunications retailer's average monthly liability to the
+Department does not exceed $100, the Department may authorize his
+or her returns to be filed on a quarter annual basis, with the return
+for January, February, and March of a given year being due by
+April 15 of such year; with the return for April, May, and June of
+a given year being due by July 15 of such year; with the return
+for July, August, and September of a given year being due by
+October 15 of such year; and with the return of October, November,
+and December of a given year being due by January 15 of the
+following year. Notwithstanding any other provision of this Act concerning
+the time within which a telecommunications retailer may file his or her return,
+in the case
+of any telecommunications retailer who ceases to engage in a kind of business
+which
+makes him or her responsible for filing returns under this Act, such
+telecommunications retailer shall file a final return under this Act with the
+Department not more than one month after discontinuing such
+business. In making such return, the telecommunications retailer shall determine the
+value of any consideration other than money received by him or her and
+he or she shall include such value in his or her return. Such determination
+shall be subject to review and revision by the Department in the
+manner hereinafter provided for the correction of returns. If any payment provided for in this Section exceeds the
+telecommunications retailer's liabilities under this Act, as shown on an
+original
+monthly return, the Department may
+authorize the telecommunications retailer to credit such excess payment
+against liability subsequently to be remitted to the Department
+under this Act, in accordance with reasonable rules and
+regulations prescribed by the Department. If the Department
+subsequently determines that all or any part of the credit taken
+was not actually due to the telecommunications retailer, the telecommunications
+retailer's 2% discount
+shall be reduced by 2% of the difference between the credit taken
+and that actually due, and that telecommunications retailer shall be liable for
+penalties and interest on such difference. Any telecommunications retailer required to make payments under this Section
+may make the payments by electronic funds transfer. The
+Department shall adopt rules necessary to effectuate a program of
+electronic funds transfer.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-526, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-30">
+            <num>30</num>
+            <heading>Validity of existing franchise fees and agreements</heading>
+            <subsection eId="sec_35-635-30__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No new franchise fees or other charges
+for the use of the public rights-of-way, including charges for the recovery of
+reasonable costs of regulating the use of the public rights-of-way,
+shall be imposed upon, levied on, or otherwise required of telecommunications
+retailers by ordinance, resolution, or contract, nor shall any other
+new charges be required from telecommunications retailers by
+municipalities from and
+after the effective date of this Act.
+Nothing in this Act shall excuse any person or entity from obligations imposed
+under any law concerning generally applicable taxes or standards for
+construction on, over, under, or within, use of or
+repair of the public rights-of-way, including standards relating to free
+standing towers and other structures upon the public way, nor shall any
+person or entity be excused
+from any liability imposed by any such law for the failure to comply with such
+generally applicable taxes or standards governing construction on, over, under,
+or within, use of or repair of the
+public rights-of-way.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-30__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Agreements between telecommunications retailers and municipalities
+entered into before the effective date of this Act regarding use of
+the public ways shall remain valid according to and for their stated terms,
+except as to fees or charges waived under Section 5-60 of the Simplified
+Municipal Telecommunications Tax Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-30__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The regulation of the terms and conditions upon which poles, conduits,
+and other facilities located in the public way may be shared by or between
+telecommunications retailers shall be committed exclusively to the jurisdiction
+of the Illinois Commerce Commission and the Federal Communications Commission,
+and such regulation shall not be among the home rule powers and functions
+described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-635-30__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>of Section 6 of Article VII of the Illinois
+Constitution.  Moreover, no municipality may enter into any
+contract or agreement with a telecommunications retailer with respect to the
+terms and conditions upon which poles, conduits, and other facilities located
+in
+the public way may be shared by or between telecommunications retailers.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-526, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-35">
+            <num>35</num>
+            <heading>Home rule</heading>
+            <subsection eId="sec_35-635-35__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of
+Section 6 of Article VII of the Illinois Constitution.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-526, eff. 1-1-03.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-40">
+            <num>40</num>
+            <heading>Severability</heading>
+            <content>
+              <p>If any provision of this Act or its application to
+any person or circumstance is held invalid, the invalidity of the provision or
+application does not affect other provisions or applications of the Act that
+can be given effect without the invalid provision or application.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-154, eff. 1-1-98.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-905">
+            <num>905</num>
+            <heading>The Messages Tax Act is amended by repealing Section 2a</heading>
+            <content>
+              <p>1.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-154, eff. 1-1-98.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-910">
+            <num>910</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 90-154, eff. 1-1-98; text omitted.) (35 ILCS 635/915)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-154, eff. 1-1-98; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-915">
+            <num>915</num>
+            <heading>(Amendatory provisions; text omitted</heading>
+            <content>
+              <p>)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-154, eff. 1-1-98; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-635-920">
+            <num>920</num>
+            <heading>(Amendatory provisions; text omitted</heading>
+            <content>
+              <p>)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-154, eff. 1-1-98; text omitted.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

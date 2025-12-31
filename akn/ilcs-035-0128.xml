@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-128"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-128"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-128"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-128/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-128/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-128/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-128/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_128">
+          <num>35 ILCS 128/</num>
+          <heading>Cigarette Machine Operators' Occupation Tax Act</heading>
+          <section eId="sec_35-128-90">
+            <num>90</num>
+            <heading>Applicability</heading>
+            <content>
+              <p>The changes made by  this amendatory Act of the 97th General Assembly to the Property Tax Code, the Illinois Income Tax Act, the Use Tax Act, the Service Occupation Tax Act, and the Retailers' Occupation Tax Act shall apply to:  (1) all decisions by the Department on or after the effective date of this amendatory Act of the 97th General Assembly regarding entitlement or continued entitlement by hospitals, hospital owners, hospital affiliates, or hospital systems to charitable property tax exemptions; (2) all applications for property tax exemption filed by hospitals, hospital owners, hospital affiliates, or hospital systems on or after the effective date of this amendatory Act of the 97th General Assembly; (3) all applications for property tax exemption filed by hospitals, hospital owners, hospital affiliates, or hospital systems that have either not been decided by the Department before the effective date of this amendatory Act of the 97th General Assembly, or for which any such Department decisions are not final and non-appealable as of that date; (4) all decisions by the Department, on or after the effective date of this amendatory Act of the 97th General Assembly, regarding entitlement by hospitals, hospital owners or hospital affiliates to an exemption or renewal of exemption from the Use Tax Act, the Service Use Tax Act, the Service Occupation Tax Act, and the Retailers' Occupation Tax Act; (5) all applications for exemption or renewal of exemption from the Use Tax Act, the Service Use Tax Act, the Service Occupation Tax Act, and the Retailers' Occupation Tax Act filed by hospitals, hospital owners or hospital affiliates on or after the effective date of this amendatory Act of the 97th General Assembly; and (6) all applications for exemption or renewal of exemption  from the Use Tax Act, the Service Use Tax Act, the Service Occupation Tax Act, and the Retailers' Occupation Tax Act filed by hospitals, hospital owners, or hospital affiliates that have either not been decided by the Department before the effective date of this amendatory Act of the 97th General Assembly or for which any such Department decisions are not final and non-appealable as of that date.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-688, eff. 6-14-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-128-95">
+            <num>95</num>
+            <heading>No acceleration or delay</heading>
+            <subsection eId="sec_35-128-95__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the changes made by this Act or (ii) provisions derived from any other Public Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-688, eff. 6-14-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-128-97">
+            <num>97</num>
+            <heading>Severability</heading>
+            <content>
+              <p>The provisions of this Act are severable under Section 1.31 of the Statute on Statutes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-688, eff. 6-14-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-128-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-688, eff. 6-14-12.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

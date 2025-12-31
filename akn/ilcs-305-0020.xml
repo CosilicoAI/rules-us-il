@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-20"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-20"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-20"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-20/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-20/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-20/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-20/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_20">
+          <num>305 ILCS 20/</num>
+          <heading>Energy Assistance Act</heading>
+          <section eId="sec_305-20-1">
+            <num>1</num>
+            <heading>Short Title</heading>
+            <content>
+              <p>This Act shall be known and may be cited as the Energy Assistance Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-690, eff. 7-18-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-2">
+            <num>2</num>
+            <heading>Findings and Intent</heading>
+            <subsection eId="sec_305-20-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The General Assembly finds that:</p>
+              </content>
+              <paragraph eId="sec_305-20-2__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the health, welfare, and prosperity of the people of the State of Illinois require that all citizens receive essential levels of heat and electric service regardless of economic circumstance;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-2__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>public utilities and other entities providing such services are entitled to receive proper payment for services actually rendered;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-2__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>variability of Federal low income energy assistance funding necessitates a State response to ensure the continuity and the further development of energy assistance and related policies and programs within Illinois;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-2__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>energy assistance policies and programs in effect in Illinois  have benefited all Illinois citizens, and should therefore be continued with the modifications provided herein; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-2__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>low-income households are unable to afford essential utility services and other necessities, such as food, shelter, and medical care; the health and safety of those who are unable to afford essential utility services suffer when monthly payments for these services exceed a reasonable percentage of the customer's household income;  costs of collecting past due bills and uncollectible balances are reflected in rates paid by all ratepayers; society benefits if essential utility services are affordable and arrearages and disconnections are minimized for those most in need.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Consistent with its findings, the General Assembly declares that it
+is the policy of the State that:</p>
+              </content>
+              <paragraph eId="sec_305-20-2__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a comprehensive low income energy assistance policy and program should be established which incorporates income assistance, home weatherization, and other measures to ensure that citizens have access to affordable energy services;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-2__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the ability of public utilities and other entities to receive just compensation for providing services should not be jeopardized by this policy;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-2__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>resources applied in achieving this policy should be coordinated and efficiently utilized through the integration of public programs and through the targeting of assistance; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-2__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the State should utilize all appropriate and available means to fund this program and, to the extent possible, should identify and utilize sources of funding which complement State tax revenues.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-33, eff. 7-10-09.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-3">
+            <num>3</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act, unless the context
+otherwise requires: The terms defined in Sections 3-101 through 3-121 of
+the Public Utilities Act have the meanings ascribed to them in that
+Act. &quot;Department&quot; means the Department of Commerce and Economic Opportunity. &quot;Energy conservation measure&quot; means any measure installed in a dwelling that reduces energy consumption. &quot;Energy provider&quot; means any utility, municipal utility,
+cooperative utility, or any other corporation or individual which provides
+winter energy services. &quot;Healthy home measure&quot; means any measure that is intended to keep a dwelling dry, clean, safe, well ventilated, pest free, contaminant free, maintained, or thermally controlled. &quot;Home improvement measure&quot; means any measure that is intended to make a dwelling weatherization-ready by alleviating deferrals from weatherization activities or allowing for the addition of renewable energy retrofits, or both. &quot;Measure&quot; means the installation of any equipment, device, or material in a dwelling. &quot;Renewable energy retrofit&quot; means any retrofit required for the use of energy from a solar photovoltaic, solar thermal, wind, or geothermal energy system. &quot;Winter&quot; means the period from November 1 of any year through April
+30 of the following year.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-699, eff. 4-19-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-4">
+            <num>4</num>
+            <heading>Energy Assistance Program</heading>
+            <subsection eId="sec_305-20-4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department of Commerce and Economic Opportunity is hereby authorized to institute a program to
+ensure
+the availability and affordability of heating and electric service to low
+income citizens.  The Department shall implement the program by rule
+promulgated pursuant to the Illinois Administrative Procedure Act.
+The program shall be consistent
+with the purposes and objectives of this Act and with all other specific
+requirements provided herein.  The Department may enter
+into such contracts and other agreements with local agencies as may be
+necessary for the purpose of administering the energy assistance program.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this Act shall be construed as altering or limiting the
+authority conferred on the Illinois Commerce Commission by the Public
+Utilities Act to regulate all aspects of the provision of public utility
+service, including but not limited to the authority to make rules and
+adjudicate disputes between utilities and customers related to eligibility
+for utility service, deposits, payment practices, discontinuance of
+service, and the treatment of arrearages owing for previously rendered
+utility service.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Commerce and Economic Opportunity is authorized to institute an outreach program directed at low-income minority heads of households and heads of households age 60 or older. The Department shall implement the program through rules adopted pursuant to the Illinois Administrative Procedure Act. The program shall be consistent with the purposes and objectives of this Act and with all other specific requirements set forth in this subsection</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-331, eff. 8-21-07; 95-532, eff. 8-28-07; 96-154, eff. 1-1-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-5">
+            <num>5</num>
+            <heading>Policy Advisory Council</heading>
+            <subsection eId="sec_305-20-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Within the Department of Commerce and Economic Opportunity is created a
+Low Income Energy Assistance Policy Advisory Council.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Council shall be chaired by the Director
+of Commerce and Economic Opportunity or his or her designee. There shall be 19 
+members of the Low Income Energy Assistance Policy Advisory Council, including
+the chairperson and the following members:</p>
+              </content>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>one member designated by the Illinois Commerce Commission;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>(blank);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>one member designated by the Illinois Energy Association to represent electric public utilities serving in excess of 1 million customers in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>one member agreed upon by gas public utilities that serve more than 500,000  and fewer than 1,500,000 customers in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>one member agreed upon by gas public utilities that serve 1,500,000 or more customers in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>one member designated by the Illinois Energy Association to represent combination gas and electric public utilities;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>one member agreed upon by the Illinois Municipal Electric Agency and the Association of Illinois Electric Cooperatives;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>one member agreed upon by the Illinois Industrial Energy Consumers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_9">
+                <num>(9)</num>
+                <content>
+                  <p>three members designated by the Department to represent low income energy consumers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_10">
+                <num>(10)</num>
+                <content>
+                  <p>two members designated by the Illinois Community Action Association to represent local agencies that assist in the administration of this Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_11">
+                <num>(11)</num>
+                <content>
+                  <p>one member designated by the Citizens Utility Board to represent residential energy consumers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_12">
+                <num>(12)</num>
+                <content>
+                  <p>one member designated by the Illinois Retail Merchants Association to represent commercial energy customers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_13">
+                <num>(13)</num>
+                <content>
+                  <p>one member designated by the Department to represent independent energy providers; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_b__subsec_14">
+                <num>(14)</num>
+                <content>
+                  <p>three members designated by the Mayor of the City of Chicago.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Designated and appointed members shall serve 2 year terms and
+until their successors are appointed and qualified. The designating
+organization shall notify the chairperson of any changes or substitutions of a
+designee within 10 business days of a change or substitution. Members shall
+serve without compensation, but may receive reimbursement for actual costs
+incurred in fulfilling their duties as members of the Council.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The Council shall have the following duties:</p>
+              </content>
+              <paragraph eId="sec_305-20-5__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>to monitor the administration of this Act to ensure effective, efficient, and coordinated program development and implementation;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>to assist the Department in developing and administering rules and regulations required to be promulgated pursuant to this Act in a manner consistent with the purpose and objectives of this Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>to facilitate and coordinate the collection and exchange of all program data and other information needed by the Department and others in fulfilling their duties pursuant to this Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>to advise the Department on the proper level of support required for effective administration of the Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>to provide a written opinion concerning any regulation proposed pursuant to this Act, and to review and comment on any energy assistance or related plan required to be prepared by the Department;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-5__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>to advise the Department on the use of funds collected pursuant to Section 11 of this Act, and on any changes to existing low income energy assistance programs to make effective use of such funds, so long as such uses and changes are consistent with the requirements of the Act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-916, eff. 8-9-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-6">
+            <num>6</num>
+            <heading>Eligibility, conditions of participation, and energy assistance</heading>
+            <subsection eId="sec_305-20-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any person who is a resident of the State of Illinois and whose
+household income is not greater than an amount determined annually by the
+Department, in consultation with the Policy Advisory Council, may
+apply for assistance pursuant to this Act in accordance with regulations
+promulgated by the Department. In setting the annual eligibility level, the
+Department shall consider the amount of available funding and may not set a
+limit higher than  150% of the federal nonfarm poverty level as established by
+the federal Office of Management and Budget or 60% of the State median income for the current State fiscal year as established by the U.S. Department of Health and Human Services; except that for the period from the effective date of this amendatory Act of the 101st General Assembly through June 30, 2021, the Department may establish limits not higher than 200% of that poverty level. The Department, in consultation with the Policy Advisory Council, may adjust the percentage of poverty level annually in accordance with federal guidelines and based on funding availability.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Applicants who qualify for assistance pursuant to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of
+this Section shall, subject to appropriation from the General Assembly and
+subject to availability of funds to the Department, receive energy
+assistance as provided by this Act.  The Department, upon receipt
+of monies authorized pursuant to this Act for energy assistance, shall commit
+funds for each qualified applicant in an amount determined by the
+Department.  In determining the amounts of assistance to be provided to or
+on behalf of a qualified applicant, the Department shall ensure that the
+highest amounts of assistance go to households with the greatest energy
+costs in relation to household income.  The Department shall include
+factors such as energy costs, household size, household income, and region
+of the State when determining individual household benefits.  In setting
+assistance levels, the Department shall attempt to provide assistance to
+approximately the same number of households who participated in the 1991
+Residential Energy Assistance Partnership Program.  Such assistance levels
+shall be adjusted annually on the basis of funding
+availability and energy costs.  In promulgating rules for the
+administration of this
+Section the Department shall assure that a minimum of 1/3 of funds
+available for benefits to eligible households with the lowest incomes and that elderly households, households with children under the age of 6 years old, and households with persons with disabilities are offered a priority application
+period.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the applicant is not a customer of record of an energy provider for
+energy services or an applicant for such service, such applicant shall
+receive a direct energy assistance payment in an amount established by the
+Department for all such applicants under this Act; provided, however, that
+such an applicant must have rental expenses for housing greater than 30% of
+household income. (c-1) This subsection shall apply only in cases where:</p>
+              </content>
+              <paragraph eId="sec_305-20-6__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the applicant is not a customer of record of an energy provider because energy services are provided by the owner of the unit as a portion of the rent;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-6__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the applicant resides in housing subsidized or developed with funds provided under the Rental Housing Support Program Act or under a similar locally funded rent subsidy program, or is the voucher holder who resides in a rental unit within the State of Illinois and whose monthly rent is subsidized by the tenant-based Housing Choice Voucher Program under Section 8 of the U.S. Housing Act of 1937; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-6__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the rental expenses for housing are no more than 30% of household income. In such cases, the household may apply for an energy assistance payment under this Act and the owner of the housing unit shall cooperate with the applicant by providing documentation of the energy costs for that unit. Any compensation paid to the energy provider who supplied energy services to the household shall be paid on behalf of the owner of the housing unit providing energy services to the household. The Department shall report annually to the General Assembly on the number of households receiving energy assistance under this subsection and the cost of such assistance.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If the applicant is a customer of an energy provider, such
+applicant shall receive energy assistance in an amount established by the
+Department for all such applicants under this Act, such amount to be paid
+by the Department to the energy provider supplying winter energy service to
+such applicant.  Such applicant shall:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>make all reasonable efforts to apply to any other appropriate source of public energy assistance; and (ii) sign a waiver permitting the Department to receive income information from any public or private agency providing income or energy assistance and from any employer, whether public or private.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any qualified applicant pursuant to this Section may receive or have
+paid on such applicant's behalf an emergency assistance payment to enable
+such applicant to obtain access to winter energy services.  Any such
+payments shall be made in accordance with regulations of the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The Department may, if sufficient funds are available, provide
+additional benefits to certain qualified applicants:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>for the reduction of past due amounts owed to energy providers; (ii) to assist the household in responding to excessively high summer temperatures or energy costs. Households containing elderly members, children, a person with a disability, or a person with a medical need for conditioned air shall receive priority for receipt of such benefits; and (iii)   for the installation of energy conservation measures, health and safety measures, healthy home measures, home improvement measures to help alleviate deferrals from weatherization activities, and renewable energy retrofits.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-16, eff. 6-17-21; 102-176, eff. 6-1-22; 102-699, eff. 4-19-22; 103-663, eff. 1-1-25 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-7">
+            <num>7</num>
+            <heading>State Weatherization Plan and Program</heading>
+            <subsection eId="sec_305-20-7__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department shall, after consultation with the Policy Advisory
+Council, prepare and promulgate an annual State Weatherization Plan
+beginning in the year this Act becomes effective.  To the extent
+practicable, such Plan shall provide for targeting use of both State and
+federal weatherization funds to the households of eligible applicants
+pursuant to this Act whose ratios of energy costs to income are the
+highest.  The State Weatherization Plan shall include but need not be
+limited to the following:</p>
+              </content>
+              <paragraph eId="sec_305-20-7__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a description of the demographic characteristics and energy use patterns of people eligible for assistance pursuant to this Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-7__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the methodology used by the Department in targeting weatherization funds;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-7__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a description of anticipated activity and results for the year covered by the Plan, including an estimate of energy cost savings expected to be realized by the weatherization program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-7__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>every third year, beginning in 2002, an evaluation of results from the weatherization program in the year preceding the plan year, including the effect of State Weatherization Program investments on energy consumption and cost in the population eligible for assistance pursuant to this Act, and the effect of targeted weatherization investments on the costs of the energy assistance program authorized by this Act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-7__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department shall implement the State Weatherization Plan
+by rule through a program which provides targeted weatherization assistance to
+eligible applicants for energy assistance pursuant to this Act.
+The Department may enter into such contracts and other arrangements with
+local agencies as may be necessary for the purpose of administering the
+weatherization program.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-690, eff. 7-18-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-8">
+            <num>8</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 96-154, eff. 1-1-10. Repealed by P.A. 97-916, eff. 8-9-12.) (305 ILCS 20/9) (from Ch. 111 2/3, par. 1409)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-154, eff. 1-1-10. Repealed by P.A. 97-916, eff. 8-9-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-9">
+            <num>9</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 89-507, eff. 7-1-97.  Repealed by P.A. 92-690, eff.
+7-18-02.) (305 ILCS 20/10) (from Ch. 111 2/3, par. 1410)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 89-507, eff. 7-1-97.  Repealed by P.A. 92-690, eff.
+7-18-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-10">
+            <num>10</num>
+            <heading>Energy Assistance Funds</heading>
+            <content>
+              <p>Subject to appropriations made by the General Assembly, the Department
+is authorized to expend monies from the Low Income Home Energy Assistance Block
+Grant Fund for the purpose of providing assistance pursuant to Section 6 of
+this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-1071, eff. 6-10-22.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-11">
+            <num>11</num>
+            <heading>Payments to Energy Providers</heading>
+            <content>
+              <p>When an energy provider
+supplies winter energy to a participant and customer, the provider shall be
+compensated by the State of Illinois pursuant to rules promulgated by the
+Department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 86-127; 87-14.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-12">
+            <num>12</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 89-507, eff. 7-1-97.  Repealed by P.A. 92-690, eff. 7-18-02.) (305 ILCS 20/13)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 89-507, eff. 7-1-97.  Repealed by P.A. 92-690, eff. 7-18-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-13">
+            <num>13</num>
+            <heading>Supplemental Low-Income Energy Assistance Fund</heading>
+            <subsection eId="sec_305-20-13__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Supplemental Low-Income Energy Assistance Fund is hereby created as a special fund in the State Treasury. The Supplemental Low-Income Energy Assistance Fund is authorized to receive moneys from voluntary donations from individuals, foundations, corporations, and other sources, moneys received pursuant to Section 17, and, by statutory deposit, the moneys collected pursuant to this Section. The Fund is also authorized to receive voluntary donations from individuals, foundations, corporations, and other sources. Subject to appropriation, the Department shall use moneys from the Supplemental Low-Income Energy Assistance Fund for:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>payments to electric or gas public utilities, municipal electric or gas utilities, and electric cooperatives on behalf of their customers who are participants in the program authorized by Sections 4 and 18 of this Act; (ii) the provision of weatherization services, including, but not limited to, the installation of energy conservation measures, health and safety measures, healthy home measures, home improvement measures to alleviate the deferrals of certain projects, including, but not limited to, roofs and foundation repairs, and renewable energy retrofits; and (iii) administration of the Supplemental Low-Income Energy Assistance Fund. All other deposits outside of the Energy Assistance Charge as set forth in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>are not subject to the percentage restrictions related to administrative and weatherization expenses provided in this subsection. The yearly expenditures for weatherization may not exceed 10% of the amount collected during the year pursuant to this Section, except when unspent funds from the Supplemental Low-Income Energy Assistance Fund are reallocated from a previous year; any unspent balance of the 10% weatherization allowance may be utilized for weatherization expenses in the year they are reallocated. The yearly administrative expenses of the Supplemental Low-Income Energy Assistance Fund may not exceed 13% of the amount collected during that year pursuant to this Section, except when unspent funds from the Supplemental Low-Income Energy Assistance Fund are reallocated from a previous year; any unspent balance of the 13% administrative allowance may be utilized for administrative expenses in the year they are reallocated. Of the 13% administrative allowance, no less than 8% shall be provided to Local Administrative Agencies for administrative expenses.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the provisions of Section 16-111 of the Public Utilities Act but subject to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>of this Section, each public utility, electric cooperative, as defined in Section 3.4 of the Electric Supplier Act, and municipal utility, as referenced in Section 3-105 of the Public Utilities Act, that is engaged in the delivery of electricity or the distribution of natural gas within the State of Illinois shall, effective January 1, 2021, assess each of its customer accounts a monthly Energy Assistance Charge for the Supplemental Low-Income Energy Assistance Fund. The delivering public utility, municipal electric or gas utility, or electric or gas cooperative for a self-assessing purchaser remains subject to the collection of the fee imposed by this Section. The monthly charge shall be as follows:</p>
+              </content>
+              <paragraph eId="sec_305-20-13__subsec_k__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Base Energy Assistance Charge per month on each account for residential electrical service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_k__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Base Energy Assistance Charge per month on each account for residential gas service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_k__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Ten times the Base Energy Assistance Charge per month on each account for non-residential electric service which had less than 10 megawatts of peak demand during the previous calendar year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_k__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Ten times the Base Energy Assistance Charge per month on each account for non-residential gas service which had distributed to it less than 4,000,000 therms of gas during the previous calendar year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_k__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Three hundred and seventy-five times the Base Energy Assistance Charge per month on each account for non-residential electric service which had 10 megawatts or greater of peak demand during the previous calendar year; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_k__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>Three hundred and seventy-five times the Base Energy Assistance Charge per month on each account for non-residential gas service which had 4,000,000 or more therms of gas distributed to it during the previous calendar year. The Base Energy Assistance Charge shall be $0.48 per month for the calendar year beginning January 1, 2022 and shall increase by $0.16 per month for any calendar year, provided no less than 80% of the previous State fiscal year's available Supplemental Low-Income Energy Assistance Fund funding was exhausted. The maximum Base Energy Assistance Charge shall not exceed $0.96 per month for any calendar year. The incremental change to such charges imposed by Public Act 99-933 and this amendatory Act of the 102nd General Assembly shall not</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>be used for any purpose other than to directly assist customers and (ii) be applicable to utilities serving less than 100,000 customers in Illinois on January 1, 2021. The incremental change to such charges imposed by this amendatory Act of the 102nd General Assembly are intended to increase utilization of the Percentage of Income Payment Plan (PIPP or PIP Plan) and shall be applied such that PIP Plan enrollment is at least doubled, as compared to 2020 enrollment, by 2024. In addition, electric and gas utilities have committed, and shall contribute, a one-time payment of $22 million to the Fund, within 10 days after the effective date of the tariffs established pursuant to Sections 16-111.8 and 19-145 of the Public Utilities Act to be used for the Department's cost of implementing the programs described in Section 18 of this amendatory Act of the 96th General Assembly, the Arrearage Reduction Program described in Section 18, and the programs described in Section 8-105 of the Public Utilities Act. If a utility elects not to file a rider within 90 days after the effective date of this amendatory Act of the 96th General Assembly, then the contribution from such utility shall be made no later than February 1, 2010.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of this Section:</p>
+              </content>
+              <paragraph eId="sec_305-20-13__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;residential electric service&quot; means electric utility service for household purposes delivered to a dwelling of 2 or fewer units which is billed under a residential rate, or electric utility service for household purposes delivered to a dwelling unit or units which is billed under a residential rate and is registered by a separate meter for each dwelling unit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;residential gas service&quot; means gas utility service for household purposes distributed to a dwelling of 2 or fewer units which is billed under a residential rate, or gas utility service for household purposes distributed to a dwelling unit or units which is billed under a residential rate and is registered by a separate meter for each dwelling unit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;non-residential electric service&quot; means electric utility service which is not residential electric service; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-13__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>&quot;non-residential gas service&quot; means gas utility service which is not residential gas service.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Within 30 days after the effective date of this amendatory Act of the 96th General Assembly, each public utility engaged in the delivery of electricity or the distribution of natural gas shall file with the Illinois Commerce Commission tariffs incorporating the Energy Assistance Charge in other charges stated in such tariffs, which shall become effective no later than the beginning of the first billing cycle following such filing.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The Energy Assistance Charge assessed by electric and gas public utilities shall be considered a charge for public utility service.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-20-13__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>By the 20th day of the month following the month in which the charges imposed by the Section were collected, each public utility, municipal utility, and electric cooperative shall remit to the Department of Revenue all moneys received as payment of the Energy Assistance Charge on a return prescribed and furnished by the Department of Revenue showing such infor</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-16, eff. 6-17-21; 102-176, eff. 6-1-22; 102-671, eff. 11-30-21; 102-673, eff. 11-30-21; 102-699, eff. 4-19-22; 103-820, eff. 8-9-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-14">
+            <num>14</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 90-624, eff. 7-10-98.  Repealed by P.A. 92-690, eff.
+7-18-02.) (305 ILCS 20/15)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 90-624, eff. 7-10-98.  Repealed by P.A. 92-690, eff.
+7-18-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-15">
+            <num>15</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 94-773, eff. 5-18-06. Repealed by P.A. 99-933, eff. 1-27-17.) (305 ILCS 20/17)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-773, eff. 5-18-06. Repealed by P.A. 99-933, eff. 1-27-17.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-17">
+            <num>17</num>
+            <heading>Transfer into Supplemental Low-Income
+Energy Assistance Fund</heading>
+            <content>
+              <p>Immediately upon the effective date of this amendatory Act of the 94th General Assembly, but no later than 5 business days after that effective date, the State Comptroller shall direct and the Treasurer shall transfer into the Supplemental Low-Income
+Energy Assistance Fund $5,201,055, which is equivalent to 50% of the average amount of Gas Revenue Tax paid per residential gas utility customer in State fiscal year 2005 multiplied by the number of residential gas utility customers that received assistance from the Low Income Home Energy Assistance Program during the State fiscal year 2005 winter heating season.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-817, eff. 5-30-06.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-18">
+            <num>18</num>
+            <heading>Financial assistance; payment plans</heading>
+            <subsection eId="sec_305-20-18__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Percentage of Income Payment Plan (PIPP or PIP Plan) is hereby created as a mandatory bill payment assistance program for low-income residential customers of utilities serving more than 100,000 retail customers as of January 1, 2021.  The PIP Plan will:</p>
+              </content>
+              <paragraph eId="sec_305-20-18__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>bring participants' gas and electric bills into the range of affordability;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide incentives for participants to make timely payments;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>encourage participants to reduce usage and participate in conservation and energy efficiency measures that reduce the customer's bill and payment requirements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>identify participants whose homes are most in need of weatherization; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>endeavor to maximize participation and spend at least 80% of the funding available for the year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-18__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this Section:</p>
+              </content>
+              <paragraph eId="sec_305-20-18__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;LIHEAP&quot; means the energy assistance program established under the Illinois Energy Assistance Act and the Low-Income Home Energy Assistance Act of 1981.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;Plan participant&quot; is an eligible participant who is also eligible for the PIPP and who will receive either a percentage of income payment credit under the PIPP criteria set forth in this Act or a benefit pursuant to Section 4 of this Act.  Plan participants are a subset of eligible participants.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;Pre-program arrears&quot; means the amount a plan participant owes for gas or electric service at the time the participant is determined to be eligible for the PIPP or the program set forth in Section 4 of this Act.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>&quot;Eligible participant&quot; means any person who has applied for, been accepted and is receiving residential service from a gas or electric utility and who is also eligible for LIHEAP or otherwise satisfies the eligibility criteria set forth in paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-18__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The PIP Plan shall be administered as follows:</p>
+              </content>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Department shall coordinate with Local Administrative Agencies (LAAs),  to determine eligibility for the Illinois Low Income Home Energy Assistance Program (LIHEAP) pursuant to the Energy Assistance Act, provided that eligible income shall be no more than 150% of the poverty level or 60% of the State median income, except that for the period from the effective date of this amendatory Act of the 101st General Assembly through June 30, 2021, eligible income shall be no more than 200% of the poverty level. Applicants will be screened to determine whether the applicant's projected payments for electric service or natural gas service over a 12-month period exceed the criteria established in this Section. The Department, in consultation with the Policy Advisory Council, may adjust the percentage of  poverty level annually to determine income eligibility.  To maintain the financial integrity of the program, the Department may limit eligibility to households with income below 125% of the poverty level.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Department shall establish the percentage of income formula to determine the amount of  a monthly credit for participants with eligible income based on poverty level. Credits will be applied to PIP Plan participants' utility bills based on the portion of the bill that is the responsibility of the participant provided that the percentage shall be no more than  a total of 6% of the relevant income for gas and electric utility bills combined, but in any event no less than $10 per month, unless the household does not pay directly for heat, in which case its payment shall be 2.4% of income but in any event no less than $5 per month.  The Department, in consultation with the Policy Advisory Council, may adjust such monthly credit amounts annually and may establish a minimum credit amount based on the cost of administering the program and may deny credits to otherwise eligible participants if the cost of administering the credit exceeds the actual amount of any monthly credit to a participant. If the participant takes both gas and electric service, 50% of the credit shall be allocated to the entity that provides the participant's primary energy supply for heating.   Each participant shall enter into a levelized payment plan for, as applicable, gas and electric service and such plans shall be implemented by the utility so that a participant's usage and required payments are reviewed and adjusted regularly, but no more frequently than quarterly.  Nothing in this Section is intended to prohibit a customer, who is otherwise eligible for LIHEAP, from participating in the program described in Section 4 of this Act.  Eligible participants who receive such a benefit shall be considered plan participants and shall be eligible to participate in the Arrearage Reduction Program described in item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>The Department shall remit, through the LAAs,  to the utility or participating alternative supplier that portion of the plan participant's bill that is not the responsibility of the participant.  In the event that the Department fails to timely remit payment to the utility, the utility shall be entitled to recover all costs related to such nonpayment through the automatic adjustment clause tariffs established pursuant to Section 16-111.8 and Section 19-145 of the Public Utilities Act.  For purposes of this item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>A plan participant is responsible for all actual charges for utility service in excess of the PIPP credit.  Pre-program arrears that are included in the Arrearage Reduction Program described in item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-18__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>shall not be included in the calculation of the levelized payment plan. Emergency or crisis assistance payments shall not affect the amount of any PIPP credit to which a participant is entitled.</p>
+              </content>
+              <paragraph eId="sec_305-20-18__subsec_c__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Electric and gas utilities subject to this Section shall implement an Arrearage Reduction Program (ARP) for plan participants as follows:  for each month that a plan participant timely pays his or her utility bill, the utility shall apply a credit to a portion of the participant's pre-program arrears, if any, equal to one-twelfth of such arrearage provided that the total amount of arrearage credits shall equal no more than $1,000 annually for each participant for gas and no more than $1,000 annually for each participant for electricity.  In the third year of the PIPP, the Department, in consultation with the Policy Advisory Council established pursuant to Section 5 of this Act, shall determine by rule an appropriate per participant total cap on such amounts, if any. Those plan participants participating in the ARP shall not be subject to the imposition of any additional late payment fees  on pre-program arrears covered by the ARP.  In all other respects, the utility shall bill and collect the monthly bill of a plan participant pursuant to the same rules, regulations, programs and policies as applicable to residential customers generally. Participation in the Arrearage Reduction Program shall be limited to the maximum amount of funds available as set forth in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-20-18__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>of Section 13 of this Act.  In the event any donated funds under Section 13 of this Act are specifically designated for the purpose of funding the ARP, the Department shall remit such amounts to the utilities upon verification that such funds are needed to fund the ARP. Nothing in this Section shall preclude a utility from continuing to implement, and apply credits under, an ARP in the event that the PIPP or LIHEAP is suspended due to lack of funding such that the plan participant does not receive a benefit under either the PIPP or LIHEAP. (5.5) In addition to the ARP described in paragraph</p>
+              </content>
+              <paragraph eId="sec_305-20-18__subsec_f__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>of this subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 101-636, eff. 6-10-20; 102-176, eff. 6-1-22 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-19">
+            <num>19</num>
+            <heading>Application of Retailers' Occupation Tax provisions</heading>
+            <content>
+              <p>All the provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e, 5f, 5g, 5i, 5j, 6, 6a, 6b, 6c, 7, 8, 9, 10, 11, 11a, 12, and 13 of the Retailers' Occupation Tax Act that are not inconsistent with this Act apply, as far as practicable, to the surcharge imposed by this Act to the same extent as if those provisions were included in this Act. References in the incorporated Sections of the Retailers' Occupation Tax Act to retailers, to sellers, or to persons engaged in the business of selling tangible personal property mean persons required to remit the charge imposed under this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1171, eff. 1-4-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-20-20">
+            <num>20</num>
+            <heading>Expanded eligibility</heading>
+            <content>
+              <p>All programs pursuant to this Act shall be available to eligible low-income Illinois residents who qualify for assistance under Sections 6 and 18, regardless of immigration status, using the Supplemental Low-Income Energy Assistance Fund for customers of utilities and vendors that collect the Energy Assistance Charge and pay into the Supplemental Low-Income Energy Assistance Fund.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-16, eff. 6-17-21; 102-176, eff. 6-1-22.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

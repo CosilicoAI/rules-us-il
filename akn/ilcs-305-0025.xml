@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-25"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-25"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_25">
+          <num>305 ILCS 25/</num>
+          <heading>State Blind or Deaf School Transportation Act</heading>
+          <section eId="sec_305-25-27">
+            <num>27</num>
+            <heading>If the parent, guardian or other person is unable to furnish a
+child sent to a State school for the education of the blind or the deaf
+with transportation or the proper and necessary clothing, but is eligible
+for or receiving public assistance, the necessary expenditures for
+transportation to the nearest appropriate public residential educational
+facility and for the return of the child at suitable intervals and for the
+proper and necessary clothing shall be provided for in the public
+assistance grant</heading>
+            <content>
+              <p>If the parent, guardian, or other person is unable to
+furnish such transportation or proper and necessary clothing, and is not
+eligible for or receiving public assistance, then the circuit court for the
+county in which the child resides or may be found, on application of any
+citizen of the county, shall make an order directing that the child be
+taken to such school as the court, in consultation with the parent,
+guardian or other person deems for the best interest of the child, and for
+the furnishing of transportation for that purpose including a custodian,
+preferably the parent or guardian, and also for the furnishing of suitable
+clothing, if necessary, which expense shall be advanced by the sheriff and
+allowed by the county board. Such order shall also include an allowance for
+the return of the child at suitable intervals.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1967, p. 3704.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

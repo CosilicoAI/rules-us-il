@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-815"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-815"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-815"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-815/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-815/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-815/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-815/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_815">
+          <num>35 ILCS 815/</num>
+          <heading>Postage Stamp Vending Machine Act</heading>
+          <section eId="sec_35-815-1">
+            <num>1</num>
+            <heading>Vending machines which vend only United States postage stamps
+are exempt from license fees or any excise or license tax levied by
+the State of Illinois
+or any county or municipality or other taxing district thereof, but are
+not exempt from State, county, municipal, or Regional Transportation Authority
+occupation and use taxes</heading>
+            <content>
+              <p>(Source: P.A. 82-985.) (35 ILCS 815/2) (from Ch. 121 1/2, par. 912)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-985.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-815-2">
+            <num>2</num>
+            <heading>The General Assembly finds that this Act imposes additional
+net costs of less than $1,000 for each of the several local governments
+affected or less than $50,000 in the aggregate, for all local governments
+affected, and therefore reimbursement of local governments is not required
+of the State under the State Mandates Act, by reason of the exclusion specified
+in clause (5) of subsection (a) of Section 8 of that Act</heading>
+            <content>
+              <p>(Source: P.A. 82-192.) (35 ILCS 815/3) (from Ch. 121 1/2, par. 913)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-192.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-815-3">
+            <num>3</num>
+            <heading>Pursuant to Article VII Section 6 paragraph (g) of the Constitution,
+this Act applies to home rule units and is a limitation on their power to
+license and tax such vending machines</heading>
+            <content>
+              <p>(Source: P.A. 82-985.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 62706. Con</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 82-985.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

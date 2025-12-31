@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-30"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-30"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-30"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-30/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-30/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-30/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-30/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_30">
+          <num>35 ILCS 30/</num>
+          <heading>Historic Preservation Tax Credit Pilot Program Act</heading>
+          <section eId="sec_35-30-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Historic Preservation Tax Credit Pilot Program Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-933, eff. 6-21-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-30-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <subsection eId="sec_35-30-5__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>(Blank).</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-30-5__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Department&quot; means the Department of Commerce and Economic Opportunity.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-30-5__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Qualified expenditures&quot; means all the costs and
+expenses defined as qualified rehabilitation expenditures under Section 47 of the federal Internal Revenue Code which were incurred in connection with a qualified historic structure.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-30-5__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Qualified historic structure&quot; means a hotel  that is located in the City of Peoria and that  is defined as a certified historic structure under Section 47</p>
+              </content>
+              <paragraph eId="sec_35-30-5__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the federal Internal Revenue Code.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-30-5__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Qualified rehabilitation plan&quot; means a project that is
+approved by the Department of Natural Resources as being consistent with the standards in effect on the effective date of this Act for rehabilitation as adopted by the federal Secretary of the Interior.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-30-5__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Qualified taxpayer&quot; means the owner of the qualified
+historic structure or any other person who may qualify for the
+federal rehabilitation credit allowed by Section 47 of the
+federal Internal Revenue Code. If the taxpayer is</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-30-5__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a
+corporation having an election in effect under Subchapter S of
+the federal Internal Revenue Code, (ii) a partnership, or (iii)
+a limited liability company, the credit provided under this Act may be claimed by the shareholders of the
+corporation, the partners of the partnership, or the members of
+the limited liability company in the same manner as those
+shareholders, partners, or members account for their
+proportionate shares of the income or losses of the
+corporation, partnership, or limited liability company, or as
+provided in the by-laws or other executed agreement of the
+corporation, partnership, or limited liability company.
+Credits granted to a partnership, a limited liability company
+taxed as a partnership, or other multiple owners of property
+shall be passed through to the partners, members, or owners
+respectively on a pro rata basis or pursuant to an executed
+agreement among the partners, members, or owners documenting
+any alternate distribution method.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-695, eff. 8-3-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-30-15">
+            <num>15</num>
+            <heading>Allowable credit</heading>
+            <subsection eId="sec_35-30-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-30-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 201 of the Illinois Income Tax Act in an amount
+equal to 25% of qualified expenditures incurred by a qualified
+taxpayer during the taxable year in the restoration and preservation of a qualified
+historic structure pursuant to a qualified rehabilitation plan, provided that the total amount of such expenditures</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-30-15__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>must equal $5,000 or more, and (ii) must exceed 50% of the purchase price of the property. If the amount of any tax credit awarded under this Act exceeds the qualified taxpayer's income tax liability for the year in which the qualified rehabilitation plan was placed in service, the excess amount may be carried forward for deduction from the taxpayer's income tax liability in the next succeeding year or years until the total amount of the credit has been used, except that a credit may not be carried forward for deduction after the tenth taxable year after the taxable year in which the qualified rehabilitation plan was placed in service. To obtain a tax credit pursuant to this Act, an application must be made to the Department no later than 6 months after the effective date of this Act. The Department, in consultation with the Department of Natural Resources, shall determine the amount of eligible rehabilitation costs and expenses. The Department of Natural Resources shall determine whether the rehabilitation is consistent with the standards of the Secretary of the United States Department of the Interior for rehabilitation. Upon completion and review of the project, the Department shall issue a certificate in the amount of the eligible credits.  At the time the certificate is issued, an issuance fee up to the maximum amount of 2% of the amount of the credits issued by the certificate may be collected from the applicant to administer the Act. If collected, this issuance fee shall be evenly divided between the Department and the Department of Natural Resources.  The taxpayer must attach the certificate to the tax return on which the credits are to be claimed.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-695, eff. 8-3-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-30-20">
+            <num>20</num>
+            <heading>Transfer of credits</heading>
+            <content>
+              <p>Any qualified taxpayer,
+referred to in this Section as the assignor, may sell, assign,
+convey, or otherwise transfer tax credits allowed and earned
+under this Act. The taxpayer acquiring the credits, referred to
+in this Section as the assignee, may use the amount of the
+acquired credits to offset up to 100% of its income tax
+liability for either the taxable year in which the qualified
+rehabilitation plan was first placed into service or the
+taxable year in which such acquisition was made. Unused credit
+amounts claimed by the assignee may be carried forward for up
+to 10 years or carried back for up to 3 years, except that all
+credits must be claimed within 10 years after the tax year in
+which the qualified rehabilitation plan was first placed into
+service and may not be carried back to a tax year prior to the
+tax year in which the credit was issued. The assignor shall
+enter into a written agreement with the assignee establishing
+the terms and conditions of the agreement and shall perfect the
+transfer by notifying the Department in writing within 90 calendar days after the effective date of the transfer and shall provide any information as may be required by the Department to administer and carry out the provisions of this Section. If credits that have been transferred are subsequently reduced, adjusted, or recaptured, in whole or in part, by the Department, the Department of Revenue, or any other applicable government agency, only the original qualified taxpayer that was awarded the credits, and not any subsequent assignee of the credits, shall be held liable to repay any amount of such reduction, adjustment, or recapture of the credits.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-933, eff. 6-21-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-30-25">
+            <num>25</num>
+            <heading>Pilot program; report</heading>
+            <content>
+              <p>The Department may award no more than an aggregate of $10,000,000 in total tax credits pursuant to one qualified rehabilitation plan for one qualified historic structure. On or before December 31, 2010 and on or before December 31 of each year thereafter through  2016, the Department must submit a report to the General Assembly evaluating the effectiveness of this Act in stimulating economic revitalization in the pilot program area.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-933, eff. 6-21-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-30-30">
+            <num>30</num>
+            <heading>Powers</heading>
+            <content>
+              <p>The Department and the Department of Natural Resources shall promulgate rules and regulations for the administration of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-695, eff. 8-3-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-30-35">
+            <num>35</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 96-933, eff. 6-21-10; text omitted.) (35 ILCS 30/99)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-933, eff. 6-21-10; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-30-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-933, eff. 6-21-10.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-175"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-175"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-175"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-175/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-175/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-175/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-175/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_175">
+          <num>35 ILCS 175/</num>
+          <heading>Live Adult Entertainment Facility Surcharge Act</heading>
+          <section eId="sec_35-175-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Live Adult Entertainment Facility Surcharge Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-3">
+            <num>3</num>
+            <heading>Findings</heading>
+            <content>
+              <p>It is the intent of the General Assembly to ameliorate the negative secondary effects associated with the consumption of alcoholic beverages on the premises of sexually oriented businesses, or the proximity of sexually oriented businesses to facilities serving alcohol, so as to promote the health, safety, and welfare of the citizens of Illinois. This Act is not intended to directly or indirectly impose limitations or restrictions on live nude dancing, nor is it the intent of this Act to restrict or deny access by adults to live nude dancing performances that may be protected by the First Amendment of the United States Constitution or by the Illinois Constitution.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act: &quot;Admission&quot; means entry by a person into a live adult entertainment facility. &quot;Department&quot; means the Department of Revenue. &quot;Live adult entertainment facility&quot; means a striptease club or other business that serves or permits the consumption of alcohol on its premises, and, during at least 30 consecutive or nonconsecutive days in a calendar year, offers or provides activities by employees, agents, or contractors of the business that involve nude or partially denuded individuals that, when considered as a whole, appeal primarily to an interest in nudity or sex. &quot;Nude or partially denuded individual&quot; means an individual who is: (1) entirely unclothed; or (2) clothed in a manner that leaves uncovered or visible through less than fully opaque clothing any portion of the breasts below the top of the areola of the breasts, if the person is female, or any portion of the genitals or buttocks. &quot;Operator&quot; means any person who owns or operates a live adult entertainment facility in this State.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-10">
+            <num>10</num>
+            <heading>Surcharge imposed; returns</heading>
+            <subsection eId="sec_35-175-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An annual surcharge is imposed upon each operator who operates a live adult entertainment facility in this State. By January 20, 2014, and by January 20 of each year thereafter, each operator shall elect to pay the surcharge according to either item</p>
+              </content>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>or item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this subsection.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>An operator who elects to be subject to this item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>shall pay to the Department a surcharge imposed upon admissions to a live adult entertainment facility operated by the operator in this State in an amount equal to $3 per person admitted to that live adult entertainment facility. This item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>does not require a live entertainment facility to impose a fee on a customer of the facility. An operator has the discretion to determine the manner in which the facility derives the moneys required to pay the surcharge imposed under this Section.  In the event that an operator has not filed the applicable returns under the Retailers' Occupation Tax Act for a full calendar year prior to any January 20, then such operator shall pay the surcharge under this Act pursuant to this item</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>for moneys owed to the Department subject to this Act for the previous calendar year.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>An operator may, in the alternative, pay to the Department the surcharge as follows: (A) If the gross receipts received by the live adult entertainment facility during the preceding calendar year, upon the basis of which a tax is imposed under Section 2 of the Retailers' Occupation Tax Act, are equal or greater than $2,000,000 during the preceding calendar year, and if the operator elects to be subject to this item</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-175-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For each live adult entertainment facility paying the surcharge as set forth in item</p>
+              </content>
+              <paragraph eId="sec_35-175-10__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-175-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Section, the operator must file a return electronically as provided by the Department and remit payment to the Department on an annual basis no later than January 20 covering the previous calendar year. Each return made to the Department must state the following:</p>
+              </content>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name of the operator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the address of the live adult entertainment facility and the address of the principal place of business (if that is a different address) of the operator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the total number of admissions to the facility in the preceding calendar year; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the total amount of surcharge collected in the preceding calendar year. Notwithstanding any other provision of this subsection concerning the time within which an operator may file his or her return, if an operator ceases to operate a live adult entertainment facility, then he or she must file a final return under this Act with the Department not more than one calendar month after discontinuing that business.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-175-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For each live adult entertainment facility paying the surcharge as set forth in item</p>
+              </content>
+              <paragraph eId="sec_35-175-10__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-175-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of this Section, the operator must file a return electronically as provided by the Department and remit payment to the Department on an annual basis no later than January 20 covering the previous calendar year. Each return made to the Department must state the following:</p>
+              </content>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name of the operator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the address of the live adult entertainment facility and the address of the principal place of business (if that is a different address) of the operator;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the gross receipts received by the live adult entertainment facility during the preceding calendar year, upon the basis of which tax is imposed under Section 2 of the Retailers' Occupation Tax Act; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the applicable surcharge from Section 10</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-175-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>of this Act to be paid by the operator. Notwithstanding any other provision of this subsection concerning the time within which an operator may file his or her return, if an operator ceases to operate a live adult entertainment facility, then he or she must file a final return under this Act with the Department not more than one calendar month after discontinuing that business.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-175-10__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Beginning January 1, 2014, the Department shall pay all proceeds collected from the surcharge imposed under this Act into the Sexual Assault Services and Prevention Fund, less 2% of those proceeds, which shall be paid into the Tax Compliance and Administration Fund in the State treasury from which it shall be appropriated to the Department to cover the costs of the Department in administering and enforcing the provisions of this Act.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-175-10__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If any payment provided for in this Section exceeds the operator's liabilities under this Act, as shown on an original return, the operator may credit such excess payment against liability subsequently to be remitted to the Department under this Act, in accordance with reasonable rules adopted by the Department.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-1171, eff. 1-4-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-15">
+            <num>15</num>
+            <heading>The Sexual Assault Services and Prevention Fund</heading>
+            <subsection eId="sec_35-175-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Sexual Assault Services and Prevention Fund is created as a special fund in the State treasury. From appropriations from the Fund, the Department of Human Services shall make grants to sexual assault organizations with whom the Department has contracts for the purpose of providing community-based assistance to victims of sexual assault and for activities concerning the prevention of sexual assault. Moneys received for the purposes of this Act, including, without limitation, surcharge proceeds and gifts, grants, and awards from any public or private entity, must be deposited into the Fund. Any interest earnings that are attributable to moneys in the Fund must be deposited into the Fund.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-175-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any deposits authorized under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-175-15__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of Section 10 of this Act, the Fund is not subject to sweeps, charge-backs, or any other fiscal or budgetary maneuver that would in any way transfer any moneys from the Fund into any other fund of the State.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-20">
+            <num>20</num>
+            <heading>Books and records</heading>
+            <subsection eId="sec_35-175-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 10 of this Act shall  record the admissions of customers subject to the surcharge under this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-25">
+            <num>25</num>
+            <heading>Application of Retailers' Occupation Tax provisions; Uniform Penalty and Interest Act provisions</heading>
+            <content>
+              <p>All the provisions of Sections 4, 5, 5a, 5b, 5c, 5d, 5e, 5f, 5g, 5i, 5j, 6, 6a, 6b, 6c, 7, 8, 9, 10, 11, and 13 of the Retailers' Occupation Tax Act that are not inconsistent with this Act apply, as far as practicable, to the surcharge imposed by this Act to the same extent as if those provisions were included in this Act. References in the incorporated Sections of the Retailers' Occupation Tax Act to retailers, to sellers, or to persons engaged in the business of selling tangible personal property mean operators.  All provisions of the Uniform Penalty and Interest Act which are not inconsistent with this Act shall apply.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-30">
+            <num>30</num>
+            <heading>Rules</heading>
+            <content>
+              <p>The Department may adopt and enforce any reasonable rule to administer and enforce the surcharge imposed by this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-40">
+            <num>40</num>
+            <heading>Review under the Administrative Review Law</heading>
+            <content>
+              <p>The circuit court of any county in which a hearing is held has the power to review all final administrative decisions of the Department in administering the surcharge imposed under this Act.  The term &quot;administrative decision&quot; is defined as in Section 3-101 of the Code of Civil Procedure.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-45">
+            <num>45</num>
+            <heading>Penalty</heading>
+            <content>
+              <p>Any operator who fails to make a return or who makes a fraudulent return  is guilty of a Class 4 felony.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-90">
+            <num>90</num>
+            <heading>(Amendatory provisions; text omitted)</heading>
+            <content>
+              <p>(Source: P.A. 97-1035, eff. 1-1-13; text omitted.) (35 ILCS 175/97)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13; text omitted.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-97">
+            <num>97</num>
+            <heading>Severability</heading>
+            <content>
+              <p>The provisions of this Act are severable under Section 1.31 of the Statute on Statutes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-175-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect January 1, 2013.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1035, eff. 1-1-13.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

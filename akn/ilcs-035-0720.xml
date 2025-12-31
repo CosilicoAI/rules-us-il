@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-720"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-720"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-720"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-720/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-720/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-720/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-720/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_720">
+          <num>35 ILCS 720/</num>
+          <heading>Local Tax Collection Act</heading>
+          <section eId="sec_35-720-1">
+            <num>1</num>
+            <heading>(a) The Department of Revenue and any unit of local government
+may agree to the Department's collecting, and transmitting back to the unit of local government, any tax lawfully imposed by that unit of local government,
+the subject of which is similar to that of a tax imposed by the State and
+collected by the Department of Revenue, unless the General Assembly has
+specifically required a different method of collection for such tax</heading>
+            <subsection eId="sec_35-720-1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Regarding the collection of a tax pursuant to this Section, the
+Department and any person subject to a tax collected by the Department
+pursuant to this Section shall, as much as practicable, have the same
+rights, remedies, privileges, immunities, powers and duties, and be subject
+to the same conditions, restrictions, limitations,
+penalties, definitions of terms and procedures, as those set forth in the
+Act imposing the State tax, the subject of which is similar to the tax being
+collected by the Department pursuant to this Section. The Department and
+unit of local government shall specifically agree in writing to such rights,
+remedies, privileges, immunities, powers, duties, conditions, restrictions,
+limitations, penalties, definitions of terms and procedures, as well as any
+other terms deemed necessary or advisable.  All terms so agreed upon shall
+be incorporated into an ordinance of such unit of local government,
+and the Department shall not collect the tax pursuant to this Section until
+such ordinance takes effect.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_c">
+              <num>(c)</num>
+              <paragraph eId="sec_35-720-1__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Department shall forthwith pay over to the State Treasurer, ex
+officio, as trustee, all taxes and penalties collected hereunder.  On or
+before the 25th day of each calendar month, the Department shall prepare
+and certify to the Comptroller the disbursement of stated sums of money to
+named units of local government from which retailers or other taxpayers have paid taxes or penalties
+hereunder to the Department during the second preceding calendar month.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The amount to be paid to each unit of local government shall equal
+the taxes and penalties collected by the Department for the unit of local government pursuant to this Section during the second preceding calendar month (not including credit memoranda), plus an amount the Department determines is necessary to offset any amounts which were erroneously paid to a different taxing body, and not including</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>an amount equal to the amount of refunds made during the second preceding calendar month by the Department of behalf of such county or municipality and (ii) any amount which the Department determines is necessary to offset any amounts which are payable to a different taxing body but were erroneously paid to the municipality or county,
+less 2% of the balance, or any greater amount of the balance as provided in the agreement between the Department and the unit of local government required under this Section, which sum shall be retained by the State Treasurer. (ii) With respect to the amount to be retained by the State Treasurer pursuant to
+subparagraph</p>
+              </content>
+              <paragraph eId="sec_35-720-1__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Within 10 days after receiving the certifications described in paragraph</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>of paragraph (1).</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any unit of local government which imposes a tax
+collected by the Department pursuant to this Section must file a certified copy of
+the ordinance imposing the tax with the Department within 10 days after
+its passage.  Beginning on June 30, 2016 (the effective date of Public Act 99-517), an ordinance or resolution imposing or discontinuing a tax collected by the Department under this Section or effecting a change in the rate thereof shall either</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>be adopted and a certified copy thereof filed with the Department on or before the first day of April, whereupon the
+Department shall proceed to administer and enforce the tax imposition, discontinuance, or rate change as of the first day of July next following the adoption and filing; or (ii) be adopted and certified copy thereof filed with the Department on or before the first day of October, whereupon the Department shall proceed to administer and enforce the tax imposition, discontinuance, or rate change as of the first day of January next following the adoption and filing.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>It is declared to be the law of this State, pursuant to paragraph</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of Section 6 of Article VII of the Illinois Constitution, that Public Act 85-1215 is a denial of the power of a home rule unit to fail
+to comply with the requirements of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-720-1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of this Section.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-517, eff. 6-30-16; 100-201, eff. 8-18-17.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

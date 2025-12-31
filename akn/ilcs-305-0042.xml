@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-42"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-42"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-42"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-42/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-42/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-42/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-42/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_42">
+          <num>305 ILCS 42/</num>
+          <heading>Nutrition Outreach and Public Education Act</heading>
+          <section eId="sec_305-42-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Nutrition Outreach
+and Public Education Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-5">
+            <num>5</num>
+            <heading>Legislative findings</heading>
+            <content>
+              <p>The General Assembly finds a definite
+correlation between proper health and adequate diet and nutrition and hereby
+recognizes the importance of federal food and nutrition assistance programs
+in minimizing the incidence of hunger and nutrition related health problems
+for those who participate in such programs. The General Assembly also finds that a significant portion of otherwise
+eligible residents of Illinois do not participate in existing federal food
+assistance programs such as the food stamp program, school lunch and
+breakfast programs, child care food programs, summer food programs,
+the special supplemental program for women, infants and children, congregate
+meal programs, and home-delivered meal programs.  That lack of participation
+is, in the General Assembly's view, due predominantly to a lack of adequate
+program information as to eligibility and application procedures, a lack of
+access to and in many instances availability of benefits under those federal
+food assistance programs, and the unavailability of federal funding
+specifically for outreach efforts to expand program coverage and
+participation among eligible persons. The General Assembly believes that it is in the interest of the public
+health of the economically vulnerable residents of Illinois to establish a
+program of community-based nutrition outreach to enroll eligible targeted
+populations in federal food and nutrition assistance programs designed for
+them and to promote the fuller implementation and utilization of federal
+food assistance programs in unserved or underserved areas.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-10">
+            <num>10</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>As used in this Act, unless the context requires
+otherwise: &quot;At-risk populations&quot; means populations including but not limited to
+families with children receiving aid under Article IV of the Illinois
+Public Aid Code, households receiving federal supplemental security income
+payments, households with incomes at or below 185%
+of the poverty guidelines updated annually in the Federal Register by the U.S.
+Department of Health and Human Services under authority of Section 673(2) of
+the Omnibus Budget Reconciliation Act of 1981, recipients of emergency food,
+elderly persons or persons with disabilities, homeless persons, unemployed persons, and families and
+persons residing in rural households who are at risk of nutritional
+deficiencies. &quot;Secretary&quot; means the Secretary of Human Services. &quot;Food assistance programs&quot; means programs including but not limited
+to the food stamp program, school breakfast and lunch programs, child care food
+programs, summer food service programs, the special supplemental programs for
+women, infants and children, congregate meal programs, and home-delivered meal
+programs. &quot;High-risk area&quot; means any county or urban area where a significant
+percentage or number of those potentially eligible for food assistance
+programs are not participating in such programs.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 99-143, eff. 7-27-15.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-15">
+            <num>15</num>
+            <heading>Program established</heading>
+            <content>
+              <p>The Department of Human Services shall
+establish a nutrition outreach and public education program, to
+be administered by that Department in cooperation with the Department on
+Aging and the State
+Superintendent of Education.  The program shall be established to ensure
+maximum participation by eligible persons in federal and State food
+assistance programs.  The program shall be structured so as to increase
+participation statewide but with particular attention to high-risk areas
+with a focus on certain at-risk populations.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-20">
+            <num>20</num>
+            <heading>Program features</heading>
+            <content>
+              <p>Directly or through contract, the Secretary
+shall administer a program of nutrition outreach that shall include but
+shall not be limited to the following features: (1) Statewide coordination. (2) Coordination of efforts among State and local agencies, including but not limited to the Department of Human Services, the Department on Aging, the State Superintendent of Education, and community agencies involved in food assistance programs. (3) Compilation of statistical data from State and local agencies and dissemination to community organizations. (4) Provision of information as to the availability of, eligibility criteria for, and application procedures for food assistance programs. (5) Nutrition education.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-25">
+            <num>25</num>
+            <heading>Grants to community organizations</heading>
+            <content>
+              <p>The Secretary shall make
+grants from moneys appropriated for that purpose to community-based
+organizations or consortia of community-based organizations in high-risk
+areas for outreach activities. The outreach activities shall include but
+shall not be limited to the following: (1) Identifying barriers to participation in food assistance programs, including the unavailability of such programs. (2) Identifying at-risk populations and individuals within the at-risk populations who are not participating. (3) Disseminating information to and conducting training sessions for local groups. (4) Disseminating information as to program availability, individual or household eligibility, and application procedures. (5) Providing nutrition education for at-risk populations. (6) Assisting families and individuals in meeting eligibility requirements.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-30">
+            <num>30</num>
+            <heading>Criteria for high-risk areas</heading>
+            <content>
+              <p>In
+determining whether a particular geographic area is a high-risk area
+and eligible for a grant, the
+Secretary may consider factors including but not limited to the following: (1) Whether 50% or more of those potentially eligible are not participating in the food stamp program, or whether a significant number of the potentially eligible population, particularly the working poor and the elderly, are not participating. (2) Whether 25% or more of the children are eligible for free or reduced-price meals in the school lunch program. (3) Infant mortality or morbidity rates. (4) Economic indicators including but not limited to the unemployment rate, prevailing wages, and recent loss of job base. (5) A high concentration of at-risk populations. (6) The unavailability of food assistance programs in the area because of lack of provider participation or lack of knowledge about the existence of such programs.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-35">
+            <num>35</num>
+            <heading>Reports</heading>
+            <content>
+              <p>The Secretary shall report on or before January 1 of
+each year to the Governor and the General Assembly concerning the
+implementation of this Act. The report shall include information as to
+community organizations funded through grants, the effects of the nutrition
+outreach and public education program on
+participation in food assistance programs, and recommendations regarding
+expansion of the nutrition outreach and public education program.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-42-40">
+            <num>40</num>
+            <heading>Performance contingent on funding</heading>
+            <content>
+              <p>The performance of
+activities
+required by this Act is contingent on the appropriation of funds for the
+purpose of
+nutrition outreach and public education.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 93-555, eff. 1-1-04.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

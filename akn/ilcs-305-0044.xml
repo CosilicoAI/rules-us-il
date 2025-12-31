@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-44"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-44"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="305-44"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-44/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-44/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/305-44/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/305-44/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_305">
+        <num>305</num>
+        <heading>Public Aid</heading>
+        <article eId="chp_305__art_44">
+          <num>305 ILCS 44/</num>
+          <heading>Illinois Farm to Food Bank Program Act</heading>
+          <section eId="sec_305-44-1">
+            <num>1</num>
+            <heading>Short title</heading>
+            <content>
+              <p>This Act may be cited as the Illinois Farm to Food Bank Program Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-5">
+            <num>5</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>In this Act: &quot;Agricultural entity&quot; means a grower, producer, or processor of farm or dairy products, meat, poultry, fruits and agricultural products that are grown, raised, harvested, or processed in Illinois. &quot;Department&quot; means the Department of Human Services. &quot;Food bank&quot; means a public or charitable institution that maintains an established operation involving the provision of food or edible commodities to food pantries, soup kitchens, hunger relief centers, or other feeding programs that, as an integral part of their normal activities, provide meals or food to needy persons. &quot;Program&quot; means the Illinois Farm to Food Bank Program. &quot;Program participant&quot; means a food bank that receives food under the Illinois Farm to Food Bank Program to distribute to food pantries, soup kitchens, hunger relief centers, or other feeding programs that provide meals or food to needy persons. &quot;Secretary&quot; means the Secretary of Human Services.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-10">
+            <num>10</num>
+            <heading>Establishment of the Illinois Farm to Food Bank Program</heading>
+            <subsection eId="sec_305-44-10__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A program to help expand the availability of nutritious, locally grown, raised, or processed foods for Illinois' emergency food system, known as Illinois Farm to Food Bank Program, is hereby established within the Department of Human Services. The program shall:</p>
+              </content>
+              <paragraph eId="sec_305-44-10__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>acquire and distribute agricultural products from Illinois agricultural entities or aggregators to Illinois' emergency food system, and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-10__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>provide grants to improve capacity of the emergency food system to allow for the proper transportation, storage, or distribution of agricultural products to underserved areas.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-44-10__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The program shall target fruits, vegetables, meat and poultry, dairy, and eggs produced in Illinois. Foods shall be surplus, seconds, or market-grade quality levels and must be safe for consumption.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-44-10__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The Illinois Farm to Food Bank Program is subject to appropriation and shall dedicate no less than 75% of available funds to acquisition and distribution of food.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-15">
+            <num>15</num>
+            <heading>Administering entity</heading>
+            <subsection eId="sec_305-44-15__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Secretary shall engage a not-for-profit entity from Illinois' emergency food system to administer the program. The administering entity shall have statewide reach and represent multiple food banks that source and distribute food to Illinois food pantries and soup kitchens under the same authorities and standards as the Emergency Food Assistance Program administered by the Department.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-44-15__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The duties of the administering entity shall include, but are not limited to:</p>
+              </content>
+              <paragraph eId="sec_305-44-15__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>developing an annual plan outlining anticipated needs, outreach efforts, potential challenges, and any changes that may affect the program from the prior year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-15__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>issuing an annual report that summarizes the activity from the prior year, including meeting the capacity-building and equity goals of the program;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-15__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>identifying program participants and their food needs;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-15__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>building relationships with Illinois agricultural entities that address those needs, including socially disadvantaged farmers;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-15__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>coordinating the acquisition and distribution of agricultural commodities to food banks; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-15__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>distributing capacity-building grants.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-20">
+            <num>20</num>
+            <heading>Advisory Council</heading>
+            <subsection eId="sec_305-44-20__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Farm to Food Bank Advisory Council is created, consisting of the following members:</p>
+              </content>
+              <paragraph eId="sec_305-44-20__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Secretary of Human Services or the Secretary's designee, who shall serve as chair.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Director of Agriculture or the Director's designee.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Three representatives from food banks, including at least 2 representatives from food banks that participate in the Emergency Food Assistance Program administered by the Department of Human Services, selected by the Department.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Three representatives from the agricultural industry, selected by the Department.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>A representative from an academic institution with expertise in agricultural systems, selected by the Department.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_305-44-20__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Advisory Council shall provide support to the program through the following activities:</p>
+              </content>
+              <paragraph eId="sec_305-44-20__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>facilitating relationship-building and partnerships between the Illinois agricultural sector and the emergency food system;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>approving of a proposed annual budget by the administering entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>reviewing and providing feedback on the administering entity's annual plans and annual reports;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>promoting the program; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_305-44-20__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>providing feedback or recommendations as needed to the administering entity.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-25">
+            <num>25</num>
+            <heading>Participation requirements</heading>
+            <subsection eId="sec_305-44-25__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Illinois Farm to Food Bank Program may distribute food to food banks with the infrastructure to accept, store, and distribute foods through the emergency food system in compliance with federal, State, or local health and food safety requirements and with the capacity to serve significant geographic areas within Illinois. Foods may be sourced directly from an agricultural entity or via Illinois-based aggregators as long as the foods meet program requirements.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-44-25__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Program participants shall match Farm to Food Bank resources with non-state funds. The match can be met through cash or in-kind contributions.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_305-44-25__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All food distributed under the program must be distributed in Illinois, regardless of the service area of the program participant.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-30">
+            <num>30</num>
+            <heading>Capacity-building grants</heading>
+            <content>
+              <p>The Illinois Farm to Food Bank Program shall distribute capacity-building grants for facility upgrades, equipment, or other investments necessary to support the objectives of the program and allow for the proper pickup, storage, or processing of agricultural products that expand the ability of Illinois' emergency food system to access these products and better reach underserved areas and underserved populations.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-35">
+            <num>35</num>
+            <heading>Rulemaking</heading>
+            <content>
+              <p>The Department shall adopt rules to implement the program. These rules shall include, but are not limited to: (1) eligible costs related to acquisition and distribution of food, including, but not limited to, picking, packing, processing, and transportation; (2) health and safety requirements for program participants, farmers, and transportation; (3) food quality standards; (4) program requirements for the capacity-building grant program, including eligibility, allowable expenses, and reporting; (5) contracting requirements and purchasing options; (6) goals, preferences, and incentives to advance equity, especially racial equity, in the farm industry; (7) data collection, evaluation, and annual plan and reporting requirements; and (8) any other rules necessary to implement the program.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_305-44-99">
+            <num>99</num>
+            <heading>Effective date</heading>
+            <content>
+              <p>This Act takes effect upon becoming law.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-412, eff. 8-3-23.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

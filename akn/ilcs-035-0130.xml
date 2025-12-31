@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="ILCS">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-130"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-130"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#illinois-general-assembly"/>
+          <FRBRcountry value="us-il"/>
+          <FRBRnumber value="35-130"/>
+          <FRBRname value="ILCS"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-130/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-130/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-il/act/ilcs/35-130/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-il/act/ilcs/35-130/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="illinois-general-assembly" href="https://www.ilga.gov" showAs="Illinois General Assembly"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_35">
+        <num>35</num>
+        <heading>Revenue</heading>
+        <article eId="chp_35__art_130">
+          <num>35 ILCS 130/</num>
+          <heading>Cigarette Tax Act</heading>
+          <section eId="sec_35-130-1">
+            <num>1</num>
+            <heading>For the purposes of this Act: &quot;Brand Style&quot; means a variety of cigarettes distinguished by the tobacco used, tar and nicotine content, flavoring used, size of the cigarette, filtration on the cigarette or packaging</heading>
+            <subsection eId="sec_35-130-1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>the product is sold in packs similar to cigarettes;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>the product is available for sale in cartons of ten packs;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>the product is sold in soft packs, hard packs, flip-top boxes, clam shells, or other cigarette-type boxes;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>the product is of a length and diameter similar to commercially manufactured cigarettes;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>the product has a cellulose acetate or other integrated filter;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>the product is marketed or advertised to consumers as a cigarette or cigarette substitute; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>other evidence that the product fits within the definition of cigarette. &quot;Contraband cigarettes&quot; means:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>cigarettes that do not bear a required tax stamp under this Act;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>cigarettes for which any required federal taxes have not been paid;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>cigarettes that bear a counterfeit tax stamp;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>cigarettes that are manufactured, fabricated, assembled, processed, packaged, or labeled by any person other than</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the owner of the trademark rights in the cigarette brand or (ii) a person that is directly or indirectly authorized by such owner;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>cigarettes imported into the United States, or otherwise distributed, in violation of the federal Imported Cigarette Compliance Act of 2000 (Title IV of Public Law 106-476);</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>cigarettes that have false manufacturing labels;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>cigarettes identified in Section 3-10</p>
+              </content>
+              <paragraph eId="sec_35-130-1__subsec_g__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>of this Act;</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>cigarettes that are improperly tax stamped, including cigarettes that bear a tax stamp of another state or taxing jurisdiction, or lack a tax stamp required by any political subdivision of Illinois; or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-1__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>cigarettes made or fabricated by a person holding a cigarette machine operator license under Section 1-20 of the Cigarette Machine Operators' Occupation Tax Act in the possession of manufacturers, distributors, secondary distributors, manufacturer representatives or other retailers for the purpose of resale, regardless of whether the tax has been paid on such cigarettes. &quot;Little cigar&quot; has the meaning ascribed to that term in the Tobacco Products Tax Act of 1995. &quot;Person&quot; means any natural individual, firm, partnership, association, joint
+stock company, joint adventure, public or private corporation, however formed,
+limited liability company, or a receiver, executor, administrator, trustee,
+guardian or other representative appointed by order of any court. &quot;Prior Continuous Compliance Taxpayer&quot; means any person who is licensed
+under this Act and who, having been a licensee for a continuous period of 5
+years, is determined by the Department not to have been either delinquent
+or deficient in the payment of tax liability during that period or
+otherwise in violation of this Act.  Also, any taxpayer who has, as
+verified by the Department, continuously complied with the condition of his
+bond or other security under provisions of this Act for a period of 5
+consecutive years shall be considered to be a &quot;Prior continuous compliance
+taxpayer&quot;.  In calculating the consecutive period of time described herein
+for qualification as a &quot;prior continuous compliance taxpayer&quot;, a
+consecutive period of time of qualifying compliance immediately prior to
+the effective date of this amendatory Act of 1987 shall be credited to any
+licensee who became licensed on or before the effective date of this
+amendatory Act of 1987. &quot;Department&quot; means the Department of Revenue. &quot;Sale&quot; means any transfer, exchange or barter in any manner or by any
+means whatsoever for a consideration, and includes and means all sales
+made by any person. &quot;Original Package&quot; means the individual packet, bo</p>
+              </content>
+              <paragraph eId="sec_35-130-1__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any person engaged in the business of selling cigarettes in this State who brings or causes to be brought into this State from without this State any original packages of cigarettes, on which original packages there is no authorized evidence underneath a sealed transparent wrapper showing that the tax liability imposed by this Act has been paid or assumed by the out-of-State seller of such cigarettes, for sale or other disposition in the course of such business.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-1__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Any person who makes, manufactures or fabricates cigarettes in this State for sale in this State, except a person who makes, manufactures or fabricates cigarettes as a part of a correctional industries program for sale to residents incarcerated in penal institutions or resident patients of a State-operated mental health facility.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-1__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any person who makes, manufactures or fabricates cigarettes outside this State, which cigarettes are placed in original packages contained in sealed transparent wrappers, for delivery or shipment into this State, and who elects to qualify and is accepted by the Department as a distributor under Section 4b of this Act. &quot;Place of business&quot; shall mean and include any place where cigarettes
+are sold or where cigarettes are manufactured, stored or kept for the
+purpose of sale or consumption, including any vessel, vehicle, airplane,
+train or vending machine. &quot;Manufacturer representative&quot; means a director, officer, or employee of a manufacturer who has obtained authority from the Department under Section 4f to maintain representatives in Illinois that provide or sell original packages of cigarettes made, manufactured, or fabricated by the manufacturer to retailers in compliance with Section 4f of this Act to promote cigarettes made, manufactured, or fabricated by the manufacturer. &quot;Business&quot; means any trade, occupation, activity or enterprise
+engaged in for the purpose of selling cigarettes in this State. &quot;Retailer&quot; means any person who engages in the making of transfers of
+the ownership of, or title to, cigarettes to a purchaser for use or
+consumption and not for resale in any form, for a valuable consideration. &quot;Retailer&quot; does not include a person:</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-1__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>who transfers to residents incarcerated in penal institutions or resident patients of a State-operated mental health facility ownership of cigarettes made, manufactured, or fabricated as part of a correctional industries program; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-1__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>who transfers cigarettes to a not-for-profit research institution that conducts tests concerning the health effects of tobacco products and who does not offer the cigarettes for resale. &quot;Retailer&quot; shall be construed to include any person who engages in
+the making of transfers of the ownership of, or title to, cigarettes to
+a purchaser, for use or consumption by any other person to whom such
+purchaser may transfer the cigarettes without a valuable consideration,
+except a person who transfers to residents incarcerated in penal institutions
+or resident patients of a State-operated mental health facility ownership
+of cigarettes made, manufactured or fabricated as part of a correctional
+industries program. &quot;Secondary distributor&quot; means any person engaged in the business of selling cigarettes who purchases stamped original packages of cigarettes from a licensed distributor under this Act or the Cigarette Use Tax Act, sells 75% or more o</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-273, eff. 8-9-13; 99-360, eff. 8-13-15.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-2">
+            <num>2</num>
+            <heading>Tax imposed; rate; collection, payment, and distribution; discount</heading>
+            <subsection eId="sec_35-130-2__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Beginning on July 1, 2019, in place of the aggregate tax rate of 99 mills previously imposed by this Act, a tax is imposed upon any person engaged in business as a retailer of cigarettes at the rate of 149 mills per cigarette sold or otherwise disposed of in the course of such business in this State.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The payment of such taxes shall be evidenced by a stamp affixed to each original package of cigarettes, or an authorized substitute for such stamp imprinted on each original package of such cigarettes underneath the sealed transparent outside wrapper of such original package, as hereinafter provided. However, such taxes are not imposed upon any activity in such business in interstate commerce or otherwise, which activity may not under the Constitution and statutes of the United States be made the subject of taxation by this State. Out of the 149 mills per cigarette tax imposed by subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Beginning on July 1, 2019 and until July 1, 2023, all of the moneys from the additional taxes imposed by Public Act 101-31, except for moneys received from the tax on electronic cigarettes, received by the Department of Revenue pursuant to this Act, the Cigarette Use Tax Act, and the Tobacco Products Tax Act of 1995 shall be distributed each month into the Capital Projects Fund. (c-5) Beginning on July 1, 2023, all of the moneys received by the Department of Revenue pursuant to</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>this Act, (ii) the Cigarette Use Tax Act, and (iii) the tax imposed on little cigars under Section 10-10 of the Tobacco Products Tax Act of 1995 shall be paid each month as follows:</p>
+              </content>
+              <paragraph eId="sec_35-130-2__subsec_i__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>7% into the Common School Fund;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-2__subsec_i__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>34% into the Healthcare Provider Relief Fund;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-2__subsec_i__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>34% into the Capital Projects Fund; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-2__subsec_i__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>25% into the General Revenue Fund.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Until July 1, 2023, except for moneys received from the additional taxes imposed by Public Act 101-31, moneys collected from the tax imposed on little cigars under Section 10-10 of the Tobacco Products Tax Act of 1995 shall be included with the moneys collected under the Cigarette Tax Act and the Cigarette Use Tax Act when making distributions to the Common School Fund, the Healthcare Provider Relief Fund, the General Revenue Fund, the School Infrastructure Fund, and the Long-Term Care Provider Fund under this Section. Any amounts, including moneys collected from the tax imposed on little cigars under Section 10-10 of the Tobacco Products Tax Act of 1995, that are required to be paid into the General Revenue Fund, the School Infrastructure Fund, the Long-Term Care Provider Fund, the Common School Fund, the Capital Projects Fund, or the Healthcare Provider Relief Fund under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>that remain unpaid as of July 1, 2023 shall be deemed satisfied on that date, eliminating any deficiency accrued through that date. Beginning on July 1, 2023, moneys collected from the tax imposed on little cigars under Section 10-10 of the Tobacco Products Tax Act of 1995 shall be included with the moneys collected under the Cigarette Tax Act and the Cigarette Use Tax Act when making distributions under subsection (c-5).</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>If the tax imposed herein terminates or has terminated, distributors who have bought stamps while such tax was in effect and who therefore paid such tax, but who can show, to the Department's satisfaction, that they sold the cigarettes to which they affixed such stamps after such tax had terminated and did not recover the tax or its equivalent from purchasers, shall be allowed by the Department to take credit for such absorbed tax against subsequent tax stamp purchases from the Department by such distributor.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>The impact of the tax levied by this Act is imposed upon the retailer and shall be prepaid or pre-collected by the distributor for the purpose of convenience and facility only, and the amount of the tax shall be added to the price of the cigarettes sold by such distributor. Collection of the tax shall be evidenced by a stamp or stamps affixed to each original package of cigarettes, as hereinafter provided. Any distributor who purchases stamps may credit any excess payments verified by the Department against amounts subsequently due for the purchase of additional stamps, until such time as no excess payment remains.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Each distributor shall collect the tax from the retailer at or before the time of the sale, shall affix the stamps as hereinafter required, and shall remit the tax collected from retailers to the Department, as hereinafter provided. Any distributor who fails to properly collect and pay the tax imposed by this Act shall be liable for the tax.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-2__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Any distributor having cigarettes in his or her possession on July 1, 2019 to which tax stamps have been affixed, and any distributor having stamps in his or her possession on July 1, 2019 that have not been affixed to packages of cigarettes before July 1, 2019, is required to pay the additional tax that begins on July 1, 2019 imposed by Public Act 101-31 to the extent that the volume of affixed and unaffixed stamps in the distributor's possession on July 1, 2019 exceeds the average monthly volume of cigarette stamps purchased by the distributor in calendar year 2018. This payment, less the discount provided in subsection</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-9, eff. 6-7-23; 103-605, eff. 7-1-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-3">
+            <num>3</num>
+            <heading>Affixing tax stamp; remitting tax to the Department</heading>
+            <content>
+              <p>Payment of
+the taxes imposed by Section 2 of this Act shall
+(except as hereinafter provided) be evidenced by revenue tax stamps affixed
+to each original package of cigarettes. Each distributor of cigarettes,
+before delivering or causing to be delivered any original package of
+cigarettes in this State to a purchaser, shall firmly affix a proper stamp
+or stamps to each such package, or (in case of manufacturers of cigarettes
+in original packages which are contained inside a sealed transparent
+wrapper) shall imprint the required language on the original package of
+cigarettes beneath such outside wrapper, as hereinafter provided. No stamp or imprint may be affixed to, or made upon, any package of
+cigarettes unless that package complies with all requirements of the federal
+Cigarette Labeling and Advertising Act, 15 U.S.C. 1331 and following, for the
+placement of labels, warnings, or any other information upon a package of
+cigarettes that is sold within the United States.  Under the authority of
+Section 6, the Department shall revoke the license of any distributor that is
+determined to have violated this paragraph.
+A person may not affix a stamp on a package of cigarettes, cigarette papers,
+wrappers, or tubes if that individual package has been marked for export
+outside the United States with a label or notice in compliance with Section
+290.185 of Title 27 of the Code of Federal Regulations.  It is not a defense to
+a proceeding for violation of this paragraph that the label or notice has been
+removed, mutilated, obliterated, or altered in any manner. Only distributors licensed under this Act and transporters, as defined in Section 9c of this Act, may possess unstamped original packages of cigarettes.  Prior to shipment to a secondary distributor or an Illinois retailer, a stamp shall be applied to each original package of cigarettes sold to the secondary distributor or retailer. A distributor may apply tax stamps only to original packages of cigarettes purchased or obtained directly from an in-state maker, manufacturer, or fabricator licensed as a distributor under Section 4 of this Act or an out-of-state maker, manufacturer, or fabricator holding a permit under Section 4b of this Act.  A licensed distributor may ship or otherwise cause to be delivered unstamped original packages of cigarettes in, into, or from this State. A licensed distributor may transport unstamped original packages of cigarettes to a facility, wherever located, owned or controlled by such distributor; however, a distributor may not transport unstamped original packages of cigarettes to a facility where retail sales of cigarettes take place or to a facility where a secondary distributor makes sales for resale.  Any licensed distributor that ships or otherwise causes to be delivered unstamped original packages of cigarettes into, within, or from this State shall ensure that the invoice or equivalent documentation and the bill of lading or freight bill for the shipment identifies the true name and address of the consignor or seller, the true name and address of the consignee or purchaser, and the quantity by brand style of the cigarettes so transported, provided that this Section shall not be construed as to impose any requirement or liability upon any common or contract carrier. The Department, or any person authorized by the Department, shall
+sell such stamps only to persons holding valid
+licenses as distributors under this Act.  On and after July 1, 2003, payment
+for such stamps must be made by means of
+electronic funds transfer.  The Department may refuse to sell stamps to any
+person who does not comply
+with the provisions of this Act.
+Beginning on the effective date of this amendatory Act of the 92nd General
+Assembly and through June 30, 2002, persons holding valid licenses as
+distributors
+may purchase cigarette tax stamps up to an amount equal to 115% of the
+distributor's average monthly cigarette tax stamp purchases over the 12
+calendar
+months prior to the effective date of this amendatory Act of the 92nd General
+Assembly. Prior to December 1, 1985, the Department shall allow a distributor
+21 days in which to make final
+payment of the amount to be paid for such stamps, by allowing the
+distributor to make payment for the stamps at the time of purchasing them
+with a draft which shall be in such form as the Department prescribes, and
+which shall be payable within 21 days thereafter: Provided that such
+distributor has filed with the Department, and has received the
+Department's approval of, a bond, which is in addition to the bond required
+under Section 4 of this Act, payable to the Department in an amount equal
+to 80% of such distributor's average monthly tax liability to
+the Department under this Act during the preceding calendar year or $500,000,
+whichever is less. The Bond shall be joint and
+several and shall be in the form of a surety company bond in such form as
+the Department prescribes, or it may be in the form of a bank certificate
+of deposit or bank letter of credit. The bond shall be conditioned upon the
+distributor's payment of amount of any 21-day draft which the Department
+accepts from that distributor for the delivery of stamps to that
+distributor under this Act. The distributor's failure to pay any such
+draft, when due, shall also make such distributor automatically liable to
+the Department for a penalty equal to 25% of the amount of such draft. On and after December 1, 1985 and until July 1, 2003, the Department
+shall allow a distributor
+30 days in which to make
+final payment of the amount to be paid for such stamps, by allowing the
+distributor to make payment for the stamps at the time of purchasing them
+with a draft which shall be in such form as the Department prescribes, and
+which shall be payable within 30 days thereafter, and beginning on January 1,
+2003 and thereafter, the draft shall be payable by means of electronic funds
+transfer:  Provided that such
+distributor has filed with the Department, and has received the
+Department's approval of, a bond, which is in addition to the bond required
+under Section 4 of this Act, payable to the Department in an amount equal
+to 150% of such distributor's average monthly tax liability to the
+Department under this Act during the preceding calendar year or $750,000,
+whichever is less, except that as to bonds filed on or after January 1,
+1987, such additional bond shall be in an amount equal to 100% of such
+distributor's average monthly tax liability under this Act during the
+preceding calendar year or $750,000, whichever is less.  The bond shall be
+joint and several and shall be in the form of a surety company bond in such
+form as the Department prescribes, or it may be in the form of a bank
+certificate of deposit or bank letter of credit.
+The bond shall be conditioned upon the distributor's payment of the amount
+of any 30-day draft which the Department accepts from that distributor for
+the delivery of stamps to that distributor under this Act.  The
+distributor's failure to pay any such draft, when due, shall also make such
+distributor automatically liable to the Department for a penalty equal to
+25% of the amount of such draft. Every prior continuous compliance taxpayer shall be exempt from all
+requirements under this Section concerning the furnishing of such bond, as
+defined in this Section, as a condition precedent to his being authorized
+to engage in the business licensed under this Act.  This exemption shall
+continue for each such taxpayer until such time as he may be determined by
+the Department to be delinquent in the filing of any returns, or is
+determined by the Department (either through the Department's issuance of a
+final assessment which has become final under the Act, or by the taxpayer's
+filing of a return which admits tax to be due that is not paid) to be
+delinquent or deficient in the paying of any tax under this Act, a</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12; 98-463, eff. 8-16-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4">
+            <num>4</num>
+            <heading>Distributor's license</heading>
+            <subsection eId="sec_35-130-4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The name and address of the applicant;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The address of the location at which the applicant proposes to engage in business as a distributor of cigarettes in this State;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Such other additional information as the Department may lawfully require by its rules and regulations. The annual license fee payable to the Department for each distributor's
+license shall be $250. The purpose of such annual license fee is to defray
+the cost, to the Department, of
+serializing cigarette tax stamps. Each applicant for license shall pay such
+fee to the Department at the time of submitting his application for license
+to the Department. Every applicant who is required to procure a distributor's license shall
+file with his application a joint and several bond. Such bond shall be
+executed to the Department of Revenue, with good and sufficient surety or
+sureties residing or licensed to do business within the State of Illinois,
+in the amount of $2,500, conditioned upon the true and faithful compliance
+by the licensee with all of the provisions of this Act. Such bond, or a
+reissue thereof, or a substitute therefor, shall be kept in effect during
+the entire period covered by the license. A separate application for
+license shall be made, a separate annual license fee paid, and a separate
+bond filed, for each place of business at which a person who is required to
+procure a distributor's license under this Section proposes to engage in
+business as a distributor in Illinois under this Act. The following are ineligible to receive a distributor's license under
+this Act:</p>
+              </content>
+              <paragraph eId="sec_35-130-4__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person who is not of good character and reputation in the community in which he resides; the Department may consider past conviction of a felony but the conviction shall not operate as an absolute bar to licensure;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a person who has been convicted of a felony under any Federal or State law, if the Department, after investigation and a hearing and consideration of mitigating factors and evidence of rehabilitation contained in the applicant's record, including those in Section 4i, determines that such person has not been sufficiently rehabilitated to warrant the public trust and the conviction will impair the ability of the person to engage in the position for which a license is sought;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a corporation, if any officer, manager or director thereof, or any stockholder or stockholders owning in the aggregate more than 5% of the stock of such corporation, would not be eligible to receive a license under this Act for any reason;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a person, or any person who owns more than 15 percent of the ownership interests in a person or a related party who:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>owes, at the time of application, any delinquent cigarette taxes that have been determined by law to be due and unpaid, unless the license applicant has entered into an agreement approved by the Department to pay the amount due;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>had a license under this Act revoked within the past two years by the Department for misconduct relating to stolen or contraband cigarettes or has been convicted of a State or federal crime, punishable by imprisonment of one year or more, relating to stolen or contraband cigarettes;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>manufactures cigarettes, whether in this State or out of this State, and who is neither</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>a participating manufacturer as defined in subsection II(jj) of the &quot;Master Settlement Agreement&quot; as defined in Sections 10 of the Tobacco Products Manufacturers' Escrow Act and the Tobacco Products Manufacturers' Escrow Enforcement Act of 2003 (30 ILCS 168/10 and 30 ILCS 167/10); nor (ii) in full compliance with Tobacco Products Manufacturers' Escrow Act and the Tobacco Products Manufacturers' Escrow Enforcement Act of 2003 (30 ILCS 168/ and 30 ILCS 167/);</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>has been found by the Department, after notice and a hearing, to have imported or caused to be imported into the United States for sale or distribution any cigarette in violation of 19 U.S.C. 1681a;</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>has been found by the Department, after notice and a hearing, to have imported or caused to be imported into the United States for sale or distribution or manufactured for sale or distribution in the United States any cigarette that does not fully comply with the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1331, et seq.); or</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>has been found by the Department, after notice and a hearing, to have made a material false statement in the application or has failed to produce records required to be maintained by this Act. The Department, upon receipt of an application, license fee and bond in
+proper form, from a person who is eligible to receive a distributor's
+license under this Act, shall issue to such applicant a license in form as
+prescribed by the Department, which license shall permit the applicant to
+which it is issued to engage in business as a distributor at the place
+shown in his application. All licenses issued by the Department under this
+Act shall be valid for not to exceed one year after issuance unless sooner
+revoked, canceled or suspended as provided in this Act. No license issued
+under this Act is transferable or assignable. Such license shall be
+conspicuously displayed in the place of business conducted by the licensee
+in Illinois under such license. No distributor licensee acquires any vested interest or compensable property right in a license issued under this Act. A licensed distributor shall notify the Department of any change in the information contained on the application form, including any change in ownership and shall do so within 30 days after any such change. Any person aggrieved by any decision of the Department under this Section
+may, within 20 days after notice of the decision, protest and request a
+hearing.  Upon receiving a request for a hearing, the Department shall give
+notice to the person requesting the hearing of the time and place fixed for the
+hearing and shall hold a hearing in conformity with the provisions of this Act
+and then issue its final administrative decision in the matter to that person.
+In the absence of a protest and request for a hearing within 20 days, the
+Department's decision shall become final without any further determination
+being made or notice given.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-286, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4a">
+            <num>4a</num>
+            <heading>If a distributor shall be convicted of the violation of any of the
+provisions of this Act, or if his or her license shall be revoked and no review
+is had of the order or revocation, or if on review thereof the decision is
+adverse to the distributor, or if a distributor fails to pay an assessment as to
+which no judicial review is sought and which has become final, or pursuant
+to which, upon review thereof, the circuit court has entered a judgment
+that is in favor of the Department and that has become
+final, the bond filed pursuant to this Act shall thereupon be forfeited,
+and the Department may institute a suit upon such bond in its own name for
+the entire amount of such bond and costs</heading>
+            <content>
+              <p>Such
+suit upon the bond shall be
+in addition to any other remedy provided for herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1027, eff. 7-12-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4b">
+            <num>4b</num>
+            <heading>(a) The Department may, in its discretion, upon application, issue permits authorizing the payment of the tax herein imposed by out-of-State cigarette manufacturers who are not required to be licensed as distributors of cigarettes in this State, but who elect to qualify under this Act as distributors of cigarettes in this State, and who, to the satisfaction of the Department, furnish adequate security to insure payment of the tax, provided that any such permit shall extend only to cigarettes which such permittee manufacturer places in original packages that are contained inside a sealed transparent wrapper</heading>
+            <subsection eId="sec_35-130-4b__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Out-of-state cigarette manufacturers who are not required to be licensed as distributors of cigarettes in this State and who do not elect to obtain approval under subsection 4b</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4b__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to pay the tax imposed by this Act, but who elect to qualify under this Act as distributors of cigarettes in this State for purposes of shipping and delivering unstamped original packages of cigarettes into this State to licensed distributors, shall obtain a permit from the Department. These permits shall be issued without charge in such form as the Department may prescribe and shall not be transferable or assignable. The following are ineligible to receive a distributor's permit under this subsection:</p>
+              </content>
+              <paragraph eId="sec_35-130-4b__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person who is not of good character and reputation in the community in which he or she resides; the Department may consider past conviction of a felony but the conviction shall not operate as an absolute bar to receiving a permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4b__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a person who has been convicted of a felony under any federal or State law, if the Department, after investigation and a hearing and consideration of mitigating factors and evidence of rehabilitation contained in the applicant's record, including those set forth in Section 4i of this Act, determines that the person has not been sufficiently rehabilitated to warrant the public trust and the conviction will impair the ability of the person to engage in the position for which a permit is sought; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4b__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a corporation, if any officer, manager, or director thereof, or any stockholder or stockholders owning in the aggregate more than 5% of the stock of the corporation, would not be eligible to receive a permit under this Act for any reason. With respect to original packages of cigarettes that such permittee delivers or causes to be delivered in Illinois and distributes to the public for promotional purposes without consideration, the permittee shall pay the tax imposed by this Act by remitting the amount thereof to the Department by the 5th day of each month covering cigarettes shipped or otherwise delivered in Illinois for those purposes during the preceding calendar month. The permittee, before delivering those cigarettes or causing those cigarettes to be delivered in this State, shall evidence his or her obligation to remit the taxes due with respect to those cigarettes by imprinting language to be prescribed by the Department on each original package of cigarettes, in such place thereon and in such manner also to be prescribed by the Department. The imprinted language shall acknowledge the permittee's payment of or liability for the tax imposed by this Act with respect to the distribution of those cigarettes. With respect to cigarettes that the permittee delivers or causes to be delivered in Illinois to Illinois licensed distributors or distributed to the public for promotional purposes, the permittee shall, by the 5th day of each month, file with the Department, a report covering cigarettes shipped or otherwise delivered in Illinois to licensed distributors or distributed to the public for promotional purposes during the preceding calendar month on a form to be prescribed and furnished by the Department and shall disclose such other information as the Department may lawfully require. Information that the Department may lawfully require includes information related to the uniform regulation and taxation of cigarettes. The Department may promulgate rules to require</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4b">
+            <num>4b</num>
+            <heading>(a) The Department may, in its discretion, upon application, issue permits authorizing the payment of the tax herein imposed by out-of-State cigarette manufacturers who are not required to be licensed as distributors of cigarettes in this State, but who elect to qualify under this Act as distributors of cigarettes in this State, and who, to the satisfaction of the Department, furnish adequate security to insure payment of the tax, provided that any such permit shall extend only to cigarettes which such permittee manufacturer places in original packages that are contained inside a sealed transparent wrapper</heading>
+            <subsection eId="sec_35-130-4b__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Out-of-state cigarette manufacturers who are not required to be licensed as distributors of cigarettes in this State and who do not elect to obtain approval under subsection 4b</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4b__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>to pay the tax imposed by this Act, but who elect to qualify under this Act as distributors of cigarettes in this State for purposes of shipping and delivering unstamped original packages of cigarettes into this State to licensed distributors, shall obtain a permit from the Department. These permits shall be issued without charge in such form as the Department may prescribe and shall not be transferable or assignable. The following are ineligible to receive a distributor's permit under this subsection:</p>
+              </content>
+              <paragraph eId="sec_35-130-4b__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person who is not of good character and reputation in the community in which he or she resides; the Department may consider past conviction of a felony but the conviction shall not operate as an absolute bar to receiving a permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4b__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a person who has been convicted of a felony under any federal or State law, if the Department, after investigation and a hearing and consideration of mitigating factors and evidence of rehabilitation contained in the applicant's record, including those set forth in Section 4i of this Act, determines that the person has not been sufficiently rehabilitated to warrant the public trust and the conviction will impair the ability of the person to engage in the position for which a permit is sought; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4b__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a corporation, if any officer, manager, or director thereof, or any stockholder or stockholders owning in the aggregate more than 5% of the stock of the corporation, would not be eligible to receive a permit under this Act for any reason. With respect to original packages of cigarettes that such permittee delivers or causes to be delivered in Illinois and distributes to the public for promotional purposes without consideration, the permittee shall pay the tax imposed by this Act by remitting the amount thereof to the Department by the 5th day of each month covering cigarettes shipped or otherwise delivered in Illinois for those purposes during the preceding calendar month. The permittee, before delivering those cigarettes or causing those cigarettes to be delivered in this State, shall evidence his or her obligation to remit the taxes due with respect to those cigarettes by imprinting language to be prescribed by the Department on each original package of cigarettes, in such place thereon and in such manner also to be prescribed by the Department. The imprinted language shall acknowledge the permittee's payment of or liability for the tax imposed by this Act with respect to the distribution of those cigarettes. With respect to cigarettes that the permittee delivers or causes to be delivered in Illinois to Illinois licensed distributors or distributed to the public for promotional purposes, the permittee shall, by the 5th day of each month, file with the Department, a report covering cigarettes shipped or otherwise delivered in Illinois to licensed distributors or distributed to the public for promotional purposes during the preceding calendar month on a form to be prescribed and furnished by the Department and shall disclose such other information as the Department may lawfully require. Information that the Department may lawfully require includes information related to the uniform regulation and taxation of cigarettes. All reports and supporting schedules required </p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25; 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4c">
+            <num>4c</num>
+            <heading>Secondary distributor's license</heading>
+            <subsection eId="sec_35-130-4c__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of Section 4i of this Act, determines that such person has not been sufficiently rehabilitated to warrant the public trust and the conviction will impair the ability of the person to engage in the position for which a license is sought;</p>
+              </content>
+              <paragraph eId="sec_35-130-4c__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a corporation, if any officer, manager, or director thereof, or any stockholder or stockholders owning in the aggregate more than 5% of the stock of such corporation, would not be eligible to receive a license under this Act for any reason;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4c__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a person who manufactures cigarettes, whether in this State or out of this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4c__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a person, or any person who owns more than 15% of the ownership interests in a person or a related party who: (A) owes, at the time of application, any delinquent cigarette taxes that have been determined by law to be due and unpaid, unless the license applicant has entered into an agreement approved by the Department to pay the amount due; (B) had a license under this Act revoked within the past two years by the Department or has been convicted of a State or federal crime, punishable by imprisonment of one year or more, relating to stolen or contraband cigarettes; (C) has been found by the Department, after notice and a hearing, to have imported or caused to be imported into the United States for sale or distribution any cigarette in violation of 19 U.S.C. 1681a; (D) has been found by the Department, after notice and a hearing, to have imported or caused to be imported into the United States for sale or distribution or manufactured for sale or distribution in the United States any cigarette that does not fully comply with the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1331, et seq.); or (E) has been found by the Department, after notice and a hearing, to have made a material false statement in the application or has failed to produce records required to be maintained by this Act. The Department, upon receipt of an application and license fee from a person who is eligible to receive a secondary distributor's license under this Act, shall issue to such applicant a license in such form as prescribed by the Department.  The license shall permit the applicant to which it is issued to engage in business as a secondary distributor at the place shown in his application. All licenses issued by the Department under this Act shall be valid for a period not to exceed one year after issuance unless sooner revoked, canceled, or suspended as provided in this Act. No license issued under this Act is transferable or assignable. Such license shall be conspicuously dis</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-286, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4d">
+            <num>4d</num>
+            <heading>Sales of cigarettes to and by retailers</heading>
+            <content>
+              <p>In-state makers, manufacturers, and fabricators licensed as distributors under Section 4 of this Act and out-of-state makers, manufacturers, and fabricators holding permits under Section 4b of this Act may not sell original packages of cigarettes to retailers.  A retailer who is licensed under Section 4g of this Act may sell only original packages of cigarettes obtained from manufacturer representatives, licensed secondary distributors, or licensed distributors other than in-state makers, manufacturers, or fabricators licensed as distributors under Section 4 of this Act and out-of-state makers, manufacturers, or fabricators holding permits under Section 4b of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-587, eff. 8-26-11; 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4e">
+            <num>4e</num>
+            <heading>Sales of cigarettes to and by secondary distributors</heading>
+            <content>
+              <p>In-state makers, manufacturers, and fabricators licensed as distributors under Section 4 of this Act and out-of-state makers, manufacturers, and fabricators holding permits under Section 4b of this Act may not sell original packages of cigarettes to secondary distributors. A secondary distributor may sell only original packages of cigarettes obtained from licensed distributors other than in-state makers, manufacturers, or fabricators licensed as distributors under Section 4 of this Act and out-of-state makers, manufacturers, or fabricators holding permits under Section 4b of this Act.  Secondary distributors may sell cigarettes to Illinois retailers issued a license under Section 4g of this Act for resale, and are also authorized to make retail sales of cigarettes at the location on the secondary distributor's license as long as the secondary distributor obtains a license under Section 4g of the Cigarette Tax Act and sells 75% or more of the cigarettes sold at such location to retailers issued a license under Section 4g of this Act for resale.  All sales by secondary distributors to retailers issued a license under Section 4g of this Act must be made at the location on the secondary distributor's license. Retailers issued a license under Section 4g of this Act must take possession of all cigarettes sold by the secondary distributor at the secondary distributor's licensed address. Secondary distributors may not make deliveries of cigarettes to retailers. Secondary distributors may not file a claim for credit or refund with the State under Section 9d of this Act.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4f">
+            <num>4f</num>
+            <heading>Manufacturer representatives</heading>
+            <subsection eId="sec_35-130-4f__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>No manufacturer may market cigarettes produced by the manufacturer directly to retailers in this State issued a license under Section 4g of this Act without first having obtained authorization from the Department. Application for authority to maintain representatives in this State to market in this State cigarettes produced by the manufacturer shall be made to the Department on a form furnished and prescribed by the Department. Each applicant under this Section shall furnish the following information to the Department on a form signed and verified by the applicant under penalty of perjury:</p>
+              </content>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the name and address of the applicant;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the address of every location from which the applicant proposes to engage in business in this State;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the number of manufacturer representatives the applicant requests to maintain in this State; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>any other additional information as the Department may reasonably require. The following manufacturers are ineligible to receive authorization to maintain manufacturer representatives in this State:</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a manufacturer who owes, at the time of application, any delinquent cigarette taxes that have been determined by law to be due and unpaid, unless the applicant has entered into an agreement approved by the Department to pay the amount due;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a manufacturer who has had a license revoked within the past 2 years for misconduct relating to stolen or contraband cigarettes or has been convicted of a state or federal crime, punishable by imprisonment of one year or more, relating to stolen or contraband cigarettes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a manufacturer who has been found, after notice and a hearing, to have imported or caused to be imported into the United States for sale or distribution any cigarette in violation of 19 U.S.C. 1681a;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a manufacturer who has been found, after notice and a hearing, to have imported or caused to be imported into the United States for sale or distribution or manufactured for sale or distribution in the United States any cigarette that does not fully comply with the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1331, et seq.);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>a manufacturer who has been found, after notice and a hearing, to have made a material false statement in an application or has failed to produce records required to be maintained by this Act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>a manufacturer who has been found, after notice and hearing, to have violated any Section of this Act; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_a__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>a manufacturer licensed as a distributor under Section 4 of this Act or holding a permit under Section 4b of this Act. The Department, upon receipt of an application from a manufacturer who is eligible to maintain manufacturer representatives in this State, shall notify the applicant in writing, not more than 60 days after an application has been received, that the applicant may or may not maintain the requested number of manufacturer representatives in this State. A copy of the notice authorizing a manufacturer to maintain manufacturer representatives in this State shall be available for inspection by the Department at each place of business identified in the application and in the motor vehicle operated by marketing representatives in the course of performing his or her duties in this State on behalf of the manufacturer. A manufacturer representative shall notify the Department of any change in the information contained on the application form and shall do so within 30 days after any such change.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-4f__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Only directors, officers, and employees of the manufacturer may act as manufacturer representatives in this State. The manufacturer shall provide to the Department the names and addresses of the manufacturer representatives operating in this State and the make, model, and license plate number of each motor vehicle operated by a manufacturer representative in the course of performing his or her duties in this State on behalf of the manufacturer.  The following individuals may not act as manufacturer representatives:</p>
+              </content>
+              <paragraph eId="sec_35-130-4f__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>an individual who owes any delinquent cigarette taxes that have been determined by law to be due and unpaid, unless the individual has entered into an agreement approved by the Department to pay the amount due;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>an individual who has had a license revoked within the past 2 years for misconduct relating to stolen or contraband cigarettes or has been convicted of a state or federal crime, punishable by imprisonment of one year or more, relating to stolen or contraband cigarettes;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>an individual who has been found, after notice and a hearing, to have made a material false statement in an application or has failed to produce records required to be maintained by this Act; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4f__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>an individual who has been found, after notice and hearing, to have violated any Section of this Act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-4f__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Manufacturer representatives may sell to retailers in this State who are licensed  under Section 4g of this Act only original packages of cigarettes made, manufactured, or fabricated by the manufacturer and purchased or obtained from a distributor licensed under this Act, or the Cigarette Tax Use Act, and on which tax stamps have been affixed.  Manufacturer representatives may sell up to 600 stamped original packages of cigarettes in a calendar year, for the purpose of promoting the manufacturer's brands of cigarettes. A manufacturer representative may not possess more than 500 stamped original packages of cigarettes made, manufactured, or fabricated by the manufacturer and purchased or obtained from a distributor licensed under this Act or the Cigarette Use Tax Act. Any original packages of cigarettes in the possession of a manufacturer representative that</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4f__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>are not made, manufactured, or fabricated by the manufacturer and purchased or obtained from a distributor licensed under this Act or the Cigarette Use Tax Act, other than cigarettes for personal use and consumption, (ii) exceed the maximum quantity of 500 original packages of cigarettes, excluding packages of cigarettes for personal use and consumption; (iii) violate Section 3-10 of this Act; or (iv) do not have the proper tax stamps affixed, are contraband and subject to seizure and forfeiture. Manufacturer representatives may sell, on behalf of licensed distributors, stamped original packages of cigarettes to retailers who are licensed under Section 4g of this Act. The manufacturer representative shall provide the distributor with a signed receipt for the cigarettes obtained from the distributor.  The distributor shall invoice the licensed retailer, and the licensed retailer shall pay the distributor for all cigarettes provided to licensed retailers by manufacturer representatives on behalf of a distributor. Manufacturer representatives may sell stamped original packages of cigarettes to licensed retailers that are purchased from licensed distributors. Distributors shall provide manufacturer representatives with invoices for stamped original packages of cigarettes sold to manufacturer representatives.  Manufacturer representatives shall invoice licensed retailers, and the licensed retailers shall pay the manufacturer representatives for all original packages of cigarettes sold to licensed retailers.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-4f__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Any person aggrieved by any decision of the Department under this Section may, within 20 days after notice of the decision, protest and request a hearing. Upon receiving a request for a hearing, the Department shall give notice to the person requesting the hearing of the time and place fixed for the hearing and shall hold a hearing in conformity with the provisions of this Act and then issue its final administrative decision in the matter to that person. In the absence of a protest and request for a hearing within 20 days, the Department's decision shall become final without any further determination being made or notice given.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-587, eff. 8-26-11; 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4g">
+            <num>4g</num>
+            <heading>Retailer's license</heading>
+            <content>
+              <p>Beginning on January 1, 2016, no person may engage in business as a retailer of cigarettes in this State without first having obtained a license from the Department. Application for license shall be made to the Department, by electronic means, in  a form  prescribed by the Department. Each applicant for a license under this Section shall furnish to the Department, in an electronic format established by the Department, the following information: (1) the name and address of the applicant; (2) the address of the location at which the applicant proposes to engage in business as a retailer of cigarettes in this State; and (3) such other additional information as the Department may lawfully require by its rules and regulations. The annual license fee payable to the Department for each retailer's license shall be $75.  The fee shall be deposited into the Tax Compliance and Administration Fund and shall be for the cost of tobacco retail inspection and contraband tobacco and tobacco smuggling with at least two-thirds of the money being used for contraband tobacco and tobacco smuggling operations and enforcement. Each applicant for a license shall pay the fee to the Department at the time of submitting its application for a license to the Department. The Department shall require an applicant for a license under this Section to electronically file and pay the fee. A separate annual license fee shall be paid for each place of business at which a person who is required to procure a retailer's license under this Section proposes to engage in business as a retailer in Illinois under this Act. The following are ineligible to receive a retailer's license under this Act: (1) a person who has been convicted of a felony related to the illegal transportation, sale, or distribution of cigarettes, or a tobacco-related felony, under any federal or State law, if the Department, after investigation and a hearing if requested by the applicant, determines that the person has not been sufficiently rehabilitated to warrant the public trust; or (2) a corporation, if any officer, manager, or director thereof, or any stockholder or stockholders owning in the aggregate more than 5% of the stock of such corporation, would not be eligible to receive a license under this Act for any reason. The Department, upon receipt of an application and license fee, in proper form, from a person who is eligible to receive a retailer's license under this Act, shall issue to such applicant a license in form as prescribed by the Department.  That license shall permit the applicant to whom it is issued to engage in business as a retailer under this Act at the place shown in his or her application. All licenses issued by the Department under this Section shall be valid for a period not to exceed one year after issuance unless sooner revoked, canceled, or suspended as provided in this Act. No license issued under this Section is transferable or assignable. The license shall be conspicuously displayed in the place of business conducted by the licensee in Illinois under such license. The Department shall not issue a retailer's license to a retailer unless the retailer is also registered under the Retailers' Occupation Tax Act. A person who obtains a license as a retailer who ceases to do business as specified in the license, or who never commenced business, or whose license is suspended or revoked, shall immediately surrender the license to the Department. Any person aggrieved by any decision of the Department under this Section may, within 30 days after notice of the decision, protest and request a hearing. Upon receiving a request for a hearing, the Department shall give written notice to the person requesting the hearing of the time and place fixed for the hearing and shall hold a hearing in conformity with the provisions of this Act and then issue its final administrative decision in the matter to that person. In the absence of a protest and request for a hearing within 30 days, the Department's decision shall become final without any further determination being made or notice given.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16; 99-78, 7-20-15; 99-192, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4h">
+            <num>4h</num>
+            <heading>Purchases of cigarettes by licensed retailers</heading>
+            <content>
+              <p>A person who possesses a retailer's license under Section 4g of this Act shall obtain cigarettes for sale only from a licensed distributor, secondary distributor, or manufacturer representative.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-4i">
+            <num>4i</num>
+            <heading>Applicant convictions</heading>
+            <subsection eId="sec_35-130-4i__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The Department shall not require applicants to report the following information and shall not consider the following criminal history records in connection with an application for a license or permit under this Act:</p>
+              </content>
+              <paragraph eId="sec_35-130-4i__subsec_a__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>Juvenile adjudications of delinquent minors as defined in Section 5-105 of the Juvenile Court Act of 1987, subject to the restrictions set forth in Section 5-130 of the Juvenile Court Act of 1987.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_a__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>Law enforcement records, court records, and conviction records of an individual who was 17 years old at the time of the offense and before January 1, 2014, unless the nature of the offense required the individual to be tried as an adult.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_a__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>Records of arrest not followed by a conviction.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_a__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>Convictions overturned by a higher court.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_a__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>Convictions or arrests that have been sealed or expunged.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-4i__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department, upon a finding that an applicant for a license or permit  was previously convicted of a felony under any federal or State law, shall consider any mitigating factors and evidence of rehabilitation contained in the applicant's record, including any of the following factors and evidence, to determine if the applicant has been sufficiently rehabilitated and whether a prior conviction will impair the ability of the applicant to engage in the position for which a license or permit is sought:</p>
+              </content>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the lack of direct relation of the offense for which the applicant was previously convicted to the duties, functions, and responsibilities of the position for which a license or permit is sought;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>whether 5 years since a felony conviction or 3 years since release from confinement for the conviction, whichever is later, have passed without a subsequent conviction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>if the applicant was previously licensed or employed in this State or other states or jurisdictions, then the lack of prior misconduct arising from or related to the licensed position or position of employment;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the age of the person at the time of the criminal offense;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>successful completion of sentence and, for applicants serving a term of parole or probation, a progress report provided by the applicant's probation or parole officer that documents the applicant's compliance with conditions of supervision;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>evidence of the applicant's present fitness and professional character;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_7">
+                <num>(7)</num>
+                <content>
+                  <p>evidence of rehabilitation or rehabilitative effort during or after incarceration, or during or after a term of supervision, including, but not limited to, a certificate of good conduct under Section 5-5.5-25 of the Unified Code of Corrections or a certificate of relief from disabilities under Section 5-5.5-10 of the Unified Code of Corrections; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_b__subsec_8">
+                <num>(8)</num>
+                <content>
+                  <p>any other mitigating factors that contribute to the person's potential and current ability to perform the duties and responsibilities of the position for which a license, permit or employment is sought.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-4i__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>If the Department refuses to issue a license or permit to an applicant, then the Department shall notify the applicant of the denial in writing with the following included in the notice of denial:</p>
+              </content>
+              <paragraph eId="sec_35-130-4i__subsec_c__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>a statement about the decision to refuse to issue a license or permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_c__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>a list of the convictions that the Department determined will impair the applicant's ability to engage in the position for which a license or permit is sought;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_c__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>a list of convictions that formed the sole or partial basis for the refusal to issue a license or permit; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_c__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>a summary of the appeal process or the earliest the applicant may reapply for a license, whichever is applicable.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="sec_35-130-4i__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>No later than May 1 of each year, the Department must prepare, publicly announce, and publish a report of summary statistical information relating to new and renewal license or permit applications during the preceding calendar year. Each report shall show, at a minimum:</p>
+              </content>
+              <paragraph eId="sec_35-130-4i__subsec_d__subsec_1">
+                <num>(1)</num>
+                <content>
+                  <p>the number of applicants for a new or renewal license or permit under this Act within the previous calendar year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_d__subsec_2">
+                <num>(2)</num>
+                <content>
+                  <p>the number of applicants for a new or renewal license or permit under this Act within the previous calendar year who had any criminal conviction;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_d__subsec_3">
+                <num>(3)</num>
+                <content>
+                  <p>the number of applicants for a new or renewal license or permit under this Act in the previous calendar year who were granted a license or permit;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_d__subsec_4">
+                <num>(4)</num>
+                <content>
+                  <p>the number of applicants for a new or renewal license or permit with a criminal conviction who were granted a license or permit under this Act within the previous calendar year;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_d__subsec_5">
+                <num>(5)</num>
+                <content>
+                  <p>the number of applicants for a new or renewal license or permit under this Act within the previous calendar year who were denied a license or permit; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sec_35-130-4i__subsec_d__subsec_6">
+                <num>(6)</num>
+                <content>
+                  <p>the number of applicants for a new or renewal license or permit with a criminal conviction who were denied a license or permit under this Act in the previous calendar year in whole or in part because of a prior conviction.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-286, eff. 1-1-18 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-5">
+            <num>5</num>
+            <heading>Printing tax stamps</heading>
+            <content>
+              <p>The Department shall adopt the design or
+designs of the tax stamps
+or alternative tax indicia
+and shall procure the printing of such stamps
+or alternative tax indicia
+in such amounts and denominations as it deems necessary to provide for the
+affixation of the proper amount of tax stamps
+or alternative tax indicia
+to each original package of
+cigarettes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 92-322, eff. 1-1-02.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-6">
+            <num>6</num>
+            <heading>Revocation, cancellation, or suspension of license</heading>
+            <subsection eId="sec_35-130-6__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of Section 15 of the Tobacco Products Manufacturers' Escrow Enforcement Act of 2003. If the retailer has a training program that facilitates compliance with minimum-age tobacco laws, the Department shall suspend for 3 days the license of that retailer for a fourth or subsequent violation of the Prevention of Tobacco Use by Persons under 21 Years of Age and Sale and Distribution of Tobacco Products Act, as provided in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 2 of that Act. For the purposes of this Section, any violation of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-6__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of Section 2 of the Prevention of Tobacco Use by Persons under 21 Years of Age and Sale and Distribution of Tobacco Products Act occurring at the retailer's licensed location during a 24-month period shall be counted as a violation against the retailer. If the retailer does not have a training program that facilitates compliance with minimum-age tobacco laws, the Department shall suspend for 3 days the license of that retailer for a second violation of the Prevention of Tobacco Use by Persons under 21 Years of Age and Sale and Distribution of Tobacco Products Act, as provided in subsection (a-5) of Section 2 of that Act. If the retailer does not have a training program that facilitates compliance with minimum-age tobacco laws, the Department shall suspend for 7 days the license of that retailer for a third violation of the Prevention of Tobacco Use by Persons under 21 Years of Age and Sale and Distribution of Tobacco Products Act, as provided in subsection (a-5) of Section 2 of that Act. If the retailer does not have a training program that facilitates compliance with minimum-age tobacco laws, the Department shall suspend for 30 days the license of a retailer for a fourth or subsequent violation of the Prevention of Tobacco Use by Persons under 21 Years of Age and Sale and Distribution of Tobacco Products Act, as provided in subsection (a-5) of Section 2 of that Act. A training program that facilitates compliance with minimum-age tobacco laws must include at least the following elements:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-6__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>it must explain that only individuals displaying valid identification demonstrating that they are 21 years of age or older shall be eligible to purchase cigarettes or tobacco products and (ii) it must explain where a clerk can check identification for a date of birth. The training may be conducted electronically. Each retailer that has a training program shall require each employee who completes the training program to sign a form attesting that the employee has received and completed tobacco training. The form shall be kept in the employee's file and may be used to provide proof of training. Any distributor, secondary distributor, or retailer aggrieved by any decision of the Department under this Section may, within 20 days after notice of the decision, protest and request a hearing. Upon receiving a request for a hearing, the Department shall give notice in writing to the distributor, secondary distributor, or retailer requesting the hearing that contains a statement of the charges preferred against the distributor, secondary distributor, or retailer and that states the time and place fixed for the hearing. The Department shall hold the hearing in conformity with the provisions of this Act and then issue its final administrative decision in the matter to the distributor, secondary distributor, or retailer. In the absence of a protest and request for a hearing within 20 days, the Department's decision shall become final without any further determination being made or notice given. No license so revoked, as aforesaid, shall be reissued to any such distributor, secondary distributor, or retailer within a period of 6 months after the date of the final determination of such revocation. No such license shall be reissued at all so long as the person who would receive the license is ineligible to receive a distributor's license under this Act for any one or more of the reasons provided for in Section 4 of this Act, is ineligible to receive a secondary distributor's licens</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 104-6, eff. 6-16-25.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-7">
+            <num>7</num>
+            <heading>The Department or any officer or employee of the Department
+designated, in writing, by the Director thereof, shall at its or his or
+her own instance, or on the written request of any distributor, secondary distributor, retailer, manufacturer with authority to maintain manufacturer representatives, or other interested
+party to the proceeding, issue subpoenas requiring the attendance of and
+the giving of testimony by witnesses, and subpoenas duces tecum requiring
+the production of books, papers, records or memoranda</heading>
+            <content>
+              <p>All subpoenas and
+subpoenas duces tecum issued under the terms of this Act may be served by
+any person of full age. The fees of witnesses for attendance and travel
+shall be the same as the fees of witnesses before the circuit court of this
+State; such fees to be paid when the witness is excused from further
+attendance. When the witness is subpoenaed at the instance of the
+Department or any officer or employee thereof, such fees shall be paid in
+the same manner as other expenses of the Department, and when the witness
+is subpoenaed at the instance of any other party to any such proceeding,
+the cost of service of the subpoena or subpoena duces tecum and the fee of
+the witness shall be borne by the party at whose instance the witness is
+summoned. In such case the Department, in its discretion, may require a
+deposit to cover the cost of such service and witness fees. A subpoena or
+subpoena duces tecum so issued shall be served in the same manner as a subpoena
+or subpoena duces tecum issued out of a court. Any circuit court of this State, upon the
+application of the Department or any officer or employee thereof, or upon
+the application of any other party to the proceeding, may, in its
+discretion, compel the attendance of witnesses, the production of books,
+papers, records or memoranda and the giving of testimony before the
+Department or any officer or employee thereof conducting an investigation
+or holding a hearing authorized by this Act, by an attachment for contempt,
+or otherwise, in the same manner as production of evidence may be compelled
+before the court. The Department or any officer or employee thereof, or any other party in
+an investigation or hearing before the Department, may cause the
+depositions of witnesses within the State to be taken in the manner
+prescribed by law for like depositions, or depositions for discovery in
+civil actions in courts of this State, and to that end compel the
+attendance of witnesses and the production of books, papers, records or
+memoranda, in the same manner hereinbefore provided.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-587, eff. 8-26-11; 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-8">
+            <num>8</num>
+            <heading>The Department may make, promulgate and enforce such
+reasonable rules and regulations relating to the administration and
+enforcement of this Act as may be deemed expedient</heading>
+            <content>
+              <p>Whenever notice is required by this Act, such notice may be given by
+United States certified or registered mail, addressed to the person concerned at his
+last known address, and proof of such mailing shall be sufficient for the
+purposes of this Act.  Notice of any hearing provided for by this Act and held before the Department shall
+be so given not less than 7 days prior to the day fixed for the hearing. Hearings provided for in this Act, other than hearings before the Illinois Independent Tax Tribunal, shall be held: (1) In Cook County, if the taxpayer's or licensee's principal place of business is in that county; (2) At the Department's office nearest the taxpayer's or licensee's principal place of business, if the taxpayer's or licensee's principal place of business is in Illinois but outside Cook County; (3) In Sangamon County, if the taxpayer's or licensee's principal place of business is outside Illinois. The Circuit Court of the County wherein the hearing is held has
+power to review all final administrative decisions of the Department in
+administering this Act.  The provisions of the Administrative Review Law,
+and all amendments and
+modifications thereof, and the rules adopted pursuant thereto, shall
+apply to and govern all proceedings for the judicial review of final
+administrative decisions of the Department under this Act.  The term
+&quot;administrative decision&quot; is defined as in Section 3-101 of the Code of Civil Procedure. Service upon the Director of Revenue or Assistant Director of Revenue
+of summons issued in any action to review a final
+administrative decision shall be service upon the Department.  The
+Department shall certify the record of its proceedings if the distributor, secondary distributor, retailer, or manufacturer with authority to maintain manufacturer representatives pays to it the sum of 75¢ per page of testimony taken before the Department
+and 25¢ per page of all other matters contained in such record, except that
+these charges may be waived where the Department is satisfied that the aggrieved
+party is a poor person who cannot afford to pay such charges.
+Before the delivery of such record to the person applying for it, payment
+of these charges must be made, and if
+the record is not paid for within 30 days after notice that such record
+is available, the
+complaint may be dismissed by the court upon motion of the Department. No stay order shall be entered by the Circuit Court unless the
+distributor, secondary distributor, retailer, or manufacturer with authority to maintain manufacturer representatives files with the court a bond in an amount fixed and approved by
+the court, to indemnify the State against all loss and injury which may be
+sustained by it on account of the review proceedings and to secure all
+costs which may be occasioned by such proceedings. Whenever any proceeding provided by this Act is begun before the
+Department, either by the Department or by a person subject to this Act,
+and such person thereafter dies or becomes a person under legal disability
+before such
+proceeding is concluded, the legal representative of the deceased person
+or of the person under legal disability shall notify
+the Department of such death or legal disability.
+Such legal representative, as such, shall then be substituted
+by the Department for such person.  If the legal representative fails to
+notify the Department of his or her appointment as such legal representative, the
+Department may, upon its own motion, substitute such legal representative
+in the proceeding pending before the Department for the person who died or
+became a person under legal disability. Hearings to contest an administrative decision under this Act conducted as a result of a protest filed with the Illinois Independent Tax Tribunal on or after July 1, 2013 shall be conducted pursuant to the provisions of the Illinois Independent Tax Tribunal Act of 2012.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-587, eff. 8-26-11; 97-1129, eff. 8-28-12; 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-8a">
+            <num>8a</num>
+            <heading>The Illinois Administrative Procedure Act is hereby expressly
+adopted and shall apply to all administrative rules and procedures of the
+Department of Revenue under this Act, except that (1) paragraph (b) of Section
+5-10 of the Illinois Administrative Procedure Act does not apply to final
+orders, decisions and opinions of the Department, (2) subparagraph (a)2 of
+Section 5-10 of the Illinois Administrative Procedure Act does not apply to
+forms established by the Department for use under this Act, and (3) the
+provisions of Section 10-45 of the Illinois Administrative Procedure Act
+regarding proposals for decision are excluded and not applicable to the
+Department under this Act to the extent Section 10-45 applies to hearings not otherwise subject to the Illinois Independent Tax Tribunal Act of 2012</heading>
+            <content>
+              <p>(Source: P.A. 97-1129, eff. 8-28-12.) (35 ILCS 130/9) (from Ch. 120, par. 453.9) (Text of Section before amendment by P.A. 104-6 )</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9">
+            <num>9</num>
+            <heading>Returns; remittance</heading>
+            <content>
+              <p>Every distributor who is required to procure a license under this Act, but who is not a manufacturer of cigarettes in original packages which are contained in a sealed transparent wrapper, shall, on or before the 15th day of each calendar month, file a return with the Department, showing the quantity of cigarettes manufactured during the preceding calendar month, the quantity of cigarettes brought into this State or caused to be brought into this State from outside this State during the preceding calendar month without authorized evidence on the original packages of such cigarettes underneath the sealed transparent wrapper thereof that the tax liability imposed by this Act has been assumed by the out-of-State seller of such cigarettes, the quantity of cigarettes purchased tax-paid during the preceding calendar month either within or outside this State, the quantity of cigarettes sold by manufacturer representatives on behalf of the distributor, the quantity of cigarettes sold to manufacturer representatives, and the quantity of cigarettes sold or otherwise disposed of during the preceding calendar month. Such return shall be filed upon forms furnished and prescribed by the Department and shall contain such other information as the Department may reasonably require. Information that the Department may reasonably require includes information related to the uniform regulation and taxation of cigarettes. The Department may promulgate rules to require that the distributor's return be accompanied by appropriate computer-generated magnetic media supporting schedule data in the format required by the Department, unless, as provided by rule, the Department grants an exception upon petition of a distributor. Illinois manufacturers of cigarettes in original packages which are contained inside a sealed transparent wrapper shall file a return by the 5th day of each month covering the preceding calendar month. Each such return shall be accompanied by the appropriate remittance for tax as provided in Section 3 of this Act. Each such return shall show the quantity of such cigarettes manufactured during the period covered by the return, the quantity of cigarettes sold or otherwise disposed of during the period covered by the return and such other information as the Department may lawfully require. Information that the Department may lawfully require includes information related to the uniform regulation and taxation of cigarettes. Such returns shall be filed on forms prescribed and furnished by the Department. Each such return shall be accompanied by a copy of each invoice rendered by such manufacturer to any purchaser to whom such manufacturer delivered cigarettes (or caused cigarettes to be delivered) during the period covered by the return. The Department may promulgate rules to require that the manufacturer's return be accompanied by appropriate computer-generated magnetic media supporting schedule data in the format required by the Department, unless, as provided by rule, the Department grants an exception upon petition of a manufacturer.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9">
+            <num>9</num>
+            <heading>Returns; remittance</heading>
+            <content>
+              <p>Every distributor who is required to procure a license under this Act, but who is not a manufacturer of cigarettes in original packages which are contained in a sealed transparent wrapper, shall, on or before the 15th day of each calendar month, file a return with the Department, showing the quantity of cigarettes manufactured during the preceding calendar month, the quantity of cigarettes brought into this State or caused to be brought into this State from outside this State during the preceding calendar month without authorized evidence on the original packages of such cigarettes underneath the sealed transparent wrapper thereof that the tax liability imposed by this Act has been assumed by the out-of-State seller of such cigarettes, the quantity of cigarettes purchased tax-paid during the preceding calendar month either within or outside this State, the quantity of cigarettes sold by manufacturer representatives on behalf of the distributor, the quantity of cigarettes sold to manufacturer representatives, and the quantity of cigarettes sold or otherwise disposed of during the preceding calendar month. Such return shall be filed upon forms furnished and prescribed by the Department and shall contain such other information as the Department may reasonably require. Information that the Department may reasonably require includes information related to the uniform regulation and taxation of cigarettes. All returns and supporting schedules required to be filed under this Section and all payments required to be made under this Section shall be by electronic means in the form prescribed by the Department. Illinois manufacturers of cigarettes in original packages which are contained inside a sealed transparent wrapper shall file a return by the 5th day of each month covering the preceding calendar month. Each such return shall be accompanied by the appropriate remittance for tax as provided in Section 3 of this Act. Each such return shall show the quantity of such cigarettes manufactured during the period covered by the return, the quantity of cigarettes sold or otherwise disposed of during the period covered by the return and such other information as the Department may lawfully require. Information that the Department may lawfully require includes information related to the uniform regulation and taxation of cigarettes. All returns and supporting schedules required to be filed under this Section and all payments required to be made under this Section shall be by electronic means in the form prescribed by the Department. Each such return shall be accompanied by a copy of each invoice rendered by such manufacturer to any purchaser to whom such manufacturer delivered cigarettes (or caused cigarettes to be delivered) during the period covered by the return.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25; 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9a">
+            <num>9a</num>
+            <heading>Examination and correction of returns</heading>
+            <content>
+              <p>(1) As soon as practicable after any return is filed, the
+Department shall examine such return and shall correct such return
+according to its best judgment and information, which return so corrected
+by the Department shall be prima facie correct and shall be prima facie
+evidence of the correctness of the amount of tax due, as shown therein.
+Instead of requiring the distributor to file an amended return, the
+Department may simply notify the distributor of the correction or
+corrections it has made. Proof of such correction by the Department may be
+made at any hearing before the Department or in any legal proceeding by a
+reproduced copy of the Department's record relating thereto in the name of
+the Department under the certificate of the Director of Revenue. Such
+reproduced copy shall, without further proof, be admitted into evidence
+before the Department or in any legal proceeding and shall be prima facie
+proof of the correctness of the amount of tax due, as shown therein. If the
+Department finds that any amount of tax is due from the distributor, the
+Department shall issue the distributor a notice of tax liability for the
+amount of tax claimed by the Department to be due, together with a penalty
+in an amount determined in accordance with Sections 3-3, 3-5 and 3-6 of the
+Uniform Penalty and Interest Act. If, in administering the provisions of
+this Act, comparison of a return or returns of a distributor with the
+books, records and inventories of such distributor discloses a deficiency
+which cannot be allocated by the Department to a particular month or
+months, the Department shall issue the distributor a notice of tax
+liability for the amount of tax claimed by the Department to be due for a
+given period, but without any obligation upon the Department to allocate
+such deficiency to any particular month or months, together with a penalty
+in an amount determined in accordance with Sections 3-3, 3-5 and 3-6 of the
+Uniform Penalty and Interest Act, under which circumstances the aforesaid
+notice of tax liability shall be prima facie correct and shall be prima
+facie evidence of the correctness of the amount of tax due, as shown
+therein; and proof of such correctness may be made in accordance with, and
+the admissibility of a reproduced copy of such notice of tax liability
+shall be governed by, all the provisions of this Act applicable to
+corrected returns. If any distributor filing any return dies or becomes a
+person under legal disability at any time before the Department issues its
+notice of tax liability, such notice shall be issued to the administrator,
+executor or other legal representative, as such, of such distributor. (2) Except as otherwise provided in this Section, if, within 60 days after such notice of tax liability, the
+distributor or his or her legal representative files a protest to such
+notice of tax liability and requests a hearing thereon, the Department shall
+give notice to such distributor or legal representative of the time and place
+fixed for such hearing, and shall hold a hearing in conformity with the
+provisions of this Act, and pursuant thereto shall issue a final assessment
+to such distributor or legal representative for the amount found to be due
+as a result of such hearing. On or after July 1, 2013, protests concerning matters that are subject to the jurisdiction of the  Illinois Independent Tax Tribunal shall be filed in accordance with the Illinois Independent Tax Tribunal Act of 2012, and hearings concerning those matters shall be held before the Tribunal in accordance with that Act.  With respect to protests filed with the Department prior to July 1, 2013 that would otherwise be subject to the jurisdiction of the  Illinois Independent Tax Tribunal, the taxpayer may elect to be subject to the provisions of the Illinois Independent Tax Tribunal Act of 2012 at any time on or after July 1, 2013, but not later than 30 days after the date on which the protest was filed.  If made, the election shall be irrevocable. If a protest to the notice of tax liability
+and a request for a hearing thereon is not filed within the time allowed by law, such notice of tax liability shall become final
+without the necessity of a final assessment being issued and shall be
+deemed to be a final assessment. (3) In case of failure to pay the tax, or any portion thereof, or any
+penalty provided for in this Act, when due, the Department may bring suit
+to recover the amount of such tax, or portion thereof, or penalty; or, if
+the taxpayer dies or becomes incompetent, by filing claim therefor against
+his estate; provided that no such action with respect to any tax, or portion
+thereof, or penalty, shall be instituted more than 2 years after the cause
+of action accrues, except with the consent of the person from whom such tax
+or penalty is due. After the expiration of the period within which the person assessed may
+file an action for judicial review under the Administrative Review Law
+without such an action being filed, a certified copy of the final assessment
+or revised final assessment of the Department may be filed with the Circuit
+Court of the county in which the taxpayer has his or her principal place of
+business, or of Sangamon County in those cases in which the taxpayer does
+not have his principal place of business in this State. The certified copy
+of the final assessment or revised final assessment shall be accompanied by
+a certification which recites facts that are sufficient to show that the
+Department complied with the jurisdictional requirements of the Law in
+arriving at its final assessment or its revised final assessment and that
+the taxpayer had his or her opportunity for an administrative hearing and for
+judicial review, whether he availed himself or herself of either or both of
+these opportunities or not. If the court is satisfied that the Department
+complied with the jurisdictional requirements of the Law in arriving at its
+final assessment or its revised final assessment and that the taxpayer had
+his or her opportunity for an administrative hearing and for judicial review,
+whether he or she availed himself or herself of either or both of
+these opportunities or not, the court shall enter judgment in favor of the
+Department and against the taxpayer for the amount shown to be due by the
+final assessment or the revised final assessment, and such judgment shall
+be filed of record in the court.  Such judgment shall bear the rate of
+interest set in the Uniform Penalty and Interest Act, but otherwise shall
+have the same effect as other judgments.  The judgment may be enforced, and
+all laws applicable to sales for the enforcement of a judgment shall be
+applicable to sales made under such judgments. The Department shall file
+the certified copy of its assessment, as herein provided, with the Circuit
+Court within 2 years after such assessment becomes final except when the
+taxpayer consents in writing to an extension of such filing period. If, when the cause of action for a proceeding in court accrues against a
+person, he or she is out of the State, the action may be commenced within the
+times herein limited, after his or her coming into or return to the State;
+and if, after the cause of action accrues, he or she departs from and
+remains out of the State, the time of his or her absence is no part of the
+time limited for the commencement of the action; but the foregoing
+provisions concerning absence from the State shall not apply to any case in
+which, at the time the cause of action accrues, the party against whom the
+cause of action accrues is not a resident of this State. The time within
+which a court action is to be commenced by the Department hereunder shall
+not run while the taxpayer is a debtor in any proceeding under the Federal
+Bankruptcy Act nor thereafter until 90 days after the Department is
+notified by such debtor of being discharged in bankruptcy. No clai</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-9, eff. 1-1-24 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9b">
+            <num>9b</num>
+            <heading>Failure to file return; penalty; protest</heading>
+            <content>
+              <p>In case any person
+who is required to file a return under this Act
+fails to file such return, the Department shall determine the amount of tax
+due from him according to its best judgment and information, which amount
+so fixed by the Department shall be prima facie correct and shall be prima
+facie evidence of the correctness of the amount of tax due, as shown in
+such determination. Proof of such determination by the Department may be
+made at any hearing before the Department or in any legal proceeding by a
+reproduced copy of the Department's record relating thereto in the name of
+the Department under the certificate of the Director of Revenue. Such
+reproduced copy shall, without further proof, be admitted into evidence
+before the Department or in any legal proceeding and shall be prima facie
+proof of the correctness of the amount of tax due, as shown therein. The
+Department shall issue such person a notice of tax liability for the amount
+of tax claimed by the Department to be due, together with a penalty in
+an amount determined in accordance with Sections 3-3, 3-5 and 3-6 of the
+Uniform Penalty and Interest Act. If such person or the legal representative of
+such person, within 60 days after such notice, files a protest to
+such
+notice of tax liability and requests a hearing thereon, the Department
+shall give notice to such person or the legal representative of such person
+of the time and place fixed for such hearing and shall hold a hearing in
+conformity with the provisions of this Act, and pursuant thereto shall
+issue a final assessment to such person or to the legal representative of
+such person for the amount found to be due as a result of such hearing. Hearings to protest a notice of tax liability issued pursuant to this Section that are conducted as a result of a protest filed with the Illinois Independent Tax Tribunal on or after July 1, 2013 shall be conducted pursuant to the Illinois Independent Tax Tribunal Act of 2012. If
+a protest to the notice of tax liability and a request for a hearing
+thereon is not filed within 60 days after such notice of tax
+liability,
+such notice of tax liability shall become final without the necessity of a
+final assessment being issued and shall be deemed to be a final assessment.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-1129, eff. 8-28-12; 98-463, eff. 8-16-13.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9c">
+            <num>9c</num>
+            <heading>&quot;Transporter&quot; means any person transporting into or within this State original packages of cigarettes that are not tax stamped as required by this Act, except: (a) a person transporting into this State unstamped original packages containing a total of not more than 2,000 cigarettes in any single lot or shipment; (b) a licensed cigarette distributor under this Act; (c) a common carrier; (d) a person transporting cigarettes under federal internal bond or custom control that are non-tax paid under Chapter 52 of the Internal Revenue Code of 1954, as amended; (e) a person engaged in transporting cigarettes to a licensed  distributor under the Illinois Cigarette Tax Act or the Illinois Cigarette Use Tax Act, or under the laws of any other state, and who has in his or her possession during the course of transporting those cigarettes a bill of lading, waybill, or other similar commercial document that was issued by or for a manufacturer of cigarettes who holds a valid permit as a cigarette manufacturer under Chapter 52 of the Internal Revenue Code of 1954, as amended, and that shows that the cigarettes are being transported by or at the direction of that manufacturer to that licensed distributor</heading>
+            <content>
+              <p>Any transporter desiring to possess or acquire for transportation or transport upon the highways, roads, or streets of this State more than 2,000 cigarettes that are not contained in original packages that are Illinois tax stamped shall obtain a permit from the Department authorizing that transporter to possess or acquire for transportation or transport the cigarettes, and he or she shall have the permit in the transporting vehicle during the period of transportation of the cigarettes. The application for the permit shall be in such form and shall contain such information as may be prescribed by the Department. The Department may issue a permit for a single load or shipment or for a number of loads or shipments to be transported under specified conditions. Any cigarettes transported on the highways, roads, or streets of this State under conditions that violate any requirement of this Section, and the vehicle containing those cigarettes, are subject to seizure by the Department, and to confiscation and forfeiture in the same manner as is provided for in Section 18a of this Act. Any person who violates any requirement of this Section is guilty of a Class 4 felony. Any transporter who, with intent to defeat or evade or with intent to aid another to defeat or evade the tax imposed by this Act, at any given time, transports 40,000 or more cigarettes upon the highways, roads, or streets of this State under conditions that violate any requirement of this Section is guilty of a Class 3 felony.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 83-1428; 95-1053, eff. 1-1-10; 96-782, eff. 1-1-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9d">
+            <num>9d</num>
+            <heading>If it appears, after claim therefor filed with the Department,
+that an amount of tax or penalty has been paid which was not due under this
+Act, whether as the result of a mistake of fact or an error of law, except as
+hereinafter provided, then the Department shall issue a credit memorandum
+or refund to the person who made the erroneous payment or, if that person
+has died or become a person under legal disability, to his or her legal
+representative, as such</heading>
+            <content>
+              <p>If it is determined that the Department should issue a credit or refund
+under this Act, the Department may first apply the amount thereof against
+any amount of tax or penalty due under this Act or under the Cigarette Use
+Tax Act from the person entitled to such credit or refund. For this
+purpose, if proceedings are pending to determine whether or not any tax or
+penalty is due under this Act or under the Cigarette Use Tax Act from such
+person, the Department may withhold issuance of the credit or refund
+pending the final disposition of such proceedings and may apply such credit
+or refund against any amount found to be due to the Department under this
+Act or under the Cigarette Use Tax Act as a result of such proceedings. The
+balance, if any, of the credit or refund shall be issued to the person
+entitled thereto. If no tax or penalty is due and no proceeding is pending to determine
+whether such taxpayer is indebted to the Department for tax or penalty, the
+credit memorandum or refund shall be issued to the claimant; or (in the
+case of a credit memorandum) the credit memorandum may be assigned and set
+over by the lawful holder thereof, subject to reasonable rules of the
+Department, to any other person who is subject to this Act or the Cigarette
+Use Tax Act, and the amount thereof shall be applied by the Department
+against any tax or penalty due or to become due under this Act or under the
+Cigarette Use Tax Act from such assignee. As to any claim filed hereunder with the Department on and after each
+January 1 and July 1, no amount of tax or penalty erroneously paid (either
+in total or partial liquidation of a tax or penalty under this Act) more
+than 3 years prior to such January 1 and July 1, respectively, shall be
+credited or refunded, except that if both the Department and the taxpayer
+have agreed to an extension of time to issue a notice of tax liability under
+this Act, the claim may be filed at any time prior to the expiration of the
+period agreed upon. Notwithstanding any other provision of this Act to the contrary, for any period included in a claim for credit or refund for which the statute of limitations for issuing a notice of tax liability under this Act will expire less than 6 months after the date a taxpayer files the claim for credit or refund, the statute of limitations is automatically extended for 6 months from the date it would have otherwise expired. If the Department approves a claim for stamps affixed to a product returned
+to a manufacturer or for replacement of stamps, the credit memorandum shall not
+exceed the face value of stamps originally affixed, and replacement stamps
+shall be issued only in an amount equal to the value of the stamps previously
+affixed.  Higher denomination stamps shall not be issued as replacements for
+lower value stamps.  Distributors must prove the face value of the stamps which
+have been destroyed or returned to manufacturers when filing claims. Any credit or refund that is allowed under this Act shall bear interest
+at the rate and in the manner set forth in the Uniform Penalty and Interest
+Act. In case the Department determines that the claimant is entitled to a
+refund, such refund shall be made only from such appropriation as may be
+available for that purpose. If it appears unlikely that the amount
+appropriated would permit everyone having a claim allowed during the period
+covered by such appropriation to elect to receive a cash refund, the
+Department, by rule or regulation, shall provide for the payment of refunds
+in hardship cases and shall define what types of cases qualify as hardship
+cases. If the Department approves a claim for the physical replacement of
+cigarette tax stamps, the Department (subject to the same limitations as
+those provided for hereinbefore in this Section) may issue an assignable
+credit memorandum or refund to the claimant or to the claimant's legal
+representative. The provisions of Sections 6a, 6b and 6c of the Retailers' Occupation
+Tax Act which are not inconsistent with this Act, shall apply, as far as
+practicable, to the subject matter of this Act to the same extent as if
+such provisions were included herein.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 102-40, eff. 6-25-21.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9e">
+            <num>9e</num>
+            <heading>Secondary distributors; reports</heading>
+            <content>
+              <p>Every secondary distributor who is required to procure a license under this Act shall, on or before the 15th day of each calendar month, file a report with the Department, showing the quantity of cigarettes purchased during the preceding calendar month either within or outside this State, and the quantity of cigarettes sold to retailers or otherwise disposed of during the preceding calendar month. Such reports shall be filed electronically in such form prescribed by the Department and shall contain such other information as the Department may reasonably require. Information that the Department may reasonably require includes information related to the uniform regulation and taxation of cigarettes. The secondary distributor's report shall be accompanied by appropriate computer generated magnetic media supporting schedule data in the format required by the Department, unless, as provided by rule, the Department grants an exception upon petition of a secondary distributor. A certification by the Director of the Department that a report has not been filed, or that information has not been supplied pursuant to the provisions of this Act, shall be prima facie evidence thereof.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9e">
+            <num>9e</num>
+            <heading>Secondary distributors; reports</heading>
+            <content>
+              <p>Every secondary distributor who is required to procure a license under this Act shall, on or before the 15th day of each calendar month, file a report with the Department, showing the quantity of cigarettes purchased during the preceding calendar month either within or outside this State, and the quantity of cigarettes sold to retailers or otherwise disposed of during the preceding calendar month. Such reports shall be filed electronically in such form prescribed by the Department and shall contain such other information as the Department may reasonably require. Information that the Department may reasonably require includes information related to the uniform regulation and taxation of cigarettes. A certification by the Director of the Department that a report has not been filed, or that information has not been supplied pursuant to the provisions of this Act, shall be prima facie evidence thereof.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25; 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9f">
+            <num>9f</num>
+            <heading>Manufacturer representatives; reports</heading>
+            <content>
+              <p>Every manufacturer with authority to maintain manufacturer representatives as defined by Section 4f of this Act shall, on or before the 15th day of each calendar month, file a report with the Department, showing the quantity of cigarettes purchased from licensed distributors during the preceding calendar month, either within or outside this State, and the quantity of cigarettes sold to retailers or otherwise disposed of during the preceding calendar month. Such reports shall be filed in the form prescribed by the Department and shall contain such other information as the Department may reasonably require. Information that the Department may reasonably require includes information related to the uniform regulation and taxation of cigarettes. The report shall be filed electronically and be accompanied by appropriate computer generated magnetic media supporting schedule data in the format required by the Department, unless, as provided by rule, the Department grants an exception upon petition of a manufacturer with authority to maintain manufacturer representatives in this State. A certification by the Director of the Department that a report has not been filed, or that information has not been supplied pursuant to the provisions of this Act, shall be prima facie evidence thereof.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-9f">
+            <num>9f</num>
+            <heading>Manufacturer representatives; reports</heading>
+            <content>
+              <p>Every manufacturer with authority to maintain manufacturer representatives as defined by Section 4f of this Act shall, on or before the 15th day of each calendar month, file a report with the Department, showing the quantity of cigarettes purchased from licensed distributors during the preceding calendar month, either within or outside this State, and the quantity of cigarettes sold to retailers or otherwise disposed of during the preceding calendar month. Such reports shall be filed in the form prescribed by the Department and shall contain such other information as the Department may reasonably require. Information that the Department may reasonably require includes information related to the uniform regulation and taxation of cigarettes. The report and supporting schedules shall be filed electronically in the form prescribed by the Department. A certification by the Director of the Department that a report has not been filed, or that information has not been supplied pursuant to the provisions of this Act, shall be prima facie evidence thereof.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-592, eff. 1-1-25; 104-6, eff. 1-1-26.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-10">
+            <num>10</num>
+            <heading>The Department, or any officer or employee designated in writing
+by the Director thereof, for the purpose of administering and enforcing the
+provisions of this Act, may hold investigations and, except as otherwise provided in the Illinois Independent Tax Tribunal Act of 2012, may hold hearings concerning
+any matters covered by this Act, and may examine books, papers, records or
+memoranda bearing upon the sale or other disposition of cigarettes by a
+distributor, secondary distributor, retailer, manufacturer with authority to maintain manufacturer representatives under Section 4f of this Act, or manufacturer representative, and may issue subpoenas requiring the attendance of a
+distributor, secondary distributor, retailer, manufacturer with authority to maintain manufacturer representatives under Section 4f of this Act, or manufacturer  representative, or any officer or employee of a distributor, secondary distributor, retailer, manufacturer with authority to maintain manufacturer representatives under Section 4f of this Act, or any person
+having knowledge of the facts, and may take testimony and require proof,
+and may issue subpoenas duces tecum to compel the production of relevant
+books, papers, records and memoranda, for the information of the
+Department</heading>
+            <content>
+              <p>All hearings to contest administrative decisions of the Department conducted as a result of a protest filed with the Illinois Independent Tax Tribunal on or after July 1, 2013 shall be subject to the provisions of the Illinois Independent Tax Tribunal Act of 2012. In the conduct of any investigation or hearing provided for by this Act,
+neither the Department, nor any officer or employee thereof, shall be bound
+by the technical rules of evidence, and no informality in the proceedings
+nor in the manner of taking testimony shall invalidate any rule, order,
+decision or regulation made, approved or confirmed by the Department. The Director of Revenue, or any duly authorized officer or employee of
+the Department, shall have the power to administer oaths to such persons
+required by this Act to give testimony before the said Department. The books, papers, records and memoranda of the Department, or parts
+thereof, may be proved in any hearing, investigation or legal proceeding by
+a reproduced copy thereof under the certificate of the Director of Revenue.
+Such reproduced copy shall, without further proof, be admitted into
+evidence before the Department or in any legal proceeding.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-587, eff. 8-26-11; 97-1129, eff. 8-28-12; 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-10a">
+            <num>10a</num>
+            <heading>No person shall be excused from testifying or from producing any
+books, papers, records or memoranda in any investigation or upon any
+hearing, when ordered to do so by the Department or any officer or employee
+thereof, upon the ground that the testimony or evidence, documentary or
+otherwise, may tend to incriminate him or subject him to a criminal
+penalty, but no person shall be prosecuted or subjected to any criminal
+penalty for, or on account of, any transaction made or thing concerning
+which he may testify or produce evidence, documentary or otherwise, before
+the Department or an officer or employee thereof; provided, that such
+immunity shall extend only to a natural person who, in obedience to a
+subpoena, gives testimony under oath or produces evidence, documentary or
+otherwise, under oath</heading>
+            <content>
+              <p>No person so testifying shall be exempt from
+prosecution and punishment for perjury committed in so testifying.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1945, p. 1220.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-10b">
+            <num>10b</num>
+            <heading>All information received by the Department from returns or reports
+filed under this Act, or from any investigation conducted under this
+Act, shall be confidential, except for official purposes, and any person
+who divulges any such information in any manner, except in accordance
+with a proper judicial order or as otherwise provided by law, shall be
+guilty of a Class A misdemeanor</heading>
+            <content>
+              <p>Nothing in this Act prevents the Director of Revenue from publishing
+or making available to the public the names and addresses of persons
+filing returns or reports under this Act, or reasonable statistics concerning the
+operation of the tax by grouping the contents of returns or reports so that the
+information in any individual return or report is not disclosed. Nothing in this Act prevents the Director of Revenue from divulging
+to the United States Government or the government of any other state, or
+any officer or agency thereof, for exclusively official purposes,
+information received by the Department in administering this Act,
+provided that such other governmental agency agrees to divulge requested
+tax information to the Department. The furnishing upon request of the Auditor General, or his authorized
+agents, for official use, of returns or reports filed and information related
+thereto under this Act is deemed to be an official purpose within the
+meaning of this Section. The furnishing of financial information to a home rule unit with a
+population in excess of 2,000,000 that has
+imposed a tax similar to that imposed by this Act under its home rule powers,
+upon request of the Chief Executive of the home rule unit, is an official
+purpose within the meaning of this Section, provided the home rule unit agrees
+in writing to the requirements of this Section. Information so provided is
+subject to all confidentiality provisions of this Section. The written
+agreement shall provide for reciprocity, limitations on access, disclosure,
+and procedures for requesting information. The Director may make available to any State agency, including the
+Illinois Supreme Court, which licenses persons to engage in any occupation,
+information that a person licensed by such agency has failed to file
+returns under this Act or pay the tax, penalty and interest shown therein,
+or has failed to pay any final assessment of tax, penalty or interest due
+under this Act or has failed to file reports under this Act.  An assessment is final when all proceedings in court for
+review of such assessment have terminated or the time for the taking
+thereof has expired without such proceedings being instituted. The Director shall make available for public
+inspection in the Department's principal office and for publication, at cost,
+administrative decisions issued on or after January
+1, 1995. These decisions are to be made available in a manner so that the
+following
+taxpayer or licensee information is not disclosed: (1) The names, addresses, and identification numbers of the taxpayer or licensee, related entities, and employees. (2) At the sole discretion of the Director, trade secrets or other confidential information identified as such by the taxpayer or licensee, no later than 30 days after receipt of an administrative decision, by such means as the Department shall provide by rule. The Director shall determine the
+appropriate extent of the
+deletions allowed in paragraph (2). In the event the taxpayer or licensee does not submit
+deletions,
+the Director shall make only the deletions specified in paragraph (1). The Director shall make available for public inspection and publication an
+administrative decision within 180 days after the issuance of the
+administrative
+decision. The term &quot;administrative decision&quot; has the same meaning as defined in
+Section 3-101 of Article III of the Code of Civil Procedure. Costs collected
+under this Section shall be paid into the Tax Compliance and Administration
+Fund. Nothing contained in this Act shall prevent the Director from divulging
+information to any person pursuant to a request or authorization made by the
+taxpayer or licensee or by an authorized representative of the taxpayer or licensee.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1027, eff. 7-12-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-11">
+            <num>11</num>
+            <heading>Every distributor of cigarettes, who is required to procure a
+license under this Act, shall keep within Illinois, at his licensed
+address, complete and accurate records of cigarettes held, purchased,
+manufactured, brought in or caused to be brought in from without the State,
+and sold, or otherwise disposed of, and shall preserve and keep within
+Illinois at his licensed address all invoices, bills of lading, sales
+records, copies of bills of sale, inventory at the close of each period for
+which a return is required of all cigarettes on hand and of all cigarette
+revenue stamps, both affixed and unaffixed, and other pertinent papers and
+documents relating to the manufacture, purchase, sale or disposition of
+cigarettes</heading>
+            <subsection eId="sec_35-130-11__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>the distributor sells cigarettes only to licensed retailers that are wholly-owned by the distributor or owned by a wholly-owned subsidiary of the distributor; (ii)  the licensed retailer obtains cigarettes only from the distributor requesting the waiver; and (iii) the distributor affixes the tax stamps to the original packages of cigarettes sold to the licensed retailer.  The distributor shall file a written request with the Department, and, if the Department determines that the distributor meets the conditions for a waiver, the Department shall grant the waiver. All books and records and other papers and documents that are
+required by this Act to be kept shall be kept in the English language, and
+shall, at all times during the usual business hours of the day, be subject
+to inspection by the Department or its duly authorized agents and employees.
+The Department may adopt rules that establish requirements, including record
+forms and formats, for records required to be kept and maintained by taxpayers.
+For purposes of this Section, &quot;records&quot; means all data maintained by the
+taxpayer, including data on paper, microfilm, microfiche or any type of
+machine-sensible data compilation. Those books, records, papers and documents
+shall be preserved for a period of at least 3 years after the date of the
+documents, or the date of the entries appearing in the records, unless the
+Department, in writing, authorizes their destruction or disposal at an earlier
+date. At all times during the usual business hours of the day any duly
+authorized agent or employee of the Department may enter any place of business
+of the distributor, without a search warrant, and inspect the premises and the
+stock or packages of cigarettes and the vending devices therein contained, to
+determine whether any of the provisions of this Act are being violated. If such
+agent or employee is denied free access or is hindered or interfered with in
+making such examination as herein provided, the lic</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16; 99-192, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-11a">
+            <num>11a</num>
+            <heading>Secondary distributors; records</heading>
+            <content>
+              <p>Every secondary distributor of cigarettes, who is required to procure a license under this Act, shall keep within Illinois, at his licensed address, complete and accurate records of cigarettes held, purchased, brought in from without the State, and sold, or otherwise disposed of, and shall preserve and keep within Illinois at his licensed address all invoices, bills of lading, sales records, copies of bills of sale, inventory at the close of each period for which a  report is required of all cigarettes on hand, and other pertinent papers and documents relating to the purchase, sale, or disposition of cigarettes. Every sales invoice issued by a secondary distributor to a retailer in this State shall contain the distributor's secondary distributor license number. All books and records and other papers and documents that are required by this Act to be kept shall be kept in the English language, and shall, at all times during the usual business hours of the day, be subject to inspection by the Department or its duly authorized agents and employees. The Department may adopt rules that establish requirements, including record forms and formats, for records required to be kept and maintained by secondary distributors. For purposes of this Section, &quot;records&quot; means all data maintained by the secondary distributors, including data on paper, microfilm, microfiche or any type of machine sensible data compilation. Those books, records, papers, and documents shall be preserved for a period of at least 3 years after the date of the documents, or the date of the entries appearing in the records, unless the Department, in writing, authorizes their destruction or disposal at an earlier date. At all times during the usual business hours of the day any duly authorized agent or employee of the Department may enter any place of business of the secondary distributor without a search warrant and may inspect the premises and the stock or packages of cigarettes therein contained to determine whether any of the provisions of this Act are being violated. If such agent or employee is denied free access or is hindered or interfered with in making such examination as herein provided, the license of the secondary distributor at such premises shall be subject to revocation by the Department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-11b">
+            <num>11b</num>
+            <heading>Manufacturer representatives; records</heading>
+            <content>
+              <p>Every manufacturer with authority to maintain manufacturer representatives under Section 4f of this Act shall keep within Illinois, at his business address identified under Section 4f of this Act, complete and accurate records of cigarettes purchased, sold, or otherwise disposed of, and shall preserve and keep within Illinois at his business address all invoices, sales records, copies of bills of sale, inventory at the close of each period for which a report is required of all cigarettes on hand, and other pertinent papers and documents relating to the purchase, sale, or disposition of cigarettes. Every sales invoice issued by a manufacturer representative to a retailer in this State shall contain the manufacturer's manufacturer representative license number. All books and records and other papers and documents that are required by this Act to be kept shall be kept in the English language, and shall, at all times during the usual business hours of the day, be subject to inspection by the Department or its duly authorized agents and employees. The Department may adopt rules that establish requirements, including record forms and formats, for records required to be kept and maintained by manufacturers with authority to maintain manufacturer representatives under Section 4f of this Act and their manufacturer representatives. For purposes of this Section, &quot;records&quot; means all data maintained by the manufacturers with authority to maintain manufacturer representatives under Section 4f of this Act and their manufacturer representatives, including data on paper, microfilm, microfiche or any type of machine sensible data compilation. Those books, records, papers, and documents shall be preserved for a period of at least 3 years after the date of the documents, or the date of the entries appearing in the records, unless the Department, in writing, authorizes their destruction or disposal at an earlier date. At all times during the usual business hours of the day, any duly authorized agent or employee of the Department may enter any place of business of the manufacturers with authority to maintain manufacturer representatives under Section 4f of this Act and their manufacturer representatives, or inspect any motor vehicle used by a manufacturer representative in the course of business, without a search warrant and may inspect the premises, motor vehicle, and any packages of cigarettes therein contained to determine whether any of the provisions of this Act are being violated. If such agent or employee is denied free access or is hindered or interfered with in making such examination as herein provided, the ability to maintain marketing representatives in Illinois may be withdrawn by the Department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-587, eff. 8-26-11; 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-11c">
+            <num>11c</num>
+            <heading>Retailers; records</heading>
+            <content>
+              <p>Every retailer who is required to procure a license under this Act shall keep within Illinois complete and accurate records of cigarettes purchased, sold, or otherwise disposed of. It shall be the duty of every retail licensee to make sales records, copies of bills of sale, and inventory at the close of each period for which a report is required of all cigarettes on hand available upon reasonable notice for the purpose of investigation and control by the Department. Such records need not be maintained on the licensed premises, but must be maintained in the State of Illinois; however, if access is available electronically, the records may be maintained out of state. However, all original invoices or copies thereof covering purchases of cigarettes must be retained on the licensed premises for a period of 90 days after such purchase, unless the Department has granted a waiver in response to a written request in cases where records are kept at a central business location within the State of Illinois or in cases where records that are available electronically are maintained out of state. The Department may adopt rules that establish requirements, including record forms and formats, for records required to be kept and maintained by the retailer. The Department shall adopt rules regarding the eligibility for a waiver, revocation of a waiver, and requirements and standards for maintenance and accessibility of records located at a central location out-of-State pursuant to a waiver provided under this Section. For purposes of this Section, &quot;records&quot; means all data maintained by the retailer, including data on paper, microfilm, microfiche or any type of machine sensible data compilation. Those books, records, papers, and documents shall be preserved for a period of at least 3 years after the date of the documents, or the date of the entries appearing in the records, unless the Department, in writing, authorizes their destruction or disposal at an earlier date. At all times during the usual business hours of the day, any duly authorized agent or employee of the Department may enter any place of business of the retailer without a search warrant and may inspect the premises to determine whether any of the provisions of this Act are being violated. If such agent or employee is denied free access or is hindered or interfered with in making such examination as herein provided, the license of the retailer shall be subject to suspension or revocation by the Department.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16; 99-192, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-12">
+            <num>12</num>
+            <heading>Every distributor or secondary distributor who is required to procure a license under this
+Act and who purchases cigarettes for shipment into Illinois from a point
+outside this State shall procure invoices in duplicate covering each such
+shipment, shall make the invoices available for inspection upon demand by a duly authorized employee of the Department, and shall, if the Department so requires, furnish one copy of each such invoice to the Department
+at the time of filing a return or a report required by this Act</heading>
+            <content>
+              <p>(Source: P.A. 100-940, eff. 8-17-18.) (35 ILCS 130/13) (from Ch. 120, par. 453.13)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-13">
+            <num>13</num>
+            <heading>Whenever any original package of cigarettes is found in the place
+of business or in the possession of any person who is not a licensed
+distributor under this Act without proper stamps affixed thereto, or an
+authorized substitute therefor imprinted thereon, underneath the sealed
+transparent wrapper of such original package, as required by this Act, the
+prima facie presumption shall arise that such original package of
+cigarettes is kept therein or is held by such person in violation of the
+provisions of this Act</heading>
+            <content>
+              <p>If a presumption is raised, the Department may, in addition to the penalties imposed by Sections 18b and 18c of this Act and any other civil or criminal penalties provided for in this Act, assess tax, penalty, and interest on the original packages of cigarettes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-13a">
+            <num>13a</num>
+            <heading>Contraband cigarettes</heading>
+            <content>
+              <p>Whenever a retailer obtains original packages of cigarettes from an unlicensed in-state or out-of-state distributor or person, a prima facie presumption shall arise that such original packages of cigarettes are contraband and are possessed by such retailer or were possessed by such retailer in violation of the provisions of this Act and subject to the penalties imposed by Sections 18b and 18c of this Act. Invoices or other documents kept in the normal course of business in the possession of a retailer reflecting purchases of original packages of cigarettes from an unlicensed in-state or out-of-state distributor or person or invoices or other documents kept in the normal course of business obtained by the Department from an in-state or out-of-state distributor or person, are sufficient to raise the presumption that such original packages of cigarettes are contraband and are possessed, or were possessed, by such retailer in violation of the provisions of this Act and the retailer is subject to the penalties imposed by Sections 18b and 18c. If a presumption is raised, the Department may, in addition to the penalties imposed by Sections 18b and 18c and any other civil or criminal penalties provided for in this Act, assess tax, penalty, and interest on the original packages of cigarettes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-14">
+            <num>14</num>
+            <heading>Any person required by this Act to keep records of any kind whatsoever,
+who shall fail to keep the records so required or who shall falsify such
+records, shall be guilty of a Class 4 felony</heading>
+            <content>
+              <p>If a person fails to produce the records for inspection by the Department upon request, a prima facie presumption shall arise that the person has failed to keep the records so required. A person who is unable to rebut this presumption is in violation of this Act and is subject to the penalties provided in this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-15">
+            <num>15</num>
+            <heading>Any person who shall fail to safely maintain and preserve the records required
+by Sections 11, 11a, 11b, and 11c of this Act for the period of 3 years, as required therein,
+in such manner as to insure permanency and accessibility for inspection by the
+Department, shall be guilty of a business offense and may be fined up to
+$5,000</heading>
+            <content>
+              <p>(Source: P.A. 100-940, eff. 8-17-18.) (35 ILCS 130/15a)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-15a">
+            <num>15a</num>
+            <heading>Failure to keep or produce books and records</heading>
+            <content>
+              <p>Any person who fails to keep books and records or fails to produce books and records for inspection, as required by Sections 11, 11a, 11b, and 11c of this Act, is liable to pay to the Department, for deposit in the Tax Compliance and Administration Fund, a penalty of $1,000 for the first failure to keep books and records or failure to produce books and records for inspection, as required by Sections 11, 11a, 11b, and 11c, and $3,000 for each subsequent failure to keep books and records or failure to produce books and records for inspection, as required by Sections 11, 11a, 11b, and 11c. The Department may adopt rules to administer the penalties under this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-16">
+            <num>16</num>
+            <heading>All legal proceedings under this Act, whether civil or criminal,
+shall be instituted and prosecuted by the Attorney General or by the State's
+Attorney for the county in which an offense under this Act is committed, and
+all civil actions may be brought in the name of the Department of Revenue</heading>
+            <content>
+              <p>(Source: P.A. 88-88.) (35 ILCS 130/18) (from Ch. 120, par. 453.18)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 88-88.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-18">
+            <num>18</num>
+            <heading>Any duly authorized employee of the Department may arrest without
+warrant any person committing in his presence a violation of any of the
+provisions of this Act, and may without a search warrant inspect all cigarettes
+located in any place of business and seize any
+original packages of contraband cigarettes and any vending device in which such packages may be
+found, and such original packages or vending devices so seized shall be
+subject to confiscation and forfeiture as hereinafter provided</heading>
+            <content>
+              <p>(Source: P.A. 96-782, eff. 1-1-10.) (35 ILCS 130/18a) (from Ch. 120, par. 453.18a)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-782, eff. 1-1-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-18a">
+            <num>18a</num>
+            <heading>After seizing any original packages of cigarettes, or cigarette vending devices, as provided in Section 18 of this Act, the Department shall hold a hearing and shall determine whether such original packages of cigarettes, at the time of their seizure by the Department, were contraband cigarettes, or whether such cigarette vending devices, at the time of their seizure by the Department, contained original packages of contraband cigarettes</heading>
+            <content>
+              <p>The Department is not required to hold such a hearing if a waiver and consent to forfeiture has been executed by the owner of the property, if the owner is known, and by the person in whose possession the property so taken was found, if that person is known and if that person is not the owner of the property. The Department shall give not less than 7 days' notice of the time and place of such hearing to the owner of such property if the owner is known, and also to the person in whose possession the property so taken was found, if such person is known and if such person in possession is not the owner of said property. In case neither the owner nor the person in possession of such property is known, the Department shall cause publication of the time and place of such hearing to be made at least once in each week for 3 weeks successively in a newspaper of general circulation in the county where such hearing is to be held. If, as the result of such hearing, the Department shall determine that the original packages of cigarettes seized were at the time of seizure contraband cigarettes, or that any cigarette vending device at the time of its seizure contained original packages of contraband cigarettes, or upon receipt of a properly executed waiver and consent to forfeiture as provided in this Section, the Department shall enter an order declaring such original packages of cigarettes or such cigarette vending devices confiscated and forfeited to the State, and to be held by the Department for disposal by it as provided in Section 21 of this Act. The Department shall give notice of such order to the owner of such property if the owner is known, and also to the person in whose possession the property so taken was found, if such person is known and if such person in possession is not the owner of said property. In case neither the owner nor the person in possession of such property is known, the Department shall cause publication of such order to be made at least once in each week for 3 weeks successively in a newspaper of general circulation in the county where such hearing was held.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 103-1001, eff. 8-9-24.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-18b">
+            <num>18b</num>
+            <heading>Possession of more than 100 original packages of contraband cigarettes; penalty</heading>
+            <content>
+              <p>With the exception of licensed distributors and transporters, as defined in Section 9c of this Act, possessing unstamped original packages of cigarettes, and licensed distributors possessing original packages of cigarettes that bear a tax stamp of another state or taxing jurisdiction, anyone possessing
+or having possessed contraband cigarettes contained in original packages is liable
+to pay, to the Department for deposit in the Tax Compliance and Administration Fund, a penalty of
+$25 for each such package of cigarettes in excess of 100 packages, unless reasonable cause can be established by the person upon whom the penalty is imposed.  This penalty is in addition to the taxes imposed by this Act.  Reasonable cause shall be determined in each situation in accordance with rules adopted by the Department.  The provisions of the Uniform Penalty and Interest Act do not apply to this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-18c">
+            <num>18c</num>
+            <heading>Possession of
+not less than 10 and not
+more than
+100 original packages of contraband cigarettes; penalty</heading>
+            <content>
+              <p>With the exception of licensed distributors and transporters, as defined in Section 9c of this Act, possessing unstamped original packages of cigarettes, and licensed distributors possessing original packages of cigarettes that bear a tax stamp of another state or taxing jurisdiction,
+anyone possessing or having possessed
+not less than 10
+and not more than 100 packages of
+contraband cigarettes contained in original packages is
+liable to pay to the Department, for deposit into the Tax Compliance and
+Administration Fund, a penalty of $15 
+for each such package of
+cigarettes, unless reasonable cause can be established by the person upon whom
+the penalty is imposed.  Reasonable cause shall be determined in each situation
+in accordance with rules adopted by the Department. The provisions of the Uniform Penalty and Interest Act do not apply to this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-18d">
+            <num>18d</num>
+            <heading>Cigarette package sizes; sale of individual or loose cigarettes prohibited</heading>
+            <content>
+              <p>Cigarettes may only be sold in packages of 20 or 25 cigarettes. The sale of individual or loose cigarettes is prohibited. Any person who violates this Section of the Act is liable to pay to the Department, for deposit in the Tax Compliance and Administration Fund, a penalty of $1,000 for the first violation and $3,000 for any subsequent violation. Any person who violates this Section shall be guilty of a Class 4 felony. The Department may adopt rules to administer the penalties under this Section.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 100-940, eff. 8-17-18.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-20">
+            <num>20</num>
+            <heading>Whenever any peace officer of the State or any duly authorized
+officer or employee of the Department shall have reason to believe that any
+violation of this Act has occurred and that the person so violating the
+Act has in his, her or its possession any original package of contraband cigarettes,
+ or any vending device
+containing such original packages of contraband cigarettes, he may file or cause to be filed his complaint in
+writing, verified by affidavit, with any court within whose jurisdiction
+the premises to be searched are situated, stating the facts upon which such
+belief is founded, the premises to be searched, and the property to be
+seized, and procure a search warrant and execute the same</heading>
+            <content>
+              <p>Upon the
+execution of such search warrant, the peace officer, or officer or employee
+of the Department, executing such search warrant shall make due return
+thereof to the court issuing the same, together with an inventory of the
+property taken thereunder. The court shall thereupon issue process against
+the owner of such property if he is known; otherwise, such process shall be
+issued against the person in whose possession the property so taken is
+found, if such person is known. In case of inability to serve such process
+upon the owner or the person in possession of the property at the time of
+its seizure, as hereinbefore provided, notice of the proceedings before the
+court shall be given as required by the statutes of the State governing
+cases of Attachment. Upon the return of the process duly served or upon the
+posting or publishing of notice made, as hereinabove provided, the court or
+jury, if a jury shall be demanded, shall proceed to determine whether or
+not such property so seized was held or possessed in violation of this Act,
+or whether, if a vending device has been so seized, it contained at the
+time of its seizure original packages of contraband cigarettes. In case of a finding that the original packages
+seized were contraband cigarettes, or that any vending device so seized contained at
+the time of its seizure original packages of contraband cigarettes, judgment shall be entered
+confiscating and forfeiting the property to the State and ordering its
+delivery to the Department, and in addition thereto, the court shall have
+power to tax and assess the costs of the proceedings. When any original packages or any cigarette vending device shall have
+been declared forfeited to the State by any court, as hereinbefore
+provided, and when such confiscated and forfeited property shall have been
+delivered to the Department, as provided in this Act, the said Department
+shall destroy or maintain and use such property in an undercover capacity. The Department may, prior to any destruction of cigarettes, permit the true holder of the trademark rights in the cigarette brand to inspect such contraband cigarettes, in order to assist the Department in any investigation regarding such cigarettes.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 95-1053, eff. 1-1-10; 96-782, eff. 1-1-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-21">
+            <num>21</num>
+            <heading>Destruction or use of forfeited property</heading>
+            <subsection eId="sec_35-130-21__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When any original packages of cigarettes or
+any cigarette vending device shall have been declared forfeited to the State by
+the Department, as provided in Section 18a of this Act, and when all proceedings
+for the judicial review of the Department's decision have terminated, the
+Department shall, to the extent that its decision is sustained on review, destroy or maintain and use such property in an undercover capacity.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-21__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The Department may, prior to any destruction of cigarettes, permit the true holder of the trademark rights in the cigarette brand to inspect such contraband cigarettes in order to assist the Department in any investigation regarding such cigarettes.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-776, eff. 5-19-06; 95-1053, eff. 1-1-10 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-22">
+            <num>22</num>
+            <heading>Any person who (a) falsely or fraudulently makes, forges, alters
+or counterfeits any stamp provided for herein, (b) causes or procures to be
+falsely or fraudulently made, forged, altered or counterfeited any such
+stamp, (c) knowingly and wilfully utters, publishes, passes or tenders as
+genuine any such false, altered, forged or counterfeited stamp, (d) falsely
+or fraudulently makes, forges, alters or counterfeits any tax imprint on an
+original package of cigarettes inside a sealed transparent wrapper, (e)
+causes or procures falsely or fraudulently to be made, forged, altered or
+counterfeited any such tax imprint or (f) knowingly and wilfully utters,
+publishes, passes or tenders as genuine any such false, altered, forged or
+counterfeited tax imprint, for the purpose of evading the tax imposed by
+this Act shall be guilty of a Class 2 felony</heading>
+            <content>
+              <p>(Source: P.A. 83-1428.) (35 ILCS 130/23) (from Ch. 120, par. 453.23)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 83-1428.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-23">
+            <num>23</num>
+            <heading>Every distributor, secondary distributor, retailer, manufacturer with authority to maintain manufacturer representatives under Section 4f of this Act and their manufacturer representatives, or other person who shall knowingly and wilfully
+sell or offer for sale any original package, as defined in this Act,
+having affixed thereto any fraudulent, spurious, imitation or counterfeit
+stamp, or stamp which has been previously affixed, or affixes a stamp which
+has previously been affixed to an original package, or who shall knowingly
+and wilfully sell or offer for sale any original package, as defined in
+this Act, having imprinted thereon underneath the sealed transparent
+wrapper thereof any fraudulent, spurious, imitation or counterfeit tax
+imprint, shall be deemed guilty of a Class 2 felony</heading>
+            <content>
+              <p>(Source: P.A. 97-587, eff. 8-26-11; 98-1055, eff. 1-1-16 .) (35 ILCS 130/24) (from Ch. 120, par. 453.24)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 97-587, eff. 8-26-11; 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-24">
+            <num>24</num>
+            <heading>Punishment for sale or possession of packages of contraband cigarettes</heading>
+            <subsection eId="sec_35-130-24__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Possession or sale of 100 or less packages of contraband cigarettes.  With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of this Act, any person who has in his or her possession or sells 100 or less original packages of contraband cigarettes is guilty of a Class A misdemeanor and a Class 4 felony for each subsequent offense occurring within 12 months of a prior offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Possession or sale of more than 100 but less than 251 packages of contraband cigarettes.  With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of this Act, any person who has in his or her possession or sells more than 100 but less than 251 original packages of contraband cigarettes is guilty of a Class A misdemeanor for a first offense and a Class 4 felony for each subsequent offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Possession or sale of more than 250 but less than 1,001  packages of contraband cigarettes.  With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of this Act, any person who has in his or her possession or sells more than 250 but less than 1,001 original packages of contraband cigarettes is guilty of a Class 4 felony.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Possession or sale of more than 1,000 packages of contraband cigarettes.  With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of this Act, any person who has in his or her possession or sells more than 1,000 original packages of contraband cigarettes is guilty of a Class 3  felony.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Any person licensed as a distributor, secondary distributor, or transporter, as defined in Section 9c of this Act, who has in his or her possession or sells 100 or less original packages of contraband cigarettes is guilty of a Class A misdemeanor and a Class 4 felony for each subsequent offense occurring within 12 months of a prior offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Any person licensed as a distributor, secondary distributor, or transporter, as defined in Section 9c of this Act, who has in his or her possession or sells more than 100 original packages of contraband cigarettes is guilty of a Class 4 felony.</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>through</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of this Section, a retailer unknowingly possessing contraband cigarettes obtained from a licensed distributor or licensed secondary distributor or knowingly possessing contraband cigarettes obtained from a licensed distributor is not subject to penalties under this Section if the retailer, within 48 hours after discovering that the cigarettes are contraband cigarettes, excluding Saturdays, Sundays, and holidays:</p>
+              </content>
+            </subsection>
+            <subsection eId="sec_35-130-24__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>notifies the Department and the licensed distributor or licensed secondary distributor from whom the cigarettes were obtained, orally and in writing, that he or she possesses contraband cigarettes obtained from a licensed distributor or licensed secondary distributor; (ii) places the contraband cigarettes in one or more containers and seals those containers; and (iii) places on the containers the following or similar language:  &quot;Contraband Cigarettes. Not For Sale.&quot;  All contraband cigarettes in the possession of a retailer remain subject to forfeiture under the provisions of this Act. Any retailer who knowingly possesses packages of cigarettes with a counterfeit stamp with intent to sell is guilty of a Class 2 felony. Any retailer who knowingly possesses unstamped packages of cigarettes with intent to sell is guilty of a Class 4 felony. A retailer shall not be liable for unknowingly possessing, selling, or distributing to consumers cigarettes that contain an old stamp if the correct tax was collected at the point of sale and the cigarettes were obtained from a distributor licensed under this Act.</p>
+              </content>
+            </subsection>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-25">
+            <num>25</num>
+            <heading>Any person, or any officer, agent or employee of any person,
+required by this Act to make, file, render, sign or verify any report or
+return, who makes any false or fraudulent report or return or files any false or
+fraudulent report or return, or who shall fail to make such report or return or file such
+report or return when due, shall be guilty of a Class 4 felony</heading>
+            <content>
+              <p>(Source: P.A. 96-1027, eff. 7-12-10.) (35 ILCS 130/26) (from Ch. 120, par. 453.26)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-1027, eff. 7-12-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-26">
+            <num>26</num>
+            <heading>Whoever acts as a distributor, secondary distributor, retailer, or manufacturer representative of original packages without having
+a license, as required by this Act, shall be guilty of a Class 4 felony</heading>
+            <content>
+              <p>(Source: P.A. 98-1055, eff. 1-1-16 .) (35 ILCS 130/27) (from Ch. 120, par. 453.27)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 98-1055, eff. 1-1-16 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-27">
+            <num>27</num>
+            <heading>Any costs which may be assessed by the court upon the final
+determination of any confiscation proceedings as provided for by this Act,
+may be paid by the Department out of any appropriations provided by the
+legislature for operating expenses of the Department</heading>
+            <content>
+              <p>(Source: Laws 1965, p. 3707.) (35 ILCS 130/28) (from Ch. 120, par. 453.28)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1965, p. 3707.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-28">
+            <num>28</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: Laws 1941, vol. 1, p. 1043.  Repealed by P.A. 95-1053, eff. 1-1-10 .) (35 ILCS 130/28a)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1941, vol. 1, p. 1043.  Repealed by P.A. 95-1053, eff. 1-1-10 .</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-28a">
+            <num>28a</num>
+            <heading>If, at the time of terminating his or her business, any licensed distributor has on hand unused stamps, the distributor or his or her legal representative may, after Department approval, transfer or sell those unused stamps to another distributor licensed under this Act</heading>
+            <content>
+              <p>The transferring distributor, or his or her legal representative, shall report to the Department in writing an intention to so sell or transfer the stamps and the name and address of the distributor to whom the sale or transfer is to be made, together with the total of the face amount of each denomination of stamps to be so sold or transferred.  The Department shall approve or disapprove the requested transfer within 48 hours after receiving the report.  Approval shall be deemed granted if not received by the distributor within 5 business days after the Department's receipt of the report.</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 96-782, eff. 1-1-10.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-29">
+            <num>29</num>
+            <heading>(Repealed)</heading>
+            <content>
+              <p>(Source: P.A. 94-91, eff. 7-1-05. Repealed by P.A. 101-31, eff. 6-28-19.) (35 ILCS 130/29.5) Sec. 29.5. Rulemaking. Rulemaking authority to implement this amendatory Act of the 95th General Assembly, if any, is conditioned on the rules being adopted in accordance with all provisions of the Illinois Administrative Procedure Act and all rules and procedures of the Joint Committee on Administrative Rules; any purported rule not so adopted, for whatever reason, is unauthorized. (Source: P.A. 95-1053, eff. 1-1-10 .) (35 ILCS 130/30) (from Ch. 120, par. 453.30)</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: P.A. 94-91, eff. 7-1-05. Repealed by P.A. 101-31, eff. 6-28-19.</p>
+            </authorialNote>
+          </section>
+          <section eId="sec_35-130-30">
+            <num>30</num>
+            <heading>This Act shall be known as the &quot;Cigarette Tax Act,&quot; and may be
+referred to by that designation</heading>
+            <content>
+              <p>(Source: Laws 1945, p. 1220.) This site is maintained for the Illinois General Assembly by the
+                        Legislative Information System, 705 Stratton Building, Springfield, Illinois 627</p>
+            </content>
+            <authorialNote marker="source">
+              <p>Source: Laws 1945, p. 1220.</p>
+            </authorialNote>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
